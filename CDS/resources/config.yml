@@ -1,0 +1,31 @@
+text:
+    base: TextFiles
+    original:
+        base: Original
+        dialogue:
+            base: Dialogue
+            book_of_biracul:
+                base: BookOfBiracul
+                empyrean: BIRACUL_THE_EMPYREAN
+            book_of_eidos:
+                base: BookOfEidos
+                canyon: EIDOS_CANYON
+                dawn_fortress: EIDOS_DAWN_FORTRESS
+                dazir: EIDOS_DAZIR
+                sanctuary: EIDOS_SANCTUARY
+                tambul: EIDOS_TAMBUL
+                urruk: EIDOS_URRUK
+                wasteland: EIDOS_WASTELAND
+                wellspring: EIDOS_WELLSPRING
+                wilderness: EIDOS_WILDERNESS
+        misc:
+            base: Misc
+        multichecker:
+            base: Multicheckers
+        non_dialogue_text:
+            base: NonDialogueText
+        structural:
+            base: Structural
+        Templates:
+            base: Templates
+    

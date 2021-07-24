@@ -1,5 +1,6 @@
 package cds;
 
+import cds.config.ConfigManager;
 import cds.entities.AreaDialogue;
 import cds.entities.GameData;
 import cds.entities.DialogueProcessor;
@@ -36,6 +37,7 @@ public class CDS {
 	}
 	
 	public static void main(String[] args) {
+		ConfigManager configManager = new ConfigManager();
 		String saveGameFilepath = ".\\bin\\testData\\test.txt";
 		CDS cds = new CDS(saveGameFilepath);
 	}

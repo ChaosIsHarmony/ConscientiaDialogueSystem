@@ -1,11 +1,12 @@
 package cds.io;
 
+import java.io.FileNotFoundException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class DesktopFileIO implements FileIO {
 
-	public String readFileToString(String filepath) throws Exception {
+	public String readFileToString(String filepath) throws FileNotFoundException {
 		try {
 			String fileData = new String(Files.readAllBytes(Paths.get(filepath)));
 			return fileData;
