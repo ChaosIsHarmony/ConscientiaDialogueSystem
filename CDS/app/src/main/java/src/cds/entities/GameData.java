@@ -1,6 +1,6 @@
 package cds.entities;
 
-import cds.parsers.Parser;
+import cds.parsers.IParser;
 import cds.parsers.ParserFactory;
 
 public class GameData {

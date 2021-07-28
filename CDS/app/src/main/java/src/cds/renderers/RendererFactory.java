@@ -2,7 +2,7 @@ package cds.renderers;
 
 public class RendererFactory {
 
-	public static Renderer createRenderer() {
+	public static IRenderer createRenderer() {
 		return new ConsoleRenderer();
 	}
 }

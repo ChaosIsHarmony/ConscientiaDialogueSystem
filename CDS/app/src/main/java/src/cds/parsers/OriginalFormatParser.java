@@ -3,9 +3,9 @@ package cds.parsers;
 import cds.entities.Area;
 import cds.entities.AreaDialogue;
 import cds.entities.GameData;
-import cds.io.FileIO;
+import cds.io.IFileIO;
 
-public class OriginalFormatParser implements Parser {
+public class OriginalFormatParser implements IParser {
 
 	public AreaDialogue parseAreaDialogueFile(String filepath) {
 		try {

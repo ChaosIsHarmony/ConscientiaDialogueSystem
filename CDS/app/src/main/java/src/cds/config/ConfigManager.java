@@ -1,13 +1,13 @@
 package cds.config;
 
-import cds.io.FileIO;
+import cds.io.IFileIO;
 import cds.io.FileIOFactory;
 
 import org.json.simple.JSONObject;
 
 public class ConfigManager {
 		
-	Config config;
+	IConfig config;
 	final String CONFIG_FILENAME = "config.json";
 	
 	public ConfigManager() {
@@ -15,7 +15,7 @@ public class ConfigManager {
 	}
 		
 	private void loadConfiguration() {
-		FileIO fileio = FileIOFactory.createFileIO();
+		IFileIO fileio = FileIOFactory.createFileIO();
 		try {
 			JSONObject configData = fileio.readJsonFileToJsonObject(CONFIG_FILENAME);
 			config = ConfigFactory.createConfig();

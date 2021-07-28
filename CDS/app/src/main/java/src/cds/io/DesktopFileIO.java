@@ -9,7 +9,7 @@ import java.net.URL;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.JSONObject;
 
-public class DesktopFileIO implements FileIO {
+public class DesktopFileIO implements IFileIO {
 	
 	public JSONObject readJsonFileToJsonObject(String filename) throws FileNotFoundException {
 		try {

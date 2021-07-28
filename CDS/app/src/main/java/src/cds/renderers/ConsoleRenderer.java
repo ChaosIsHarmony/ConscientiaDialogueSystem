@@ -1,6 +1,6 @@
 package cds.renderers;
 
-public class ConsoleRenderer implements Renderer {
+public class ConsoleRenderer implements IRenderer {
 
 	public ConsoleRenderer() {
 	}

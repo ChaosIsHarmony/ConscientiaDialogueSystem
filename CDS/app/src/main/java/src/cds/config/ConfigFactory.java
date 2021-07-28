@@ -2,7 +2,7 @@ package cds.config;
 
 public class ConfigFactory {
 
-	public static Config createConfig() {
+	public static IConfig createConfig() {
 		// TODO 
 		return new ConscientiaConfig();
 	}
