@@ -26,3 +26,11 @@ application {
     // Define the main class for the application.
     mainClass = 'cds.Main'
 }
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'cds.Main'
+        )
+    }
+}
