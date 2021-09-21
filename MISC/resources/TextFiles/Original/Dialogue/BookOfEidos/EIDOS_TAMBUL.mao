@@ -12,7 +12,7 @@ ARCHIVES
 
 	[/KABU!TAMBUL!ARCHIVES!0.000!DESCRIPTION!]
 		||
-		*The austerity of this building's exterior does not mislead: as without, so within. Before her is a single great hall, nearly unadorned and filled solely with shelves of tomes and rows of copying desks. While the vaulted ceiling is impressive, no intricate designs detail its supports.* 
+		*The austerity of this building's exterior does not mislead: as without, so within. Before her is a single great hall, nearly unadorned and filled solely with shelves of tomes and rows of copying desks. While the vaulted ceiling is impressive, no intricate designs detail its supports.*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.001!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!0.000!DESCRIPTION!/]
 
@@ -35,13 +35,13 @@ ARCHIVES
 		*Two people seem approachable: a grim-looking woman pacing the area with the bearing of authority; and the other, in contrast, is a bright-eyed, younger woman, sitting before a stack of freshly minted leather-bound volumes.*
 		(A#Talk to the bright-eyed copyist){A:0,KABU!TAMBUL!ARCHIVES!9999.X0105!DESCRIPTION!}
 		(B#Talk to the severe looking Librarian){B:0,KABU!TAMBUL!ARCHIVES!9999.X0106!DESCRIPTION!}
-	[KABU!TAMBUL!ARCHIVES!0.X010!DESCRIPTION!/]	
+	[KABU!TAMBUL!ARCHIVES!0.X010!DESCRIPTION!/]
 
 >>>Tambul Torma tome acquired (13800)<<<
 	[/KABU!TAMBUL!ARCHIVES!0.X100!DESCRIPTION!]
 		|^13800:KABU!TAMBUL!ARCHIVES!0.100!DESCRIPTION!|
 		*Eidos strolls around the Archives, from shelf to shelf and tome to tome. Yet, with so much of the space occupied by the tree, it seems as though there is a relative poverty of written resources in this place. Many of the shelves lie empty and Eidos estimates that only roughly half the space is being filled with tomes.
-		
+
 		During her exploration, she also finds hints of a storied past when the Archives were alive with decorations. The now all but barren walls, were clearly once painted with murals that have faded with the passage of time. Large swathes have been completely erased, but here and there a splash of color or a fleck of gilding betrays their former glory.*
 		(A#Search through the tomes){A:0,KABU!TAMBUL!ARCHIVES!0.X300!DESCRIPTION!}
 		(B#Return to the entrance){B:0,KABU!TAMBUL!ARCHIVES!0.X000!DESCRIPTION!}
@@ -51,7 +51,7 @@ ARCHIVES
 	[/KABU!TAMBUL!ARCHIVES!0.100!DESCRIPTION!]
 		||
 		*Eidos strolls around the Archives, from shelf to shelf and tome to tome. Yet, with so much of the space occupied by the tree, it seems as though there is a relative poverty of written resources in this place. Many of the shelves lie empty and Eidos estimates that only roughly half the space is being filled with tomes. Having sifted through the tomes previously, she likewise knows that none are of any interest to her.
-		
+
 		During her exploration, she also finds hints of a storied past when the Archives were alive with decorations. The now all but barren walls, were clearly once painted with murals that have faded with the passage of time. Large swathes have been completely erased, but here and there a splash of color or a fleck of gilding betrays their former glory.*
 		(A#Return to the entrance){A:0,KABU!TAMBUL!ARCHIVES!0.X000!DESCRIPTION!}
 		(B#Examine the art on the wall){B:0,KABU!TAMBUL!ARCHIVES!9990.X13124!DESCRIPTION!}
@@ -63,13 +63,13 @@ find secret chamber
 		*Eidos finds herself alone in an isolated corner of the Archives as she begins to inspect the art.*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.102!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!0.101!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.102!DESCRIPTION!]
 		||
 		*Her eyes lock onto one of the more intact murals. At first, it appears to be a stylistic representation of the massive tree dominating this very hall. Yet, there are a great number of differences both subtle and profane. In the faded fresco, the tree's roots are visible, seeming to sprout from the body of a woman buried beneath the tree. Red veins run through the roots, up the trunk, and blossom forth from the branches as crimson leaves. These stand in contrast to the silvered foliage of the Archives' own tree.*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.X103!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!0.102!DESCRIPTION!/]
-	
+
 >>>Learned Awareness glyph (12400)<<<
 	[/KABU!TAMBUL!ARCHIVES!0.X103!DESCRIPTION!]
 		|^12400:KABU!TAMBUL!ARCHIVES!0.200!DESCRIPTION!|
@@ -88,7 +88,7 @@ find secret chamber
 		*Yet, Eidos stares with greater focus and greater resolve, to know the unknowable. Hiding within the fresco, she begins to parse the faint outlines of shapes drawn in a colorless ink. It looks as though there are a great number of them, working their way from the roots of the tree to the bleached halo atop it. Many of them are unrecognizable, but all feel familiar, kindred. However, only one speaks to her directly; superimposed over the white halo is the Glyph of Awareness, with which her Sigil of the same name now resonates.*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.X202!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!0.201!DESCRIPTION!/]
-	
+
 >>>Tambul Torma tome acquired (13800)<<<
 	[/KABU!TAMBUL!ARCHIVES!0.X202!DESCRIPTION!]
 		|^13800:KABU!TAMBUL!ARCHIVES!0.203!DESCRIPTION!|
@@ -145,7 +145,7 @@ secret chamber crystal exploded
 		*Approaching the venue, Eidos witnesses a sea of onlookers surrounding the smoking ruins of the Archives. A row of guards shield the place, barring all unwanted elements from accessing the mound of rubble.*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!10.X001!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!10.000!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!10.X001!DESCRIPTION!]
 		|@:KABU!TAMBUL!ARCHIVES!10.002!DESCRIPTION!|
 		*Murmurs of speculation can be heard all about as to how this might have occurred. "Famlicus" and "Tacribian saboteur" are the most frequently heard terms. But then, Eidos singles in on a nearby conversation between a youth and his elder...*
@@ -158,20 +158,20 @@ secret chamber crystal exploded
 		*As she listens to the conversation, she becomes aware that some of the crowd have slowly turned around to take notice of her presence. The hackles on her neck rise as she realizes they are not merely looking at her, but rather at someone right behind her...*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!9999.X0013!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!10.002!DESCRIPTION!/]
-	
+
 came back before after the explosion
 	[/KABU!TAMBUL!ARCHIVES!15.000!DESCRIPTION!]
 		||
 		*Approaching the venue, Eidos now sees that the smoke has died down to isolate tendrils emanating from the smoldering ruins of the Archives. A row of guards yet shield the place, barring all unwanted elements from accessing the mound of rubble. Only a few stragglers remain to see the rescue efforts of the Tambulan guard, desperately moving cracked blocks of reddish stone and calling out to those possibly trapped beneath.*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!15.001!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!15.000!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!15.001!DESCRIPTION!]
 		||
 		*As she attempts to peek past the guards, she sees their focus now lies firmly on her, though somehow seeming to stare right through her to something beyond. The hackles on her neck rise as she realizes they are not merely looking at her, but rather at someone right behind her...*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!9999.X0013!DESCRIPTION!}
-	[KABU!TAMBUL!ARCHIVES!15.001!DESCRIPTION!/]	
-	
+	[KABU!TAMBUL!ARCHIVES!15.001!DESCRIPTION!/]
+
 
 killed someone in the area
 	[/KABU!TAMBUL!ARCHIVES!0099.000!DESCRIPTION!]
@@ -180,7 +180,7 @@ killed someone in the area
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!9992.X0013!PAKAHRON!}
 	[KABU!TAMBUL!ARCHIVES!0099.000!DESCRIPTION!/]
 
-Pakahron dead	
+Pakahron dead
 	[/KABU!TAMBUL!ARCHIVES!999.X000!DESCRIPTION!]
 		|^12302:KABU!TAMBUL!ARCHIVES!999.100!DESCRIPTION!|
 		*The battle has taken its toll on Eidos. Having exerted her Falseflesh far beyond its limits, she drops to her knees, breath quickening until she loses all control. Guards pour in, several fearlessly stepping forward to restrain her. They soon realize, however, that her own body has already done them this favor. Now cruelly acting as ally to her enemies, her stiff muscles petrify her into a pitiful facsimile of a statue. Eidos can only watch helplessly while they bind her hands and feet as they would a hog.*
@@ -200,7 +200,7 @@ Pakahron dead
 	[KABU!TAMBUL!ARCHIVES!999.100!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!ARCHIVES!999.101!DESCRIPTION!]
-		||	
+		||
 		*The guards inspect the body of the fallen mage and mournfully shake their heads in confirmation of his departure from the Falseflesh. Suddenly, they begin to gather around her and wordlessly, like a hive-minded machine, they pull back their spears and attempt to perforate Eidos' Falseflesh. But Luin disagrees with their plans and destroys their each spear upon impact.*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!999.102!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!999.101!DESCRIPTION!/]
@@ -243,13 +243,13 @@ DARY
 		*"Hello! My name is Dary!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.001!DARY!}
 	[KABU!TAMBUL!ARCHIVES!0.000!DARY!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.001!DARY!]
 		||
 		*"I'm a mythographer from Dazir, now working here in Tambul - you know, famed archive and all."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.002!DARY!}
 	[KABU!TAMBUL!ARCHIVES!0.001!DARY!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.002!DARY!]
 		||
 		*"You must've come for a similar reason!"*
@@ -364,7 +364,7 @@ DARY
 		*"Why, it's even possible that some of the records kept here even predate his arrival!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.102!DARY!}
 	[KABU!TAMBUL!ARCHIVES!0.1010!DARY!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.201!DARY!]
 		||
 		*"An excellent question! For does not all learning begin with a question?"*
@@ -394,7 +394,7 @@ DARY
 		*"I do! And I am an expert!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.X502!DARY!}
 	[KABU!TAMBUL!ARCHIVES!0.301!DARY!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.401!DARY!]
 		||
 		*"What backwards land do you hail from, outlander?! Myths are the most true accounts there are!"*
@@ -431,13 +431,13 @@ DARY
 		*"You seem a kindred spirit whose thirst can be only quenched from the cup of knowledge!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.1020!DARY!}
 	[KABU!TAMBUL!ARCHIVES!0.102!DARY!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.1020!DARY!]
 		||
 		*"If you have any questions, any at all, about mythological figures or creatures, I'd be happy to share my research with you some time!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.X1021!DARY!}
 	[KABU!TAMBUL!ARCHIVES!0.1020!DARY!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.X1021!DARY!]
 		|@:KABU!TAMBUL!ARCHIVES!1.000!DARY!|
 		*"Until then, walk in the light of knowledge and understanding, friend!"*
@@ -455,7 +455,7 @@ DARY
 		*"...I think I had better get back to work."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!9999.X9999!DARY!}
 	[KABU!TAMBUL!ARCHIVES!0.X602!DARY!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.X900!DARY!]
 		|@:KABU!TAMBUL!ARCHIVES!0.901!DARY!|
 		*"Look, some of us have a job to do, so let the adults get back to work now, will you?"*
@@ -489,13 +489,13 @@ learn more shit
 		*"Did you see the statue at the center of the atrium? The chimera?"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!1.1001!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.1000!DARY!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!1.1001!DARY!]
 		||
 		*"There are a lot of myths about it in local legend!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!1.X1002!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.1001!DARY!/]
-	
+
 >>>Met Fenrir (12900)<<<
 	[/KABU!TAMBUL!ARCHIVES!1.X1002!DARY!]
 		|^12900:KABU!TAMBUL!ARCHIVES!1.1003!DARY!|
@@ -547,7 +547,7 @@ learn more shit
 
 	[/KABU!TAMBUL!ARCHIVES!1.1023!DARY!]
 		||
-		*"His exploits are never directly documented. So we're only really aware of his existence through tales of interactions with his creations."* 
+		*"His exploits are never directly documented. So we're only really aware of his existence through tales of interactions with his creations."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!1.10230!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.1023!DARY!/]
 
@@ -629,20 +629,20 @@ learn more shit
 		(A#"Understood."){A:0,KABU!TAMBUL!ARCHIVES!1.X899!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.201!DARY!/]
 
-	
+
 	[/KABU!TAMBUL!ARCHIVES!1.300!DARY!]
 		||
 		*"Artifacts then, is it?"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!1.3000!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.300!DARY!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!1.3000!DARY!]
 		||
 		*"Well, the most famous by far is the ghelblade of Vanargand: Luin."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!1.X3001!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.3000!DARY!/]
 
->>>Have Luin (12300)<<<	
+>>>Have Luin (12300)<<<
 	[/KABU!TAMBUL!ARCHIVES!1.X3001!DARY!]
 		|^12300:KABU!TAMBUL!ARCHIVES!1.3002!DARY!|
 		*"Wielded by the legendary Archmage Ark, Luin was used to both slay the beast Gurgadon in the Wellspring and to eviscerate that wretched Jinnwraith, Rikharr!"*
@@ -663,25 +663,25 @@ learn more shit
 		*"Quite a few more! But I'm awfully busy, I'm afraid, and should get back to work."*
 		(A#"Understood."){A:0,KABU!TAMBUL!ARCHIVES!1.X899!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.301!DARY!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!1.302!DARY!]
 		||
 		*"Oh! Plenty!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!1.3020!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.302!DARY!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!1.3020!DARY!]
 		||
 		*"For starters, it's theorized that Rikharr stole it from Ark to slay the Tacribian's Muninn tree - something they have never forgive the Dazirans for!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!1.3021!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.3020!DARY!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!1.3021!DARY!]
 		||
 		*"Also, it's said that Luin gave the Archmage protection from the wraithglow in the wastes - though her Valvorthr didn't seem to fair so well, since they exhibited certain signs of... decay... before disappearing without a trace..."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!1.3022!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.3021!DARY!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!1.3022!DARY!]
 		||
 		*"In any event, I'm awfully busy now, I'm afraid, and should get back to work!"*
@@ -710,7 +710,7 @@ ISMAT
 		*"Jinns take you, Kagin! Hold your tongue!"*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.X0010!ISMAT!}
 	[KABU!TAMBUL!ARCHIVES!0.001!ISMAT!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.X0010!ISMAT!]
 		|@:KABU!TAMBUL!ARCHIVES!0.002!ISMAT!|
 		*"These were our friends and now they must wander the Graylands unguided!"*
@@ -723,13 +723,13 @@ ISMAT
 		*"The world is chaotic; I mean, even that jinnstruck 'Prophet' made more sense than this tragedy does!"*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.0020!ISMAT!}
 	[KABU!TAMBUL!ARCHIVES!0.002!ISMAT!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.0020!ISMAT!]
 		||
 		*"...But I can't help wondering, Kagin..."*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.X0021!ISMAT!}
 	[KABU!TAMBUL!ARCHIVES!0.0020!ISMAT!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.X0021!ISMAT!]
 		|@:KABU!TAMBUL!ARCHIVES!0.003!ISMAT!|
 		*...If Biracul truly watched over us, why would he let this happen?"*
@@ -742,13 +742,13 @@ ISMAT
 		*"By that logic, maybe it's not Biracul's will..."*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.0030!ISMAT!}
 	[KABU!TAMBUL!ARCHIVES!0.003!ISMAT!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.0030!ISMAT!]
 		||
 		*"Maybe he's the heart to something else... something 'greater'..."*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.X0031!ISMAT!}
 	[KABU!TAMBUL!ARCHIVES!0.0030!ISMAT!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.X0031!ISMAT!]
 		|@:KABU!TAMBUL!ARCHIVES!0.004!ISMAT!|
 		*"Just like we are to him."*
@@ -761,19 +761,19 @@ ISMAT
 		*"I know, I know!"*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.0040!ISMAT!}
 	[KABU!TAMBUL!ARCHIVES!0.004!ISMAT!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.0040!ISMAT!]
 		||
 		*"I'm just confused about the whole jinnkissing mess, y'know?"*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.0041!ISMAT!}
 	[KABU!TAMBUL!ARCHIVES!0.0040!ISMAT!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.0041!ISMAT!]
 		||
 		*"First, the crisis with Wellspring and now this!?"*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.X0042!ISMAT!}
 	[KABU!TAMBUL!ARCHIVES!0.0041!ISMAT!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.X0042!ISMAT!]
 		|@:KABU!TAMBUL!ARCHIVES!0.005!ISMAT!|
 		*"It just doesn't make any sense."*
@@ -786,7 +786,7 @@ ISMAT
 		*"I think I'll just take a walk to clear my head up."*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.0050!ISMAT!}
 	[KABU!TAMBUL!ARCHIVES!0.005!ISMAT!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.0050!ISMAT!]
 		||
 		*"Give my regards to your family, young'n; I'll see you tomorrow."*
@@ -815,13 +815,13 @@ KAGIN
 		*"I know it's a sin against Biracul to even think it, Ismat! But..."*
 		(D#...){D:1,KABU!TAMBUL!ARCHIVES!0.0020!KAGIN!}
 	[KABU!TAMBUL!ARCHIVES!0.002!KAGIN!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.0020!KAGIN!]
 		||
 		*"I'm just so happy I get to go home and see my family tonight."*
 		(D#...){D:1,KABU!TAMBUL!ARCHIVES!0.X0021!KAGIN!}
 	[KABU!TAMBUL!ARCHIVES!0.0020!KAGIN!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.X0021!KAGIN!]
 		|@:KABU!TAMBUL!ARCHIVES!0.003!KAGIN!|
 		*"If I had gone to my shift in the Scriptorium, I would be the one wandering the Graylands... and my family would've ended up like ol' Cultivator Zebh's!"*
@@ -834,7 +834,7 @@ KAGIN
 		*"Biracul's will is beyond us, my friend... just like our will is beyond the heart that pumps our life-blood."*
 		(D#...){D:1,KABU!TAMBUL!ARCHIVES!0.X0030!KAGIN!}
 	[KABU!TAMBUL!ARCHIVES!0.003!KAGIN!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.X0030!KAGIN!]
 		|@:KABU!TAMBUL!ARCHIVES!0.004!KAGIN!|
 		*"All we can do is trust in his plan."*
@@ -847,7 +847,7 @@ KAGIN
 		*"That borders on blasphemy, Ismat."*
 		(D#...){D:1,KABU!TAMBUL!ARCHIVES!0.X0040!KAGIN!}
 	[KABU!TAMBUL!ARCHIVES!0.004!KAGIN!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.X0040!KAGIN!]
 		|@:KABU!TAMBUL!ARCHIVES!0.005!KAGIN!|
 		*"...Take care you don't fall into the Jinns' embrace..."*
@@ -860,7 +860,7 @@ KAGIN
 		*"Maybe you should go to the Temple to pray for guidance."*
 		(D#...){D:1,KABU!TAMBUL!ARCHIVES!0.0050!KAGIN!}
 	[KABU!TAMBUL!ARCHIVES!0.005!KAGIN!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.0050!KAGIN!]
 		||
 		*"And I'll go home to my family and give thanks to Biracul for allowing me to be with them for a bit longer."*
@@ -876,7 +876,7 @@ KALEKI
 		*"Hello, traveler. I'm Kaleki, Librarian of Tambul."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.X001!KALEKI!}
 	[KABU!TAMBUL!ARCHIVES!0.000!KALEKI!/]
-	
+
 >>>Pakahron sends Eidos to Librarian (13102)<<<
 	[/KABU!TAMBUL!ARCHIVES!0.X001!KALEKI!]
 		|^13102:KABU!TAMBUL!ARCHIVES!0.002!KALEKI!|
@@ -1011,7 +1011,7 @@ KALEKI
 
 	[/KABU!TAMBUL!ARCHIVES!0.1010!KALEKI!]
 		||
-		*"It is through revealed knowledge that our people mastered the arts of hydroculture - just as the Dazirans learned of craft and Tacribians became proficient gatherer-scouts."*		
+		*"It is through revealed knowledge that our people mastered the arts of hydroculture - just as the Dazirans learned of craft and Tacribians became proficient gatherer-scouts."*
 		(A#"Who revealed this knowledge to you?"){A:1,KABU!TAMBUL!ARCHIVES!0.102!KALEKI!}
 		(B#"I had heard the the Tacribians were warriors, not scouts."){B:1,KABU!TAMBUL!ARCHIVES!0.2022!KALEKI!}
 		(E#"And why should you trust these records are factual?"){E:1,KABU!TAMBUL!ARCHIVES!0.502!KALEKI!}
@@ -1033,7 +1033,7 @@ KALEKI
 
 	[/KABU!TAMBUL!ARCHIVES!0.401!KALEKI!]
 		||
-		*"You imply that I would hide things from you. That is not the function of a place such as this."* 
+		*"You imply that I would hide things from you. That is not the function of a place such as this."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.4010!KALEKI!}
 	[KABU!TAMBUL!ARCHIVES!0.401!KALEKI!/]
 
@@ -1062,7 +1062,7 @@ KALEKI
 	[/KABU!TAMBUL!ARCHIVES!0.601!KALEKI!]
 		||
 		*"I suppose it is possible."*
-		(F#"And what do you hope to gain by disseminating such information?!"){F:1,KABU!TAMBUL!ARCHIVES!0.602!KALEKI!}		
+		(F#"And what do you hope to gain by disseminating such information?!"){F:1,KABU!TAMBUL!ARCHIVES!0.602!KALEKI!}
 	[KABU!TAMBUL!ARCHIVES!0.601!KALEKI!/]
 
 
@@ -1093,7 +1093,7 @@ KALEKI
 
 	[/KABU!TAMBUL!ARCHIVES!0.2022!KALEKI!]
 		||
-		*"This is true in the present day. But we keepers of memory know that this was not always their function."* 
+		*"This is true in the present day. But we keepers of memory know that this was not always their function."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.20220!KALEKI!}
 	[KABU!TAMBUL!ARCHIVES!0.2022!KALEKI!/]
 
@@ -1164,13 +1164,13 @@ KALEKI
 		*I don't even care about any of this!"*
 		(F#"If you don't, then why are you shouting? Ha! ParadoX, with a capital X!"){F:1,KABU!TAMBUL!ARCHIVES!0.6021!KALEKI!}
 	[KABU!TAMBUL!ARCHIVES!0.6020!KALEKI!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.6021!KALEKI!]
 		||
 		*"Paradox doesn't begin with... Oh, never mind!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.X6022!KALEKI!}
 	[KABU!TAMBUL!ARCHIVES!0.6021!KALEKI!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.X6022!KALEKI!]
 		|@:KABU!TAMBUL!ARCHIVES!6.X000!KALEKI!|
 		*"I'm tired of talking to you."*
@@ -1295,7 +1295,7 @@ KALEKI
 
 	[/KABU!TAMBUL!ARCHIVES!2.3000!KALEKI!]
 		||
-		*"Please do look around the Archives and around Tambul itself. This place is rich in history, if you know where to look."* 
+		*"Please do look around the Archives and around Tambul itself. This place is rich in history, if you know where to look."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!2.X3001!KALEKI!}
 	[KABU!TAMBUL!ARCHIVES!2.3000!KALEKI!/]
 
@@ -1368,7 +1368,7 @@ KALEKI
 		*"Biracul smile upon you, outlander!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!3.X001!KALEKI!}
 	[KABU!TAMBUL!ARCHIVES!3.000!KALEKI!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!3.X001!KALEKI!]
 		|@:KABU!TAMBUL!ARCHIVES!3.002!KALEKI!|
 		*"I'm busy overseeing the Scriptorium copyists at the moment, but you're welcome to look around the Archives."*
@@ -1380,7 +1380,7 @@ KALEKI
 		*"Look, outlander, like I said: I am quite busy."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!3.X0020!KALEKI!}
 	[KABU!TAMBUL!ARCHIVES!3.002!KALEKI!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!3.X0020!KALEKI!]
 		|@:KABU!TAMBUL!ARCHIVES!5.001!KALEKI!|
 		*"So, please, in the name of Ark, leave me to my work!"*
@@ -1392,7 +1392,7 @@ KALEKI
 		*"I'm terribly busy, right now."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!5.X001!KALEKI!}
 	[KABU!TAMBUL!ARCHIVES!5.000!KALEKI!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!5.X001!KALEKI!]
 		|@:KABU!TAMBUL!ARCHIVES!5.002!KALEKI!|
 		*"Why don't you go look at the Gate of Celestial Judgment? It's said that walking through it brings good luck..."*
@@ -1404,7 +1404,7 @@ KALEKI
 		*"..."*
 		(F#"..."){F:1,KABU!TAMBUL!ARCHIVES!9999.X9999!KALEKI!}
 	[KABU!TAMBUL!ARCHIVES!5.002!KALEKI!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!6.X000!KALEKI!]
 		|@:KABU!TAMBUL!ARCHIVES!5.001!KALEKI!|
 		*"Please, don't bother me again. I beg of you."*
@@ -1419,7 +1419,7 @@ PAKAHRON
 		*"Most audacious indeed, returning to the scene of your crime..."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.0000!PAKAHRON!}
 	[KABU!TAMBUL!ARCHIVES!0.000!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!0.0000!PAKAHRON!]
 		||
 		*"Or perhaps you merely wished to ensure your task was complete?"*
@@ -1487,7 +1487,7 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ARCHIVES!0.2000!PAKAHRON!]
 		||
-		*"Carving out destruction like the Amethyst Jinn on merely a whim?!"* 
+		*"Carving out destruction like the Amethyst Jinn on merely a whim?!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.2001!PAKAHRON!}
 	[KABU!TAMBUL!ARCHIVES!0.2000!PAKAHRON!/]
 
@@ -1548,14 +1548,14 @@ ATRIUM
 
 
 
-	
+
 virgin entrance
 	[/KABU!TAMBUL!ATRIUM!0.000!DESCRIPTION!]
 		||
 		*The heavy wood grates against the desert sand as the gates to Tambul close. Before Eidos is a large courtyard bustling with activity. Contrary to what the towering walls and mighty gates suggest, though, there is a scant and ill-equipped military presence.
-		
+
 		For the most part, the life of the townsfolk dominates the environs. Market merchants peddle wares; men pull carts transporting foodstuffs; women haul buckets of water and sacks of soil; children play, running about with great frivolity; older folk engage in lively conversation; and at the epicenter of all activity is a large, marble sculpture - some depiction of an unnamed hero slaying an unusual beast.
-		
+
 		Many within proximity to the gates take notice of Eidos. Some pretend to go about their business while cautiously drawing nearer to regard her, but none approach overtly. One of them in particular, a youthful, red-headed girl, stands staring for a moment, only to then run off down the street with great urgency.*
 		(A#Approach people to talk){A:0,KABU!TAMBUL!ATRIUM!0.100!DESCRIPTION!}
 		(B#Explore the Atrium){B:0,KABU!TAMBUL!ATRIUM!0.X200!DESCRIPTION!}
@@ -1575,11 +1575,11 @@ virgin entrance
 		(B#Talk to the water vendor){B:0,KABU!TAMBUL!ATRIUM!9999.X0102!DESCRIPTION!}
 		(C#Walk further into the Atrium){C:0,KABU!TAMBUL!ATRIUM!0.X200!DESCRIPTION!}
 	[KABU!TAMBUL!ATRIUM!0.100!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.X200!DESCRIPTION!]
 		|@:KABU!TAMBUL!ATRIUM!0.X000!DESCRIPTION!|
 		*As she walks deeper into the township, Eidos attracts the attention of many a passerby. She strides down the street through a cloud of speculative whispers and inquiring gazes. Nearing the marble sculpture, it becomes clear that it is a fountain, jets of water both misting and bubbling from underneath.
-		
+
 		Suddenly, an elderly man calls out to her, as he waddles towards her.*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!9999.X0013!DESCRIPTION!}
 	[KABU!TAMBUL!ATRIUM!0.X200!DESCRIPTION!/]
@@ -1594,7 +1594,7 @@ Customary Atrium entry after you have dealt with Pakahron peacefully.
 		(B#Explore the Atrium){B:0,KABU!TAMBUL!ATRIUM!11.X200!DESCRIPTION!}
 		(C#Leave Tambul){C:0,KABU!TAMBUL!GATES OF TAMBUL!0.X100!DESCRIPTION!}
 	[KABU!TAMBUL!ATRIUM!11.X000!DESCRIPTION!/]
-	
+
 >>>Not welcome in Tambul (13900)<<<
 	[/KABU!TAMBUL!ATRIUM!11.X001!DESCRIPTION!]
 		|^13900:KABU!TAMBUL!ATRIUM!11.001!DESCRIPTION!|
@@ -1602,7 +1602,7 @@ Customary Atrium entry after you have dealt with Pakahron peacefully.
 		(A#Approach people to talk){A:0,KABU!TAMBUL!ATRIUM!11.X100!DESCRIPTION!}
 		(B#Leave Tambul){B:0,KABU!TAMBUL!ATRIUM!11.002!DESCRIPTION!}
 	[KABU!TAMBUL!ATRIUM!11.X001!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!11.001!DESCRIPTION!]
 		||
 		*The guards escort Eidos to the gates, signaling to their attendants with a nod to open them. The heavy wooden doors grind the sand beneath to even finer powder, revealing a blistering hellscape of flat, cracked earth, dusted in sparkling grains of sand beyond them. Eidos looks back once more into the Atrium. While many of the folk cast a mix of furtive, fearful and curious looks in her direction, there is one visage that is a mask of passionless intensity: Pakahron's piercing stare burns into her eyes like smoldering coals. In the sea of meek faces, he stands as a man alone.
@@ -1616,8 +1616,8 @@ Customary Atrium entry after you have dealt with Pakahron peacefully.
 		*At a mere nod from the guard, the gate attendants take to their treadmills. Walking within large metal wheels, they drive a mechanism that winches the gates open. The heavy wooden doors grind the sand beneath to even finer powder, revealing a blistering hellscape of flat, cracked earth, dusted in sparkling grains of sand beyond them. The doors, thus open, give Eidos a clear path for her departure.*
 		(A#...){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.X000!DESCRIPTION!}
 	[KABU!TAMBUL!ATRIUM!11.002!DESCRIPTION!/]
-	
->>>Refused Tambul entry (13108)<<<	
+
+>>>Refused Tambul entry (13108)<<<
 	[/KABU!TAMBUL!ATRIUM!11.X100!DESCRIPTION!]
 		|^13108:KABU!TAMBUL!ATRIUM!11.101!DESCRIPTION!|
 		*Standing near the gates of Tambul, there are few people who seem inclined to speak. The only approachable people are a soft-looking guard and an overly-friendly water vendor.*
@@ -1625,7 +1625,7 @@ Customary Atrium entry after you have dealt with Pakahron peacefully.
 		(B#Talk to the water vendor){B:0,KABU!TAMBUL!ATRIUM!9999.X0102!DESCRIPTION!}
 		(C#Explore the Atrium){C:0,KABU!TAMBUL!ATRIUM!11.X200!DESCRIPTION!}
 	[KABU!TAMBUL!ATRIUM!11.X100!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!11.101!DESCRIPTION!]
 		||
 		*Standing near the gates of Tambul, there are few people who seem inclined to speak. The only approachable people are a soft-looking guard and an overly-friendly water vendor.*
@@ -1633,25 +1633,25 @@ Customary Atrium entry after you have dealt with Pakahron peacefully.
 		(B#Talk to the water vendor){B:0,KABU!TAMBUL!ATRIUM!9999.X0102!DESCRIPTION!}
 		(C#Leave Tambul){C:0,KABU!TAMBUL!ATRIUM!11.002!DESCRIPTION!}
 	[KABU!TAMBUL!ATRIUM!11.101!DESCRIPTION!/]
-	
+
 >>>Not welcome in Tambul (13900)<<<
 	[/KABU!TAMBUL!ATRIUM!11.X200!DESCRIPTION!]
 		|^13900:KABU!TAMBUL!ATRIUM!11.001!DESCRIPTION!|
 		*A large statue perched upon a fountain dominates the center of the Atrium. Eidos instantly gravitates towards the cool mist rising from jets of water spraying at its feet, hoping to offset the effects of the relentless sun. Upon closer inspection, what looked to be a statue of marble turns out to be some kind of metallic one instead - iron or steel, but white in hue. Remarkably, it lacks any sign of corrosion, despite its proximity to water. The metal bends and twists, depicting an armored hero locked in the throes of battle with a fantastical creature - some strange fusion of serpent, lion, and bird, and other unfamiliar creatures.
-		
+
 		This statue seems to serve as a gathering place and most people around here seem engaged in lively conversation. However, a good number seem to merely be countering the midday heat with the fountain's misty coolness.*
 		(A#Approach people to talk){A:0,KABU!TAMBUL!ATRIUM!11.X201!DESCRIPTION!}
 		(B#Return to the gates){B:0,KABU!TAMBUL!ATRIUM!0.X000!DESCRIPTION!}
 		(C#Go toward the Temple and the Residence District){C:0,KABU!TAMBUL!TEMPLE OF BIRACUL!0.X000!DESCRIPTION!}
 	[KABU!TAMBUL!ATRIUM!11.X200!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!11.X201!DESCRIPTION!]
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!11.X201!DESCRIPTION!/]
 
-	
+
 	[/KABU!TAMBUL!ATRIUM!11.X211!DESCRIPTION!]
 		|@:KABU!TAMBUL!ATRIUM!11.X200!DESCRIPTION!|
 		*There are a great number of people milling about this area, most notably Pakahron, who can be seen engaging his folk in conversation. Eidos then chooses to speak with...*
@@ -1659,7 +1659,7 @@ Customary Atrium entry after you have dealt with Pakahron peacefully.
 		(B#The young girl with red hair){B:0,KABU!TAMBUL!ATRIUM!9999.X0104!DESCRIPTION!}
 		(C#Pakahron, Mage of Tambul){C:0,KABU!TAMBUL!ATRIUM!9999.X0013!DESCRIPTION!}
 	[KABU!TAMBUL!ATRIUM!11.X211!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!11.X221!DESCRIPTION!]
 		|@:KABU!TAMBUL!ATRIUM!11.X200!DESCRIPTION!|
 		*There are a great number of people milling about this area. However, Pakahron is now notably absent. Eidos then chooses to speak with...*
@@ -1672,7 +1672,7 @@ Archives exploded
 	[/KABU!TAMBUL!ATRIUM!50.000!DESCRIPTION!]
 		||
 		*Eidos stands in the dusty Tambulan Atrium, just inside the gates. Some passersby give her a nod of welcome, though most seem content to politely ignore her presence. The smell of spices hangs thick in the air as goods are bartered and traded. The sound of voices raised in both labor and leisure is all but deafening. All about, folk can be seen engaged in the rush and activity of life.
-		
+
 		Perhaps mast jarring, however, is the slow-rising column of dust and smoke rising from where the Archive once stood.*
 		(A#Approach people to talk){A:0,KABU!TAMBUL!ATRIUM!11.X100!DESCRIPTION!}
 		(B#Explore the Atrium){B:0,KABU!TAMBUL!ATRIUM!11.X200!DESCRIPTION!}
@@ -1692,19 +1692,19 @@ Deemed as Inscrutable and exiled
 		*The voices and activity of the Atrium are suddenly silenced and eyes all around are trained upon Eidos.*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!100.001!DESCRIPTION!}
 	[KABU!TAMBUL!ATRIUM!100.000!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!100.001!DESCRIPTION!]
 		||
 		*The quiet is suddenly broken by shouts of outrage, fear and aggression.*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!100.002!DESCRIPTION!}
 	[KABU!TAMBUL!ATRIUM!100.001!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!100.002!DESCRIPTION!]
 		||
 		*As though summoned by an unheard call, the crowd of denizens advances upon her and before she can defend herself, she is seized from all around by their clutching hands.*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!100.003!DESCRIPTION!}
 	[KABU!TAMBUL!ATRIUM!100.002!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!100.003!DESCRIPTION!]
 		||
 		*Their faces a twisted mixture of fear and anger, the folk of Tambul easily subdue Eidos. Lifted from the ground, there is nothing she can do as they bear her from the Atrium directly toward the Silver Spire of the township.*
@@ -1712,7 +1712,7 @@ Deemed as Inscrutable and exiled
 	[KABU!TAMBUL!ATRIUM!100.003!DESCRIPTION!/]
 
 Pakahron dead
->>>Has Luin Armor (12302)<<<	
+>>>Has Luin Armor (12302)<<<
 	[/KABU!TAMBUL!ATRIUM!999.X000!DESCRIPTION!]
 		|^12302:KABU!TAMBUL!ATRIUM!999.100!DESCRIPTION!|
 		*The battle has taken its toll on Eidos. Having exerted her Falseflesh far beyond its limits, she drops to her knees, breath quickening until she loses all control. Guards pour in, several fearlessly stepping forward to restrain her. They soon realize, however, that her own body has already done them this favor. Now cruelly acting as ally to her enemies, her stiff muscles petrify her into a pitiful facsimile of a statue. Eidos can only watch helplessly while they bind her hands and feet as they would a hog.*
@@ -1732,7 +1732,7 @@ Pakahron dead
 	[KABU!TAMBUL!ATRIUM!999.100!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!ATRIUM!999.101!DESCRIPTION!]
-		||	
+		||
 		*The guards inspect the body of the fallen mage and mournfully shake their heads in confirmation of his departure from the Falseflesh. Suddenly, they begin to gather around her and wordlessly, like a hive-minded machine, they pull back their spears and attempt to perforate Eidos' Falseflesh. But Luin disagrees with their plans and destroys their each spear upon impact.*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!999.102!DESCRIPTION!}
 	[KABU!TAMBUL!ATRIUM!999.101!DESCRIPTION!/]
@@ -1768,7 +1768,7 @@ Pakahron dead
 	[KABU!TAMBUL!ATRIUM!999.106!DESCRIPTION!/]
 
 
-	
+
 ABLAH
 	[/KABU!TAMBUL!ATRIUM!0.000!ABLAH!]
 		||
@@ -1780,26 +1780,26 @@ ABLAH
 		(E#"We're both indifferent to you?"){E:1,KABU!TAMBUL!ATRIUM!0.500!ABLAH!}
 		(F#"Yep. We're both hard as a rock and weigh less than you'd think."){F:1,KABU!TAMBUL!ATRIUM!0.600!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.000!ABLAH!/]
-	
-	
+
+
 	[/KABU!TAMBUL!ATRIUM!0.100!ABLAH!]
 		||
 		*"You're both from Thiuda, no?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1000!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.100!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.1000!ABLAH!]
 		||
 		*"Oh, I'm sure most in Kabu are baffled by your appearance - perhaps even the ol' mage-leader himself!"*
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1001!ABLAH!}	
+		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.1000!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.1001!ABLAH!]
 		||
 		*"But you clearly have the look of a Thiudan to me, and I'm pretty much the authority on ethnicity - if I may be so bold."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1002!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.1001!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.1002!ABLAH!]
 		||
 		*"So, did I strike true, stranger?"*
@@ -1815,65 +1815,65 @@ ABLAH
 		*"Indeed it will be!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.2000!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.200!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.2000!ABLAH!]
 		||
 		*"You see, I believe that both you and the fountain are from Thiuda!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1000!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.2000!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.300!ABLAH!]
 		||
 		*"Indeed, I do! I say you are both from Thiuda, are you not?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1000!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.300!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.400!ABLAH!]
 		||
 		*"We shall see! It's that you are both from Thiuda!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1000!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.400!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.500!ABLAH!]
 		||
 		*"Hardly! But good guess, you little rascal!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.5000!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.500!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.5000!ABLAH!]
 		||
 		*"No, in truth, it's that you are both from Thiuda - beyond a shadow of a doubt!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.5001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.5000!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.5001!ABLAH!]
 		||
 		*"I mean, you clearly have the look of a Thiudan, and from the sharpness of your tongue, I'm just about certain!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1002!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.5001!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.600!ABLAH!]
 		||
 		*"Close! But I think it's that you're both from Thiuda!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.6000!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.600!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.6000!ABLAH!]
 		||
 		*"I'm sure most in Kabu are baffled by your appearance - perhaps even our ol' mage!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.6001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.6000!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.6001!ABLAH!]
 		||
 		*"But you clearly have the look of a Thiudan to me, and I'm pretty much the authority on ethnicity - if I may be so bold."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.6002!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.6001!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.6002!ABLAH!]
 		||
 		*"So, did I strike true, stranger?"*
-		(F#"Actually, I come from a land down under."){F:1,KABU!TAMBUL!ATRIUM!0.601!ABLAH!}	
+		(F#"Actually, I come from a land down under."){F:1,KABU!TAMBUL!ATRIUM!0.601!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.6002!ABLAH!/]
 
 
@@ -1882,43 +1882,43 @@ ABLAH
 		*"Why it's well known! That is, at least, for those with the talent of knowing!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1010!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.101!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.1010!ABLAH!]
 		||
 		*"Thiuda is a land far to the North, beyond Jer and beyond even the Blade Mountains. There's even a lot of evidence of their artifacts here in Kabu."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1011!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.1010!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.1011!ABLAH!]
 		||
 		*"It follows, then, that there must have been numerous trade routes when the folk of Kabu were stronger, and not merely degenerate, as we are now."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1012!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.1011!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.1012!ABLAH!]
 		||
 		*"Wouldn't that be something? To see folk of the Northlands in the desert plains, just as common as migrating birds!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X5011!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.1012!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.201!ABLAH!]
 		||
 		*"Oh, are you testing me?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.2010!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.201!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.2010!ABLAH!]
 		||
 		*"I accept!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.2011!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.2010!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.2011!ABLAH!]
 		||
 		*"Thiuda is a land far to the North, beyond Jer and beyond even the Blade Mountains. There's even a lot of evidence of their artifacts here in Kabu."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.2012!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.2011!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.2012!ABLAH!]
 		||
 		*"It follows, then, that there must have been numerous trade routes when the folk of Kabu were stronger, and not merely degenerate, as we are now."*
@@ -1930,25 +1930,25 @@ ABLAH
 		*"Wouldn't that be something? To see folk of the Northlands in the desert plains, just as common as migrating birds!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X5011!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.2013!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.301!ABLAH!]
 		||
 		*"Indeed, I insist it is so!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.3010!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.301!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.3010!ABLAH!]
 		||
 		*"Despite the remoteness of your homeland, there's certainly plenty of evidence of your people's artifacts here in Kabu."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.3011!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.3010!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.3011!ABLAH!]
 		||
 		*"It follows, then, that there must have been numerous trade routes when the folk of Kabu were stronger, and not merely degenerate, as we are now."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.3012!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.3011!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.3012!ABLAH!]
 		||
 		*"Wouldn't that be something? To see folk of the Northlands in the desert plains, just as common as migrating birds!"*
@@ -1960,81 +1960,81 @@ ABLAH
 		*"Oh, well, it would honor me to educate a Thiudan!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.4010!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.401!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.4010!ABLAH!]
 		||
 		*"Let's see... Ah yes! Despite the remoteness of your homeland, there's a lot of evidence of your people's artifacts here in Kabu."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.4011!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.4010!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.4011!ABLAH!]
 		||
 		*"It follows, then, that there must have been numerous trade routes when the folk of Kabu were stronger, and not merely degenerate, as we are now."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.4012!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.4011!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.4012!ABLAH!]
 		||
 		*"Wouldn't that be something? To see folk of the Northlands in the desert plains, just as common as migrating birds!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X5011!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.4012!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.501!ABLAH!]
 		||
 		*"Well, I knew your people had a reputation for being as cold as the land you hail from, but it seems the Thiudan fields are filled with sour plums and bitter melons!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.5010!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.501!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.5010!ABLAH!]
 		||
 		*"But not to worry! I take no offense."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X5011!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.5010!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.X5011!ABLAH!]
 		|@:KABU!TAMBUL!ATRIUM!0.X899!ABLAH!|
 		*"'Thra mis Skesir, Dyes mis dawk!', brave Thiudan!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ABLAH!}
-	[KABU!TAMBUL!ATRIUM!0.X5011!ABLAH!/]	
-	
+	[KABU!TAMBUL!ATRIUM!0.X5011!ABLAH!/]
+
 	[/KABU!TAMBUL!ATRIUM!0.601!ABLAH!]
 		||
 		*"Well, I knew your people had a reputation for being as enigmatic as the North Wind, but you've far exceeded my expectations!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X5011!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.601!ABLAH!/]
-		
-	
->>>DID YOU BLOW UP THE ARCHIVES?<<<	
+
+
+>>>DID YOU BLOW UP THE ARCHIVES?<<<
 	[/KABU!TAMBUL!ATRIUM!0.X899!ABLAH!]
 		|^13801:KABU!TAMBUL!ATRIUM!1.000!ABLAH!|
 		*"Hail, brave Thiudan! 'Thra mis Skesir, Dyes mis dawk!'"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!0.X899!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.000!ABLAH!]
 		||
 		*"You return! Many are those foolish folk who doubt the endless bravery of the Thiudan heart, but they've traveled in neither step nor mind as I have!"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.000!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.001!ABLAH!]
 		||
 		*"I knew you would come back to us!"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.002!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.001!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.002!ABLAH!]
 		||
 		*"What further act of rage shall we witness?"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.003!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.002!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.003!ABLAH!]
 		||
 		*"Or have you merely arrived to see our reaction to the destruction of the Archives..?"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.004!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.003!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.004!ABLAH!]
 		||
 		*"For even the most savage artist must have an audience, no?"*
@@ -2044,38 +2044,38 @@ ABLAH
 		(D#"...I don't know what you're talking about!"){D:1,KABU!TAMBUL!ATRIUM!1.400!ABLAH!}
 		(E#"Is this some kind of threat!?"){E:1,KABU!TAMBUL!ATRIUM!1.500!ABLAH!}
 		(F#"Few appreciate my art! My purity of expression in freestyle disco!"){F:1,KABU!TAMBUL!ATRIUM!1.600!ABLAH!}
-	[KABU!TAMBUL!ATRIUM!1.004!ABLAH!/]	
-	
+	[KABU!TAMBUL!ATRIUM!1.004!ABLAH!/]
+
 	[/KABU!TAMBUL!ATRIUM!1.100!ABLAH!]
 		||
 		*"Of course it was!"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.1000!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.100!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.1000!ABLAH!]
 		||
 		*"And that's why you Thiudans are the greatest artists of all!"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.1001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.1000!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.1001!ABLAH!]
 		||
 		*"Unsullied by the burden of the mind, your nature is to destroy! To divide and conquer is your curse for jinnworship!"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.1002!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.1001!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.1002!ABLAH!]
 		||
 		*"But I say to you, is not Biracul's gift of civility a curse as well?!"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.1003!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.1002!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.1003!ABLAH!]
 		||
 		*"What a pair we make, no?"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.1004!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.1003!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.1004!ABLAH!]
 		||
 		*"You, incapable of understanding the artistry of your life; and me, incapable of being anything more than an appreciator thereof!"*
@@ -2089,69 +2089,69 @@ ABLAH
 		*"Well, of course it's art!"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.2000!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.200!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.2000!ABLAH!]
 		||
 		*"For art is life! And the artistic life is to live in accordance with one's nature. To express it with fiery passion, no?"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.2001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.2000!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.2001!ABLAH!]
 		||
 		*"And that's why you Thiudans are the greatest artists of all! Unsullied by the burden of the mind!"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.2002!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.2001!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.2002!ABLAH!]
 		||
 		*"Of course I have to praise Biracul for the gift of civility, but what a pair we make, no?"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.2003!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.2002!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.2003!ABLAH!]
 		||
 		*"You, incapable of understanding the artistry of your life; and me, incapable of being anything more than an appreciator thereof!"*
 		(A#"How can you praise an attack on your people?"){A:1,KABU!TAMBUL!ATRIUM!1.101!ABLAH!}
 		(B#"How do you know this?"){B:1,KABU!TAMBUL!ATRIUM!1.201!ABLAH!}
 		(C#"What'll become of me?"){C:1,KABU!TAMBUL!ATRIUM!1.301!ABLAH!}
-	[KABU!TAMBUL!ATRIUM!1.2003!ABLAH!/]	
-	
+	[KABU!TAMBUL!ATRIUM!1.2003!ABLAH!/]
+
 	[/KABU!TAMBUL!ATRIUM!1.300!ABLAH!]
 		||
 		*"Of course! I merely put my own Kaban spin on it!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.3000!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.300!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.3000!ABLAH!]
 		||
 		*"Even for a Tacribian, it would take blind rage or a jinncrazed mind to do what you accomplished without emotion or intellect!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.3001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.3000!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.3001!ABLAH!]
 		||
 		*"And that is why you Thiudans are the greatest artists of all!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.3002!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.3001!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.3002!ABLAH!]
 		||
 		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for jinnworship."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.3003!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.3002!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.3003!ABLAH!]
 		||
 		*"But I say to you, is not Biracul's gift of civility a curse as well?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.3004!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.3003!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.3004!ABLAH!]
 		||
 		*"Cast me into the Valley! What a pair we make, no?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.3005!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.3004!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.3005!ABLAH!]
 		||
 		*"You, incapable of understanding the artistry of your life; and me, incapable of being anything more than an appreciator thereof."*
@@ -2165,37 +2165,37 @@ ABLAH
 		*"Of course! I merely put my own Kaban spin on it!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4000!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.400!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.4000!ABLAH!]
 		||
 		*"Even for a Tacribian, it would take blind rage or a jinncrazed mind to do what you accomplished without emotion or intellect!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.4000!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.4001!ABLAH!]
 		||
 		*"And that is why you Thiudans are the greatest artists of all!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4002!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.4001!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.4002!ABLAH!]
 		||
 		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for jinnworship."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4003!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.4002!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.4003!ABLAH!]
 		||
 		*"But I say to you, is not Biracul's gift of civility a curse as well?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4004!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.4003!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.4004!ABLAH!]
 		||
 		*"Cast me into the Valley! What a pair we make, no?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4005!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.4004!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.4005!ABLAH!]
 		||
 		*"You, incapable of understanding the artistry of your life; and me, incapable of being anything more than an appreciator thereof."*
@@ -2203,65 +2203,65 @@ ABLAH
 		(D#"...I am not Thiudan and this was not my doing."){D:1,KABU!TAMBUL!ATRIUM!1.301!ABLAH!}
 		(E#"I'm also capable of working my craft on blabbermouth old men..."){E:1,KABU!TAMBUL!ATRIUM!1.301!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.4005!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.500!ABLAH!]
 		||
 		*"By Biracul's beard, no!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.5000!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.500!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.5000!ABLAH!]
 		||
-		*"I'm congratulating you on your aesthetic accomplishments! For who knows where this piece of yours will take our minds!"* 
+		*"I'm congratulating you on your aesthetic accomplishments! For who knows where this piece of yours will take our minds!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.5001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.5000!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.5001!ABLAH!]
 		||
 		*"Kaleki was a stolid bore and her Archive was filled with dead knowledge!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.5002!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.5001!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.5002!ABLAH!]
 		||
 		*"But your actions have breathed fiery life back into our thoughts!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.5003!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.5002!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.5003!ABLAH!]
 		||
-		*"What a pair we make, no?"*
-		
-		*"You, incapable of understanding the artistry of your life; and me, incapable of being anything more than an appreciator thereof."*
+		*"What a pair we make, no?"
+
+		"You, incapable of understanding the artistry of your life; and me, incapable of being anything more than an appreciator thereof."*
 		(A#"How can you praise an attack on your people?"){A:1,KABU!TAMBUL!ATRIUM!1.101!ABLAH!}
 		(D#"...I'm not Thiudan and this was not my doing!"){D:1,KABU!TAMBUL!ATRIUM!1.301!ABLAH!}
 		(E#"I'm also capable of working my craft on blabbermouth old men..."){E:1,KABU!TAMBUL!ATRIUM!1.301!ABLAH!}
-	[KABU!TAMBUL!ATRIUM!1.5003!ABLAH!/]	
-	
+	[KABU!TAMBUL!ATRIUM!1.5003!ABLAH!/]
+
 	[/KABU!TAMBUL!ATRIUM!1.600!ABLAH!]
 		||
 		*"It is indeed as you say! But that is why you Thiudans are the greatest artists of all!"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.6000!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.600!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.6000!ABLAH!]
 		||
 		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for jinnworship."*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.6001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.6000!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.6001!ABLAH!]
 		||
 		*"But I say to you, is not Biracul's gift of civility a curse as well?"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.6002!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.6001!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.6002!ABLAH!]
 		||
 		*"What a pair we make, no?"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.6003!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.6002!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.6003!ABLAH!]
 		||
 		*"You, incapable of understanding the artistry of your life; and me, incapable of being anything more than an appreciator thereof."*
@@ -2275,67 +2275,67 @@ ABLAH
 		*"Ah! Well, that is our special capacity, as children of the First Settlement."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.1010!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.101!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.1010!ABLAH!]
 		||
 		*"You see, Biracul knew we needed the minds and perspectives of all folk; for all human expression is valid - even that of death."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.1011!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.1010!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.1011!ABLAH!]
 		||
 		*"Kaleki may have been a stolid bore in life, but you gave her a dazzling death, making her corpse a fragile charcoal sculpture!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.1012!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.1011!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.1012!ABLAH!]
 		||
 		*"Though, as a patron of the arts, I must warn you about returning to the Archive..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.1013!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.1012!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.1013!ABLAH!]
 		||
 		*"Pakahron is dull, as magi go, but even he can see the mark of a Thiudan artist. So, if he sees you there, you may have a fight on your hands!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.X1014!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.1013!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.X1014!ABLAH!]
 		|@:KABU!TAMBUL!ATRIUM!1.X899!ABLAH!|
 		*"But then again, perhaps he can be your next canvas!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.X1014!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.201!ABLAH!]
 		||
 		*"Isn't it clear? It's simply because I am the most learned man in all of Kabu! For I, above all, understand what lies beyond our narrow Kaban thought!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.2010!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.201!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.2010!ABLAH!]
 		||
 		*"Biracul knew full well that we needed the minds and perspectives of all folk. Thus, it follows that all human expression is valid, even that of death."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.1011!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.2010!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.301!ABLAH!]
 		||
 		*"Oh, do not worry! I have no intention of thwarting you, Mistress of Thiuda!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.601!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.301!ABLAH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.601!ABLAH!]
 		||
 		*"Yes! I, above all, understand what lies beyond our narrow Kaban minds and can see the beauty in your works."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.1011!ABLAH!}
-	[KABU!TAMBUL!ATRIUM!1.601!ABLAH!/]		
-	
+	[KABU!TAMBUL!ATRIUM!1.601!ABLAH!/]
+
 	[/KABU!TAMBUL!ATRIUM!1.X899!ABLAH!]
 		||
 		*"Hail, brave Thiudan! 'Thra mis Skesir, Dyes mis dawk!'"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ABLAH!}
-	[KABU!TAMBUL!ATRIUM!1.X899!ABLAH!/]	
-	
+	[KABU!TAMBUL!ATRIUM!1.X899!ABLAH!/]
+
 
 
 ARGHAVAN
@@ -2349,16 +2349,16 @@ ARGHAVAN
 		(E#"Did you tell your master I'm a dangerous foreigner?"){E:1,KABU!TAMBUL!ATRIUM!0.500!ARGHAVAN!}
 		(F#"I'm new here. Is this how you greet people?"){F:1,KABU!TAMBUL!ATRIUM!0.600!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.000!ARGHAVAN!/]
-	
-	
+
+
 	[/KABU!TAMBUL!ATRIUM!0.100!ARGHAVAN!]
 		||
 		*"My name's Arghavan - not that it's any of your jinnlickin' business..."*
 		(A#"I thought I saw you run away to herald my arrival."){A:1,KABU!TAMBUL!ATRIUM!0.X101!ARGHAVAN!}
 		(B#"You seem to be a surly child."){B:1,KABU!TAMBUL!ATRIUM!0.X201!ARGHAVAN!}
-		(E#"It is now. Spy on me again and I'll cut out your tongue."){E:1,KABU!TAMBUL!ATRIUM!0.501!ARGHAVAN!}	
+		(E#"It is now. Spy on me again and I'll cut out your tongue."){E:1,KABU!TAMBUL!ATRIUM!0.501!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.100!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.200!ARGHAVAN!]
 		||
 		*"That isn't any of your jinnlickin' business."*
@@ -2372,13 +2372,13 @@ ARGHAVAN
 		*"Pakahron doesn't need an informant!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.4000!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.400!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.4000!ARGHAVAN!]
 		||
 		*"We're all his ears and eyes, everyone one of us!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.4001!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.4000!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.4001!ARGHAVAN!]
 		||
 		*"So go jump into the Valley, you draug-brained foreigner!"*
@@ -2386,7 +2386,7 @@ ARGHAVAN
 		(D#"What other things have you reported to Pakahron?"){D:1,KABU!TAMBUL!ATRIUM!0.401!ARGHAVAN!}
 		(E#"Spy on me again and I'll cut out your tongue."){E:1,KABU!TAMBUL!ATRIUM!0.501!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.4001!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.500!ARGHAVAN!]
 		||
 		*"You don't look half as dangerous as you do ugly, jinnlicker!"*
@@ -2400,7 +2400,7 @@ ARGHAVAN
 		*"No, you draug-brained foreigner!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.6000!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.600!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.6000!ARGHAVAN!]
 		||
 		*"I hope you get tossed into the Valley!"*
@@ -2415,63 +2415,63 @@ ARGHAVAN
 		*"If I did, I certainly wouldn't be telling you about it."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.X101!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.X201!ARGHAVAN!]
 		|@:KABU!TAMBUL!ATRIUM!1.X000!ARGHAVAN!|
 		*"You don't know me!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.X201!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.X301!ARGHAVAN!]
 		|@:KABU!TAMBUL!ATRIUM!1.X000!ARGHAVAN!|
 		*"Good! I didn't want to talk to you anyway!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.X301!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.401!ARGHAVAN!]
 		||
 		*"If you keep bothering me, I'll tell Pakahron you're causing trouble!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X4010!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.401!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.X4010!ARGHAVAN!]
 		|@:KABU!TAMBUL!ATRIUM!1.X000!ARGHAVAN!|
 		*"So just go jump into the Valley by yourself, jinnlicker!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.X4010!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.501!ARGHAVAN!]
 		||
 		*"Then do something about it! Kill me!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.5010!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.501!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.5010!ARGHAVAN!]
 		||
 		*"See? You're as useless as a dead crystal! You spineless coward!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X5011!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.5010!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.X5011!ARGHAVAN!]
 		|@:KABU!TAMBUL!ATRIUM!1.X000!ARGHAVAN!|
 		*"I hope the Ruby Jinn rapes you!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.X5011!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.X601!ARGHAVAN!]
 		|@:KABU!TAMBUL!ATRIUM!1.X000!ARGHAVAN!|
 		*"What's wrong with you?!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.X601!ARGHAVAN!/]
-	
-	
+
+
 >>>Know about Death of Zebh's family (13121)<<<
 	[/KABU!TAMBUL!ATRIUM!1.X000!ARGHAVAN!]
 		|^13121:KABU!TAMBUL!ATRIUM!1.000!ARGHAVAN!|
 		*"..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.X000!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.000!ARGHAVAN!]
 		||
 		*"..."*
@@ -2488,13 +2488,13 @@ ARGHAVAN
 		*"What?! How do you..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.1000!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.100!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.1000!ARGHAVAN!]
 		||
 		*"I..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.1001!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.1000!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.1001!ARGHAVAN!]
 		||
 		*"I... can't talk about it."*
@@ -2502,19 +2502,19 @@ ARGHAVAN
 		(B#"Why not?"){B:1,KABU!TAMBUL!ATRIUM!1.X101!ARGHAVAN!}
 		(E#"That's not up to you, child! Now tell me who did it."){E:1,KABU!TAMBUL!ATRIUM!1.X101!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.1001!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.200!ARGHAVAN!]
 		||
 		*"What?! How do you..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.2000!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.200!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.2000!ARGHAVAN!]
 		||
 		*"I..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.2001!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.2000!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.2001!ARGHAVAN!]
 		||
 		*"I... can't talk about it."*
@@ -2522,7 +2522,7 @@ ARGHAVAN
 		(B#"Why not?"){B:1,KABU!TAMBUL!ATRIUM!1.X101!ARGHAVAN!}
 		(C#"Then, you're on your own, I guess."){C:1,KABU!TAMBUL!ATRIUM!1.X101!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.2001!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.X300!ARGHAVAN!]
 		|@:KABU!TAMBUL!ATRIUM!3.000!ARGHAVAN!|
 		*"Then scram, jinnlicker and don't waste my time!"*
@@ -2534,13 +2534,13 @@ ARGHAVAN
 		*"What?! How do you..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4000!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.400!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.4000!ARGHAVAN!]
 		||
 		*"I..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4001!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.4000!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.4001!ARGHAVAN!]
 		||
 		*"I... can't talk about it."*
@@ -2554,13 +2554,13 @@ ARGHAVAN
 		*"But, I..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.5000!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.500!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.5000!ARGHAVAN!]
 		||
 		*"It wasn't..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.5001!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.5000!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.5001!ARGHAVAN!]
 		||
 		*"I... can't talk about it."*
@@ -2568,42 +2568,42 @@ ARGHAVAN
 		(D#"But you weren't alone in killing them; a mage was involved, right?"){D:1,KABU!TAMBUL!ATRIUM!1.X101!ARGHAVAN!}
 		(E#"Convenient you're the sole survivor, isn't it?"){E:1,KABU!TAMBUL!ATRIUM!1.X101!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.5001!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.600!ARGHAVAN!]
 		||
 		*"You..! You jinncursed wench!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.X6000!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.600!ARGHAVAN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.X6000!ARGHAVAN!]
 		|@:KABU!TAMBUL!ATRIUM!3.000!ARGHAVAN!|
 		*"I hope you die!"*
 		(F#"I thought kids loved jokes?"){F:1,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.X6000!ARGHAVAN!/]
 
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.X101!ARGHAVAN!]
 		|@:KABU!TAMBUL!ATRIUM!2.X000!ARGHAVAN!|
 		*"Please... just. He... My father... I can't!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.X101!ARGHAVAN!/]
-	
-	
+
+
 	[/KABU!TAMBUL!ATRIUM!2.X000!ARGHAVAN!]
 		|@:KABU!TAMBUL!ATRIUM!3.000!ARGHAVAN!|
 		*"Please... it's just.. He... My father... I can't!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!2.X000!ARGHAVAN!/]
-	
-	
+
+
 	[/KABU!TAMBUL!ATRIUM!3.000!ARGHAVAN!]
 		||
 		*"..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!3.000!ARGHAVAN!/]
-	
-	
-	
+
+
+
 BAHADUR
 >>>Spoke with Pakahron (13000)<<<
 	[/KABU!TAMBUL!ATRIUM!0.X000!BAHADUR!]
@@ -2614,7 +2614,7 @@ BAHADUR
 		(D#"I've journeyed far. I would speak with your master."){D:1,KABU!TAMBUL!ATRIUM!0.X400!BAHADUR!}
 		(E#"Why are you so clearly disinterested in protecting this place?"){E:1,KABU!TAMBUL!ATRIUM!0.500!BAHADUR!}
 	[KABU!TAMBUL!ATRIUM!0.X000!BAHADUR!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.000!BAHADUR!]
 		||
 		*"...Yes?"*
@@ -2648,12 +2648,12 @@ BAHADUR
 		*"Our mage-leader is further in the atrium near the fountain; he'll no doubt seek to speak with you."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!BAHADUR!}
 	[KABU!TAMBUL!ATRIUM!0.X400!BAHADUR!/]
-		
+
 	[/KABU!TAMBUL!ATRIUM!0.500!BAHADUR!]
 		||
 		*"Excuse me?"*
 		(A#"Why did you let me enter without asking who I was?"){A:1,KABU!TAMBUL!ATRIUM!0.101!BAHADUR!}
-		(D#"Al I meant was that you seem ill-prepared for defense..."){D:1,KABU!TAMBUL!ATRIUM!0.401!BAHADUR!}	
+		(D#"Al I meant was that you seem ill-prepared for defense..."){D:1,KABU!TAMBUL!ATRIUM!0.401!BAHADUR!}
 		(E#"I don't excuse weakness; I destroy it."){E:1,KABU!TAMBUL!ATRIUM!0.501!BAHADUR!}
 	[KABU!TAMBUL!ATRIUM!0.500!BAHADUR!/]
 
@@ -2663,7 +2663,7 @@ BAHADUR
 		*"It's Biraculian custom to welcome all who come seeking food, water or friends; acceptance is part of the Path of Awareness."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X1010!BAHADUR!}
 	[KABU!TAMBUL!ATRIUM!0.101!BAHADUR!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.X1010!BAHADUR!]
 		|@:KABU!TAMBUL!ATRIUM!0.X896!BAHADUR!|
 		*"Now go about your business in the light of the Shining One, stranger."*
@@ -2672,7 +2672,7 @@ BAHADUR
 
 	[/KABU!TAMBUL!ATRIUM!0.401!BAHADUR!]
 		||
-		*"Perhaps you should discuss battle plans with our mage-leader; I'm sure he'd be interested in listening to the sage strategic advice of a vagrant fresh from nowhere..."* 
+		*"Perhaps you should discuss battle plans with our mage-leader; I'm sure he'd be interested in listening to the sage strategic advice of a vagrant fresh from nowhere..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X4010!BAHADUR!}
 	[KABU!TAMBUL!ATRIUM!0.401!BAHADUR!/]
 
@@ -2700,7 +2700,7 @@ BAHADUR
 		*"I'm sorry, lady, but protocol states no fraternizing while on duty."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!BAHADUR!}
 	[KABU!TAMBUL!ATRIUM!0.X896!BAHADUR!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.897!BAHADUR!]
 		||
 		*"..."*
@@ -2723,14 +2723,14 @@ BAHADUR
 		|@:KABU!TAMBUL!ATRIUM!0.897!BAHADUR!|
 		*"Was I not clear? I am not permitted to speak to you. Go about your business."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!BAHADUR!}
-	[KABU!TAMBUL!ATRIUM!0.X899!BAHADUR!/]	
+	[KABU!TAMBUL!ATRIUM!0.X899!BAHADUR!/]
 
 
 
 NIYOOSH
 	[/KABU!TAMBUL!ATRIUM!0.000!NIYOOSH!]
 		||
-		*"Hello there, stranger! Care for a drink? It can be thirsty work travelin' the desert alone!"* 
+		*"Hello there, stranger! Care for a drink? It can be thirsty work travelin' the desert alone!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.0000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.000!NIYOOSH!/]
 
@@ -2744,8 +2744,8 @@ NIYOOSH
 		(E#"What would a mere water peddler know about traveling the desert?"){E:1,KABU!TAMBUL!ATRIUM!0.500!NIYOOSH!}
 		(F#"Indeed! 'The Hero of Tomorrow' must first stay hydrated today!"){F:1,KABU!TAMBUL!ATRIUM!0.600!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.0000!NIYOOSH!/]
-	
-	
+
+
 	[/KABU!TAMBUL!ATRIUM!0.100!NIYOOSH!]
 		||
 		*"You know, stranger, here in Kabu an outsider is rarer than a kind-hearted Jinn..."*
@@ -2837,7 +2837,7 @@ NIYOOSH
 	[KABU!TAMBUL!ATRIUM!0.4000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.4001!NIYOOSH!]
-		||		
+		||
         *"Well, in any case, they couldn't believe we had no gold, or coins, or whatever it was they wanted to trade for their trinkets. Good folk, they were, deep down. But savages, ignorant of the Path of Awareness nonetheless. No offense."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.4002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.4001!NIYOOSH!/]
@@ -2849,13 +2849,13 @@ NIYOOSH
 	[KABU!TAMBUL!ATRIUM!0.4002!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.4003!NIYOOSH!]
-		||		
+		||
 		*"Though, me personally, I was more interested in news from whatever corner of the world they came from than their company - always have been one to keep up to date!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.4004!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.4003!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.4004!NIYOOSH!]
-		||		
+		||
         *"Say, if you've heard some whispers from beyond these walls, I'd be interested in hearin' them - even willin' to respond in kind..."*
 		(C#"..."){C:1,KABU!TAMBUL!ATRIUM!0.301!NIYOOSH!}
 		(D#"I suppose that depends on how interesting your 'whispers' are..."){D:1,KABU!TAMBUL!ATRIUM!0.401!NIYOOSH!}
@@ -2918,13 +2918,13 @@ NIYOOSH
 		*"Mark my words! Someday soon, blood'll run on the stones of the Dawn Fortress!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.X000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.1011!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.1012!NIYOOSH!]
 		||
 		*"Fantastic! Then as a sign of good faith here's somethin' few yet realize..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1013!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.1012!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.1013!NIYOOSH!]
 		||
 		*"Ol' Famlaz features prominently in tales from the past, but I think the Ruby Jinn has been hauntin' the Jenowin Plain since even before the Great Awakenin'!"*
@@ -2974,9 +2974,9 @@ NIYOOSH
 		*"Hmmm! As silent as Melinoe herself, eh?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X3010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.301!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.X3010!NIYOOSH!]
-		|@:KABU!TAMBUL!ATRIUM!0.899!NIYOOSH!|	
+		|@:KABU!TAMBUL!ATRIUM!0.899!NIYOOSH!|
 		*"Well that's fine, I s'pose. But do come back if you change your mind, kid!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.X3010!NIYOOSH!/]
@@ -2986,25 +2986,25 @@ NIYOOSH
 		*"Hmmm! Well, beggars can't be choosers can they? Alright, here's somethin' few yet know..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.401!NIYOOSH!/]
-		
+
 	[/KABU!TAMBUL!ATRIUM!0.501!NIYOOSH!]
 		||
 		*"Ah! In that case let me tell you news of my friend, the Beast Lord of the Crescent Canyon!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.5010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.501!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.5010!NIYOOSH!]
 		||
 		*"Everyone knows he's a blood-thirsty savage, walkin' in the skin of a desert wolf by night and the guise of a man by day..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.5011!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.5010!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.5011!NIYOOSH!]
 		||
 		*"But accordin' to the latest rumors, he's now wearin' the skin of the last person who threatened me..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.5012!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.5011!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.5012!NIYOOSH!]
 		||
 		*"Interestin' news, wouldn't you agree?"*
@@ -3015,32 +3015,32 @@ NIYOOSH
 		|@:KABU!TAMBUL!ATRIUM!0.895!NIYOOSH!|
 		*"Now, if you'll excuse me, I've got some water to attend to!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!0.X5013!NIYOOSH!/]	
-	
+	[KABU!TAMBUL!ATRIUM!0.X5013!NIYOOSH!/]
+
 	[/KABU!TAMBUL!ATRIUM!0.601!NIYOOSH!]
 		||
-		*"Really? Then go on! Share it with me!"*	
-		(F#"I'm winning the war on gremlins, one bloody battle at a time..."){F:1,KABU!TAMBUL!ATRIUM!0.602!NIYOOSH!}			
-	[KABU!TAMBUL!ATRIUM!0.601!NIYOOSH!/]	
-	
+		*"Really? Then go on! Share it with me!"*
+		(F#"I'm winning the war on gremlins, one bloody battle at a time..."){F:1,KABU!TAMBUL!ATRIUM!0.602!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!0.601!NIYOOSH!/]
+
 	[/KABU!TAMBUL!ATRIUM!0.602!NIYOOSH!]
 		||
 		*"...Is that... so..?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.6020!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.602!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.6020!NIYOOSH!]
 		||
 		*"Well, your story certainly is interestin', and I'd be a ruby-tongued liar if I didn't share somethin' equally useful with you!"*
 		(F#"Don't stick your tongue in weird places! I learned that the hard way..."){F:1,KABU!TAMBUL!ATRIUM!0.6021!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.6020!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.6021!NIYOOSH!]
 		||
 		*"I didn't sti... Well, anyways, rumor has it, Biracul has finally returned!"*
 		(F#"Could've just been me in a different book."){F:1,KABU!TAMBUL!ATRIUM!0.6022!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.6021!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.6022!NIYOOSH!]
 		||
 		*"Right... uh, well, he's said to walk among us in secret - in the guise of a chicken no less! His form cloaked from all but the ones who've walked the Path of Awareness to its furthest reaches..."*
@@ -3076,7 +3076,7 @@ NIYOOSH
 		*"Water! Water! Fresh from the Wellspring! Come drink the tears of the Heathen!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.890!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.891!NIYOOSH!]
 		||
 		*"So, you're back! Any news from you, stranger?"*
@@ -3090,19 +3090,19 @@ Maybe NIYOOSH should disappear after this?????
 		*"Now if you'll excuse me, I need to go tell Pakahron about that jinnstruck Tacribian's plans!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.8920!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.892!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.8920!NIYOOSH!]
 		||
 		*"Maybe we'll exchange more news in the future!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X8921!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.8920!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.X8921!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!0.8922!NIYOOSH!|
 		*"Biracul light your path, friend!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.X8921!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.8922!NIYOOSH!]
 		||
 		*"..."*
@@ -3114,25 +3114,25 @@ Maybe NIYOOSH should disappear after this?????
 		*"Greetings! I hope you've learned some more 'reliable' news in your travels."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.8940!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.894!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.8940!NIYOOSH!]
 		||
 		*"But by Biracul's beard, I'd love to chat, though seems I'm busier than a rooster in a henhouse!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X8941!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.8940!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.X8941!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!0.890!NIYOOSH!|
 		*"Biracul light your path."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.X8941!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.895!NIYOOSH!]
 		||
 		*"So, you've returned! Richer in humility, I hope..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X8950!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.895!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.X8950!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!0.890!NIYOOSH!|
 		*"But by Biracul's beard, though I'd love to chat, seems I'm busier than a Suyuti in a goat pen!"*
@@ -3232,7 +3232,7 @@ Maybe NIYOOSH should disappear after this?????
 		||
 		*"Now lemme share somethin' with you."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.102!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!1.1010!NIYOOSH!/]	
+	[KABU!TAMBUL!ATRIUM!1.1010!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!1.401!NIYOOSH!]
 		||
@@ -3244,14 +3244,14 @@ Maybe NIYOOSH should disappear after this?????
 		||
 		*"But first, lemme share somethin' with you - so you don't think me a ruby-tongued deceiver!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.1020!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!1.4010!NIYOOSH!/]	
+	[KABU!TAMBUL!ATRIUM!1.4010!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!1.102!NIYOOSH!]
 		||
 		*"Dazir's Librarian was seen wanderin' the Valley of Bones a few days ago, but hasn't been seen since... and given how that place is about as welcomin' of people as a Daziran is of criticism, next he's seen, he'll probably be fit to join the Bone Pile..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.X000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.102!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.1020!NIYOOSH!]
 		||
 		*"Dazir's Librarian was seen wanderin' the Valley of Bones a few days ago, but hasn't been seen since... and given how that place is about as welcomin' of people as a Daziran is of criticism, next he's seen, he'll probably be fit to join the Bone Pile..."*
@@ -3259,7 +3259,7 @@ Maybe NIYOOSH should disappear after this?????
 	[KABU!TAMBUL!ATRIUM!1.1020!NIYOOSH!/]
 
 
->>>Been to Dazir (10000)<<<	
+>>>Been to Dazir (10000)<<<
 	[/KABU!TAMBUL!ATRIUM!2.X000!NIYOOSH!]
 		|^10000:KABU!TAMBUL!ATRIUM!2.0000!NIYOOSH!|
 		*"Thought as much... What about Dazir then, been there? Before they closed the gates, that is."*
@@ -3275,8 +3275,8 @@ Maybe NIYOOSH should disappear after this?????
 		(A#"Yes, I have."){A:1,KABU!TAMBUL!ATRIUM!2.100!NIYOOSH!}
 		(D#"...No, I haven't."){D:1,KABU!TAMBUL!ATRIUM!2.001!NIYOOSH!}
 		(E#"Why do you ask?"){E:1,KABU!TAMBUL!ATRIUM!2.005!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!2.0000!NIYOOSH!/]	
-	
+	[KABU!TAMBUL!ATRIUM!2.0000!NIYOOSH!/]
+
 	[/KABU!TAMBUL!ATRIUM!2.001!NIYOOSH!]
 		||
 		*"Unfortunate, but understandable - y'know, since Khaa closed their gates after the Wellspring mishap."*
@@ -3361,7 +3361,7 @@ Maybe NIYOOSH should disappear after this?????
 		*"I'd only be less surprised if you told me he was ol' Famlaz in disguise! That guileful jinnkisser'll get what's comin' to him!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.4010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.401!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!2.4010!NIYOOSH!]
 		||
 		*"I gotta thank you for this news, stranger! So now let me share somethin' with you - fair is fair, after all!"*
@@ -3373,19 +3373,19 @@ Maybe NIYOOSH should disappear after this?????
 		*"The situation between Dazir and the Dawn Fortress is no accident..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.1020!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.102!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!2.1020!NIYOOSH!]
 		||
 		*"You see, Khaa is a jealous man, but he's jealous of no man more than Khlutt!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.1021!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.1020!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!2.1021!NIYOOSH!]
 		||
 		*"Rumor has it, Khlutt belonged to a secret sect of jinnworshippin' magi, has all sorts of un-Biraculian powers and the like!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.1022!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.1021!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!2.1022!NIYOOSH!]
 		||
 		*"He's said to be able to pass through walls... Oh! And to exist in many places at once! All that and an amethyst load of other terrifyin' feats of Technocraft."*
@@ -3573,16 +3573,16 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.012!NIYOOSH!]
 		||
-		*"Biracul balls! Did you say 'Hazanna'?!"* 
+		*"Biracul balls! Did you say 'Hazanna'?!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.0120!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.012!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!4.0120!NIYOOSH!]
 		||
-		*"She's still alive?! I didn't think it'd be possible..."* 
+		*"She's still alive?! I didn't think it'd be possible..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.0121!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.0120!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!4.0121!NIYOOSH!]
 		||
 		*"But maybe she did it after all, that jinnkisser! Ha!"*
@@ -3656,13 +3656,13 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.200!NIYOOSH!]
 		||
-		*"Biracul balls! Did you say the Unseen are in Ur'Ruk?!"* 
+		*"Biracul balls! Did you say the Unseen are in Ur'Ruk?!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.2000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.200!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.2000!NIYOOSH!]
 		||
-		*"They're still alive?! I wouldn't've thought it possible..."* 
+		*"They're still alive?! I wouldn't've thought it possible..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.2001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.2000!NIYOOSH!/]
 
@@ -3678,8 +3678,8 @@ Maybe NIYOOSH should disappear after this?????
 		(A#"They live under the yolk of Hazanna."){A:1,KABU!TAMBUL!ATRIUM!4.101!NIYOOSH!}
 		(B#"They said they were victims of a dark mage named Ormenos."){B:1,KABU!TAMBUL!ATRIUM!4.201!NIYOOSH!}
 		(C#"They reside in the Vanquished ruins at the edge of the Wastes."){C:1,KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!4.2002!NIYOOSH!/]	
-	
+	[KABU!TAMBUL!ATRIUM!4.2002!NIYOOSH!/]
+
 	[/KABU!TAMBUL!ATRIUM!4.300!NIYOOSH!]
 		||
 		*"Biracul balls! Did you say Radan?!"*
@@ -3730,7 +3730,7 @@ Maybe NIYOOSH should disappear after this?????
 		(C#"They reside in the Vanquished ruins at the edge of the Wastes."){C:1,KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!}
 		(D#"I'm not at liberty to say... at least, not without 'incentive'."){D:1,KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!}
 		(E#"You think the Tacribians are dangerous? Wait 'til the Unseen come knocking."){E:1,KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!4.4002!NIYOOSH!/]	
+	[KABU!TAMBUL!ATRIUM!4.4002!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.500!NIYOOSH!]
 		||
@@ -3740,7 +3740,7 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.5000!NIYOOSH!]
 		||
-		*"She still lives?! I wouldn't've thought it possible..."* 
+		*"She still lives?! I wouldn't've thought it possible..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.5001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.5000!NIYOOSH!/]
 
@@ -3764,31 +3764,31 @@ Maybe NIYOOSH should disappear after this?????
 		(E#"You think the Tacribians are dangerous? Wait 'til the Unseen come knocking."){E:1,KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.5003!NIYOOSH!/]
 
-	
+
 	[/KABU!TAMBUL!ATRIUM!4.101!NIYOOSH!]
 		||
 		*"So, I guess Pakahron wasn't kiddin'... Without the Trueflesh, the Wasteland strips away the mind until its unknown even to itself..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.1010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.101!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!4.1010!NIYOOSH!]
 		||
 		*"Hazanna was a meek and mild idealist back when we were young; back when I knew her..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.800!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.1010!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!4.201!NIYOOSH!]
 		||
 		*"So, Khaa was right in sayin' not even the lowest of us would envy the Unseen..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.2010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.201!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!4.2010!NIYOOSH!]
 		||
 		*"Archma... er, Kambesh knew it too when he exiled that jinntouched Ormenos."*
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.800!NIYOOSH!}	
-	[KABU!TAMBUL!ATRIUM!4.2010!NIYOOSH!/]	
-	
+		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.800!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!4.2010!NIYOOSH!/]
+
 	[/KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!]
 		||
 		*"What a nightmare the Wastes must be if it drove them there..."*
@@ -3839,7 +3839,7 @@ Maybe NIYOOSH should disappear after this?????
 		*"But I s'pose that's to be expected; the Wasteland is nothin' but a world of perversion, after all."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.801!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.800!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!4.801!NIYOOSH!]
 		||
 		*"Yet, I find it strange to think that life in the Waste is even possible."*
@@ -3871,7 +3871,7 @@ Maybe NIYOOSH should disappear after this?????
 	[KABU!TAMBUL!ATRIUM!4.805!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.806!NIYOOSH!]
-		||	
+		||
 		*"And I'll tell you what, this is the true reason for their animosity towards the Kabans this side of the canyon."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.807!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.806!NIYOOSH!/]
@@ -3936,7 +3936,7 @@ Maybe NIYOOSH should disappear after this?????
 		*"Come with more Jinn's tales?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.X9990!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.999!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!4.X9990!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!0.894!NIYOOSH!|
 		*"Next thing you know you'll be tryin' to tell me Biracul's been sleepin' with Famlaz..."*
@@ -4267,16 +4267,16 @@ ask about the town
 		*"Well, I must say, time flies by doesn't it?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9.X001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!9.000!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9.X001!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!0.894!NIYOOSH!|
 		*"Afraid I gotta get back to my work! Biracul guide you, stranger."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!9.X001!NIYOOSH!/]
 
-	
-		
-PAKAHRON	
+
+
+PAKAHRON
 >>>Knowledge of poison crops (17006)<<<
 	[/KABU!TAMBUL!ATRIUM!0.X000!PAKAHRON!]
 		|^17006:KABU!TAMBUL!ATRIUM!1.000!PAKAHRON!|
@@ -4302,7 +4302,7 @@ PAKAHRON
 		*"You don't dress as we Kabans do and since you obviously have the rare talent to operate the Farcaster, I can only surmise you must be a foreign mage come from afar."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.0011!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.0010!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.0011!PAKAHRON!]
 		||
 		*"In any event, when some of my citizens witnessed your arrival, they informed me immediately so that I could perhaps learn more of our new visitor."*
@@ -4367,7 +4367,7 @@ PAKAHRON
 		*"I wonder if what we call a mage is simply known by another name in your foreign school of Technocrafts..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.2004!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.2003!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.2004!PAKAHRON!]
 		||
 		*"In any case, a mage studies the Ars Techne, in essence, natural law. This allows us to understand and manipulate the physical and metaphysical through proper control of the mind."*
@@ -4432,7 +4432,7 @@ PAKAHRON
 		*"Your curiosity about others is laudable, stranger! However, before allowing you access, it's my responsibility to determine if you are a threat to our peaceful way of life."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1010!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.101!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.1010!PAKAHRON!]
 		||
 		*"You wouldn't mind if I used my Truesight to look into the nature of your visit here, would you?"*
@@ -4454,7 +4454,7 @@ PAKAHRON
 		*"I wish that I could trust you, my friend. But my people have a right to security and they look to me to provide it."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.3010!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.301!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.3010!PAKAHRON!]
 		||
 		*"You wouldn't mind if I used my Truesight to look into the nature of your visit here, would you?"*
@@ -4465,7 +4465,7 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ATRIUM!0.401!PAKAHRON!]
 		||
-		*"Biracul be praised! I command no one and nothing, stranger! These people here follow me of their own accord."* 
+		*"Biracul be praised! I command no one and nothing, stranger! These people here follow me of their own accord."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.4010!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.401!PAKAHRON!/]
 
@@ -4573,22 +4573,22 @@ PAKAHRON
 		(C#"I must decline."){C:1,KABU!TAMBUL!ATRIUM!0.303!PAKAHRON!}
 		(D#_Use Hidden Mind Techne_){D:1,KABU!TAMBUL!ATRIUM!10.000!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.302!PAKAHRON!/]
-	
+
 >>>Have Hidden Mind (12304)<<<
 	[/KABU!TAMBUL!ATRIUM!0.X322!PAKAHRON!]
 		|^12304:KABU!TAMBUL!ATRIUM!0.322!PAKAHRON!|
 		*"Admittedly it would be within my power to alter your mind. However, you needn't fear, as I've sworn an oath in Biracul's name to only use my abilities for reading thoughts, and only when given permission to do so."*
 		(B#"Then you may use your Truesight."){B:1,KABU!TAMBUL!ATRIUM!3.X020!PAKAHRON!}
 		(C#"I must decline."){C:1,KABU!TAMBUL!ATRIUM!0.303!PAKAHRON!}
-	[KABU!TAMBUL!ATRIUM!0.X322!PAKAHRON!/]	
-	
+	[KABU!TAMBUL!ATRIUM!0.X322!PAKAHRON!/]
+
 	[/KABU!TAMBUL!ATRIUM!0.322!PAKAHRON!]
 		||
 		*"Admittedly it would be within my power to alter your mind. However, you needn't fear, as I've sworn an oath in Biracul's name to only use my abilities for reading thoughts, and only when given permission to do so."*
 		(B#"Then you may use your Truesight."){B:1,KABU!TAMBUL!ATRIUM!3.X020!PAKAHRON!}
 		(C#"I must decline."){C:1,KABU!TAMBUL!ATRIUM!0.303!PAKAHRON!}
 		(D#_Use Hidden Mind Techne_){D:1,KABU!TAMBUL!ATRIUM!10.000!PAKAHRON!}
-	[KABU!TAMBUL!ATRIUM!0.322!PAKAHRON!/]	
+	[KABU!TAMBUL!ATRIUM!0.322!PAKAHRON!/]
 
 >>>Have Hidden Mind (12304)<<<
 	[/KABU!TAMBUL!ATRIUM!0.X402!PAKAHRON!]
@@ -4603,13 +4603,13 @@ PAKAHRON
 		(C#"I must decline."){C:1,KABU!TAMBUL!ATRIUM!0.303!PAKAHRON!}
 		(E#"I refuse subjection to the judgment of false benevolence."){E:1,KABU!TAMBUL!ATRIUM!0.503!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.4020!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.402!PAKAHRON!]
 		||
 		*"You are within your rights to refuse, stranger. However, if you don't submit yourself to my scrutiny, I am within my rights to deny you entry into our township."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.4021!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.402!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.4021!PAKAHRON!]
 		||
 		*"That said, we won't turn you away empty handed; a small parcel of food and a filled waterskin will serve to show we accepted you in the light of the Shining One and saw you off in its afterglow."*
@@ -4624,13 +4624,13 @@ PAKAHRON
 		*"There are limits to tolerance, stranger. Those who cannot respect the rights of others are not welcome within these walls; and those who willingly violate these rights are exiled into the Wasteland."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.5020!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.X502!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.5020!PAKAHRON!]
 		||
 		*"Punishment is not something I take pride in, but such measures are necessary for the continuation of civilization."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.5021!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.5020!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.5021!PAKAHRON!]
 		||
 		*"As such, I must either peer into your mind, or you must depart immediately."*
@@ -4646,7 +4646,7 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ATRIUM!0.5022!PAKAHRON!]
 		||
-		*"Punishment is not something I take pride in, but such measures are necessary for the continuation of civilization."* 
+		*"Punishment is not something I take pride in, but such measures are necessary for the continuation of civilization."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.5023!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.5022!PAKAHRON!/]
 
@@ -4713,12 +4713,12 @@ mifascul meeting in desert
 		*"Greetings stranger! You've entered the township of Tambul, and I am its mage-leader, Pakahron."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.0000!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!1.000!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.0000!PAKAHRON!]
 		||
 		*"Fear not, for though we have not met before, you are among friends here."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.0001!PAKAHRON!}
-	[KABU!TAMBUL!ATRIUM!1.0000!PAKAHRON!/]	
+	[KABU!TAMBUL!ATRIUM!1.0000!PAKAHRON!/]
 
 	[/KABU!TAMBUL!ATRIUM!1.0001!PAKAHRON!]
 		||
@@ -4751,7 +4751,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!1.101!PAKAHRON!]
 		||
-		*"It is. Of course, my sole purpose was to prevent the possibility of conflict by turning Kabu into a land of plenty!"* 
+		*"It is. Of course, my sole purpose was to prevent the possibility of conflict by turning Kabu into a land of plenty!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.1010!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!1.101!PAKAHRON!/]
 
@@ -4769,7 +4769,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!1.201!PAKAHRON!]
 		||
-		*"I understand you seek answers; I would, too, were our positions reversed."* 
+		*"I understand you seek answers; I would, too, were our positions reversed."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.2010!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!1.201!PAKAHRON!/]
 
@@ -4823,7 +4823,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!1.401!PAKAHRON!]
 		||
-		*"I suppose it'll simply cost me a few moments of my time to kill you."* 
+		*"I suppose it'll simply cost me a few moments of my time to kill you."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4010!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!1.401!PAKAHRON!/]
 
@@ -4841,7 +4841,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!1.5010!PAKAHRON!]
 		||
-		*"Mifas'cul has no monopoly on occult Techne, stranger. But I'm afraid you'll have to be the first to taste the punishment I've prepared for that foreigner jinnspawn."* 
+		*"Mifas'cul has no monopoly on occult Techne, stranger. But I'm afraid you'll have to be the first to taste the punishment I've prepared for that foreigner jinnspawn."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9990.X13902!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!1.5010!PAKAHRON!/]
 
@@ -4853,7 +4853,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!1.6010!PAKAHRON!]
 		||
-		*"No... that's not what 'gravity' means in this context... Agh! Do not distract me!"* 
+		*"No... that's not what 'gravity' means in this context... Agh! Do not distract me!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.6011!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!1.6010!PAKAHRON!/]
 
@@ -4914,7 +4914,7 @@ mifascul meeting in desert
 >>>Knowledge of poison crops (17006)<<<
 	[/KABU!TAMBUL!ATRIUM!3.X020!PAKAHRON!]
 		|^17006:KABU!TAMBUL!ATRIUM!9.000!PAKAHRON!|
-		*"Your mind seems free of taint and deformity... But now I will look into your memories..."* 
+		*"Your mind seems free of taint and deformity... But now I will look into your memories..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.021!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.X020!PAKAHRON!/]
 
@@ -4938,7 +4938,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.024!PAKAHRON!]
 		||
-		*"Though, it doesn't resemble an erasure. It almost seems as though there were no memories to begin with..."* 
+		*"Though, it doesn't resemble an erasure. It almost seems as though there were no memories to begin with..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.0240!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.024!PAKAHRON!/]
 
@@ -4976,7 +4976,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.030!PAKAHRON!]
 		||
-		*"I'm sorry, my friend. I thought I might be able to assist you, or at least shed some light on your problem."* 
+		*"I'm sorry, my friend. I thought I might be able to assist you, or at least shed some light on your problem."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.031!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.030!PAKAHRON!/]
 
@@ -4994,7 +4994,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.100!PAKAHRON!]
 		||
-		*"Certainly, stranger. You see, the people of Dazir have mastered the arts of mechanical manipulation for the purposes of diverting water to areas where it was needed."* 
+		*"Certainly, stranger. You see, the people of Dazir have mastered the arts of mechanical manipulation for the purposes of diverting water to areas where it was needed."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.1000!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.100!PAKAHRON!/]
 
@@ -5135,13 +5135,13 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.401!PAKAHRON!]
 		||
-		*"Each contingent is guided by a mage such as myself."* 
+		*"Each contingent is guided by a mage such as myself."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.4010!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.401!PAKAHRON!/]
 
 	[/KABU!TAMBUL!ATRIUM!3.4010!PAKAHRON!]
 		||
-		*"I guide this township, while Dazir and the Dawn Fortress are led by magi Khaa and Khlutt, respectively."* 
+		*"I guide this township, while Dazir and the Dawn Fortress are led by magi Khaa and Khlutt, respectively."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.4011!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.4010!PAKAHRON!/]
 
@@ -5153,7 +5153,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.4012!PAKAHRON!]
 		||
-		*"Of course, having empathic philosophers as magi has served us well for generations, but it's not without its problems..."* 
+		*"Of course, having empathic philosophers as magi has served us well for generations, but it's not without its problems..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.4013!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.4012!PAKAHRON!/]
 
@@ -5167,7 +5167,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.501!PAKAHRON!]
 		||
-		*"I beg to differ! The only weakness is human fallibility."* 
+		*"I beg to differ! The only weakness is human fallibility."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.5010!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.501!PAKAHRON!/]
 
@@ -5202,7 +5202,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.102!PAKAHRON!]
 		||
-		*"I believe the root problem is a lack of communication and understanding."* 
+		*"I believe the root problem is a lack of communication and understanding."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.1020!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.102!PAKAHRON!/]
 
@@ -5256,7 +5256,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.502!PAKAHRON!]
 		||
-		*"For now they're deterred from assaulting either of our townships; for the Tacribians dwell across the canyon and beyond the Gate of Celestial Judgment."* 
+		*"For now they're deterred from assaulting either of our townships; for the Tacribians dwell across the canyon and beyond the Gate of Celestial Judgment."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.5020!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.502!PAKAHRON!/]
 
@@ -5273,13 +5273,13 @@ mifascul meeting in desert
 		*"That may be... a belief in your homeland. But I believe the root problem is a lack of communication and understanding."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.6020!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.602!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!3.6020!PAKAHRON!]
 		||
 		*"Even I can't comprehend the true nature of Tacriba's grievances - the fiasco with the Wellspring was merely the errant lightning bolt that ignited this brushfire."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.6021!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.6020!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!3.6021!PAKAHRON!]
 		||
 		*"Yet if only they agreed to a more thorough dialogue, I believe we could find peaceful ways to resolve this issue!"*
@@ -5309,7 +5309,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.203!PAKAHRON!]
 		||
-		*"Heavens, no! In Biracul's name, we're all guilty in some way or another!"* 
+		*"Heavens, no! In Biracul's name, we're all guilty in some way or another!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.2030!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.203!PAKAHRON!/]
 
@@ -5452,7 +5452,7 @@ mifascul meeting in desert
 		*"I see now that you seek only power and personal advantage. I cannot trust one such as you, either as emissary or as guest."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.4450!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.445!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!3.4450!PAKAHRON!]
 		||
 		*"You will collect your water and depart from my township immediately, stranger."*
@@ -5501,12 +5501,12 @@ subsequent interactions
 		*"Biracul guide you, outlander."*
 		(A#"But..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!4.X0001!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!4.X001!PAKAHRON!]
 		|@:KABU!TAMBUL!ATRIUM!4.002!PAKAHRON!|
 		*"Stranger, please, for the love of Ark, let me be so that I may think!"*
 		(A#"Could I..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!PAKAHRON!}
-	[KABU!TAMBUL!ATRIUM!4.X001!PAKAHRON!/]	
+	[KABU!TAMBUL!ATRIUM!4.X001!PAKAHRON!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.002!PAKAHRON!]
 		||
@@ -5531,7 +5531,7 @@ subsequent interactions
 Mind-checked +knowledge of poison crops
 	[/KABU!TAMBUL!ATRIUM!9.000!PAKAHRON!]
 		||
-		*"Ah... I see that you failed to mention your meeting with Mifas'cul in the desert..."* 
+		*"Ah... I see that you failed to mention your meeting with Mifas'cul in the desert..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9.0000!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!9.000!PAKAHRON!/]
 
@@ -5544,7 +5544,7 @@ Mind-checked +knowledge of poison crops
 Deemed Inscrutable
 	[/KABU!TAMBUL!ATRIUM!10.000!PAKAHRON!]
 		||
-		*"But your mind... It's unreadable. Then you are an Inscrutable!"* 
+		*"But your mind... It's unreadable. Then you are an Inscrutable!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!10.0000!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!10.000!PAKAHRON!/]
 
@@ -5575,8 +5575,8 @@ Initial encounter with Tambul
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.X000!DESCRIPTION!/]
-	
-	
+
+
 
 virgin entrance
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.0000!DESCRIPTION!]
@@ -5584,7 +5584,7 @@ virgin entrance
 		*Eidos shuffles her feet over the cracked, peeling skin of the earth, while cloudless skies offer no shelter from the sweltering heat of the sun. Water flows through these flats like wisdom from an idiot - and appears to have done so for centuries. No fauna, no flora, not even a dried out tumbleweed in sight.*
 		(A#...){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.0001!DESCRIPTION!}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.0000!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.0001!DESCRIPTION!]
 		||
 		*Then, through the heat-born distortions clawing their way skyward, she spots a massive bulwark rising up from the ground. Hundreds of buildings hide behind these walls, shyly poking the tips their roofs above the ramparts. The blinding spire Eidos chases juts up near the fortress' seam with the canyon's edge; and beyond it, spanning the canyon, is a massive bridge that looks to be floating midair.*
@@ -5595,9 +5595,9 @@ virgin entrance
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.X0002!DESCRIPTION!]
 		|^10000:KABU!TAMBUL!GATES OF TAMBUL!0.0003!DESCRIPTION!|
 		*As she nears the walls, her eyes center upon wooden doors roughly twenty paces wide and several times her height. Reinforced with bands of iron, the doors devoutly stand as unmoving guardians.
-		
+
 		Yet at her arrival, the helmeted visages of two watchmen appear atop the wall. They study her closely, inquiring about her intentions with their gazes.
-		
+
 		Weighing her options, Eidos looks west, noticing for the first time the deep ruts of a road leading to another settlement, nestled into the foot of the mountains. Eastward, leads along the city walls in the direction of the silver spire and a distant canyon beyond.*
 		(A#Go west to the other settlement){A:0,KABU!DAZIR!GATES OF DAZIR!0.X000!DESCRIPTION!}
 		(B#Go east along the city walls to the tower){B:0,KABU!TAMBUL!MOON TOWER!10.000!DESCRIPTION!}
@@ -5607,7 +5607,7 @@ virgin entrance
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.0003!DESCRIPTION!]
 		||
 		*As she nears the walls, her eyes center upon wooden doors roughly twenty paces wide and several times her height. Reinforced with bands of iron, the doors devoutly stand as unmoving guardians.
-		
+
 		Yet at her arrival, the helmeted visages of two watchmen appear atop the wall. They study her closely, inquiring about her intentions with their gazes.
 
 		Weighing her options, Eidos looks west, noticing the deep ruts of the road leading to Dazir, nestled into the foot of the mountains. Eastward, leads along the city walls in the direction of the silver spire and a distant canyon beyond.*
@@ -5620,14 +5620,14 @@ virgin entrance
 		|@:KABU!TAMBUL!GATES OF TAMBUL!0.X000!DESCRIPTION!|
 		*At her approach, the gates immediately begin to grate the earth beneath their feet, opening with a raspy moan. A handful of spearmen stand at the entrance, but do not block her passage. Neither the guards atop the walls nor those within them ask her name or purpose, though all present watch Eidos with attentive stares as she passes through the gates.*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!0.X000!DESCRIPTION!}
-	[KABU!TAMBUL!GATES OF TAMBUL!0.X001!DESCRIPTION!/]	
+	[KABU!TAMBUL!GATES OF TAMBUL!0.X001!DESCRIPTION!/]
 
 Not welcome in Tambul
 >>>Been to Dazir (10000)<<<
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.X002!DESCRIPTION!]
 		|^10000:KABU!TAMBUL!GATES OF TAMBUL!0.002!DESCRIPTION!|
 		*Eidos traipses through the dusty plains towards the heavy wooden gates of Tambul, firmly locked in place. The guards, alarmed at Eidos' resurrection, summon Pakahron immediately. Upon his arrival, Pakahron whispers something to the guards and walks off, confident in his gates' ability to bar any undesirables from entering.
-		
+
 		One thing is clear: these gates will no longer open for Eidos.*
 		(A#Go west to the other settlement){A:0,KABU!DAZIR!GATES OF DAZIR!0.X000!DESCRIPTION!}
 		(B#Go east along the walls towards the tower){B:0,KABU!TAMBUL!MOON TOWER!10.000!DESCRIPTION!}
@@ -5637,25 +5637,25 @@ Not welcome in Tambul
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.002!DESCRIPTION!]
 		||
 		*Eidos traipses through the dusty plains towards the heavy wooden gates of Tambul, firmly locked in place. The guards, alarmed at Eidos' resurrection, summon Pakahron immediately. Upon his arrival, Pakahron whispers something to the guards and walks off, confident in his gates' ability to bar any undesirables from entering.
-		
+
 		One thing is clear: these gates will no longer open for Eidos.*
 		(A#Go west to Dazir){A:0,KABU!DAZIR!GATES OF DAZIR!0.X000!DESCRIPTION!}
 		(B#Go east along the walls towards the tower){B:0,KABU!TAMBUL!MOON TOWER!10.000!DESCRIPTION!}
 		(C#Go south toward the Sanctuary){C:0,KABU!TAMBUL!GATES OF TAMBUL!9990.X13003!DESCRIPTION!}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.002!DESCRIPTION!/]
-	
+
 Not welcome in Tambul & Pak dead
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.0020!DESCRIPTION!]
 		||
 		*Eidos traipses through the dusty plains towards the heavy wooden gates of Tambul, firmly locked in place. A guard recognizes the mage-slayer's approach and rushes to alert the others. Like cowering, frantic chickens, they run about eventually disappearing below the ramparts, far from Eidos' view.*
 		(A#...){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.X0021!DESCRIPTION!}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.0020!DESCRIPTION!/]
-	
+
 	>>>Been to Dazir (10000)<<<
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.X0021!DESCRIPTION!]
 		|^10000:KABU!TAMBUL!GATES OF TAMBUL!0.0022!DESCRIPTION!|
 		*Silence falls upon the gates and the Atrium beyond, all in a desperate hope to avoid Eidos' attention. If fear and tension were edible, this would be a feast fit for a king.
-		
+
 		One thing is very clear: these gates will no longer open willing for Eidos.*
 		(A#Go west to the other settlement){A:0,KABU!DAZIR!GATES OF DAZIR!0.X000!DESCRIPTION!}
 		(B#Go east along the walls towards the tower){B:0,KABU!TAMBUL!MOON TOWER!10.000!DESCRIPTION!}
@@ -5665,7 +5665,7 @@ Not welcome in Tambul & Pak dead
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.0022!DESCRIPTION!]
 		||
 		*Silence falls upon the gates and the Atrium beyond, all in a desperate hope to avoid Eidos' attention. If fear and tension were edible, this would be a feast fit for a king.
-		
+
 		One thing is very clear: these gates will no longer open willing for Eidos.*
 		(A#Go west to Dazir){A:0,KABU!DAZIR!GATES OF DAZIR!0.X000!DESCRIPTION!}
 		(B#Go east along the walls towards the tower){B:0,KABU!TAMBUL!MOON TOWER!10.000!DESCRIPTION!}
@@ -5725,11 +5725,11 @@ khaa is dead
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.X0040!DESCRIPTION!]
 		|^12302:KABU!TAMBUL!GATES OF TAMBUL!0.0042!DESCRIPTION!|
 		*Arrows. Scores of them. And as iron to a magnet, the sharpened tips find her supple skin, ripping into her flesh. Her legs lose all strength, and she falls to her knees.
-		
+
 		Eidos now observes that the guards of Dazir stand shoulder-to-shoulder with those of Tambul. This alliance suggests her chances of interacting with the citizenry of either township have decreased significantly.*
 		(A#...){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.0041!DESCRIPTION!}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.X0040!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.0041!DESCRIPTION!]
 		||
 		*Blood draining from her honeycombed body, consciousness subsiding, her ghost makes its exodus from her Falseflesh.*
@@ -5739,7 +5739,7 @@ khaa is dead
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.0042!DESCRIPTION!]
 		||
 		*Arrows. Scores of them. And as iron to a magnet, the sharpened tips find her supple skin. Yet, the arrowheads chip and the shafts snap in twain as they collide with the diamond-hard covering Luin grants her.
-		
+
 		Eidos now observes that the guards of Dazir stand shoulder-to-shoulder with those of Tambul. This alliance suggests her chances of interacting with the citizenry of either township have decreased significantly.*
 		(A#Go west to Dazir){A:0,KABU!DAZIR!GATES OF DAZIR!0.X000!DESCRIPTION!}
 		(B#Go east along the walls towards the tower){B:0,KABU!TAMBUL!MOON TOWER!10.000!DESCRIPTION!}
@@ -5752,26 +5752,26 @@ Fought Khlutt
 		*As Eidos approaches, the heat-born distortions of the air obscure the walls of Tambul beyond. Then, in the space of a thought, a black mass careens down upon her from the sky like a swarm of locusts.*
 		(A#...){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.X0050!DESCRIPTION!}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.005!DESCRIPTION!/]
-	
+
 >>>Has Luin Armor (12302)<<<
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.X0050!DESCRIPTION!]
 		|^12302:KABU!TAMBUL!GATES OF TAMBUL!0.0052!DESCRIPTION!|
-		*Arrows. Scores of them. And as iron to a magnet, the sharpened tips find her supple skin, ripping into her flesh. Her legs lose all strength, and she falls to her knees. 
-		
+		*Arrows. Scores of them. And as iron to a magnet, the sharpened tips find her supple skin, ripping into her flesh. Her legs lose all strength, and she falls to her knees.
+
 		Suddenly, it dawns on her that news of her interactions with the Tacribian mage must have spread...*
 		(A#...){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.0051!DESCRIPTION!}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.X0050!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.0051!DESCRIPTION!]
 		||
 		*Blood draining from her honeycombed body, consciousness subsiding, her ghost makes its exodus from her Falseflesh.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.0051!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.0052!DESCRIPTION!]
 		||
 		*Arrows. Scores of them. And as iron to a magnet, the sharpened tips find her supple skin. Yet, the arrowheads chip and the shafts snap in twain as they collide with the diamond-hard covering Luin grants her.
-		
+
 		Suddenly, it dawns on her that news of her interactions with the Tacribian mage must have spread...*
 		(A#Go west to Dazir){A:0,KABU!DAZIR!GATES OF DAZIR!0.X000!DESCRIPTION!}
 		(B#Go east along the walls towards the tower){B:0,KABU!TAMBUL!MOON TOWER!10.000!DESCRIPTION!}
@@ -5807,17 +5807,17 @@ HYDROPONIC FARM
 		(A#Approach people to talk){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.X001!DESCRIPTION!}
 		(B#Return to the Residence District){B:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.000!DESCRIPTION!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.0002!DESCRIPTION!/]
-	
-	
+
+
 >>>Kambin is dead (13111)<<<
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.X001!DESCRIPTION!]
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
-	[KABU!TAMBUL!HYDROPONIC FARM!0.X001!DESCRIPTION!/]	
-	
-	
-	
+	[KABU!TAMBUL!HYDROPONIC FARM!0.X001!DESCRIPTION!/]
+
+
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.X0010!DESCRIPTION!]
 		|@:KABU!TAMBUL!HYDROPONIC FARM!1.X000!DESCRIPTION!|
 		*While most are engrossed in their work, a few catch Eidos' attention.*
@@ -5855,13 +5855,13 @@ HYDROPONIC FARM
 		*Set on leaving, Eidos first feels compelled to inhale deeply one last time. High on the air's purity, she cants her head toward the naked dome above and peering up into the cloudless sky recalls the dry and stale air awaiting her outside this oasis.*
 		(A#...){A:0,KABU!TAMBUL!HYDROPONIC FARM!1.002!DESCRIPTION!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.001!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.002!DESCRIPTION!]
 		||
 		*Suddenly she notices the daylight moon staring back at her like some rheumy celestial eye, unblinking and ever-vigilant. Though yet within this man-made haven, protected by its glassy shield, this hint of greater mysteries without beckons her. She feels it, the birth of a formless thought, an epiphany. It struggles wildly, thrashing about in the ocean of ideas, trying to breach the surface of consciousness like a drowning man desperate for air.*
 		(A#...){A:0,KABU!TAMBUL!HYDROPONIC FARM!1.003!DESCRIPTION!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.002!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.003!DESCRIPTION!]
 		||
 		*A crash, a clang, metal on stone. An embarrassed worker collects his fallen bucket and hurries off about his business, hoping all would forget his unseemly clumsiness - and soon enough all will. However, the unformed truth Eidos nearly stumbled upon now seems to have vanished along with the graceless worker. Try as she may, she can recall nothing of it.*
@@ -5884,7 +5884,7 @@ HYDROPONIC FARM
 	[/KABU!TAMBUL!HYDROPONIC FARM!10.000!DESCRIPTION!]
 		||
 		*A searing pain arrests Eidos as she feels her very brain being cut open, though bloodlessly so. Her naked thoughts exposed to the prying intellect of Pakahron, Eidos knows that he sees it all, absorbs it all, experiences it as though it were his very own actions. And thus, what was once uniquely Eidos' has now become communal property.
-		
+
 		The illusory operation has left unprotected the sole safe haven Eidos possessed. If this is what the denizens under a mage experience, it is no wonder they show such obedience, since their privacy depends on the mage's whims.*
 		(A#...){A:0,KABU!TAMBUL!HYDROPONIC FARM!10.001!DESCRIPTION!}
 	[KABU!TAMBUL!HYDROPONIC FARM!10.000!DESCRIPTION!/]
@@ -5898,8 +5898,8 @@ HYDROPONIC FARM
 killed someone in the area
 	[/KABU!TAMBUL!HYDROPONIC FARM!0099.000!DESCRIPTION!]
 		||
-		*Before even a drop of spilled blood has fallen upon the ground, Eidos sees Pakahron waddling gracelessly through the farmgrounds towards her. While his face is a stoic mask, his eyes burn with unambiguous intent. His displeased, yet calm demeanor belie a preternatural awareness of what has transpired. 
-		
+		*Before even a drop of spilled blood has fallen upon the ground, Eidos sees Pakahron waddling gracelessly through the farmgrounds towards her. While his face is a stoic mask, his eyes burn with unambiguous intent. His displeased, yet calm demeanor belie a preternatural awareness of what has transpired.
+
 		Without a break in his step, he advances forward to engage the threat that now menaces his people.*
 		(A#...){A:0,KABU!TAMBUL!HYDROPONIC FARM!9992.X0013!PAKAHRON!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0099.000!DESCRIPTION!/]
@@ -5911,13 +5911,13 @@ Deemed a Inscrutable
 		(A#Comply){A:1,KABU!TAMBUL!HYDROPONIC FARM!100.001!DESCRIPTION!}
 		(E#Attack){E:1,KABU!TAMBUL!HYDROPONIC FARM!9992.X0013!PAKAHRON!}
 	[KABU!TAMBUL!HYDROPONIC FARM!100.000!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!100.001!DESCRIPTION!]
 		||
 		*The two guards firmly take hold of both her arms, snaking one theirs underneath each of hers. The pressure place upon her shoulder causes her to lurch forward into a deep bow. Feeling that she intends not to resist, they loosen their grip slightly and begin to march her out into the town.*
 		(A#...){A:0,KABU!TAMBUL!MOON KEEP!0.199!DESCRIPTION!}
 	[KABU!TAMBUL!HYDROPONIC FARM!100.001!DESCRIPTION!/]
-	
+
 Pakahron dead
 >>>Have Luin Armor (12302)<<<
 	[/KABU!TAMBUL!HYDROPONIC FARM!999.X000!DESCRIPTION!]
@@ -5939,7 +5939,7 @@ Pakahron dead
 	[KABU!TAMBUL!HYDROPONIC FARM!999.100!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!999.101!DESCRIPTION!]
-		||	
+		||
 		*The guards inspect the body of the fallen mage and mournfully shake their heads in confirmation of his departure from the Falseflesh. Suddenly, they begin to gather around her and wordlessly, like a hive-minded machine, they pull back their spears and attempt to perforate Eidos' Falseflesh. But Luin disagrees with their plans and destroys their each spear upon impact.*
 		(A#...){A:0,KABU!TAMBUL!HYDROPONIC FARM!999.102!DESCRIPTION!}
 	[KABU!TAMBUL!HYDROPONIC FARM!999.101!DESCRIPTION!/]
@@ -5980,7 +5980,7 @@ KAMBIN
 >>>Know about Kambin (13110)<<<
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.X000!KAMBIN!]
 		|^13110:KABU!TAMBUL!HYDROPONIC FARM!1.X000!KAMBIN!|
-		*"'It's a dust-cursed life, full of toil and strife, we vagabonds undergo! 
+		*"'It's a dust-cursed life, full of toil and strife, we vagabonds undergo!
 		And our tents are lain on the Jenowin Plain, how hard the winds do blow!'"*
 		(A#"Who're you singing about?"){A:1,KABU!TAMBUL!HYDROPONIC FARM!0.100!KAMBIN!}
 		(B#"What're you singing?"){B:1,KABU!TAMBUL!HYDROPONIC FARM!0.200!KAMBIN!}
@@ -5996,7 +5996,7 @@ KAMBIN
 		*"I think it's an old song about wanderers out in the desert. Oh, y'know, nomads."*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.1000!KAMBIN!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.100!KAMBIN!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.1000!KAMBIN!]
 		||
 		*"All folk of Kabu were once a tribal people, y'know."*
@@ -6051,7 +6051,7 @@ KAMBIN
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.101!KAMBIN!]
 		||
-		*"I s'pose it's because it gives me a sense of continuity, a connection to the past or some such."* 
+		*"I s'pose it's because it gives me a sense of continuity, a connection to the past or some such."*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.1010!KAMBIN!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.101!KAMBIN!/]
 
@@ -6069,7 +6069,7 @@ KAMBIN
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.201!KAMBIN!]
 		||
-		*"I s'pose it's possible! They say some of the songs we sing are older even than the records kept in the Archives!"* 
+		*"I s'pose it's possible! They say some of the songs we sing are older even than the records kept in the Archives!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.X2010!KAMBIN!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.201!KAMBIN!/]
 
@@ -6103,7 +6103,7 @@ KAMBIN
 		|@:KABU!TAMBUL!HYDROPONIC FARM!0.X894!KAMBIN!|
 		*"I hope you like it darlin'!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!KAMBIN!}
-	[KABU!TAMBUL!HYDROPONIC FARM!0.X4010!KAMBIN!/]	
+	[KABU!TAMBUL!HYDROPONIC FARM!0.X4010!KAMBIN!/]
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.X501!KAMBIN!]
 		|@:KABU!TAMBUL!HYDROPONIC FARM!0.X895!KAMBIN!|
@@ -6135,7 +6135,7 @@ KAMBIN
 	[KABU!TAMBUL!HYDROPONIC FARM!0.602!KAMBIN!/]
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.6020!KAMBIN!]
-		||		
+		||
 		*"'That's why I always take time to write this.
 		I mold it in my hands before I start chiselin'.
 		Could be a rain or brainstorm or drizzlin'...'"*
@@ -6190,7 +6190,7 @@ KAMBIN
 		(F#"Harsh, bro."){F:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!KAMBIN!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.X609!KAMBIN!/]
 
->>>Know about Kambin (13110)<<<	
+>>>Know about Kambin (13110)<<<
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.X892!KAMBIN!]
 		|^13110:KABU!TAMBUL!HYDROPONIC FARM!1.X000!KAMBIN!|
 		*"'Kambin, Song Librarian of Tambul'. I like the sound of that!"*
@@ -6374,7 +6374,7 @@ KAMBIN
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.2030!KAMBIN!]
 		||
 		*"No hope."*
-		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!1.1030!KAMBIN!}	
+		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!1.1030!KAMBIN!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.2030!KAMBIN!/]
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.403!KAMBIN!]
@@ -6398,7 +6398,7 @@ KAMBIN
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.X4032!KAMBIN!]
 		|@:KABU!TAMBUL!HYDROPONIC FARM!1.X898!KAMBIN!|
 		*"Nothing but my wife, my songs and... my dreams."*
-		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!KAMBIN!}	
+		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!KAMBIN!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.X4032!KAMBIN!/]
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.503!KAMBIN!]
@@ -6425,7 +6425,7 @@ KAMBIN
 		*"Do as you will, stranger; it won't matter soon enough."*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!KAMBIN!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.X898!KAMBIN!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.X899!KAMBIN!]
 		|@:KABU!TAMBUL!HYDROPONIC FARM!1.900!KAMBIN!|
 		*"I'll be doin' no more singin', I s'pose; no need for joy in these fields."*
@@ -6490,7 +6490,7 @@ KAMBIN
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!2.1012!KAMBIN!]
 		||
-		*"Thank you..."* 
+		*"Thank you..."*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9990.X13210-6!KAMBIN!}
 	[KABU!TAMBUL!HYDROPONIC FARM!2.1012!KAMBIN!/]
 
@@ -6560,7 +6560,7 @@ NOURI
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.100!NOURI!]
 		||
-		*"Since the founding, Tambul has always been the cornucopia for the people of Kabu. The prosperity of one is to the good of all and vice versa!"* 
+		*"Since the founding, Tambul has always been the cornucopia for the people of Kabu. The prosperity of one is to the good of all and vice versa!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.1000!NOURI!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.100!NOURI!/]
 
@@ -6591,13 +6591,13 @@ NOURI
 		*"You suppose? Ha! Look about you, my friend! We are not mere farmers; we are sustainers, the very givers of life!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.3000!NOURI!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.300!NOURI!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.3000!NOURI!]
 		||
-		*"Ours is a sacred charge, and through the learning of Biracul, we have attained mastery over plant life!"* 
+		*"Ours is a sacred charge, and through the learning of Biracul, we have attained mastery over plant life!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.3001!NOURI!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.3000!NOURI!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.3001!NOURI!]
 		||
 		*"But it is through the wisdom of our mage that we provide sustenance to all folk of Kabu - including you, stranger."*
@@ -6608,7 +6608,7 @@ NOURI
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.400!NOURI!]
 		||
-		*"We are! The walls are impregnable, and none are permitted to come and go without the approval of the mage."* 
+		*"We are! The walls are impregnable, and none are permitted to come and go without the approval of the mage."*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.4000!NOURI!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.400!NOURI!/]
 
@@ -6714,7 +6714,7 @@ NOURI
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.X899!NOURI!]
 		||
 		*MULTICHECKER*
-		(A#CHECKER){A:0,NO ADDRESS}		
+		(A#CHECKER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.X899!NOURI!/]
 
 
@@ -6815,7 +6815,7 @@ NOURI
 		(D#"Kambin's suicide speaks for itself."){D:1,KABU!TAMBUL!HYDROPONIC FARM!1.4020!NOURI!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.201!NOURI!/]
 
->>>Kambin is dead (13111)<<<	
+>>>Kambin is dead (13111)<<<
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.X401!NOURI!]
 		|^13111:KABU!TAMBUL!HYDROPONIC FARM!1.401!NOURI!|
 		*"You have no proof of anything but your word, and I assure you none would take the word of a stranger over a Tambulan Cultivator!"*
@@ -6830,7 +6830,7 @@ NOURI
 		(B#"Then why did you trust Mifas'cul?"){B:1,KABU!TAMBUL!HYDROPONIC FARM!1.102!NOURI!}
 		(D#"Kambin's suicide speaks for itself."){D:1,KABU!TAMBUL!HYDROPONIC FARM!1.4020!NOURI!}
 		(E#"Spill it! What do you know about Mifas'cul?!"){E:1,KABU!TAMBUL!HYDROPONIC FARM!1.502!NOURI!}
-	[KABU!TAMBUL!HYDROPONIC FARM!1.401!NOURI!/]	
+	[KABU!TAMBUL!HYDROPONIC FARM!1.401!NOURI!/]
 
 >>>Kambin is dead (13111)<<<
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.X501!NOURI!]
@@ -6847,7 +6847,7 @@ NOURI
 		(A#"You must answer for your crimes."){A:1,KABU!TAMBUL!HYDROPONIC FARM!1.102!NOURI!}
 		(D#"Kambin's suicide speaks for itself."){D:1,KABU!TAMBUL!HYDROPONIC FARM!1.4020!NOURI!}
 		(E#"You'll speak until I tell you to stop. Now who's this Mifas'cul?!"){E:1,KABU!TAMBUL!HYDROPONIC FARM!1.502!NOURI!}
-	[KABU!TAMBUL!HYDROPONIC FARM!1.501!NOURI!/]	
+	[KABU!TAMBUL!HYDROPONIC FARM!1.501!NOURI!/]
 
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.102!NOURI!]
@@ -6873,23 +6873,23 @@ NOURI
 		*"I don't know who he is. I... I cannot even remember his face... except for in my dreams."*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!1.X1020!NOURI!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.502!NOURI!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.403!NOURI!]
 		||
-		*"Then, he's truly... gone. Just like Zebh..."* 
+		*"Then, he's truly... gone. Just like Zebh..."*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!1.4030!NOURI!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.403!NOURI!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.4030!NOURI!]
 		||
 		*"...The dreams must've overwhelmed him. Oh, I wish Zebh would've listened to me!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!1.X4031!NOURI!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.4030!NOURI!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.X4031!NOURI!]
 		|@:KABU!TAMBUL!HYDROPONIC FARM!3.000!NOURI!|
 		*"I wish Pakahron had never taken the 'help' of that jinncursed Mifas'cul!"*
-		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X0013!NOURI!}			
+		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X0013!NOURI!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.X4031!NOURI!/]
 
 
@@ -6962,9 +6962,9 @@ read about Redgrain
 		(A#"You must answer for your crimes."){A:1,KABU!TAMBUL!HYDROPONIC FARM!1.102!NOURI!}
 		(B#"Then why did you trust Mifas'cul?"){B:1,KABU!TAMBUL!HYDROPONIC FARM!1.102!NOURI!}
 		(D#"Kambin's suicide speaks for itself."){D:1,KABU!TAMBUL!HYDROPONIC FARM!1.4020!NOURI!}
-	[KABU!TAMBUL!HYDROPONIC FARM!2.201!NOURI!/]	
+	[KABU!TAMBUL!HYDROPONIC FARM!2.201!NOURI!/]
 
->>>Kambin is dead (13111)<<<	
+>>>Kambin is dead (13111)<<<
 	[/KABU!TAMBUL!HYDROPONIC FARM!2.X401!NOURI!]
 		|^13111:KABU!TAMBUL!HYDROPONIC FARM!2.401!NOURI!|
 		*"It need not be purchased. Pakahron is surely already aware of your misdeeds by now and he will find you!"*
@@ -6979,9 +6979,9 @@ read about Redgrain
 		(B#"Then why did you trust Mifas'cul?"){B:1,KABU!TAMBUL!HYDROPONIC FARM!1.102!NOURI!}
 		(D#"Kambin's suicide speaks for itself."){D:1,KABU!TAMBUL!HYDROPONIC FARM!1.4020!NOURI!}
 		(E#"You'll shut up when I tell you to! Now speak! Who is Mifas'cul?!"){E:1,KABU!TAMBUL!HYDROPONIC FARM!1.502!NOURI!}
-	[KABU!TAMBUL!HYDROPONIC FARM!2.401!NOURI!/]	
+	[KABU!TAMBUL!HYDROPONIC FARM!2.401!NOURI!/]
 
->>>Kambin is dead (13111)<<<	
+>>>Kambin is dead (13111)<<<
 	[/KABU!TAMBUL!HYDROPONIC FARM!2.X501!NOURI!]
 		|^13111:KABU!TAMBUL!HYDROPONIC FARM!2.501!NOURI!|
 		*"It is we who were deceived by that ruby-tongued devil! But I will say no more."*
@@ -6998,7 +6998,7 @@ read about Redgrain
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!2.501!NOURI!]
 		||
-		*"It is we who were deceived by that ruby-tongued devil! But I will say no more."* 
+		*"It is we who were deceived by that ruby-tongued devil! But I will say no more."*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!2.5011!NOURI!}
 	[KABU!TAMBUL!HYDROPONIC FARM!2.501!NOURI!/]
 
@@ -7062,7 +7062,7 @@ PAKAHRON
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.X0040!PAKAHRON!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.004!PAKAHRON!/]
 
->>>Learned Hidden Mind (12304)<<<	
+>>>Learned Hidden Mind (12304)<<<
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.X0040!PAKAHRON!]
 		|^12304:KABU!TAMBUL!HYDROPONIC FARM!0.0041!PAKAHRON!|
 		*"But we'll soon see what unholy deeds you now aim to accomplish."*
@@ -7144,7 +7144,7 @@ this is needed or else it becomes a loop
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!2.000!PAKAHRON!]
 		||
-		*"So, you had met Mifas'cul..."* 
+		*"So, you had met Mifas'cul..."*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!2.001!PAKAHRON!}
 	[KABU!TAMBUL!HYDROPONIC FARM!2.000!PAKAHRON!/]
 
@@ -7332,20 +7332,20 @@ REBA
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.1011!REBA!]
 		||
-		*"With this encouragement, I think I just might have the strength to keep on tending these plants."* 
+		*"With this encouragement, I think I just might have the strength to keep on tending these plants."*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.1012!REBA!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.1011!REBA!/]
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.1012!REBA!]
 		||
-		*"People need me! And now I think I need you!"* 
+		*"People need me! And now I think I need you!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.X1013!REBA!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.1012!REBA!/]
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.X1013!REBA!]
 		|@:KABU!TAMBUL!HYDROPONIC FARM!0.891!REBA!|
 		*"I would pay you back, but, like I said, I'm a complete loser; so, I don't know anything useful."*
-		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!REBA!}	
+		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!REBA!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.X1013!REBA!/]
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.X401!REBA!]
@@ -7357,14 +7357,14 @@ REBA
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.X501!REBA!]
 		|@:KABU!TAMBUL!HYDROPONIC FARM!0.X895!REBA!|
 		*"Just make it quick and painless, and be thorough about it - I don't want to fail at dying, too."*
-		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!REBA!}	
+		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!REBA!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.X501!REBA!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.X601!REBA!]
 		|@:KABU!TAMBUL!HYDROPONIC FARM!0.X899!REBA!|
 		*"What? You're such a terrible monster! Why would you say something like that!"*
-		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!REBA!}	
-	[KABU!TAMBUL!HYDROPONIC FARM!0.X601!REBA!/]	
+		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!REBA!}
+	[KABU!TAMBUL!HYDROPONIC FARM!0.X601!REBA!/]
 
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.891!REBA!]
@@ -7378,7 +7378,7 @@ REBA
 		*"I thought you were a kind person!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.8911!REBA!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.8910!REBA!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.8911!REBA!]
 		||
 		*"If you hated me so much, the least you could have done is tell me to my face that you never want to see me again!"*
@@ -7417,7 +7417,7 @@ MOON KEEP
 	[/KABU!TAMBUL!MOON KEEP!0.000!DESCRIPTION!]
 		||
 		*Eidos walks towards the silver spire towering over the township of Tambul. From this vantage point, it is difficult to tell how this structure was built. By all appearances, it is composed of a number of interlocking plates, though there are no signs of rivets or welds - the seams are more aesthetic choice than pragmatic necessity.
-		
+
 		This brilliant spire stands in stark contrast to the fortification that surrounds it. Blocks of sandstone form a modest keep around the tower, with walls both thick and high. The gates leading from the residential area and into the keep stand open, implying all have access to it.*
 		(A#...){A:0,KABU!TAMBUL!MOON KEEP!0.001!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!0.000!DESCRIPTION!/]
@@ -7443,11 +7443,11 @@ Gate stuff
 	[/KABU!TAMBUL!MOON KEEP!0.X100!DESCRIPTION!]
 		|^13122:KABU!TAMBUL!MOON KEEP!1.X100!DESCRIPTION!|
 		*Walking through the keep structure, Eidos enters a courtyard. The shimmering, doorless gate here permits a limited view of the canyon. While the sight of this deep scar in the earth’s skin is truly breath-taking, it is eclipsed by the feat of unfathomable engineering spanning it, Heaven's Bridge.
-		
+
 		Likely wrought by the same hands responsible for the Moon Tower, this bridge too consists of perfectly interlocking metallic pieces, like scales on an impossibly large serpent. Stretching out across the chasm, it slithers through the air absent any support structures and yet miraculously remains solid and unmoving.
-		
+
 		The sight is made even stranger by virtue of the massive archway hanging over the bridge entrance. There is some kind of visual distortion bending light at the threshold, as if a thin film of superheated air hung suspended between the metal pillars.
-		
+
 		Eidos sees that the courtyard wraps around the tower and that there is a staircase leading to the top of the ramparts overlooking the canyon.*
 		(A#Return to the keep entrance){A:0,KABU!TAMBUL!MOON KEEP!0.002!DESCRIPTION!}
 		(B#Cross the bridge){B:0,KABU!TAMBUL!MOON KEEP!0.X101!DESCRIPTION!}
@@ -7483,7 +7483,7 @@ exiled for being Inscrutable
 	[/KABU!TAMBUL!MOON KEEP!0.199!DESCRIPTION!]
 		||
 		*At the gates, the guards bind Eidos' hands behind her back with a rather dry and abrasive length of cord. Then, they cover her head with a burlap sack, blocking out all light except for the meager rays that pass through the gaps in the weaving.
-		
+
 		She hears whispers around her of townfolk murmuring about "Inscrutable", "the Wasteland", "Draugs", "Ormenos" and "Rikharr". Then a guard brutishly shoves her indicating that their slow march to her exile has begun.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!0.X000!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!0.199!DESCRIPTION!/]
@@ -7503,7 +7503,7 @@ Tower & Dysmas event
 	[/KABU!TAMBUL!MOON KEEP!0.201!DESCRIPTION!]
 		||
 		*Walking through the keep structure, Eidos finally comes to see the base of the tower. Up close, the staggering size of the tower is more evident than ever. So wide is it, that its circular base seems to draw a straight line in either direction. So unfathomably tall is it, that its top appears to taper to a single point upwards into infinity.
-		
+
 		The tower, however, is less inviting than the keep, as its front door is closed and flanked by guards. Eidos sees no way to access the bridge from here, but soon spies what appears to be a path leading around to the back of the tower.*
 		(A#Return to the keep entrance){A:0,KABU!TAMBUL!MOON KEEP!0.002!DESCRIPTION!}
 		(B#Explore the far side of the tower){B:0,KABU!TAMBUL!MOON KEEP!0.300!DESCRIPTION!}
@@ -7512,11 +7512,11 @@ Tower & Dysmas event
 	[/KABU!TAMBUL!MOON KEEP!0.300!DESCRIPTION!]
 		||
 		*Circumnavigating the base for several minutes, she notes the third or fourth stories begin to sprout hundreds of windows, giving it the unsettling semblance of a metallic honeycomb. Within the span of a hundred paces, she stumbles upon a narrow stairway leading up.
-		
+
 		She climbs and climbs until she reaches a landing atop the walls, and the vistas it affords.
-		
+
 		Casting her gaze out over the canyon, she absorbs the wonders of the landscape both natural and artificial. To the east, a sprawling fortress stands between her and a black point melting into the horizon. To the north of the inky dot is a sea of sparkling white. To the south, nothing but dust and sand.
-		
+
 		A gentle breeze blows in from the west, cooling her sun-baked skin and carrying with it the desert's lifeless scent.*
 		(A#...){A:0,KABU!TAMBUL!MOON KEEP!0.X301!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!0.300!DESCRIPTION!/]
@@ -7539,12 +7539,12 @@ dysmas is not present
 	[/KABU!TAMBUL!MOON KEEP!0.303!DESCRIPTION!]
 		||
 		*Eidos frantically hunts for the source to the left and then the right, spotting nothing, as the wind howls by mockingly. Cocking an eyebrow, she decides to blame it on the mischievous wind.
-		
+
 		With a sigh of relief, she cranes her neck and begins to rub out the tension. Only then does she notice that a rope dangles down from an opened window, wagging its tail excitedly as a man climbs towards the opening.*
 		(A#Call the guards){A:0,KABU!TAMBUL!MOON KEEP!0.313!DESCRIPTION!}
 		(B#Wait and see what happens){B:0,KABU!TAMBUL!MOON KEEP!0.X321!DESCRIPTION!}
 		(C#Climb up after him){C:0,KABU!TAMBUL!MOON KEEP!0.331!DESCRIPTION!}
-	[KABU!TAMBUL!MOON KEEP!0.303!DESCRIPTION!/]	
+	[KABU!TAMBUL!MOON KEEP!0.303!DESCRIPTION!/]
 
 >>>Helped the guards catch Dysmas (13115)<<<
 	[/KABU!TAMBUL!MOON KEEP!0.X311!DESCRIPTION!]
@@ -7571,12 +7571,12 @@ dysmas is not present
 		*After a moment, the man rushes to the window and slides down the length of rope. His pursuers, hot on his trail, soon appear at the window. He hops over the edge of the landing, and right into a group of guards alerted by Eidos' call. They proceed to violently restrain and bind him.*
 		(A#...){A:0,KABU!TAMBUL!MOON KEEP!0.3120!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!0.313!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON KEEP!0.X321!DESCRIPTION!]
 		|@:KABU!TAMBUL!MOON KEEP!0.X311!DESCRIPTION!|
 		*Mere moments later, the man emerges and slides down his rope, right in front of Eidos. With only the slightest bit of surprise detectable upon his face, he regards her, calculating, assessing, scheming.*
-		(A#Call the guards){A:0,KABU!TAMBUL!MOON KEEP!0.312!DESCRIPTION!}	
-		(B#Speak to the man){B:0,KABU!TAMBUL!MOON KEEP!9999.X0114!DESCRIPTION!}		
+		(A#Call the guards){A:0,KABU!TAMBUL!MOON KEEP!0.312!DESCRIPTION!}
+		(B#Speak to the man){B:0,KABU!TAMBUL!MOON KEEP!9999.X0114!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!0.X321!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!MOON KEEP!0.331!DESCRIPTION!]
@@ -7639,7 +7639,7 @@ W/ Assala
 	[KABU!TAMBUL!MOON KEEP!77.000!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!MOON KEEP!77.001!DESCRIPTION!]
-		||	
+		||
 		*Assala signals Eidos to hold her position as she glides over to subdue the solitary guard manning the gate. Her hand quietly slips over the guard's mouth as her knife silently slips across his neck. Before his limp Falseflesh hits the ground, Assala is already moving to disarm the gate. She removes the amethyst controlling the barrier from its casing. In complete silence, the barrier disappears, affording them the chance to steal across the bridge towards the Sun Keep and the Dawn Fortress beyond.*
 		(A#...){A:0,KABU!DAWN FORTRESS!SUN KEEP!77.000!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!77.001!DESCRIPTION!/]
@@ -7671,7 +7671,7 @@ Pakahron dead
 	[KABU!TAMBUL!MOON KEEP!999.100!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!MOON KEEP!999.101!DESCRIPTION!]
-		||	
+		||
 		*The guards inspect the body of the fallen mage and mournfully shake their heads in confirmation of his departure from the Falseflesh. Suddenly, they begin to gather around her and wordlessly, like a hive-minded machine, they pull back their spears and attempt to perforate Eidos' Falseflesh. But Luin disagrees with their plans and destroys their each spear upon impact.*
 		(A#...){A:0,KABU!TAMBUL!MOON KEEP!999.102!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!999.101!DESCRIPTION!/]
@@ -7705,8 +7705,8 @@ Pakahron dead
 		*Her slayers look upon her dying form, downtrodden and uncertain. With their mage dead, the acrid stench of panic permeates the air, its effects written clearly on their faces. Then...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!999.106!DESCRIPTION!/]
-	
-	
+
+
 
 BRUS
 	[/KABU!TAMBUL!MOON KEEP!0.X000!BRUS!]
@@ -7722,7 +7722,7 @@ BRUS
 	[KABU!TAMBUL!MOON KEEP!0.000!BRUS!/]
 
 	[/KABU!TAMBUL!MOON KEEP!0.001!BRUS!]
-		||	
+		||
 		*"Look, I don't know where you came from, but it's obvious you're not from around Kabu, at least."*
 		(A#"..."){A:0,KABU!TAMBUL!MOON KEEP!0.X0010!BRUS!}
 	[KABU!TAMBUL!MOON KEEP!0.001!BRUS!/]
@@ -7787,13 +7787,13 @@ If you say no again
 		*"Then why're you wasting my time!?"*
 		(A#"..."){A:0,KABU!TAMBUL!MOON KEEP!10.001!BRUS!}
 	[KABU!TAMBUL!MOON KEEP!10.000!BRUS!/]
-	
+
 	[/KABU!TAMBUL!MOON KEEP!10.001!BRUS!]
 		||
 		*"Jinns take you from me, you lunatic!"*
 		(A#"..."){A:0,KABU!TAMBUL!MOON KEEP!10.X002!BRUS!}
 	[KABU!TAMBUL!MOON KEEP!10.001!BRUS!/]
-	
+
 	[/KABU!TAMBUL!MOON KEEP!10.X002!BRUS!]
 		|@:KABU!TAMBUL!MOON KEEP!10.003!BRUS!|
 		*"Just leave, before I push you through the barrier myself!"*
@@ -7823,7 +7823,7 @@ DYSMAS
 
 	[/KABU!TAMBUL!MOON KEEP!0.001!DYSMAS!]
 		||
-		*"I don't suppose you'd believe me if I said I was afraid of low places and sought some relief up high?"* 
+		*"I don't suppose you'd believe me if I said I was afraid of low places and sought some relief up high?"*
 		(A#"..."){A:0,KABU!TAMBUL!MOON KEEP!0.0010!DYSMAS!}
 	[KABU!TAMBUL!MOON KEEP!0.001!DYSMAS!/]
 
@@ -7871,12 +7871,12 @@ DYSMAS
 
 	[/KABU!TAMBUL!MOON KEEP!1.0010!DYSMAS!]
 		||
-		*"But as for the nature of my visit, I don't suppose you'd believe me if I said I was afraid of low places and sought some relief up high?"* 
+		*"But as for the nature of my visit, I don't suppose you'd believe me if I said I was afraid of low places and sought some relief up high?"*
 		(A#"..."){A:0,KABU!TAMBUL!MOON KEEP!1.0011!DYSMAS!}
 	[KABU!TAMBUL!MOON KEEP!1.0010!DYSMAS!/]
 
 	[/KABU!TAMBUL!MOON KEEP!1.0011!DYSMAS!]
-		|| 
+		||
 		*"No? Well, perhaps you might just consider letting me off with a warning; you see, my family is expecting me home for supper..."*
 		(A#"I'm afraid we'll have to let the guards and Pakahron decide, Dysmas."){A:1,KABU!TAMBUL!MOON KEEP!1.100!DYSMAS!}
 		(B#"You can conceal your reasons from me, but what about Pakahron?"){B:1,KABU!TAMBUL!MOON KEEP!1.200!DYSMAS!}
@@ -7997,39 +7997,39 @@ MOON TOWER
 		*Eidos hurls the crystal at the ground. As it leaves her hand, time fragments into seemingly infinite, discreet intervals.*
 		(A#...){A:0,KABU!TAMBUL!MOON TOWER!0.102!DESCRIPTION!}
 	[KABU!TAMBUL!MOON TOWER!0.101!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!0.102!DESCRIPTION!]
 		||
 		*The sound of shattering fills the air.
-		
+
 		A blinding light is released from within.
-		
+
 		A crackling.
-		
+
 		Intense heat.
-		
+
 		More crystals fall from the lattice.
-		
+
 		A chain reaction.
-		
+
 		A shock wave.
-		
+
 		Eidos is cast out through the window.
-		
+
 		Over an archway.
-		
+
 		Into the gargantuan canyon below.
-		
+
 		Falling.
-		
+
 		The spire falls.
-		
+
 		Hitting the gate.
-		
+
 		Both follow in her wake.
-		
+
 		The impact.
-		
+
 		White.*
 		(A#...){A:0,KABU!TAMBUL!MOON TOWER!9990.X13114!DESCRIPTION!}
 	[KABU!TAMBUL!MOON TOWER!0.102!DESCRIPTION!/]
@@ -8037,7 +8037,7 @@ MOON TOWER
 	[/KABU!TAMBUL!MOON TOWER!0.302!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph of Fenrir is fully formed, completing the reaction.
-		
+
 		The red, crystalline energy begins to seep in through the veins in her hands, crawling, spreading like some volatile disease. When the slithering ooze reaches her mind, it seizes her in its grips, flashing images of past putrefaction before her mind's eye.*
 		(A#...){A:0,KABU!TAMBUL!MOON TOWER!0.303!DESCRIPTION!}
 	[KABU!TAMBUL!MOON TOWER!0.302!DESCRIPTION!/]
@@ -8045,23 +8045,23 @@ MOON TOWER
 	[/KABU!TAMBUL!MOON TOWER!0.303!DESCRIPTION!]
 		||
 		*A massive sphere of light.
-		
+
 		A union with its twin.
-		
+
 		Their separation.
-		
+
 		Men, women, bearded, wizened, youthful, tall, short, fat, thin... rotting.
-		
+
 		Bones dissolving.
-		
+
 		Kambesh.
-		
+
 		Pakahron.
-		
+
 		Water.
-		
+
 		Fathom.
-		
+
 		Khaa...*
 		(A#...){A:0,KABU!TAMBUL!MOON TOWER!0.304!DESCRIPTION!}
 	[KABU!TAMBUL!MOON TOWER!0.303!DESCRIPTION!/]
@@ -8077,7 +8077,7 @@ MOON TOWER
 		*As the visions wane, her awareness of a new Glyph waxes. At her whim, all would disintegrate.*
 		(A#...){A:0,KABU!TAMBUL!MOON TOWER!0.306!DESCRIPTION!}
 	[KABU!TAMBUL!MOON TOWER!0.305!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!0.306!DESCRIPTION!]
 		||
 		*The assimilation complete, she now observes her surroundings. All Eidos sees are numerous crystals, both empty and charged, and a shelf practically bursting with tomes.*
@@ -8095,7 +8095,7 @@ MOON TOWER
 	[/KABU!TAMBUL!MOON TOWER!0.500!DESCRIPTION!]
 		||
 		*Eidos but glances at the writings, and finds the memories of the nefarious Redgrain flood to the forefront of her consciousness. She need not be reminded of the case of Zebh and his unfortunate family.
-		
+
 		But then, the sound of footsteps fast approaching breaks the silence and signals her to leave the Moon Tower.*
 		(A#Leave){A:0,KABU!TAMBUL!MOON KEEP!1.301!DESCRIPTION!}
 		(B#Stay){B:0,KABU!TAMBUL!MOON TOWER!9990.X13804!DESCRIPTION!}
@@ -8110,16 +8110,16 @@ MOON TOWER
 	[/KABU!TAMBUL!MOON TOWER!0.502!DESCRIPTION!]
 		||
 		*Redgrain.
-		
+
 		Mifas'cul.
-		
+
 		Pakahron.
-		
+
 		Zebh.
-		
+
 		Kambin.
-		
-		Nouri.*		
+
+		Nouri.*
 		(A#...){A:0,KABU!TAMBUL!MOON TOWER!0.503!DESCRIPTION!}
 	[KABU!TAMBUL!MOON TOWER!0.502!DESCRIPTION!/]
 
@@ -8133,7 +8133,7 @@ MOON TOWER
 	[/KABU!TAMBUL!MOON TOWER!0.550!DESCRIPTION!]
 		||
 		*As Eidos examines the crystalline array, one in particular stands out to her. It is not quite as the others are, slightly misaligned to the left. Picking it up, she feels a revolting sensation of corruption course through her. Her stomach twists itself in knots, as though attempting to wring out the vile impurity of the Glyph.
-		
+
 		Without a shadow of a doubt, this crystal contains something nefarious.*
 		(A#Absorb the crystal){A:0,KABU!TAMBUL!MOON TOWER!9990.X13113!DESCRIPTION!}
 		(F#Destroy the crystal){F:1,KABU!TAMBUL!MOON TOWER!0.101!DESCRIPTION!}
@@ -8158,7 +8158,7 @@ Pakahron shows up
 Resolved Dysmas stuff already
 	[/KABU!TAMBUL!MOON TOWER!1.000!DESCRIPTION!]
 		||
-		*Surveying the room, Eidos notices that among the myriad crystals and various whatnots is a shelf, packed to bursting with tomes.*	
+		*Surveying the room, Eidos notices that among the myriad crystals and various whatnots is a shelf, packed to bursting with tomes.*
 		(A#Examine the crystals){A:0,KABU!TAMBUL!MOON TOWER!0.550!DESCRIPTION!}
 		(B#Search the shelf){B:0,KABU!TAMBUL!MOON TOWER!0.X500!DESCRIPTION!}
 		(C#Leave the Moon Tower){C:0,KABU!TAMBUL!MOON KEEP!1.301!DESCRIPTION!}
@@ -8171,7 +8171,7 @@ Let Dysmas go in Moon Tower
 		*Not needing to be told twice, Dysmas flips soundlessly and effortlessly towards the window. Then, just as though he were swimming through the very air, he dives through the window, presumably catching his rope as he falls.*
 		(A#...){A:0,KABU!TAMBUL!MOON TOWER!2.001!DESCRIPTION!}
 	[KABU!TAMBUL!MOON TOWER!2.000!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!2.001!DESCRIPTION!]
 		||
 		*After the brilliant acrobatics the mysterious Dysmas performed, Eidos finds herself unwittingly applauding. Recovering from her momentary awe, she now takes a moment to survey the room, noticing that among the myriad crystals and various whatnots is a shelf, packed to bursting with tomes.*
@@ -8202,39 +8202,39 @@ Dysmas tossed crystal
 		*Eidos hurls the crystal at the ground. As it leaves her hand, time fragments into seemingly infinite, discreet intervals.*
 		(A#...){A:0,KABU!TAMBUL!MOON TOWER!5.101!DESCRIPTION!}
 	[KABU!TAMBUL!MOON TOWER!5.100!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!5.101!DESCRIPTION!]
 		||
 		*The sound of shattering fills the air.
-		
+
 		A blinding light is released from within.
-		
+
 		A crackling.
-		
+
 		Intense heat.
-		
+
 		More crystals fall from the lattice.
-		
+
 		A chain reaction.
-		
+
 		A shock wave.
-		
+
 		Eidos is cast out through the window.
-		
+
 		Over an archway.
-		
+
 		Into the gargantuan canyon below.
-		
+
 		Falling.
-		
+
 		The spire falls.
-		
+
 		Hitting the gate.
-		
+
 		Both follow in her wake.
-		
+
 		The impact.
-		
+
 		White.*
 		(A#...){A:0,KABU!TAMBUL!MOON TOWER!9990.X13114!DESCRIPTION!}
 	[KABU!TAMBUL!MOON TOWER!5.101!DESCRIPTION!/]
@@ -8244,47 +8244,47 @@ Dysmas tossed crystal
 		*Eidos gives chase. A terrified Dysmas looks back to see she has let the crystal fall. He picks up speed. The crystal comes ever closer to the hard, metal flooring. Time fragments into seemingly infinite, discreet intervals.*
 		(A#...){A:0,KABU!TAMBUL!MOON TOWER!5.901!DESCRIPTION!}
 	[KABU!TAMBUL!MOON TOWER!5.900!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!5.901!DESCRIPTION!]
 		||
 		*The sound of shattering fills the air.
-		
+
 		A blinding light is released from within.
-		
+
 		A crackling.
-		
+
 		Intense heat.
-		
+
 		More crystals fall from the lattice.
-		
+
 		A chain reaction.
-		
+
 		A shock wave.
-		
+
 		Eidos is cast out through the window.
-		
+
 		Over an archway.
-		
+
 		Into the gargantuan canyon below.
-		
+
 		Falling.
-		
+
 		The spire falls.
-		
+
 		Hitting the gate.
-		
+
 		Both follow in her wake.
-		
+
 		The impact.
-		
+
 		White.*
 		(A#...){A:0,KABU!TAMBUL!MOON TOWER!9990.X13114!DESCRIPTION!}
 	[KABU!TAMBUL!MOON TOWER!5.901!DESCRIPTION!/]
 
-Outside the walls of Tambul	
+Outside the walls of Tambul
 	[/KABU!TAMBUL!MOON TOWER!10.000!DESCRIPTION!]
 		||
-		*Walking along the outside edges of the city walls, Eidos arrives at a precipice. She can see the silver spire towering above the ramparts of the keep surrounding it. Shifting her gaze downwards, she notices that there appears to be a path of questionable safety leading down into the canyon below. Such a reckless path could only lead to ruin...*		
+		*Walking along the outside edges of the city walls, Eidos arrives at a precipice. She can see the silver spire towering above the ramparts of the keep surrounding it. Shifting her gaze downwards, she notices that there appears to be a path of questionable safety leading down into the canyon below. Such a reckless path could only lead to ruin...*
 		(A#Return to gates){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.X000!DESCRIPTION!}
 		(B#Descend the path){B:0,KABU!CANYON!VALLEY OF BONES!00.000!DESCRIPTION!}
 	[KABU!TAMBUL!MOON TOWER!10.000!DESCRIPTION!/]
@@ -8323,7 +8323,7 @@ Pakahron dead
 	[KABU!TAMBUL!MOON TOWER!999.100!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!MOON TOWER!999.101!DESCRIPTION!]
-		||	
+		||
 		*The guards inspect the body of the fallen mage and mournfully shake their heads in confirmation of his departure from the Falseflesh. Suddenly, they begin to gather around her and wordlessly, like a hive-minded machine, they pull back their spears and attempt to perforate Eidos' Falseflesh. But Luin disagrees with their plans and destroys their each spear upon impact.*
 		(A#...){A:0,KABU!TAMBUL!MOON TOWER!999.102!DESCRIPTION!}
 	[KABU!TAMBUL!MOON TOWER!999.101!DESCRIPTION!/]
@@ -8389,7 +8389,7 @@ DYSMAS
 		(E#"I'll just have to kill you and find out for myself."){E:1,KABU!TAMBUL!MOON TOWER!9992.X0114!DYSMAS!}
 		(F#"Heights are majestic for they are the domain of Roostor!"){F:1,KABU!TAMBUL!MOON TOWER!1.601!DYSMAS!}
 	[KABU!TAMBUL!MOON TOWER!0.0010!DYSMAS!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!0.002!DYSMAS!]
 		||
 		*"I'm sure they'd be impressed by this itinerant acrobat's feats of climbing, just as you surely are!"*
@@ -8443,7 +8443,7 @@ DYSMAS
 		*"Farewell!"*
 		(A#"..."){A:0,KABU!TAMBUL!MOON TOWER!9990.X13123!DYSMAS!}
 	[KABU!TAMBUL!MOON TOWER!1.1000!DYSMAS!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!1.200!DYSMAS!]
 		||
 		*"Magesight can peer into all but the Unseen's minds, and no Unseen... though that has no bearing on my current situation, as it's Khlutt who conducts the trials in Kabu."*
@@ -8530,9 +8530,9 @@ RAMPARTS
 	[/KABU!TAMBUL!RAMPARTS!0.001!DESCRIPTION!]
 		||
 		*The bloated corpse of a dead man lies there, wan and motionless. Though miraculously the stench of death is absent. Hung upon the walls are numerous concoctions, some bubbling absent fire, others constantly shifting color, but not a single unremarkable one among them.
-		
+
 		The man attending the body is in his middle years. Heavyset and mustachioed, he looks more butcher than mortician. He performs his chores with the utmost precision and detachment, cleaning the cadaver and then rubbing ointments all over it.
-		
+
 		Large gashes made in the neck indicate the body has been drained of blood prior to this treatment ritual. Several corpses strung upside down over a vat at the far end of the area serve to confirm this suspicion.*
 		(A#...){A:0,KABU!TAMBUL!RAMPARTS!0.X002!DESCRIPTION!}
 	[KABU!TAMBUL!RAMPARTS!0.001!DESCRIPTION!/]
@@ -8578,7 +8578,7 @@ Pakahron dead
 	[KABU!TAMBUL!RAMPARTS!999.100!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!RAMPARTS!999.101!DESCRIPTION!]
-		||	
+		||
 		*The guards inspect the body of the fallen mage and mournfully shake their heads in confirmation of his departure from the Falseflesh. Suddenly, they begin to gather around her and wordlessly, like a hive-minded machine, they pull back their spears and attempt to perforate Eidos' Falseflesh. But Luin disagrees with their plans and destroys their each spear upon impact.*
 		(A#...){A:0,KABU!TAMBUL!RAMPARTS!999.102!DESCRIPTION!}
 	[KABU!TAMBUL!RAMPARTS!999.101!DESCRIPTION!/]
@@ -8664,7 +8664,7 @@ BOZ
 		(A#"What are those people doing down there?"){A:1,KABU!TAMBUL!RAMPARTS!0.101!BOZ!}
 		(B#"Why throw them from the walls?"){B:1,KABU!TAMBUL!RAMPARTS!0.201!BOZ!}
 		(C#"Actually, I think I'm lost."){C:1,KABU!TAMBUL!RAMPARTS!0.301!BOZ!}
-	[KABU!TAMBUL!RAMPARTS!0.2000!BOZ!/]	
+	[KABU!TAMBUL!RAMPARTS!0.2000!BOZ!/]
 
 	[/KABU!TAMBUL!RAMPARTS!0.300!BOZ!]
 		||
@@ -8677,8 +8677,8 @@ BOZ
 		*"And worse yet, I'd have to explain to Pakahron how I let a clueless visitor kill her own fool self."*
 		(B#"Why throw them from the walls?"){B:1,KABU!TAMBUL!RAMPARTS!0.201!BOZ!}
 		(C#"Actually, I think I'm lost."){C:1,KABU!TAMBUL!RAMPARTS!0.301!BOZ!}
-		(D#"Why is that man guarding the bone pile down there?"){D:1,KABU!TAMBUL!RAMPARTS!0.401!BOZ!}	
-	[KABU!TAMBUL!RAMPARTS!0.3000!BOZ!/]	
+		(D#"Why is that man guarding the bone pile down there?"){D:1,KABU!TAMBUL!RAMPARTS!0.401!BOZ!}
+	[KABU!TAMBUL!RAMPARTS!0.3000!BOZ!/]
 
 	[/KABU!TAMBUL!RAMPARTS!0.400!BOZ!]
 		||
@@ -8728,13 +8728,13 @@ BOZ
 
 	[/KABU!TAMBUL!RAMPARTS!0.600!BOZ!]
 		||
-		*"Necromancer? Oh, wait a jinnpickin' minute, so you hoped to find some kind of death magic here? Not gonna happen, sweet cheeks!"* 
+		*"Necromancer? Oh, wait a jinnpickin' minute, so you hoped to find some kind of death magic here? Not gonna happen, sweet cheeks!"*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!0.6000!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!0.600!BOZ!/]
 
 	[/KABU!TAMBUL!RAMPARTS!0.6000!BOZ!]
 		||
-		*"Look, I've also read the works of Torma the Wayfarer that spoke of foreign mage frauds who claimed to use Techne without the Path of Awareness. Blood Wizards, Shadow Walkers and Jinn Speakers."* 
+		*"Look, I've also read the works of Torma the Wayfarer that spoke of foreign mage frauds who claimed to use Techne without the Path of Awareness. Blood Wizards, Shadow Walkers and Jinn Speakers."*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!0.6001!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!0.6000!BOZ!/]
 
@@ -8748,7 +8748,7 @@ BOZ
 
 	[/KABU!TAMBUL!RAMPARTS!0.101!BOZ!]
 		||
-		*"Well, my best guess is that the guards down there are guardin' and the mourner is mournin'."* 
+		*"Well, my best guess is that the guards down there are guardin' and the mourner is mournin'."*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!0.X1010!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!0.101!BOZ!/]
 
@@ -8837,7 +8837,7 @@ second encounter
 		*"Biracul's balls! You're as curious as the Emerald Jinn himself!"*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!1.001!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!1.000!BOZ!/]
-	
+
 	[/KABU!TAMBUL!RAMPARTS!1.001!BOZ!]
 		||
 		*"What is it you want, outlander? Don't tell me you need some company from old Boz?"*
@@ -8887,7 +8887,7 @@ second encounter
 		*"Well, one of them is a run of the mill Tacribian warrior, just there because he was told to be."*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!1.4000!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!1.400!BOZ!/]
-	
+
 	[/KABU!TAMBUL!RAMPARTS!1.4000!BOZ!]
 		||
 		*"The other is a Valvorthr, she may be here to make sure the dead don't come back to life... Or maybe it's to warn us if the Jinnwraith returns... I guess it could even be to alert the Kaban people if Ark returns..."*
@@ -8915,7 +8915,7 @@ second encounter
 	[KABU!TAMBUL!RAMPARTS!1.5000!BOZ!/]
 
 	[/KABU!TAMBUL!RAMPARTS!1.5001!BOZ!]
-		||		
+		||
 		*"The warriors think the bone pile gives them purpose, while the mourner thinks he gains a connection."*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!1.5002!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!1.5001!BOZ!/]
@@ -8941,7 +8941,7 @@ second encounter
 	[KABU!TAMBUL!RAMPARTS!1.600!BOZ!/]
 
 	[/KABU!TAMBUL!RAMPARTS!1.6000!BOZ!]
-		||	
+		||
 		*"Is it your custom to keep diamonds and jewels in your latrine?"*
 		(F#"Well, duh! Keeps the weirdos away! Obviously - what an idiot..."){F:1,KABU!TAMBUL!RAMPARTS!1.X601!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!1.6000!BOZ!/]
@@ -8955,7 +8955,7 @@ second encounter
 
 	[/KABU!TAMBUL!RAMPARTS!1.1010!BOZ!]
 		||
-		*"The Tacribians burn their dead because they fear death; believin' that corpses might suffer the wraithglow like the very draugnir the spend their lives fightin'."* 
+		*"The Tacribians burn their dead because they fear death; believin' that corpses might suffer the wraithglow like the very draugnir the spend their lives fightin'."*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!1.1011!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!1.1010!BOZ!/]
 
@@ -9012,14 +9012,14 @@ second encounter
 		|@:KABU!TAMBUL!RAMPARTS!2.X001!BOZ!|
 		*"I'd rather not chat anymore, kid; gotta job to do!"*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!9999.X9999!BOZ!}
-	[KABU!TAMBUL!RAMPARTS!2.X000!BOZ!/]	
+	[KABU!TAMBUL!RAMPARTS!2.X000!BOZ!/]
 
->>>KAMBIN is dead (13111)<<<	
+>>>KAMBIN is dead (13111)<<<
 	[/KABU!TAMBUL!RAMPARTS!2.X001!BOZ!]
 		|^13111:KABU!TAMBUL!RAMPARTS!3.000!BOZ!|
 		*"..."*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!9999.X9999!BOZ!}
-	[KABU!TAMBUL!RAMPARTS!2.X001!BOZ!/]	
+	[KABU!TAMBUL!RAMPARTS!2.X001!BOZ!/]
 
 	[/KABU!TAMBUL!RAMPARTS!3.000!BOZ!]
 		||
@@ -9185,7 +9185,7 @@ RESIDENCE DISTRICT
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.000!DESCRIPTION!]
 		||
 		*Eidos enters a veritable forest of multi-tiered buildings, its depth unknowable from here. Walking among the houses, she runs her hand along the rough surface of their walls, fingers catching where layered bricks peek out from cracks in the adobe.
-		
+
 		Though mostly monochromatic and uniform, the residences distinguish themselves by simple yet colorful placards framing what could well be names and occupations. Dary, Loremaster. Dysron, Cultivator. Kagesh, Guardian. But then, she reaches one with the name defaced. Scratched through with a single line, Zebh, Cultivator was once written upon it.*
 		(A#...){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.001!DESCRIPTION!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.000!DESCRIPTION!/]
@@ -9244,7 +9244,7 @@ found Redgrain
 		*Scanning the area, Eidos takes note of the peculiar cast of characters dawdling here. In truth, the quality of companionship seems to have drastically degraded in this area of undesirables. The closest approximation to normal is a woman who is frantically pacing back and forth, cutting a nervous rut into the cobblestones beneath her feet.*
 		(A#...){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.X00121!DESCRIPTION!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.00120!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.X00121!DESCRIPTION!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!0.002!DESCRIPTION!|
 		*But having come this far, Eidos is now set on speaking to someone. She deliberates on who her interlocutor will be...*
@@ -9252,21 +9252,21 @@ found Redgrain
 		(B#The worried-looking woman){B:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X0109!DESCRIPTION!}
 		(C#The woman who appears to predate Tambul itself){C:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X0119!DESCRIPTION!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.X00121!DESCRIPTION!/]
-	
+
 found Redgrain tome and Akkeber gone
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.00130!DESCRIPTION!]
 		||
 		*Scanning the area, Eidos takes note of the peculiar cast of characters dawdling here. In truth, the quality of companionship seems to have drastically degraded in this area of undesirables. The closest approximation to normal is a woman who is frantically pacing back and forth, cutting a nervous rut into the cobblestones beneath her feet.*
 		(A#...){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.X00131!DESCRIPTION!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.00130!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.X00131!DESCRIPTION!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!0.002!DESCRIPTION!|
 		*But having come this far, Eidos is now set on speaking to someone. She deliberates on who her interlocutor will be...*
 		(A#The worried-looking woman){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X0109!DESCRIPTION!}
 		(B#The woman who appears to predate Tambul itself){B:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X0119!DESCRIPTION!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.X00131!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.002!DESCRIPTION!]
 		||
 		*The conversation at its end, Eidos stands idly pondering her next course of action.*
@@ -9274,7 +9274,7 @@ found Redgrain tome and Akkeber gone
 		(B#Return to the Atrium){B:0,KABU!TAMBUL!ATRIUM!11.X200!DESCRIPTION!}
 		(C#Go towards one of the unique areas){C:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.X003!DESCRIPTION!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.002!DESCRIPTION!/]
-	
+
 >>>Archives explosion (13801)<<<
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.X003!DESCRIPTION!]
 		|^13801:KABU!TAMBUL!RESIDENCE DISTRICT!0.0030!DESCRIPTION!|
@@ -9287,7 +9287,7 @@ found Redgrain tome and Akkeber gone
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.0030!DESCRIPTION!]
 		||
 		*Of note is the missing Tambulan Archive, replaced by thick billows of dust and smoke. A sea of onlookers now floods in its direction. The once austere and sturdy symbol of stability against the tempest of time is now nothing more than a testament to ephemerality, a reminder of the futility of humanity's struggle against the waves of entropy as they crash and break at order's shores.
-		
+
 		But not all has been so drastically altered, the familiar lanes leading north towards the Hydroponic Farm yet remain, as well as a path leading westward directly to the conspicuous Moon Tower.*
 		(A#Enter the Hydroponic Farm){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.000!DESCRIPTION!}
 		(B#Enter the Archives){B:0,KABU!TAMBUL!ARCHIVES!0.X000!DESCRIPTION!}
@@ -9301,7 +9301,7 @@ killed someone in the area
 		(A#...){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9992.X0013!PAKAHRON!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0099.000!DESCRIPTION!/]
 
-Pakahron dead	
+Pakahron dead
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!999.X000!DESCRIPTION!]
 		|^12302:KABU!TAMBUL!RESIDENCE DISTRICT!999.100!DESCRIPTION!|
 		*The battle has taken its toll on Eidos. Having exerted her Falseflesh far beyond its limits, she drops to her knees, breath quickening until she loses all control. Guards pour in, several fearlessly stepping forward to restrain her. They soon realize, however, that her own body has already done them this favor. Now cruelly acting as ally to her enemies, her stiff muscles petrify her into a pitiful facsimile of a statue. Eidos can only watch helplessly while they bind her hands and feet as they would a hog.*
@@ -9321,7 +9321,7 @@ Pakahron dead
 	[KABU!TAMBUL!RESIDENCE DISTRICT!999.100!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!999.101!DESCRIPTION!]
-		||	
+		||
 		*The guards inspect the body of the fallen mage and mournfully shake their heads in confirmation of his departure from the Falseflesh. Suddenly, they begin to gather around her and wordlessly, like a hive-minded machine, they pull back their spears and attempt to perforate Eidos' Falseflesh. But Luin disagrees with their plans and destroys their each spear upon impact.*
 		(A#...){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!999.102!DESCRIPTION!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!999.101!DESCRIPTION!/]
@@ -9355,7 +9355,7 @@ Pakahron dead
 		*Her slayers look upon her dying form, downtrodden and uncertain. With their mage dead, the acrid stench of panic permeates the air, its effects written clearly on their faces. Then...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!999.106!DESCRIPTION!/]
-	
+
 
 
 AKKEBER
@@ -9442,7 +9442,7 @@ AKKEBER
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.0070!AKKEBER!]
 		||
-		*"Yes! Sister Midnight, neither found nor sought, 
+		*"Yes! Sister Midnight, neither found nor sought,
 		Her most wicked weapon, her silent thought.
 		No respite in sleep! Just nightmares galore!
 		Beckon ye enter through Night's charnel door!"*
@@ -9515,15 +9515,15 @@ AKKEBER
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.100!AKKEBER!]
 		||
-		*"Long have I searched for a person who would understand my art - and by extension, my very heart! But now, she stands before me, Biracul sent!"* 
+		*"Long have I searched for a person who would understand my art - and by extension, my very heart! But now, she stands before me, Biracul sent!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.1000!AKKEBER!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.100!AKKEBER!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.1000!AKKEBER!]
 		||
 		*"As beautiful as she is strange. As captivating as she is wild. Who is this untamed creature of the desert that stands before me? Me! Lonely, lowly master poet laureate Akkeber. Speak to me your name, wonderful you."*
 		(A#"My name is Eidos."){A:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.101!AKKEBER!}
-		(B#"Sure, but only after you tell me what it's based on."){B:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.101!AKKEBER!}	
+		(B#"Sure, but only after you tell me what it's based on."){B:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.101!AKKEBER!}
 		(C#"Are you listening to me?"){C:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.101!AKKEBER!}
 		(D#"I recommend you get some help."){D:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.101!AKKEBER!}
 		(E#"Eidos, Poetslayer."){E:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.101!AKKEBER!}
@@ -9535,13 +9535,13 @@ AKKEBER
 		*"Shhhhh! No, no, no, no! Do not spoil it!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.1010!AKKEBER!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.101!AKKEBER!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.1010!AKKEBER!]
 		||
 		*"Name unknown - unspoken! - you are as mysterious as the dawn meeting the sea!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.1011!AKKEBER!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.1010!AKKEBER!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.1011!AKKEBER!]
 		||
 		*"You alone are my muse. You enigmatic bumblebee! Seeking to pollinate the flower of my mind!"*
@@ -9628,22 +9628,22 @@ AKKEBER
 		*"Yes! Only by submerging my seed into manure can it blossom into the most beautiful stalk of grain!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.X1043!AKKEBER!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.1042!AKKEBER!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.X1043!AKKEBER!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!0.105!AKKEBER!|
 		*"When next we meet, you will have been immortalized in song, my sweet!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13213!AKKEBER!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.X1043!AKKEBER!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.105!AKKEBER!]
 		||
 		*"Lah dee dah dai, dee tum tum,
 		It's off to see the savage dum-dums!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!AKKEBER!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.105!AKKEBER!/]
-	
-	
-	
+
+
+
 ENTEGHAD
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.000!ENTEGHAD!]
 		||
@@ -9670,7 +9670,7 @@ ENTEGHAD
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.100!ENTEGHAD!]
 		||
-		*"Of course you would! We're an open, friendly folk, and we delight in what other cultures may teach us."* 
+		*"Of course you would! We're an open, friendly folk, and we delight in what other cultures may teach us."*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.1000!ENTEGHAD!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.100!ENTEGHAD!/]
 
@@ -9708,7 +9708,7 @@ ENTEGHAD
 		(B#"How did this happen?"){B:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.201!ENTEGHAD!}
 		(C#"I'll think on this."){C:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.301!ENTEGHAD!}
 		(D#"Perhaps I can put this idle child to use..."){D:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.401!ENTEGHAD!}
-	[KABU!TAMBUL!RESIDENCE DISTRICT!0.3000!ENTEGHAD!/]	
+	[KABU!TAMBUL!RESIDENCE DISTRICT!0.3000!ENTEGHAD!/]
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.400!ENTEGHAD!]
 		||
@@ -9869,7 +9869,7 @@ ENTEGHAD
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.101!ENTEGHAD!]
 		||
-		*"The poor thin'! She hasn't been able to bring herself to speak 'bout what happened."* 
+		*"The poor thin'! She hasn't been able to bring herself to speak 'bout what happened."*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!1.1010!ENTEGHAD!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!1.101!ENTEGHAD!/]
 
@@ -10091,7 +10091,7 @@ FARRIN
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.100!FARRIN!/]
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.1000!FARRIN!]
-		||	
+		||
 		*"My husband has been in ill health of late - from working on the farms too much, I suspect. And for the past month, he's rambled and raved in his sleep."*
 		(A#"Mind telling me a little more about your husband?"){A:1,KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13110-1!FARRIN!}
 		(B#"What was he saying?"){B:1,KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13110-2!FARRIN!}
@@ -10105,7 +10105,7 @@ FARRIN
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.200!FARRIN!/]
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.2000!FARRIN!]
-		||	
+		||
 		*"My husband has been in ill health of late - from working on the farms too much, I suspect. And for the past month, he's rambled and raved in his sleep."*
 		(A#"Mind telling me a little more about your husband?"){A:1,KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13110-1!FARRIN!}
 		(B#"What was he saying?"){B:1,KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13110-2!FARRIN!}
@@ -10125,7 +10125,7 @@ FARRIN
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.400!FARRIN!/]
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.4000!FARRIN!]
-		||	
+		||
 		*"My husband has been in ill health of late - from working on the farms too much, I suspect. And for the past month, he's rambled and raved in his sleep."*
 		(C#"I can't help you or your husband."){C:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.X300!FARRIN!}
 		(D#"And what can I expect in return?"){D:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.401!FARRIN!}
@@ -10134,12 +10134,12 @@ FARRIN
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.500!FARRIN!]
 		||
-		*"Okay, I'm sorry. Please don't get angry!"* 
+		*"Okay, I'm sorry. Please don't get angry!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.5000!FARRIN!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.500!FARRIN!/]
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.5000!FARRIN!]
-		||	
+		||
 		*"I was just thinking about how my husband has been in ill health of late - from working on the farms too much, I suspect. And for the past month, he's rambled and raved in his sleep... You wouldn't be able to help, would you, outlander?"*
 		(A#"Mind telling me a little more about your husband?"){A:1,KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13110-1!FARRIN!}
 		(D#"And what can I expect in return?"){D:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.401!FARRIN!}
@@ -10153,7 +10153,7 @@ FARRIN
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.600!FARRIN!/]
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.6000!FARRIN!]
-		||	
+		||
 		*"You see, he's been in ill health of late - from working on the farms too much, I suspect. And for the past month, he's rambled and raved in his sleep."*
 		(F#"Sounds like a swell guy!"){F:1,KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13110-1!FARRIN!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.6000!FARRIN!/]
@@ -10164,7 +10164,7 @@ FARRIN
 		*"His name is Kambin, but you'll immediately recognize him by his singing! Poor Kambin, always singing to distract himself these days, just like his mother used to."*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.X1010!FARRIN!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.101!FARRIN!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.X1010!FARRIN!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!0.X103!FARRIN!|
 		*"Oh stranger, if there's anything you can do to help him, I'd so greatly appreciate it."*
@@ -10183,7 +10183,7 @@ FARRIN
 		(C#"I can't help you or your husband."){C:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.X300!FARRIN!}
 		(D#"Then I see no reason to do it."){D:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.X501!FARRIN!}
 		(E#"Do I look like a charity?"){E:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.X501!FARRIN!}
-	[KABU!TAMBUL!RESIDENCE DISTRICT!0.401!FARRIN!/]	
+	[KABU!TAMBUL!RESIDENCE DISTRICT!0.401!FARRIN!/]
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.X501!FARRIN!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!0.899!FARRIN!|
@@ -10218,7 +10218,7 @@ FARRIN
 		(F#"I busted some phat rhymes, beeyotch!"){F:1,KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13111!FARRIN!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!1.X000!FARRIN!/]
 
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.002!FARRIN!]
 		||
 		*"Because of your jinnwhispers, my sweet Kambin is dead!"*
@@ -10317,7 +10317,7 @@ FARRIN
 		*"Stranger!! I don't know how you did it, but you brought my Kambin back to me!"*
 		(A#"..."){A:1,KABU!TAMBUL!RESIDENCE DISTRICT!2.X001!FARRIN!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!2.000!FARRIN!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!2.X001!FARRIN!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!3.000!FARRIN!|
 		*"I'm eternally in your debt! Oh, I'll pray for your well-being to Biracul till the day I abandon the Falseflesh!"*
@@ -10338,7 +10338,7 @@ SORUSH
 		*"Have you heard the words of the Prophet yet?"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.001!SORUSH!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.000!SORUSH!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.001!SORUSH!]
 		||
 		*"The bandaged seer travels from place to place, so I don't know if he's here right now, but you should really hear him speak if you get the chance!"*
@@ -10482,19 +10482,19 @@ SORUSH
 		*"Hear the Prophet's warnin's and prepare yourselves for the awakenin' of the One!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!SORUSH!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.X800!SORUSH!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.X801!SORUSH!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!0.X802!SORUSH!|
 		*"Hear the Prophet's warnin's and know the Sa'Ma!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!SORUSH!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.X801!SORUSH!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.X802!SORUSH!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!0.X803!SORUSH!|
 		*"Beginnin' from a single point and to a single point returned, the demons of Urugh birth their own destruction!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!SORUSH!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.X802!SORUSH!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.X803!SORUSH!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!0.X800!SORUSH!|
 		*"The Mother of all Glyphs will resurrect the Red Tower, compressin' time back to the origin!"*
@@ -10509,8 +10509,8 @@ SECRET CHAMBER
 >>>Acquired Tambul Archives Crystal Tome (13802)<<<
 	[/KABU!TAMBUL!SECRET CHAMBER!0.X000!DESCRIPTION!]
 		|^13802:KABU!TAMBUL!SECRET CHAMBER!2.X000!DESCRIPTION!|
-		*Eidos steps into the diminutive chamber, swimming through a crimson haze. Giving the room its reddish hue is a shining crystal, offered up by the hands of a statue kneeling in supplication, a look of ecstasy etched upon its stony face. 
-		
+		*Eidos steps into the diminutive chamber, swimming through a crimson haze. Giving the room its reddish hue is a shining crystal, offered up by the hands of a statue kneeling in supplication, a look of ecstasy etched upon its stony face.
+
 		Eidos sees that, even in spite of the crimson filter, the frescoes in this small room stand with all the clarity those outside must have once possessed. They depict a great number of folk sitting at the feet of a violet-robed figure, orbs of light hovering above his palms. Deep within the orbs themselves, fiery Glyphs float as if in a viscous fluid.*
 		(A#Destroy the crystal){A:0,KABU!TAMBUL!SECRET CHAMBER!9990.X13801!DESCRIPTION!}
 		(B#Absorb the crystal){B:0,KABU!TAMBUL!SECRET CHAMBER!9990.X13802!DESCRIPTION!}
@@ -10527,7 +10527,7 @@ SECRET CHAMBER
 	[/KABU!TAMBUL!SECRET CHAMBER!0.001!DESCRIPTION!]
 		||
 		*In an inadvisable acquiescence to her baser nature, Eidos casts the crystal to the ground. It shatters, releasing its energetic contents. Luin, true to its word, envelops her with his diamond skin.
-		
+
 		Unfortunately for Eidos, the collapsing ceiling pins her against one of the walls. Crackling fires and screaming survivors punctuate the confusion of the aftermath. Then the mephitic fumes of burning tomes start to worm their way through the rubble towards her, leaving Eidos to die of asphyxiation. She persists for a time before apoxia's effects overwhelm her desire to live. She sleeps and her ghost succumbs to the magnetic pull of the Graylands.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!TAMBUL!SECRET CHAMBER!0.001!DESCRIPTION!/]
@@ -10544,14 +10544,14 @@ SECRET CHAMBER
 		*Eidos now stands in this chamber bereft of light. The frescoes have been consumed into darkness, like a fading memory. The ecstatic smile engraved upon the statue, lost in the shadows.*
 		(A#Leave secret chamber){A:0,KABU!TAMBUL!ARCHIVES!0.210!DESCRIPTION!}
 	[KABU!TAMBUL!SECRET CHAMBER!1.000!DESCRIPTION!/]
-	
+
 >>>Acquired resurrection (17300)<<<
 	[/KABU!TAMBUL!SECRET CHAMBER!2.X000!DESCRIPTION!]
 		|^17300:KABU!TAMBUL!SECRET CHAMBER!3.X000!DESCRIPTION!|
 		*Returning to the secret chamber, Eidos notes that the frescoes and the statue have dissolved into the shadows. Groping about the air as she advances in the dark, she happens upon the cold forearms of the supplicant statue and traces them up to its hands. The crimson crystal remains intact.*
 		(A#Leave secret chamber){A:0,KABU!TAMBUL!ARCHIVES!0.210!DESCRIPTION!}
 	[KABU!TAMBUL!SECRET CHAMBER!2.X000!DESCRIPTION!/]
-	
+
 >>>Revived Tambul Archive crystal (13805)<<<
 	[/KABU!TAMBUL!SECRET CHAMBER!3.X000!DESCRIPTION!]
 		|^13805:KABU!TAMBUL!SECRET CHAMBER!4.X000!DESCRIPTION!|
@@ -10559,22 +10559,22 @@ SECRET CHAMBER
 		(A#Leave secret chamber){A:0,KABU!TAMBUL!ARCHIVES!0.210!DESCRIPTION!}
 		(B#_Use Resurrection Glyph_){B:0,KABU!TAMBUL!SECRET CHAMBER!9990.X13805!DESCRIPTION!}
 	[KABU!TAMBUL!SECRET CHAMBER!3.X000!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!SECRET CHAMBER!3.001!DESCRIPTION!]
 		||
 		*Eidos tenderly pours her essence into the crystal, as a mother feeding her child. A memory - beyond time, beyond logic - sets itself into the crystal for someone to discover anew.*
 		(A#Leave secret chamber){A:0,KABU!TAMBUL!ARCHIVES!0.210!DESCRIPTION!}
 		(B#Absorb the crystal){B:0,KABU!TAMBUL!SECRET CHAMBER!9990.X13806!DESCRIPTION!}
 	[KABU!TAMBUL!SECRET CHAMBER!3.001!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!SECRET CHAMBER!3.002!DESCRIPTION!]
 		||
 		*Drinking deeply from the crimson source, Eidos imbibes knowledge of the cycle, unyielding and unending. She recalls the Red Tower as it will be when she offers up the sacrifice to birth it into existence.
-		
+
 		So intense are these visions, that she drops the fragile crystal allowing it to slowly careen towards an indifferent and unmoving floor. The impact rings clearly into her ears, an alarm returning her to the present moment from whatever future reverie she had been trapped in.*
 		(A#Leave secret chamber){A:0,KABU!TAMBUL!ARCHIVES!0.210!DESCRIPTION!}
 	[KABU!TAMBUL!SECRET CHAMBER!3.002!DESCRIPTION!/]
-	
+
 >>>Acquired Tambul Archive tome II (13806)<<<
 	[/KABU!TAMBUL!SECRET CHAMBER!4.X000!DESCRIPTION!]
 		|^13806:KABU!TAMBUL!SECRET CHAMBER!5.000!DESCRIPTION!|
@@ -10611,13 +10611,13 @@ TEMPLE
 		*Eidos regards the building she has entered, estimating it to be a square of some hundred paces in width and of equal length. Bereft of roof - only barely covered by the end of the aqueduct - this space generously hosts the sun's falling rays. The center of the room flickers as sunshine contacts the large metallic disk abiding there, elevated upon a three-step dais. This disk bears a great resemblance to the one where she awoke.*
 		(A#...){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!0.0000!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!0.000!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!0.0000!DESCRIPTION!]
 		||
 		*Turning her attention to the walls, Eidos notes that the dark sandstone of the temple miraculously seems carved from a monolithic block. Stairways and upper areas around the perimeter have been fashioned from the lighter stone materials prevalent in its neighboring structures, by all appearances as an afterthought. However, all masonry and supports here are meticulously crafted and the entire layout designed with expert ability.*
 		(A#...){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!0.0001!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!0.0000!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!0.0001!DESCRIPTION!]
 		||
 		*Crashing water muffles the sound of idle gossip and rowdy children. It is here that the great aqueduct pours itself as a cascade into a massive reservoir. The folk of Tambul fill their emptied vessels at the opposite end of the waterfall where calmer waters reign.*
@@ -10630,13 +10630,13 @@ TEMPLE
 		*Eidos regards the building she has entered, estimating it to be a square of some hundred paces in width and of equal length. Bereft of roof - only barely covered by the end of the aqueduct - this space generously hosts the sun's falling rays. The center of the room flickers as sunshine contacts the Farcaster disk abiding there, elevated upon a three-step dais.*
 		(A#...){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!0.0010!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!0.001!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!0.0010!DESCRIPTION!]
 		||
 		*Turning her attention to the walls, Eidos notes that the dark sandstone of the temple miraculously seems carved from a monolithic block. Stairways and upper areas around the perimeter have been fashioned, seemingly as an afterthought. All masonry and supports are meticulously crafted and the entire layout designed with expert ability.*
 		(A#...){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!0.0011!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!0.0010!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!0.0011!DESCRIPTION!]
 		||
 		*Trickling water muffles the sound of idle gossip and rowdy children. It is here that the great aqueduct empties itself as a cascade into a massive reservoir. The folk of Tambul fill their emptied vessels at the opposite end of the waterfall where calmer waters reign.*
@@ -10680,7 +10680,7 @@ not welcome in Tambul
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!99.X01!DESCRIPTION!]
 		|^12302:KABU!TAMBUL!TEMPLE OF BIRACUL!99.02!DESCRIPTION!|
 		*As Eidos begins to materialize, a searing pain seizes her as all bodily functions begin to shut down. Poison has slowed her breathing to a halt and she is now suffocating. The guards regard her with extreme discomfort, some mixture of empathy and ecstasy vaguely written on their faces.
-		
+
 		Then, the pain fades away, her body having nearly disintegrated completely. Eidos is not welcome in Tambul, it seems.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!99.X01!DESCRIPTION!/]
@@ -10688,7 +10688,7 @@ not welcome in Tambul
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!99.02!DESCRIPTION!]
 		||
 		*As Eidos begins to materialize, a searing pain seizes her as all bodily functions begin to shut down. Luin erupts from its rest, creating a protective shield around her bones, sinews, skin and everything it can touch. But this attack on her Falseflesh seeks not destruction through coarse blows, rather through decomposition of the very matter she is composed of. The ruinous Techne has slowed her breathing to a halt, suffocating her. She gasps for air to fill her absent lungs. The guards regard her with extreme discomfort, some mixture of empathy and ecstasy vaguely written on their faces.
-		
+
 		Then the pain fades along with the rest of her disintegrating body - a final parting gift from the slain mage of Tambul, it seems.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!99.02!DESCRIPTION!/]
@@ -10720,7 +10720,7 @@ Pakahron dead
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!999.100!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!999.101!DESCRIPTION!]
-		||	
+		||
 		*The guards inspect the body of the fallen mage and mournfully shake their heads in confirmation of his departure from the Falseflesh. Suddenly, they begin to gather around her and wordlessly, like a hive-minded machine, they pull back their spears and attempt to perforate Eidos' Falseflesh. But Luin disagrees with their plans and destroys their each spear upon impact.*
 		(A#...){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!999.102!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!999.101!DESCRIPTION!/]
@@ -10767,7 +10767,7 @@ Not met fam + Pak was still alive
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!100.X001!DESCRIPTION!]
 		|@:KABU!TAMBUL!TEMPLE OF BIRACUL!101.000!DESCRIPTION!|
 		*Suddenly, Eidos notices someone perched right next to her. The figure dons dusty robes, patched and mended so many times that the original fabric is hard to discern. Yet every stitch of thread or scrap of cloth is dyed some shade of red. At first it features remain hidden under a blood-red hat, until its head jerks up to regard her.
-		
+
 		It simply stares, cocking its head side to side, tracking her every motion, like a vigilant bird eying its prey. Then, clutching a large wooden staff, it disinterestedly etches a Glyph into the dirt and begins to speak.*
 		(A#...){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!9999.X0006!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!100.X001!DESCRIPTION!/]
@@ -10807,12 +10807,12 @@ Not met fam + Pak was dead
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!100.X501!DESCRIPTION!]
 		|@:KABU!TAMBUL!TEMPLE OF BIRACUL!101.000!DESCRIPTION!|
 		*Suddenly, Eidos notices someone perched right next to her. The figure dons dusty robes, patched and mended so many times that the original fabric is hard to discern. Yet every stitch of thread or scrap of cloth is dyed some shade of red. At first it features remain hidden under a blood-red hat, until its head jerks up to regard her.
-		
+
 		It simply stares, cocking its head side to side, tracking her every motion, like a vigilant bird eying its prey. Then, clutching a large wooden staff, it disinterestedly etches a Glyph into the dirt and begins to speak.*
 		(A#...){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!9999.X0006!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!100.X501!DESCRIPTION!/]
 
-Met fam + Pak was dead	
+Met fam + Pak was dead
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!100.550!DESCRIPTION!]
 		||
 		*As Eidos reforms atop the Farcaster, she hears the thundering steps of an army headed west. To the east, a thick column of smoke rises skyward from the broken Moon Tower. Surrounding her is the despair of inconsolable people caught in the middle of a bloody conflict. Those who opposed the march now rest impaled on pikes in the Atrium - a warning of what awaits those who interfere.*
@@ -10858,11 +10858,11 @@ Met fam + Pak was dead
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!101.003!DESCRIPTION!]
 		||
 		*This is not her end. Eidos knows this. She is surer in this truth than in any other. With this epiphany, her ghost begins gently drifting off into the sea of infinity, carried by violent and dispassionate currents. She merges with the chaotic spiral of being, disintegrating and reforming until she is no longer able to distinguish herself from the surrounding Void...
-		
+
 		Even still, the Self knows something else lies beyond this world of illusions.*
 		(A#Dream){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!101.004!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!101.003!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!101.004!DESCRIPTION!]
 		||
 		*~ac*
@@ -10875,7 +10875,7 @@ Met fam + Pak was dead
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!101.004!DESCRIPTION!/]
 
 
-FAMLICUS	
+FAMLICUS
 event 20001 blew up the Moon Tower and Tacriba invasion
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!100.000!FAMLICUS!]
 		||
@@ -10888,13 +10888,13 @@ event 20001 blew up the Moon Tower and Tacriba invasion
 		*"Whether consciously or unconsciously, you seem to have looked favorably upon the Tacribians..."*
 		(A#"..."){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!100.002!FAMLICUS!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!100.001!FAMLICUS!/]
-	
+
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!100.002!FAMLICUS!]
 		||
 		*"But, it's of no consequence to me which side lives... Either way, my goal is achieved."*
 		(A#"..."){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!100.003!FAMLICUS!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!100.002!FAMLICUS!/]
-	
+
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!100.003!FAMLICUS!]
 		||
 		*"And with yet another Great Awakening avoided, your role in my little play is over."*
@@ -10932,19 +10932,19 @@ EVENT WRITERS
 		*EVENT WRITER - Dysmas not at Gates of Dazir*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON KEEP!9990.X10109-1!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON KEEP!9990.X10109-2!DESCRIPTION!]
 		|10109:KABU!TAMBUL!MOON KEEP!0.002!DESCRIPTION!|
 		*EVENT WRITER - Dysmas not at Gates of Dazir*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON KEEP!9990.X10109-2!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON KEEP!9990.X10109-3!DESCRIPTION!]
 		|10109:KABU!TAMBUL!MOON KEEP!0.331!DESCRIPTION!|
 		*EVENT WRITER - Dysmas not at Gates of Dazir*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON KEEP!9990.X10109-3!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!9990.X10109-4!DESCRIPTION!]
 		|10109:KABU!TAMBUL!MOON TOWER!0.302!DESCRIPTION!|
 		*EVENT WRITER - Dysmas not at Gates of Dazir*
@@ -10956,7 +10956,7 @@ EVENT WRITERS
 		*EVENT WRITER - Dysmas not at Gates of Dazir*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON KEEP!9990.X10109-1!DYSMAS!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!9990.X10109-1!DYSMAS!]
 		|10109:KABU!TAMBUL!MOON TOWER!9999.X9999!DYSMAS!|
 		*EVENT WRITER - Dysmas not at Gates of Dazir*
@@ -10974,103 +10974,103 @@ EVENT WRITERS
 		*EVENT WRITER - Spoke with Pakahron*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9990.X13000!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!9990.X13001!DESCRIPTION!]
 		|13001:KABU!TAMBUL!ATRIUM!0.X200!DESCRIPTION!|
 		*EVENT WRITER - Used Farcaster to enter Tambul*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!9990.X13001!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13002!PAKAHRON!]
 		|13002:KABU!TAMBUL!ATRIUM!0.X000!PAKAHRON!|
 		*EVENT WRITER - Went to Tambul*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9990.X13002!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!GATES OF TAMBUL!9990.X13003!DESCRIPTION!]
 		|13003:KABU!WILDERNESS!JENOWIN PLAIN!0.X000!DESCRIPTION!|
 		*EVENT WRITER - From Tambul to Jenowin Plain*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!GATES OF TAMBUL!9990.X13003!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13102!PAKAHRON!]
 		|13102:KABU!TAMBUL!ATRIUM!3.030!PAKAHRON!|
 		*EVENT WRITER - Pakahron sends Eidos to Librarian"*
-		(A#EVENT WRITER){A:0,NO ADDRESS}		
+		(A#EVENT WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9990.X13102!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13105!PAKAHRON!]
 		|13105:KABU!TAMBUL!ATRIUM!9990.X13107-2!PAKAHRON!|
 		*EVENT WRITER- Accepted Pakahron's Mission*
-		(A#WRITER){A:0,NO ADDRESS}	
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9990.X13105!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13106-2!PAKAHRON!]
 		|13106:KABU!TAMBUL!ATRIUM!9999.X9999!PAKAHRON!|
 		*EVENT WRITER - Refused Pakahron's Mission*
-		(A#WRITER){A:0,NO ADDRESS}	
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9990.X13106-2!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13107-1!PAKAHRON!]
 		|13107:KABU!TAMBUL!ATRIUM!4.000!PAKAHRON!|
 		*EVENT WRITER - Accepted into Tambul*
-		(A#WRITER){A:0,NO ADDRESS}	
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9990.X13107-1!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13107-2!PAKAHRON!]
 		|13107:KABU!TAMBUL!ATRIUM!4.000!PAKAHRON!|
 		*EVENT WRITER - Accepted into Tambul*
-		(A#WRITER){A:0,NO ADDRESS}	
-	[KABU!TAMBUL!ATRIUM!9990.X13107-2!PAKAHRON!/]	
-	
+		(A#WRITER){A:0,NO ADDRESS}
+	[KABU!TAMBUL!ATRIUM!9990.X13107-2!PAKAHRON!/]
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13107-3!PAKAHRON!]
 		|13107:KABU!TAMBUL!ATRIUM!4.000!PAKAHRON!|
 		*EVENT WRITER - Accepted into Tambul*
-		(A#WRITER){A:0,NO ADDRESS}	
-	[KABU!TAMBUL!ATRIUM!9990.X13107-3!PAKAHRON!/]	
-	
+		(A#WRITER){A:0,NO ADDRESS}
+	[KABU!TAMBUL!ATRIUM!9990.X13107-3!PAKAHRON!/]
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13107-4!PAKAHRON!]
 		|13107:KABU!TAMBUL!ATRIUM!3.X301!PAKAHRON!|
 		*EVENT WRITER - Accepted into Tambul*
-		(A#WRITER){A:0,NO ADDRESS}	
-	[KABU!TAMBUL!ATRIUM!9990.X13107-4!PAKAHRON!/]		
-	
+		(A#WRITER){A:0,NO ADDRESS}
+	[KABU!TAMBUL!ATRIUM!9990.X13107-4!PAKAHRON!/]
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13107-5!PAKAHRON!]
 		|13107:KABU!TAMBUL!ATRIUM!3.X301!PAKAHRON!|
 		*EVENT WRITER - Accepted into Tambul*
-		(A#WRITER){A:0,NO ADDRESS}	
-	[KABU!TAMBUL!ATRIUM!9990.X13107-5!PAKAHRON!/]	
+		(A#WRITER){A:0,NO ADDRESS}
+	[KABU!TAMBUL!ATRIUM!9990.X13107-5!PAKAHRON!/]
 
 	[/KABU!TAMBUL!ATRIUM!9990.X13107-6!PAKAHRON!]
 		|13107:KABU!TAMBUL!ATRIUM!4.000!PAKAHRON!|
 		*EVENT WRITER - Accepted into Tambul*
-		(A#WRITER){A:0,NO ADDRESS}	
-	[KABU!TAMBUL!ATRIUM!9990.X13107-6!PAKAHRON!/]	
-	
+		(A#WRITER){A:0,NO ADDRESS}
+	[KABU!TAMBUL!ATRIUM!9990.X13107-6!PAKAHRON!/]
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13108-1!PAKAHRON!]
 		|13108:KABU!TAMBUL!ATRIUM!4.000!PAKAHRON!|
 		*EVENT WRITER - Refused Tambul entry*
-		(A#WRITER){A:0,NO ADDRESS}	
-	[KABU!TAMBUL!ATRIUM!9990.X13108-1!PAKAHRON!/]		
-	
+		(A#WRITER){A:0,NO ADDRESS}
+	[KABU!TAMBUL!ATRIUM!9990.X13108-1!PAKAHRON!/]
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13108-2!PAKAHRON!]
 		|13108:KABU!TAMBUL!ATRIUM!9990.X13106-2!PAKAHRON!|
 		*EVENT WRITER - Refused Tambul entry*
-		(A#WRITER){A:0,NO ADDRESS}	
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9990.X13108-2!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13108-3!PAKAHRON!]
 		|13108:KABU!TAMBUL!ATRIUM!9990.X13106-2!PAKAHRON!|
 		*EVENT WRITER - Refused Tambul entry*
-		(A#WRITER){A:0,NO ADDRESS}	
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9990.X13108-3!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13110-1!FARRIN!]
 		|13110:KABU!TAMBUL!RESIDENCE DISTRICT!0.101!FARRIN!|
 		*EVENT WRITER - Know about Kambin*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13110-1!FARRIN!/]
-		
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13110-2!FARRIN!]
 		|13110:KABU!TAMBUL!RESIDENCE DISTRICT!0.201!FARRIN!|
 		*EVENT WRITER - Know about Kambin*
@@ -11082,73 +11082,73 @@ EVENT WRITERS
 		*EVENT WRITER - Kambin is dead*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13111!FARRIN!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!9990.X13113!DESCRIPTION!]
 		|13113:KABU!TAMBUL!MOON TOWER!9990.X10109-4!DESCRIPTION!|
 		*EVENT WRITER - Acquire Glyph of Corruption*
-		(A#WRITER){A:0,NO ADDRESS}				
-	[KABU!TAMBUL!MOON TOWER!9990.X13113!DESCRIPTION!/]	
-	
+		(A#WRITER){A:0,NO ADDRESS}
+	[KABU!TAMBUL!MOON TOWER!9990.X13113!DESCRIPTION!/]
+
 	[/KABU!TAMBUL!MOON TOWER!9990.X13114!DESCRIPTION!]
 		|13114:KABU!TAMBUL!MOON TOWER!9990.X20001!DESCRIPTION!|
 		*EVENT WRITER - Blow up the tower*
-		(A#WRITER){A:0,NO ADDRESS}				
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON TOWER!9990.X13114!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON KEEP!9990.X13115!DESCRIPTION!]
 		|13115:KABU!TAMBUL!MOON KEEP!9990.X10109-1!DESCRIPTION!|
 		*EVENT WRITER - The guards come and get the Dysmas*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON KEEP!9990.X13115!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON KEEP!9990.X13115!DYSMAS!]
 		|13115:KABU!TAMBUL!MOON KEEP!9990.X10109-1!DYSMAS!|
 		*EVENT WRITER - The guards come and get the Dysmas*
-		(A#WRITER){A:0,NO ADDRESS}		
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON KEEP!9990.X13115!DYSMAS!/]
-	
+
 	[/KABU!TAMBUL!MOON KEEP!9990.X13116!BRUS!]
 		|13116:KABU!TAMBUL!MOON KEEP!0.X002!BRUS!|
 		*EVENT WRITER - Chooses to cross Heaven's Bridge toward Tacriba*
-		(A#WRITER){A:0,NO ADDRESS}	
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON KEEP!9990.X13116!BRUS!/]
-	
+
 	[/KABU!TAMBUL!MOON KEEP!9990.X13117-1!DESCRIPTION!]
 		|13117:KABU!TAMBUL!MOON KEEP!9990.X10109-2!DESCRIPTION!|
 		*EVENT WRITER - Let Dysmas go*
-		(A#WRITER){A:0,NO ADDRESS}		
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON KEEP!9990.X13117-1!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!MOON KEEP!9990.X13117-2!DESCRIPTION!]
 		|13117:KABU!TAMBUL!MOON KEEP!9990.X10109-3!DESCRIPTION!|
 		*EVENT WRITER - Let Dysmas go*
-		(A#WRITER){A:0,NO ADDRESS}		
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON KEEP!9990.X13117-2!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!9990.X13118!DYSMAS!]
 		|13118:KABU!TAMBUL!MOON TOWER!9990.X10109-1!DYSMAS!|
 		*EVENT WRITER - Dysmas tosses crystal*
-		(A#WRITER){A:0,NO ADDRESS}		
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON TOWER!9990.X13118!DYSMAS!/]
-	
+
 	[/KABU!TAMBUL!RAMPARTS!9990.X13119-1!BOZ!]
 		|13119:KABU!TAMBUL!RAMPARTS!1.100!BOZ!|
 		*EVENT WRITER - Know Kambesh buried in Valley of Bones*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!RAMPARTS!9990.X13119-1!BOZ!/]
-	
+
 	[/KABU!TAMBUL!RAMPARTS!9990.X13119-2!BOZ!]
 		|13119:KABU!TAMBUL!RAMPARTS!1.200!BOZ!|
 		*EVENT WRITER - Know Kambesh buried in Valley of Bones*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!RAMPARTS!9990.X13119-2!BOZ!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!9990.X13120!DESCRIPTION!]
 		|13120:KABU!TAMBUL!ARCHIVES!10.000!DESCRIPTION!|
 		*EVENT WRITER - Returned to Archive post-explosion*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ARCHIVES!9990.X13120!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13121-1!ENTEGHAD!]
 		|13121:KABU!TAMBUL!RESIDENCE DISTRICT!1.100!ENTEGHAD!|
 		*EVENT WRITER - Know about Death of Zebh's family*
@@ -11166,252 +11166,180 @@ EVENT WRITERS
 		*EVENT WRITER - Know about Death of Zebh's family*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13121-4!ENTEGHAD!/]
-		
+
 	[/KABU!TAMBUL!MOON KEEP!9990.X13122!BRUS!]
 		|13122:KABU!TAMBUL!MOON KEEP!0.0013!BRUS!|
 		*EVENT WRITER - Spoke w/ Brus about gate*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON KEEP!9990.X13122!BRUS!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!9990.X13123!DYSMAS!]
 		|13123:KABU!TAMBUL!MOON TOWER!9990.X10109-1!DYSMAS!|
 		*EVENT WRITER - Let Dysmas go in Moon Tower*
-		(A#WRITER){A:0,NO ADDRESS}		
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON TOWER!9990.X13123!DYSMAS!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9990.X13210-1!KAMBIN!]
 		|13210:KABU!TAMBUL!HYDROPONIC FARM!1.103!KAMBIN!|
 		*EVENT WRITER - Spoke to Kambin*
-		(A#WRITER){A:0,NO ADDRESS}	
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9990.X13210-1!KAMBIN!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9990.X13210-2!KAMBIN!]
 		|13210:KABU!TAMBUL!HYDROPONIC FARM!1.203!KAMBIN!|
 		*EVENT WRITER - Spoke to Kambin*
-		(A#WRITER){A:0,NO ADDRESS}	
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9990.X13210-2!KAMBIN!/]
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!9990.X13210-3!KAMBIN!]
 		|13210:KABU!TAMBUL!HYDROPONIC FARM!1.403!KAMBIN!|
 		*EVENT WRITER - Spoke to Kambin*
-		(A#WRITER){A:0,NO ADDRESS}	
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9990.X13210-3!KAMBIN!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9990.X13210-4!KAMBIN!]
 		|13210:KABU!TAMBUL!HYDROPONIC FARM!1.503!KAMBIN!|
 		*EVENT WRITER - Spoke to Kambin*
-		(A#WRITER){A:0,NO ADDRESS}		
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9990.X13210-4!KAMBIN!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9990.X13210-5!KAMBIN!]
 		|13210:KABU!TAMBUL!HYDROPONIC FARM!1.X603!KAMBIN!|
 		*EVENT WRITER - Spoke to Kambin*
-		(A#WRITER){A:0,NO ADDRESS}	
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9990.X13210-5!KAMBIN!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9990.X13210-6!KAMBIN!]
 		|13210:KABU!TAMBUL!HYDROPONIC FARM!9990.X13212!KAMBIN!|
 		*EVENT WRITER - Spoke to Kambin*
-		(A#WRITER){A:0,NO ADDRESS}	
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9990.X13210-6!KAMBIN!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9990.X13211!PAKAHRON!]
 		|13211:KABU!TAMBUL!HYDROPONIC FARM!0.X102!PAKAHRON!|
 		*EVENT WRITER - Caught by Pak in Hydro farm*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9990.X13211!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9990.X13212!KAMBIN!]
 		|13212:KABU!TAMBUL!HYDROPONIC FARM!2.X1013!KAMBIN!|
 		*EVENT WRITER - Cheered Kambin up*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9990.X13212!KAMBIN!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13213!AKKEBER!]
 		|13213:KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!AKKEBER!|
 		*EVENT WRITER - Convinced AKKEBER to go to the Dawn Fortress*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!9990.X13213!AKKEBER!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9990.X13214!KAMBIN!]
 		|13214:KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!KAMBIN!|
 		*EVENT WRITER - Convinced KAMBIN to go to the Dawn Fortress*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9990.X13214!KAMBIN!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!9990.X13800!DESCRIPTION!]
 		|13800:KABU!TAMBUL!ARCHIVES!0.3020!DESCRIPTION!|
 		*EVENT WRITER - Tambul Archives tomes acquired*
-		(A#WRITER){A:0,NO ADDRESS}	
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ARCHIVES!9990.X13800!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!SECRET CHAMBER!9990.X13801!DESCRIPTION!]
 		|13801:KABU!TAMBUL!SECRET CHAMBER!0.X001!DESCRIPTION!|
 		*EVENT WRITER - Destroyed crystal in Tambul Archives*
-		(A#WRITER){A:0,NO ADDRESS}	
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!SECRET CHAMBER!9990.X13801!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!SECRET CHAMBER!9990.X13802!DESCRIPTION!]
 		|13802:KABU!TAMBUL!SECRET CHAMBER!0.002!DESCRIPTION!|
 		*EVENT WRITER - Tambul Archives crystal tomes acquired*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!SECRET CHAMBER!9990.X13802!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!9990.X13803!DESCRIPTION!]
 		|13803:KABU!TAMBUL!MOON TOWER!0.501!DESCRIPTION!|
 		*EVENT WRITER - Acquired Redgrain tome*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON TOWER!9990.X13803!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!9990.X13804!DESCRIPTION!]
 		|13804:KABU!TAMBUL!MOON TOWER!9990.X13900!DESCRIPTION!|
 		*EVENT WRITER - Decided to stay in Moon Tower*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON TOWER!9990.X13804!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!SECRET CHAMBER!9990.X13805!DESCRIPTION!]
 		|13805:KABU!TAMBUL!SECRET CHAMBER!3.001!DESCRIPTION!|
 		*EVENT WRITER - Revived Tambul Archive crystal*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!SECRET CHAMBER!9990.X13805!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!SECRET CHAMBER!9990.X13806!DESCRIPTION!]
 		|13806:KABU!TAMBUL!SECRET CHAMBER!3.002!DESCRIPTION!|
 		*EVENT WRITER - Acquired Tambul Archive tome II*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!SECRET CHAMBER!9990.X13806!DESCRIPTION!/]
-		
+
 	[/KABU!TAMBUL!MOON TOWER!9990.X13900!DESCRIPTION!]
 		|13900:KABU!TAMBUL!MOON TOWER!0.900!DESCRIPTION!|
 		*EVENT WRITER - Not Welcome in Tambul*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON TOWER!9990.X13900!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13900-1!PAKAHRON!]
 		|13900:KABU!TAMBUL!ATRIUM!9990.X20004!PAKAHRON!|
 		*EVENT WRITER - Not welcome in Tambul*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9990.X13900-1!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13900-2!PAKAHRON!]
 		|13900:KABU!TAMBUL!ATRIUM!9990.X13108-3!PAKAHRON!|
 		*EVENT WRITER - Not welcome in Tambul*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9990.X13900-2!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9990.X13900-1!PAKAHRON!]
 		|13900:KABU!TAMBUL!HYDROPONIC FARM!9990.X20004!PAKAHRON!|
 		*EVENT WRITER - Not welcome in Tambul*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9990.X13900-1!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9990.X13900-2!PAKAHRON!]
 		|13900:KABU!TAMBUL!HYDROPONIC FARM!9990.X13211!PAKAHRON!|
 		*EVENT WRITER - Not welcome in Tambul*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9990.X13900-2!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9990.X13902!PAKAHRON!]
 		|13902:KABU!TAMBUL!ATRIUM!9992.X0013!PAKAHRON!|
 		*EVENT WRITER - Fought because of knowledge of poison*
-		(A#WRITER){A:0,NO ADDRESS}	
-	[KABU!TAMBUL!ATRIUM!9990.X13902!PAKAHRON!/]	
-	
+		(A#WRITER){A:0,NO ADDRESS}
+	[KABU!TAMBUL!ATRIUM!9990.X13902!PAKAHRON!/]
+
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!9990.X13998!DESCRIPTION!]
 		|13998:KABU!TAMBUL!TEMPLE OF BIRACUL!9992.X0013!PAKAHRON!|
 		*EVENT WRITER - Came back after getting killed by Pakahron*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!9990.X13998!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!9990.X20001!DESCRIPTION!]
 		|20001:KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!|
 		*EVENT WRITER - Blow up the tower*
-		(A#WRITER){A:0,NO ADDRESS}				
+		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON TOWER!9990.X20001!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9990.X20004!PAKAHRON!]
 		|20004:KABU!TAMBUL!ATRIUM!9999.X9999!PAKAHRON!|
 		*EVENT WRITER - Deemed as Inscrutable and exiled*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9990.X20004!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9990.X20004!PAKAHRON!]
 		|20004:KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!PAKAHRON!|
 		*EVENT WRITER - Deemed as Inscrutable and exiled*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9990.X20004!PAKAHRON!/]
-
-
-
-
-________________________________
-FIGHTING WORDS
-	[/KABU!TAMBUL!ARCHIVES!9992.X0013!PAKAHRON!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}				
-	[KABU!TAMBUL!ARCHIVES!9992.X0013!PAKAHRON!/]
-	
-	[/KABU!TAMBUL!ATRIUM!9992.X0013!PAKAHRON!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}				
-	[KABU!TAMBUL!ATRIUM!9992.X0013!PAKAHRON!/]
-	
-	[/KABU!TAMBUL!HYDROPONIC FARM!9992.X0013!PAKAHRON!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}				
-	[KABU!TAMBUL!HYDROPONIC FARM!9992.X0013!PAKAHRON!/]
-	
-	[/KABU!TAMBUL!MOON KEEP!9992.X0114!DYSMAS!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}				
-	[KABU!TAMBUL!MOON KEEP!9992.X0114!DYSMAS!/]
-	
-	[/KABU!TAMBUL!MOON KEEP!9992.X0013!PAKAHRON!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}				
-	[KABU!TAMBUL!MOON KEEP!9992.X0013!PAKAHRON!/]
-	
-	[/KABU!TAMBUL!MOON TOWER!9992.X0114!DYSMAS!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}				
-	[KABU!TAMBUL!MOON TOWER!9992.X0114!DYSMAS!/]
-
-	[/KABU!TAMBUL!MOON TOWER!9992.X0013!PAKAHRON!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}				
-	[KABU!TAMBUL!MOON TOWER!9992.X0013!PAKAHRON!/]
-	
-	[/KABU!TAMBUL!RAMPARTS!9992.X0013!PAKAHRON!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}				
-	[KABU!TAMBUL!RAMPARTS!9992.X0013!PAKAHRON!/]
-	
-	[/KABU!TAMBUL!RESIDENCE DISTRICT!9992.X0013!PAKAHRON!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}				
-	[KABU!TAMBUL!RESIDENCE DISTRICT!9992.X0013!PAKAHRON!/]
-	
-	[/KABU!TAMBUL!RESIDENCE DISTRICT!9992.X0109!FARRIN!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}				
-	[KABU!TAMBUL!RESIDENCE DISTRICT!9992.X0109!FARRIN!/]
-	
-	[/KABU!TAMBUL!TEMPLE OF BIRACUL!9992.X0013!PAKAHRON!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}
-	[KABU!TAMBUL!TEMPLE OF BIRACUL!9992.X0013!PAKAHRON!/]
-	
 
 
 
@@ -11421,286 +11349,359 @@ NPC SWITCHERS
 		|#npcSwitch:6|
 		*FAMLICUS*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!TAMBUL!TEMPLE OF BIRACUL!9999.X0006!DESCRIPTION!/]	
-	
+	[KABU!TAMBUL!TEMPLE OF BIRACUL!9999.X0006!DESCRIPTION!/]
+
 	[/KABU!TAMBUL!ARCHIVES!9999.X0013!DESCRIPTION!]
 		|#npcSwitch:13|
 		*PAKAHRON*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!TAMBUL!ARCHIVES!9999.X0013!DESCRIPTION!/]	
-	
+	[KABU!TAMBUL!ARCHIVES!9999.X0013!DESCRIPTION!/]
+
 	[/KABU!TAMBUL!ATRIUM!9999.X0013!DESCRIPTION!]
 		|#npcSwitch:13|
 		*PAKAHRON*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!TAMBUL!ATRIUM!9999.X0013!DESCRIPTION!/]		
+	[KABU!TAMBUL!ATRIUM!9999.X0013!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!9999.X0013!DESCRIPTION!]
 		|#npcSwitch:13|
 		*PAKAHRON*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9999.X0013!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9999.X0013!NOURI!]
 		|#npcSwitch:13|
 		*PAKAHRON FROM NOURI*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9999.X0013!NOURI!/]
-		
+
 	[/KABU!TAMBUL!ATRIUM!9999.X0101!DESCRIPTION!]
 		|#npcSwitch:101|
 		*BAHADUR*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9999.X0101!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9999.X0102!DESCRIPTION!]
 		|#npcSwitch:102|
 		*NIYOOSH*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9999.X0102!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9999.X0104!DESCRIPTION!]
 		|#npcSwitch:104|
 		*ARGHAVAN*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9999.X0104!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!9999.X0105!DESCRIPTION!]
 		|#npcSwitch:105|
 		*DARY*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ARCHIVES!9999.X0105!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!9999.X0106!DESCRIPTION!]
 		|#npcSwitch:106|
 		*KALEKI*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ARCHIVES!9999.X0106!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9999.X0107!DESCRIPTION!]
 		|#npcSwitch:107|
 		*REBA*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9999.X0107!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9999.X0108!DESCRIPTION!]
 		|#npcSwitch:108|
 		*NOURI*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9999.X0108!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9999.X0108!PAKAHRON!]
 		|#npcSwitch:108|
 		*NOURI FROM PAKAHRON*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9999.X0108!PAKAHRON!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!9999.X0109!DESCRIPTION!]
 		|#npcSwitch:109|
 		*FARRIN*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!9999.X0109!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!9999.X0110!DESCRIPTION!]
 		|#npcSwitch:110|
 		*AKKEBER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!9999.X0110!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9999.X0111!DESCRIPTION!]
 		|#npcSwitch:111|
 		*ABLAH*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9999.X0111!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9999.X0112!DESCRIPTION!]
 		|#npcSwitch:112|
 		*KAMBIN*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9999.X0112!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!9999.X0113!DESCRIPTION!]
 		|#npcSwitch:113|
 		*SORUSH*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!9999.X0113!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON KEEP!9999.X0114!DESCRIPTION!]
 		|#npcSwitch:114|
 		*DYSMAS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON KEEP!9999.X0114!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!9999.X0114!DESCRIPTION!]
 		|#npcSwitch:114|
 		*DYSMAS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON TOWER!9999.X0114!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!MOON KEEP!9999.X0115!DESCRIPTION!]
 		|#npcSwitch:115|
 		*BRUS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON KEEP!9999.X0115!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!RAMPARTS!9999.X0116!DESCRIPTION!]
 		|#npcSwitch:116|
 		*BOZ*
-		(A#SWITCHER){A:0,NO ADDRESS}	
-	[KABU!TAMBUL!RAMPARTS!9999.X0116!DESCRIPTION!/]	
-	
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[KABU!TAMBUL!RAMPARTS!9999.X0116!DESCRIPTION!/]
+
 	[/KABU!TAMBUL!ARCHIVES!9999.X0117!DESCRIPTION!]
 		|#npcSwitch:117|
 		*KAGIN*
-		(A#SWITCHER){A:0,NO ADDRESS}	
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ARCHIVES!9999.X0117!DESCRIPTION!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!9999.X0117!ISMAT!]
 		|#npcSwitch:117|
 		*KAGIN FROM ISMAT*
-		(A#SWITCHER){A:0,NO ADDRESS}	
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ARCHIVES!9999.X0117!ISMAT!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!9999.X0118!KAGIN!]
 		|#npcSwitch:118|
 		*ISMAT FROM KAGIN*
-		(A#SWITCHER){A:0,NO ADDRESS}	
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ARCHIVES!9999.X0118!KAGIN!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!9999.X0119!DESCRIPTION!]
 		|#npcSwitch:119|
 		*ENTEGHAD*
-		(A#SWITCHER){A:0,NO ADDRESS}	
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!9999.X0119!DESCRIPTION!/]
-		
+
 	[/KABU!TAMBUL!ATRIUM!9999.X9999!ABLAH!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM ABLAH*
-		(A#SWITCHER){A:0,NO ADDRESS}		
-	[KABU!TAMBUL!ATRIUM!9999.X9999!ABLAH!/]	
-	
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[KABU!TAMBUL!ATRIUM!9999.X9999!ABLAH!/]
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!AKKEBER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM AKKEBER*
-		(A#SWITCHER){A:0,NO ADDRESS}	
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!AKKEBER!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM ARGHAVAN*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!/]
-		
+
 	[/KABU!TAMBUL!ATRIUM!9999.X9999!BAHADUR!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM BAHADUR*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9999.X9999!BAHADUR!/]
 
 	[/KABU!TAMBUL!RAMPARTS!9999.X9999!BOZ!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM BOZ*
-		(A#SWITCHER){A:0,NO ADDRESS}	
-	[KABU!TAMBUL!RAMPARTS!9999.X9999!BOZ!/]	
-	
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[KABU!TAMBUL!RAMPARTS!9999.X9999!BOZ!/]
+
 	[/KABU!TAMBUL!MOON KEEP!9999.X9999!BRUS!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM BRUS*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON KEEP!9999.X9999!BRUS!/]
 
 	[/KABU!TAMBUL!ARCHIVES!9999.X9999!DARY!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM DARY*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!TAMBUL!ARCHIVES!9999.X9999!DARY!/]	
-	
+	[KABU!TAMBUL!ARCHIVES!9999.X9999!DARY!/]
+
 	[/KABU!TAMBUL!MOON KEEP!9999.X9999!DYSMAS!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM DYSMAS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON KEEP!9999.X9999!DYSMAS!/]
-	
+
 	[/KABU!TAMBUL!MOON TOWER!9999.X9999!DYSMAS!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM DYSMAS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!MOON TOWER!9999.X9999!DYSMAS!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!ENTEGHAD!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM ENTEGHAD*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!ENTEGHAD!/]
-	
+
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!9999.X9999!FAMLICUS!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM FAMLICUS*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!TAMBUL!TEMPLE OF BIRACUL!9999.X9999!FAMLICUS!/]	
-	
+	[KABU!TAMBUL!TEMPLE OF BIRACUL!9999.X9999!FAMLICUS!/]
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!FARRIN!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM FARRIN*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!FARRIN!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!9999.X9999!ISMAT!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM ISMAT*
-		(A#SWITCHER){A:0,NO ADDRESS}	
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ARCHIVES!9999.X9999!ISMAT!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!9999.X9999!KAGIN!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM KAGIN*
-		(A#SWITCHER){A:0,NO ADDRESS}	
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ARCHIVES!9999.X9999!KAGIN!/]
-	
+
 	[/KABU!TAMBUL!ARCHIVES!9999.X9999!KALEKI!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM KALEKI*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ARCHIVES!9999.X9999!KALEKI!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!KAMBIN!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM KAMBIN*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!KAMBIN!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM NIYOOSH*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!NOURI!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM NOURI*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!NOURI!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!9999.X9999!PAKAHRON!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM PAKAHRON*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!TAMBUL!ATRIUM!9999.X9999!PAKAHRON!/]	
-	
+	[KABU!TAMBUL!ATRIUM!9999.X9999!PAKAHRON!/]
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!PAKAHRON!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM PAKAHRON*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!PAKAHRON!/]	
-	
+	[KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!PAKAHRON!/]
+
 	[/KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!REBA!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM REBA*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!REBA!/]
-	
+
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!SORUSH!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM SORUSH*
-		(A#SWITCH){A:0,NO ADDRESS}	
+		(A#SWITCH){A:0,NO ADDRESS}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!SORUSH!/]
+
+
+
+
+________________________________
+FIGHTING WORDS
+	[/KABU!TAMBUL!ARCHIVES!9992.X0013!PAKAHRON!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!TAMBUL!ARCHIVES!9992.X0013!PAKAHRON!/]
+
+	[/KABU!TAMBUL!ATRIUM!9992.X0013!PAKAHRON!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!TAMBUL!ATRIUM!9992.X0013!PAKAHRON!/]
+
+	[/KABU!TAMBUL!HYDROPONIC FARM!9992.X0013!PAKAHRON!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!TAMBUL!HYDROPONIC FARM!9992.X0013!PAKAHRON!/]
+
+	[/KABU!TAMBUL!MOON KEEP!9992.X0114!DYSMAS!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!TAMBUL!MOON KEEP!9992.X0114!DYSMAS!/]
+
+	[/KABU!TAMBUL!MOON KEEP!9992.X0013!PAKAHRON!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!TAMBUL!MOON KEEP!9992.X0013!PAKAHRON!/]
+
+	[/KABU!TAMBUL!MOON TOWER!9992.X0114!DYSMAS!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!TAMBUL!MOON TOWER!9992.X0114!DYSMAS!/]
+
+	[/KABU!TAMBUL!MOON TOWER!9992.X0013!PAKAHRON!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!TAMBUL!MOON TOWER!9992.X0013!PAKAHRON!/]
+
+	[/KABU!TAMBUL!RAMPARTS!9992.X0013!PAKAHRON!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!TAMBUL!RAMPARTS!9992.X0013!PAKAHRON!/]
+
+	[/KABU!TAMBUL!RESIDENCE DISTRICT!9992.X0013!PAKAHRON!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!TAMBUL!RESIDENCE DISTRICT!9992.X0013!PAKAHRON!/]
+
+	[/KABU!TAMBUL!RESIDENCE DISTRICT!9992.X0109!FARRIN!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!TAMBUL!RESIDENCE DISTRICT!9992.X0109!FARRIN!/]
+
+	[/KABU!TAMBUL!TEMPLE OF BIRACUL!9992.X0013!PAKAHRON!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!TAMBUL!TEMPLE OF BIRACUL!9992.X0013!PAKAHRON!/]
+
+

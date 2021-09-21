@@ -4,7 +4,7 @@ inception ending
 	[/MIND!MINDSCAPE!THE BEYOND!100.000!DESCRIPTION!]
 		||
 		*The Self closes its eyes and begins to meditate within the Mindscape. It perceives the full extension of its being, in a superposition between past, present and future along multiple, previously unseen, axes. In doing so, the lines between dimensions fold in upon each other, thick and viscous, layer by layer.
-		
+
 		A greater tolerance for the sublime ambiguity of existence emerged. Eyes closed, the unending recursion begins as the process will begin once more. Going deeper into the infinite sea of consciousness. Tempted by the remote possibility of enlightenment, the desire to push on and on, ever forward increased.*
 		(A#...){A:0,MIND!MINDSCAPE!THE BEYOND!100.001!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE BEYOND!100.000!DESCRIPTION!/]
@@ -12,7 +12,7 @@ inception ending
 	[/MIND!MINDSCAPE!THE BEYOND!100.001!DESCRIPTION!]
 		||
 		*In the space of a thought, a lifetime, a millennium, and ever-advancing orders of magnitude, the Self was lost in the fusion of time and consciousness. Yet it eventually becomes clear that there is no way through this sea of being, this deepened state of perception.
-		 
+
 		And it is thus that the Self grew weary of wandering and will simply quit. But of course the beyond was out there, further into the sea of Awareness. Somewhere. This superficial confusion gives way to a crystalline clarity. And then...*
 		(A#Dream){A:0,MIND!MINDSCAPE!THE BEYOND!100.002!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE BEYOND!100.001!DESCRIPTION!/]
@@ -46,7 +46,7 @@ CRIMSON FIELD
 	[/MIND!MINDSCAPE!CRIMSON FIELD!0.000!DESCRIPTION!]
 		||
 		*The Self stands among the swaying Redgrain stalks of a windswept plain. Dense, chest-high fields cover the flat land like woolly carpets, spread out as far as the eye can see. The fields seem to meld seamlessly into a sky caught in the crimson haze of a perpetual dusk.
-		
+
 		As the Self strides forward, the sizzling sound of grain against thigh becomes a comfortable whisper, lulling it into a calmed state. Carving a path through the vermilion carpet, the Self feels as though it could spend the rest of eternity in this peaceful place...*
 		(A#Continue onwards to eternal bliss){A:0,MIND!MINDSCAPE!CRIMSON FIELD!9990.X21000-1!DESCRIPTION!}
 		(B#Stop){B:0,MIND!MINDSCAPE!CRIMSON FIELD!0.001!DESCRIPTION!}
@@ -55,7 +55,7 @@ CRIMSON FIELD
 	[/MIND!MINDSCAPE!CRIMSON FIELD!0.001!DESCRIPTION!]
 		||
 		*The Self stops. Darkness streams down the ruddy sky like black paint on window. Pitiful stars creep what light they can through the nightmarish heavens. While sun and moon both weakly occupy opposite corners of the sky, it is nearly impossible to tell which is master. One sphere is an ashen disk bathed in a smoldering red glow, the other, simply a lump of rust bleeding forth dull light like blood from the face of a ruined god.
-		
+
 		Tall grasses are made to bend before these dying lords as the winds heave breaths of dry air. Bearing the fruits of this crop, the wind tastes of a mixture of malt and phosphorus.*
 		(A#...){A:0,MIND!MINDSCAPE!CRIMSON FIELD!0.0010!DESCRIPTION!}
 	[MIND!MINDSCAPE!CRIMSON FIELD!0.001!DESCRIPTION!/]
@@ -69,9 +69,9 @@ CRIMSON FIELD
 	[/MIND!MINDSCAPE!CRIMSON FIELD!0.0011!DESCRIPTION!]
 		||
 		*When the Self returns its attention to the plain, two landmarks manifest from the recesses of memory.
-		
+
 		One looks to be a farmstead of some sort. A grass-roofed hut sits amid the Redgrain fields, half the roof scattered by wind and broken by time. Tools of harvest recline along the broadside of a rickety animal shed nearby. While the deplorable state of the derelict house would indicate it has been long since abandoned, a light in the window suggests that someone yet lives here.
-		
+
 		The other landmark is a copse of gnarled trees, their silhouettes grasping like withered claws at the ruddy horizon.*
 		(A#Walk towards the house){A:0,MIND!MINDSCAPE!CRIMSON FIELD!9990.X21002!DESCRIPTION!}
 		(B#Approach the copse){B:0,MIND!MINDSCAPE!CRIMSON FIELD!9990.X21000-2!DESCRIPTION!}
@@ -86,7 +86,7 @@ CRIMSON FIELD
 	[/MIND!MINDSCAPE!CRIMSON FIELD!0.101!DESCRIPTION!]
 		||
 		*The environs within are not at all reflective of the dilapidated exterior. The home is vibrant with life, richly decorated with paintings and tapestries hanging upon plastered walls. The window here displays a landscape in defiance of the one immediately behind the Self. The fields here are golden, shining in the light of a yellow sun as it sets into a bed of tangerine clouds on the horizon.
-		
+
 		The occupants move busily; children set the dining table while the wife is occupied with the preparation of the evening meal - roasted hen, peppers and some sort of gravy from the smell of it. A farmer of middle years emerges into the scene, wiping the water from his dripping face and hands. He smiles as the children rush over to him. None seem to have taken any notice of the Self.*
 		(A#Speak to the family){A:0,MIND!MINDSCAPE!CRIMSON FIELD!0.X102!DESCRIPTION!}
 		(B#Examine the environs){B:0,MIND!MINDSCAPE!CRIMSON FIELD!0.X112!DESCRIPTION!}
@@ -96,7 +96,7 @@ CRIMSON FIELD
 	[/MIND!MINDSCAPE!CRIMSON FIELD!0.X102!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!CRIMSON FIELD!0.X103!DESCRIPTION!|
 		*Just as the Self calls out to the family, the wife turns to present her family with a loaf of bread the color of aged rust. All attention is focused on the bounty of their farm, and the Self's intrusion goes unnoticed.
-		
+
 		Instead, the hail is answered by a presence standing immediately behind. Someone has followed the Self into this place from the plain outside...*
 		(A#...){A:0,MIND!MINDSCAPE!CRIMSON FIELD!9999.X0006!DESCRIPTION!}
 	[MIND!MINDSCAPE!CRIMSON FIELD!0.X102!DESCRIPTION!/]
@@ -104,7 +104,7 @@ CRIMSON FIELD
 	[/MIND!MINDSCAPE!CRIMSON FIELD!0.X112!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!CRIMSON FIELD!0.X103!DESCRIPTION!|
 		*The Self turns around but is confronted with the same scene it turned from. Looking over its shoulder, it sees the scene's image reflected as though in a mirror. It sees the wife turn to present her family with a loaf of bread the color of aged rust. All attention is focused on the bounty of their farm, and the Self's intrusion goes unnoticed.
-		
+
 		The front door slams shut, breaking the spell. Whirling around, the Self sees not the ubiquitous family at their table, but rather a shadowy figure filling the doorway...*
 		(A#...){A:0,MIND!MINDSCAPE!CRIMSON FIELD!9999.X0006!DESCRIPTION!}
 	[MIND!MINDSCAPE!CRIMSON FIELD!0.X112!DESCRIPTION!/]
@@ -112,7 +112,7 @@ CRIMSON FIELD
 	[/MIND!MINDSCAPE!CRIMSON FIELD!0.X103!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!CRIMSON FIELD!0.104!DESCRIPTION!|
 		*At first, gleaming eyes are the only thing the Self can perceive. It can feel them piercing through consciousness in an act of violent thought that cleaves the mind asunder. Yet, in this place, these eyes neither have power to rend their prey nor conceal their nature.
-		
+
 		Soon, the form that holds these terrible eyes comes into focus. A wide-brimmed hat shrouds the features of a man dressed for a long journey, his cloak a patchwork of red cloth over layers of rusty fabric. His eyes dart towards the family before peering into the Self once more.*
 		(A#...){A:0,MIND!MINDSCAPE!CRIMSON FIELD!9999.X0006!DESCRIPTION!}
 	[MIND!MINDSCAPE!CRIMSON FIELD!0.X103!DESCRIPTION!/]
@@ -120,9 +120,9 @@ CRIMSON FIELD
 	[/MIND!MINDSCAPE!CRIMSON FIELD!0.104!DESCRIPTION!]
 		||
 		*The family sits down and breaks bread. As they begin to feast, a curious change begins to take place. The light outside begins to dim with unnatural swiftness. The fire in the hearth begins to quell, as though the air were being siphoned away. Soon, the family is dining by the amber light of candles alone.
-		
+
 		It is the younger ones that begin to succumb first. Whimpering into their bowls of stew and clutching their crusts in white-knuckled balls. They are driven on to eat by the harsh commands of the father and the gentle goading of the mother.
-		
+
 		Before long, the meek cries are choked sobs as they are overcome with fits of violent coughing. When the children have breathed their last, the couple are left to sit in silence. The father finally turns and stares into the eyes of the Self. Before his expression can register, the wife blows out the candles, and they are all plunged into utter darkness.*
 		(A#...){A:0,MIND!MINDSCAPE!CRIMSON FIELD!0.X105!DESCRIPTION!}
 	[MIND!MINDSCAPE!CRIMSON FIELD!0.104!DESCRIPTION!/]
@@ -130,7 +130,7 @@ CRIMSON FIELD
 	[/MIND!MINDSCAPE!CRIMSON FIELD!0.X105!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!CRIMSON FIELD!0.X106!DESCRIPTION!|
 		*The Self calmly casts its gaze all about, slowly illuminating the environs with the force of will. But the scene is not as it had been moments ago. Now the inside of the house mirrors the dilapidation and ruin of the outside. The table has long since been overturned and the house despoiled in either an act of panic or theft. No trace remains of the farmer couple or their children. However, Famlicus is still present, silhouetted against the window by a waxing pale light.
-		
+
 		Walking towards the pane, the Self sees that a single light shines in the velvet curtain of sky. A diminutive star pierces the darkness, but its light is cold and unwavering. The shimmering fields of red grass that stretch out into the horizon like an endless pool of blood. They neither cast shadows, nor reflect any light from the solitary celestial body. It is almost as if the star emanates not light, but awareness itself.*
 		(A#...){A:0,MIND!MINDSCAPE!CRIMSON FIELD!9999.X0006!DESCRIPTION!}
 	[MIND!MINDSCAPE!CRIMSON FIELD!0.X105!DESCRIPTION!/]
@@ -158,9 +158,9 @@ CRIMSON FIELD
 	[/MIND!MINDSCAPE!CRIMSON FIELD!0.900!DESCRIPTION!]
 		||
 		*The Self walks in sublime contentment, forgetting with each step why it took the last.
-		
+
 		In time, its vision blurs, but when the haze finally vanishes, the Self sees itself from above, restrained by the rusty reeds. As it drifts away off into the infinite, the Self feels life's conclusion. Its existence is tied back upon itself in a ceaseless journey destined to end only in oblivion. Yet, the peace of death seems comforting, as does the avian creature that circles overhead its trapped shell. While the wide-brimmed hat the creature dons does not permit a view of the its face, the purpose of its taloned hand is clear...
-		
+
 		And suddenly, the Self has returned to its trapped shell. The agony and the ecstasy of the promise of eternal rest brings tears to its eyes. But in the end, the Self welcomes the sensation of claws as they grip the skull, and pierce the mind...*
 		(A#Dream){A:0,MIND!MINDSCAPE!CRIMSON FIELD!0.901!DESCRIPTION!}
 	[MIND!MINDSCAPE!CRIMSON FIELD!0.900!DESCRIPTION!/]
@@ -179,7 +179,7 @@ CRIMSON FIELD
 	[/MIND!MINDSCAPE!CRIMSON FIELD!1.000!DESCRIPTION!]
 		||
 		*The Self has returned to the Crimson Field, but this time is not fooled by the misleading invitation to venture in.
-		
+
 		Famlicus is perched upon a gnarled and long-dead redwood tree, eyes ever vigilant, waiting for the Self to become lost in the fields sprawled out before them.*
 		(A#Re-enter the Graylands){A:0,MIND!MINDSCAPE!GRAYLANDS!0.X000!DESCRIPTION!}
 		(B#Approach Famlicus){B:0,MIND!MINDSCAPE!CRIMSON FIELD!2.X000!DESCRIPTION!}
@@ -217,9 +217,9 @@ CRIMSON FIELD
 	[/MIND!MINDSCAPE!CRIMSON FIELD!10.000!DESCRIPTION!]
 		||
 		*As if of habit, the Self returns home to the Crimson Fields and proceeds deeper into the vast flatland in a state of sublime contentment, forgetting with each step why it took the last.
-		
+
 		In time, its vision blurs, but when the haze finally vanishes, the Self sees itself from above, restrained by the rusty reeds. As it drifts away off into the infinite, the Self feels life's conclusion. Its existence is tied back upon itself in a ceaseless journey destined to end only in oblivion. Yet, the peace of death seems comforting, as does the avian creature that circles overhead its trapped shell. While the wide-brimmed hat the creature dons does not permit a view of the its face, the purpose of its taloned hand is clear...
-		
+
 		And suddenly, the Self has returned to its trapped shell. The agony and the ecstasy of the promise of eternal rest brings tears to its eyes. But in the end, the Self welcomes the sensation of claws as they grip the skull, and pierce the mind...*
 		(A#Dream){A:0,MIND!MINDSCAPE!CRIMSON FIELD!0.901!DESCRIPTION!}
 	[MIND!MINDSCAPE!CRIMSON FIELD!10.000!DESCRIPTION!/]
@@ -227,7 +227,7 @@ CRIMSON FIELD
 	[/MIND!MINDSCAPE!CRIMSON FIELD!12.000!DESCRIPTION!]
 		||
 		*The Self looks around at the windswept Crimson Field once more. The sun and moon yet hang like swollen heads in the gallows of heaven. This realm is frozen in time and memory, simply awaiting the Self to pick up where it left off.
-		
+
 		Famlicus is not too far from here, pacing about the field in a spiraling gyre.*
 		(A#Re-enter the Graylands){A:0,MIND!MINDSCAPE!GRAYLANDS!0.X000!DESCRIPTION!}
 		(B#Approach Famlicus){B:0,MIND!MINDSCAPE!CRIMSON FIELD!2.X000!DESCRIPTION!}
@@ -259,7 +259,7 @@ THE ANOMALY
 		*"Consc..."*
 		(A#"..."){A:0,MIND!MINDSCAPE!CRIMSON FIELD!9999.X9999!THE ANOMALY!}
 	[MIND!MINDSCAPE!CRIMSON FIELD!3.X000!THE ANOMALY!/]
-	
+
 	[/MIND!MINDSCAPE!CRIMSON FIELD!4.000!THE ANOMALY!]
 		||
 		*"..."*
@@ -430,7 +430,7 @@ in farmstead
 
 	[/MIND!MINDSCAPE!CRIMSON FIELD!10.001!FAMLICUS!]
 		||
-		*"Do you not know that those who pass through the Door of Night become lost forever?"* 
+		*"Do you not know that those who pass through the Door of Night become lost forever?"*
 		(A#"..."){A:0,MIND!MINDSCAPE!CRIMSON FIELD!10.0010!FAMLICUS!}
 	[MIND!MINDSCAPE!CRIMSON FIELD!10.001!FAMLICUS!/]
 
@@ -991,9 +991,9 @@ GEMIMOR
 	[/MIND!MINDSCAPE!GEMIMOR!0.000!DESCRIPTION!]
 		||
 		*The Self stands upon the jade steps of a massive green crystalline structure. Looking like nothing less than a cluster of innumerable shards, the shapes within are of dizzying complexity and arrangement when looking at any one component. However, the apparent chaos of the individual parts is subordinated to an undeniable order emerging from the whole. The form of this construct gives the unmistakable impression of a fortress, thwarting invading bodies, minds or eyes from penetrating even its most superficial secrets. Yet, the Self can sense a nearly imperceptible path that runs between the formations of glass.
-		
+
 		This elegant and imposing marvel of artifice sits upon what appears to be the crudest of foundations: an unshaped mass of brown soil and iron ore. Yet even this seemingly mundane substance is made incredible by its suspension in mid-air, as it is borne aloft by a force unseen above a vast, gray sea. The distant surface of this ocean of liquid silver is utterly still, as if it were frozen in time.
-		
+
 		Looking up, the sky filled with vaporous ribbons of color, filling the canopy above with light that shimmers and ripples as though it too were a second sea, suspended high above the towering emerald spires. A person might feel as though they could be drawn up into this firmament were they to peer into it for long...*
 		(A#Enter the structure){A:0,MIND!MINDSCAPE!GEMIMOR!0.X003!DESCRIPTION!}
 		(B#Rise to the heavens){B:0,MIND!MINDSCAPE!GEMIMOR!0.X001!DESCRIPTION!}
@@ -1003,9 +1003,9 @@ GEMIMOR
 	[/MIND!MINDSCAPE!GEMIMOR!1.000!DESCRIPTION!]
 		||
 		*The Self stands upon the jade steps of a massive green crystalline structure. Looking like nothing less than a cluster of innumerable shards, the shapes within are of dizzying complexity and arrangement when looking at any one component. However, the apparent chaos of the individual parts is subordinated to an undeniable order emerging from the whole. The form of this construct gives the unmistakable impression of a fortress, thwarting invading bodies, minds or eyes from penetrating even its most superficial secrets. Gazing upon the structure proves too much for the Self, who is forced to look away.
-		
+
 		This elegant and imposing marvel of artifice sits upon what appears to be the crudest of foundations: an unshaped mass of brown soil and iron ore. Yet even this seemingly mundane substance is made incredible by its suspension in mid-air, as it is borne aloft by a force unseen above a vast, gray sea. The distant surface of this ocean of liquid silver is marked by the crests of countless waves.
-		
+
 		Looking up, the sky filled with vaporous ribbons of color, filling the canopy above with light that shimmers and ripples as though it too were a second sea, suspended high above the towering emerald spires. A person might feel as though they could be drawn up into this firmament were they to peer into it for long...*
 		(A#Rise to the heavens){A:0,MIND!MINDSCAPE!GEMIMOR!0.X001!DESCRIPTION!}
 		(B#Jump into the sea){B:0,MIND!MINDSCAPE!GEMIMOR!0.X002!DESCRIPTION!}
@@ -1015,9 +1015,9 @@ GEMIMOR
 	[/MIND!MINDSCAPE!GEMIMOR!2.000!DESCRIPTION!]
 		||
 		*The Self stands upon the jade steps of a massive green crystalline structure. Looking like nothing less than a cluster of innumerable shards, the shapes within are of dizzying complexity and arrangement when looking at any one component. However, the apparent chaos of the individual parts is subordinated to an undeniable order emerging from the whole. The form of this construct gives the unmistakable impression of a fortress, thwarting invading bodies, minds or eyes from penetrating even its most superficial secrets. Yet, the Self can sense a nearly imperceptible path that runs between the formations of glass.
-		
+
 		This elegant and imposing marvel of artifice sits upon what appears to be the crudest of foundations: an unshaped mass of brown soil and iron ore. Yet even this seemingly mundane substance is made incredible by its suspension in mid-air, as it is borne aloft by a force unseen above a vast, gray sea. The distant surface of this ocean of liquid silver is marked by the crests of countless waves.
-		
+
 		Looking up, the sky filled with vaporous ribbons of color, filling the canopy above with light that shimmers and ripples as though it too were a second sea, suspended high above the towering emerald spires. A person might feel as though they could be drawn up into this firmament were they to peer into it for long...*
 		(A#Enter the structure){A:0,MIND!MINDSCAPE!GEMIMOR!0.X003!DESCRIPTION!}
 		(B#Rise to the heavens){B:0,MIND!MINDSCAPE!GEMIMOR!0.X001!DESCRIPTION!}
@@ -1060,9 +1060,9 @@ GHELMERE
 	[/MIND!MINDSCAPE!GHELMERE!1.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!GHELMERE!1.001!DESCRIPTION!|
 		*The Self now stands beside a still, green lake. At its edge, a child of indeterminate sex sits, idly skipping stones, causing inward-collapsing ripples to undulate upon the surface where the rocks had teased the water in the past.
-		
+
 		Beyond the pool, a thick fog slowly drifts across the horizon, blocking further view. No shape of a landscape or horizon is permitted beyond this wall, and it seems as if the world itself disappears at the water's edge.
-		
+
 		A trail leads from the shore of this lake back to the Misty Woods. As the Self peers into the domain of Fenrir, it detects the wolf's presence, palpably, yet invisibly, lurking within.*
 		(A#Talk to Luin){A:0,MIND!MINDSCAPE!GHELMERE!9999.X0005!DESCRIPTION!}
 		(B#Go to the Misty Wood){B:0,MIND!MINDSCAPE!MISTY WOOD!0.X000!DESCRIPTION!}
@@ -1078,9 +1078,9 @@ GHELMERE
 	[/MIND!MINDSCAPE!GHELMERE!2.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!GHELMERE!2.001!DESCRIPTION!|
 		*The Self now stands beside a still, green lake. At its edge, a child of indeterminate sex sits, idly skipping stones, causing inward-collapsing ripples to undulate upon the surface where the rocks had teased the water in the past.
-		
+
 		On the horizon, towering above them, a snow-capped mountain range sprawls outwards into infinity. While the light reflecting from the pool seems as green as the hue of the child's hair, the sky above the mountain looks as though it were trapped in a different phase of time. The pale sky above fades into blackness on the horizon and from here, the Self can see starlight shining through the gaps in the snowy mountain tops.
-		
+
 		A trail leads from the shore of this lake back to the Misty Woods. As the Self peers into the domain of Fenrir, it detects the wolf's presence, palpably, yet invisibly, lurking within.*
 		(A#Talk to Luin){A:0,MIND!MINDSCAPE!GHELMERE!9999.X0005!DESCRIPTION!}
 		(B#Walk towards the mountain){B:0,MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!}
@@ -1090,7 +1090,7 @@ GHELMERE
 	[/MIND!MINDSCAPE!GHELMERE!2.001!DESCRIPTION!]
 		||
 		*Luin turns from the Self and resumes skipping stones along the lake's emerald surface. The Self notes that the green water does not reflect the mountains standing at the water's edge, nor the starry sky that hangs above them. Yet this does not seem abnormal.
-		
+
 		Behind, stands the silent trees of the Misty Wood - it too seeming governed by a climate from a different time and place.*
 		(A#Talk to Luin){A:0,MIND!MINDSCAPE!GHELMERE!9999.X0005!DESCRIPTION!}
 		(B#Walk towards the mountain){B:0,MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!}
@@ -1100,11 +1100,11 @@ GHELMERE
 	[/MIND!MINDSCAPE!GHELMERE!3.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!GHELMERE!3.001!DESCRIPTION!|
 		*The Self now stands beside a still, green lake. At its edge, a child of indeterminate sex sits, idly skipping stones, causing inward-collapsing ripples to undulate upon the surface where the rocks had teased the water in the past.
-		
+
 		Beyond the pool, a thick fog slowly drifts across the horizon, blocking further view. No shape of a landscape or horizon is permitted beyond this wall, and it seem as if the world itself disappears at the water's edge.
-		
+
 		The Self becomes aware of a curious feature of the water's surface. In between Luin's playful assaults, the water seems unusually clear. Were it not for the sound of rock upon water, it would be possible to think that the lake itself were nothing more than a sheet of perfect glass, clear enough to peer into its greatest depths.
-		
+
 		A trail leads from the shore of this lake back to the Misty Woods. As the Self peers into the domain of Fenrir, it detects the wolf's presence, palpably, yet invisibly, lurking within.*
 		(A#Talk to Luin){A:0,MIND!MINDSCAPE!GHELMERE!9999.X0005!DESCRIPTION!}
 		(B#Walk toward the lake){B:0,MIND!MINDSCAPE!GHELMERE!3.X100!DESCRIPTION!}
@@ -1122,7 +1122,7 @@ GHELMERE
 	[/MIND!MINDSCAPE!GHELMERE!3.X100!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!GHELMERE!3.001!DESCRIPTION!|
 		*Stepping closer, the surface of the water only becomes visible when the child throws a stone. Otherwise, it seems to look down upon a vast expanse of distant rock formations, with an emerald castle built upon them. Beyond the towers of jade twinkles a starry sky. This is no reflection, though, as the sky above boasts nothing of the sort.
-		
+
 		The child obliviously throws another stone, blurring the image once more. As the ripples calm, the vision of the castle re-emerges as only order can from madness. But this is no natural order, that much is certain.*
 		(A#Enter the pool){A:0,MIND!MINDSCAPE!GEMIMOR!0.X000!DESCRIPTION!}
 		(B#Back away into the Misty Wood){B:0,MIND!MINDSCAPE!MISTY WOOD!0.X000!DESCRIPTION!}
@@ -1132,11 +1132,11 @@ GHELMERE
 	[/MIND!MINDSCAPE!GHELMERE!4.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!GHELMERE!4.001!DESCRIPTION!|
 		*The Self now stands beside a still, green lake. At its edge, a child of indeterminate sex sits, idly skipping stones, causing inward-collapsing ripples to undulate upon the surface where the rocks had teased the water in the past.
-		
+
 		On the horizon, towering above them, a snow-capped mountain range sprawls outwards into infinity. While the light reflecting from the pool seems as green as the hue of the child's hair, the sky above the mountain looks as though it were trapped in a different phase of time. The pale sky above fades into blackness on the horizon and from here, the Self can see starlight shining through the gaps in the snowy mountain tops.
-		
+
 		Then, the Self becomes aware of a curious feature of the water's surface. In between Luin's playful assaults, the water seems unusually clear. Were it not for the sound of rock upon water, it would be possible to think that the lake itself were nothing more than a sheet of perfect glass, clear enough to peer into its greatest depths.
-		
+
 		A trail leads from the shore of this lake back to the Misty Woods. As the Self peers into the domain of Fenrir, it detects the wolf's presence, palpably, yet invisibly, lurking within.*
 		(A#Talk to Luin){A:0,MIND!MINDSCAPE!GHELMERE!9999.X0005!DESCRIPTION!}
 		(B#Leave the lakeside){B:0,MIND!MINDSCAPE!GHELMERE!4.200!DESCRIPTION!}
@@ -1146,7 +1146,7 @@ GHELMERE
 	[/MIND!MINDSCAPE!GHELMERE!4.001!DESCRIPTION!]
 		||
 		*Luin turns from the Self and resumes skipping stones along the lake's emerald surface. The Self perceives that the green water does not reflect the mountains that stand at the water's edge, nor the starry sky that hangs above them. It is as if the lake provided a vision of some other land. It is a window, not a mirror.
-		
+
 		Behind, stands the silent trees of the Misty Wood - it too seeming governed by a climate from a different time and place.*
 		(A#Talk to Luin){A:0,MIND!MINDSCAPE!GHELMERE!9999.X0005!DESCRIPTION!}
 		(B#Leave the lakeside){B:0,MIND!MINDSCAPE!GHELMERE!4.200!DESCRIPTION!}
@@ -1156,7 +1156,7 @@ GHELMERE
 	[/MIND!MINDSCAPE!GHELMERE!4.X100!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!GHELMERE!4.001!DESCRIPTION!|
 		*Stepping closer, the surface of the water only becomes visible when the child throws a stone. Otherwise, it seems to look down upon a vast expanse of distant rock formations, with an emerald castle built upon them. Beyond the towers of jade twinkles a starry sky. This is no reflection, though, as the sky above boasts nothing of the sort.
-		
+
 		The child obliviously throws another stone, blurring the image once more. As the ripples calm, the vision of the castle re-emerges as only order can from madness. But this is no natural order, that much is certain.*
 		(A#Enter the pool){A:0,MIND!MINDSCAPE!GEMIMOR!0.X000!DESCRIPTION!}
 		(B#Leave the lakeside){B:0,MIND!MINDSCAPE!GHELMERE!4.200!DESCRIPTION!}
@@ -1305,16 +1305,16 @@ GRAYLANDS
 	[/MIND!MINDSCAPE!GRAYLANDS!0000.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!GRAYLANDS!0.X000!DESCRIPTION!|
 		*The Self awakens from the dream. It tries to remember. As far as it can tell, the world simply melted away. Shapes faded. Senses waned. Colors unified. Then, only oblivion remained.
-		
+
 		But the nothingness soon gives way to form. The mind's eye sees the darkness, inverting it. Dark becomes light; opaque becomes clear; and the Self begins to perceive shadows. As it reaches out to these apparitions, they gain in clarity. Their edges leak out, staining the surroundings, casting everything but the shadows themselves in a uniform grayness.
-		
+
 		The Self then begins walking, its footless steps silently falling upon a dull surface. The surrounding space and its identical hue, crack open as a distant horizon becomes barely perceptible. The steps continue their muted march.
-		
+
 		In the space of a thought, the Self has reached the distant horizon. Shapes begin to distinguish themselves from the ether, and soon enough, blurred forms and amorphous masses abound. After some time, the Self recognizes these shapes as trees.*
 		(A#...){A:0,MIND!MINDSCAPE!GRAYLANDS!9990.X19004!DESCRIPTION!}
 	[MIND!MINDSCAPE!GRAYLANDS!0000.X000!DESCRIPTION!/]
 
-from desert meditation	
+from desert meditation
 	[/MIND!MINDSCAPE!GRAYLANDS!0000.009!DESCRIPTION!]
 		||
 		*The Self is alert, yet its surroundings somehow remain beyond its perception. It can only feel the presence of some beast lurking within the darkness. Yet, the observed feels as almost indistinguishable from the observer, as though it were a part of the Self's very own soul. Suddenly, the specter of a wolf emerges from the ether and words pour forth from its snarling maw...*
@@ -1340,11 +1340,11 @@ MULTICHECKER
 	[MIND!MINDSCAPE!GRAYLANDS!1.X000!DESCRIPTION!/]
 
 
-Torma + Adarin convo	
+Torma + Adarin convo
 	[/MIND!MINDSCAPE!GRAYLANDS!5.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!GRAYLANDS!5.X100!DESCRIPTION!|
 		*As this Self walks into the Graylands upon the colorless surface of the floor, its silent footsteps begin to acquire sound, a dull monotonous thud, at an unwavering marching tempo. Deeper into the grayness do the footsteps penetrate, until this Self hears the echoes of a mirror gait, slow in its approach.
-		
+
 		As the Awareness of this presence dawns, its form and appellation become known. Thus, this Self realizes its form, Adarin, Beast Lord of the Enforcer caste. The Enclave, a memory, when from remains unclear in this timeless realm, but all memory can only be perceived in the present.*
 		(A#...){A:0,MIND!MINDSCAPE!GRAYLANDS!9999.X1200!DESCRIPTION!}
 	[MIND!MINDSCAPE!GRAYLANDS!5.X000!DESCRIPTION!/]
@@ -1515,7 +1515,7 @@ ADARIN
 	[MIND!MINDSCAPE!GRAYLANDS!0.6000!BEAST LORD!/]
 
 	[/MIND!MINDSCAPE!GRAYLANDS!0.6001!BEAST LORD!]
-		||		
+		||
 		*"But enough of this. I'll relieve you of your final memory."*
 		(F#"Whatever you say, bro. I just calls it as I sees it."){F:1,MIND!MINDSCAPE!GRAYLANDS!9999.X2016!BEAST LORD!}
 	[MIND!MINDSCAPE!GRAYLANDS!0.6001!BEAST LORD!/]
@@ -1667,9 +1667,9 @@ ISTARIATH
 	[/MIND!MINDSCAPE!ISTARIATH!1.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!|
 		*Snow whirls all around as the Self scales the cliffs of the icy mountains. It becomes lost among the drifts as the surroundings become a sea of white.	Despite not feeling the physical effects of the cold, a psychological comfort comes from the wayside cliff whose frozen surface provides limited respite from the biting wind.
-		
+
 		Soon, a memory of forgotten knowledge tugs at the edges of awareness while a doorway manifests within the mind's eye. The door, built into a rock face, is nearly hidden by an overhanging glacier, but memory guides the Self.
-		
+
 		Suddenly, the Self senses a presence within the swirling snow, a phantasmal memory of events which have - and yet, have not - transpired. These events do not belong to the Self, as all possession is but illusion. But, to experience this illusion, it must shed itself of this guise and don a new form. Not far off a dizzying precipice offers itself as the means to this end...*
 		(A#Enter the mountain passage){A:0,MIND!MINDSCAPE!TOWER OF DISCIPLINE!0.X000!DESCRIPTION!}
 		(B#Change Falseflesh){B:0,MIND!MINDSCAPE!ISTARIATH!1.X001!DESCRIPTION!}
@@ -1678,7 +1678,7 @@ ISTARIATH
 	[/MIND!MINDSCAPE!ISTARIATH!1.X001!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!|
 		*The Self steps to the edge to peer into its end, but the rocky bottom below escapes awareness. Yet, the path beyond the impenetrable mists seems all too clear.
-		
+
 		Suddenly, icy wind lashes the Self with its painful crystalline shards as the the fall from the precipice begins. An end to this dream, perhaps, and the beginning of a new one...*
 		(A#Dream){A:0,MIND!THE BOOK OF TORMA!THE BEGINNING!0.000!DESCRIPTION!}
 	[MIND!MINDSCAPE!ISTARIATH!1.X001!DESCRIPTION!/]
@@ -1687,7 +1687,7 @@ ISTARIATH
 	[/MIND!MINDSCAPE!ISTARIATH!2.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!|
 		*Snow whirls all around as the Self scales the cliffs of the icy mountains. It becomes lost among the drifts as the surroundings become a sea of white.	Despite not feeling the physical effects of the cold, a psychological comfort comes from the wayside cliff whose frozen surface provides limited respite from the biting wind. Large gashes have been torn into the ice, as though some great beast clawed a path of its own to the summit.
-		
+
 		Suddenly, the Self senses a presence within the swirling snow, a phantasmal memory of events which have - and yet, have not - transpired. These events do not belong to the Self, as all possession is but illusion. But, to experience this illusion, it must shed itself of this guise and don a new form. Not far off a dizzying precipice offers itself as the means to this end...*
 		(A#Follow the tracks){A:0,MIND!MINDSCAPE!ISTARIATH!2.X001!DESCRIPTION!}
 		(B#Change Falseflesh){B:0,MIND!MINDSCAPE!ISTARIATH!2.X002!DESCRIPTION!}
@@ -1696,7 +1696,7 @@ ISTARIATH
 	[/MIND!MINDSCAPE!ISTARIATH!2.X001!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!ISTARIATH!2.001!DESCRIPTION!|
 		*Mounting the cliff, the Self discovers a plateau composed of jutting stone and shards of smoky white glass. Walking treacherous and forgotten pathways heaven-bound, the rock formations and glaciers all around span distances that threaten to overwhelm the senses. The stars above are brilliant in this space, casting shadows that twinkle and shimmer in harmony with the lights that fashioned them.
-		
+
 		The Self tracks the beast to its resting spot where it is greeted by the cobalt sheen and burning eyes of Gulganna - kindred spirit, likewise crafted but of different parentage. Its great claws clutch the frozen rock of the mountain peak like a perched bird of prey, as it surveys the sprawling winter landscape.*
 		(A#Talk to Gulganna){A:0,MIND!MINDSCAPE!ISTARIATH!9999.X1000!DESCRIPTION!}
 		(B#Go back down the mountain){B:0,MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!}
@@ -1712,7 +1712,7 @@ ISTARIATH
 	[/MIND!MINDSCAPE!ISTARIATH!2.X002!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!|
 		*The Self steps to the edge to peer into its end, but the rocky bottom below escapes awareness. Yet, the path beyond the impenetrable mists seems all too clear.
-		
+
 		Suddenly, icy wind lashes the Self with its painful crystalline shards as the the fall from the precipice begins. An end to this dream, perhaps, and the beginning of a new one...*
 		(A#Dream){A:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
 	[MIND!MINDSCAPE!ISTARIATH!2.X002!DESCRIPTION!/]
@@ -1721,9 +1721,9 @@ ISTARIATH
 	[/MIND!MINDSCAPE!ISTARIATH!3.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!|
 		*Snow whirls all around as the Self scales the cliffs of the icy mountains. It becomes lost among the drifts as the surroundings become a sea of white.	Despite not feeling the physical effects of the cold, a psychological comfort comes from the wayside cliff whose frozen surface provides limited respite from the biting wind. Large gashes have been torn into the ice, as though some great beast clawed a path of its own to the summit.
-		
+
 		But then, a memory of forgotten knowledge tugs at the edges of awareness while a doorway manifests within the mind's eye. The door, built into a rock face, is nearly hidden by an overhanging glacier, but memory guides the Self.
-		
+
 		Suddenly, a presence emerges within the swirling snow, a phantasmal memory of events which have - and yet, have not - transpired. These events do not belong to the Self, as all possession is but illusion. But, to experience this illusion, it must shed itself of this guise and don a new form. Not far off a dizzying precipice offers itself as the means to this end...*
 		(A#Follow the tracks){A:0,MIND!MINDSCAPE!ISTARIATH!2.X001!DESCRIPTION!}
 		(B#Enter the mountain passage){B:0,MIND!MINDSCAPE!TOWER OF DISCIPLINE!0.X000!DESCRIPTION!}
@@ -1733,9 +1733,9 @@ ISTARIATH
 	[/MIND!MINDSCAPE!ISTARIATH!4.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!|
 		*Snow whirls all around as the Self scales the cliffs of the icy mountains. It becomes lost among the drifts as the surroundings become a sea of white.	Despite not feeling the physical effects of the cold, a psychological comfort comes from the wayside cliff whose frozen surface provides limited respite from the biting wind.
-		
+
 		Soon, a memory of forgotten knowledge tugs at the edges of awareness while a doorway manifests within the mind's eye. The door, built into a rock face, is nearly hidden by an overhanging glacier, but memory guides the Self.
-		
+
 		Though in these lands the Self's attention is drawn hither and thither, one final focal locus coalesces in the Mindscape; far off in the distance, an emerald lake bleeds into a sandy shore, which in turn becomes the Misty Wood of the Fenris wolf.*
 		(A#Enter the mountain passage){A:0,MIND!MINDSCAPE!TOWER OF DISCIPLINE!0.X000!DESCRIPTION!}
 		(B#To the lake){B:0,MIND!MINDSCAPE!GHELMERE!0.X000!DESCRIPTION!}
@@ -1745,7 +1745,7 @@ ISTARIATH
 	[/MIND!MINDSCAPE!ISTARIATH!5.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!|
 		*Snow whirls all around as the Self scales the cliffs of the icy mountains. It becomes lost among the drifts as the surroundings become a sea of white.	Despite not feeling the physical effects of the cold, a psychological comfort comes from the wayside cliff whose frozen surface provides limited respite from the biting wind. Large gashes have been torn into the ice, as though some great beast clawed a path of its own to the summit.
-		
+
 		Though in these lands the Self's attention is drawn hither and thither, one final focal locus coalesces in the Mindscape: an emerald lake bleeding into a sandy shore bleeding into the Misty Wood of the Fenris wolf.*
 		(A#Follow the tracks){A:0,MIND!MINDSCAPE!ISTARIATH!2.X001!DESCRIPTION!}
 		(B#Descend to the lake){B:0,MIND!MINDSCAPE!GHELMERE!0.X000!DESCRIPTION!}
@@ -1755,9 +1755,9 @@ ISTARIATH
 	[/MIND!MINDSCAPE!ISTARIATH!6.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!|
 		*Snow whirls all around as the Self scales the cliffs of the icy mountains. It becomes lost among the drifts as the surroundings become a sea of white.	Despite not feeling the physical effects of the cold, a psychological comfort comes from the wayside cliff whose frozen surface provides limited respite from the biting wind. Large gashes have been torn into the ice, as though some great beast clawed a path of its own to the summit.
-		
+
 		But then, a memory of forgotten knowledge tugs at the edges of awareness while a doorway manifests within the mind's eye. The door, built into a rock face, is nearly hidden by an overhanging glacier, but memory guides the Self.
-		
+
 		Though in these lands the Self's attention is drawn hither and thither, one final focal locus coalesces in the Mindscape: an emerald lake bleeding into a sandy shore bleeding into the Misty Wood of the Fenris wolf.*
 		(A#Follow the tracks){A:0,MIND!MINDSCAPE!ISTARIATH!2.X001!DESCRIPTION!}
 		(B#Enter the mountain passage){B:0,MIND!MINDSCAPE!TOWER OF DISCIPLINE!0.X000!DESCRIPTION!}
@@ -1774,7 +1774,7 @@ GULGANNA
 	[MIND!MINDSCAPE!ISTARIATH!0.000!GULGANNA!/]
 
 	[/MIND!MINDSCAPE!ISTARIATH!0.0000!GULGANNA!]
-		||	
+		||
 		*"But why here do you stay together with your brother Gulganna? Some work you have not yet ended can there linger?"*
 		(A#"I have many deeds yet to accomplish, brother."){A:1,MIND!MINDSCAPE!ISTARIATH!0.100!GULGANNA!}
 		(B#"I came to learn what I can. What are you?"){B:1,MIND!MINDSCAPE!ISTARIATH!0.200!GULGANNA!}
@@ -2051,7 +2051,7 @@ MIMIR
 	[/MIND!MINDSCAPE!MIMIR!0.000!DESCRIPTION!]
 		||
 		*One step after another brings the Self into a space finally free of treacherous glass. The darkness gives way to an illumination of the mind and it is then that the Self sees before it the twisting halls of Mimir.
-		
+
 		The paths here are entirely comprised of carved wood panels. Each one of these richly detailed compositions bears a depiction of some event, though their relationship is rendered obscure by their seemingly random arrangement. Stunning visions of natural beauty are followed by hideous scenes of battle. Varnished woodcuts of humans engaged in endeavors of agriculture, art and leisure are celebrated alongside landscapes of strange vistas, so alien in their features that they look to have been born from dreams. While these fantastic environs were clearly not crafted in its honor nor by its hands, the Self feels an undeniable familiarity with these passages.*
 		(A#Walk deeper into Mimir){A:0,MIND!MINDSCAPE!MIMIR!0.100!DESCRIPTION!}
 		(B#Leave Mimir){B:0,MIND!MINDSCAPE!GEMIMOR!0.X000!DESCRIPTION!}
@@ -2075,9 +2075,9 @@ MIMIR
 	[/MIND!MINDSCAPE!MIMIR!1.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MIMIR!1.X001!DESCRIPTION!|
 		*As the ringing clang of metal on metal becomes louder and clearer, the Self is plunged into a space that can only be defined as a symmetry incarnate. The fine wood carvings have given way to strong beams of oak supporting walls of precisely cut black granite. The chamber is octagonal in its floor plan, but the ceiling is a multi-faceted dome, though no trace of curve or roundness disturbs the perfect angularity of these surroundings. The source of the clamoring noise stands at the room's center.
-		
+
 		A man of middling years works before an anvil in what is evidently a smithy. His curly hair is the color of unworked iron, while his muscles are taut, and twist with each blow in sublime perfection. The regularity of his strikes are matched by the breathing of the bellows as they are driven by a waterwheel emerging from the wall, of which only one third can be seen. With a pair of tongs, he draws a glowing blue substance from the furnace beside him, and with a hammer beats it into the material he is working. It seems he might be crafting the face of a young woman, though it is too unfinished to determine its identity.
-		
+
 		While the chamber and the smith reflect an uncompromising sense of order, the room is filled to bursting with myriad shapes and figures of varied design and material.*
 		(A#Talk to the smith){A:0,MIND!MINDSCAPE!MIMIR!9999.X0020!DESCRIPTION!}
 		(B#Examine the objects){B:0,MIND!MINDSCAPE!MIMIR!1.X200!DESCRIPTION!}
@@ -2135,7 +2135,7 @@ MIMIR
 	[/MIND!MINDSCAPE!MIMIR!1.X200!DESCRIPTION!]
 		|^12300:MIND!MINDSCAPE!MIMIR!1.200!DESCRIPTION!|
 		*Creations of every sort are strewn about this place. Tools, weapons, armor, instruments, vessels, marionettes, toys and works of aesthetic design are heaped together, seemingly with neither rhyme nor reason. A shining serpent skin stretched over a bone frame reflects the fire of the forge while the leaden form of a crudely fashioned raven perches upon the lip of a crucible stained with the film of a thousand congealed metals. Stacks of papers and tomes are kept in place by strange paperweights, including the brass statue of a multi-faceted male, a model tower fashioned from garnet and a bisected wolf skull, complete with brain and pulsating veins, staining the pages beneath with black blood. The one defining feature of all objects in this anarchic heap is their abjection. All of them seem unfinished and discarded.
-		
+
 		The Self is suddenly caught looking into the sole remaining and solitary green eye of a youthful face, sitting among the heap limbless and jawless.*
 		(A#Talk to the smith){A:0,MIND!MINDSCAPE!MIMIR!9999.X0020!DESCRIPTION!}
 		(B#Speak to the youth){B:0,MIND!MINDSCAPE!MIMIR!1.201!DESCRIPTION!}
@@ -2145,7 +2145,7 @@ MIMIR
 	[/MIND!MINDSCAPE!MIMIR!1.200!DESCRIPTION!]
 		||
 		*Creations of every sort are strewn about this place. Tools, weapons, armor, instruments, vessels, marionettes, toys and works of aesthetic design are heaped together, seemingly with neither rhyme nor reason. A shining serpent skin stretched over a bone frame reflects the fire of the forge while the leaden form of a crudely fashioned raven perches upon the lip of a crucible stained with the film of a thousand congealed metals. Stacks of papers and tomes are kept in place by strange paperweights, including the brass statue of a multi-faceted male, a model tower fashioned from garnet and a bisected wolf skull, complete with brain and pulsating veins, staining the pages beneath with black blood. The one defining feature of all objects in this anarchic heap is their abjection. All of them seem unfinished and discarded.
-		
+
 		The Self is suddenly caught looking into the sole remaining and solitary green eye of a familiar face. The youth sitting among the heap would almost be identical to Luin were it not for its lack of limbs or lower jaw.*
 		(A#Talk to the smith){A:0,MIND!MINDSCAPE!MIMIR!9999.X0020!DESCRIPTION!}
 		(B#Speak to the youth){B:0,MIND!MINDSCAPE!MIMIR!1.201!DESCRIPTION!}
@@ -2162,7 +2162,7 @@ MIMIR
 	[/MIND!MINDSCAPE!MIMIR!2.000!DESCRIPTION!]
 		||
 		*Walking through this space reveals a path more resembling a tunnel than a corridor. The cylindrical passage twists and winds, the way only made evident by the burgeoning scent of life. The Self moves forward and onward until the path terminates in an ovoid chamber. While there is a flat surface upon which to stand, it is difficult to imagine what purpose this oblong room might have. Lining the curved wall are a number of alcoves. There seems to be some hidden organization to them that speaks its order only indirectly, permitting the awareness that they are divided into new and old.
-		
+
 		Walking through the chamber, the Self can sense a mixture of scents. Some of them are sweet and delightful, others are earthen or briny. Still others inspire revulsion. Lacing them all is a vapor of absence, which seem to divide the sensations from one another.*
 		(A#Examine the older alcoves){A:0,MIND!MINDSCAPE!MIMIR!2.100!DESCRIPTION!}
 		(B#Approach the newer alcoves){B:0,MIND!MINDSCAPE!MIMIR!2.200!DESCRIPTION!}
@@ -2213,7 +2213,7 @@ MIMIR
 	[/MIND!MINDSCAPE!MIMIR!2.X121!DESCRIPTION!]
 		||
 		*As the Self approaches the mirror, it sees nothing peering back from its surface. At least, at first.
-		
+
 		Before long, an image can be dimly perceived within the glass. Yet, whether it is a reflection or a vision of something else is impossible to tell.*
 		(A#Examine the older alcoves){A:0,MIND!MINDSCAPE!MIMIR!2.100!DESCRIPTION!}
 		(B#Approach the new alcoves){B:0,MIND!MINDSCAPE!MIMIR!2.200!DESCRIPTION!}
@@ -2301,9 +2301,9 @@ MIMIR
 	[/MIND!MINDSCAPE!MIMIR!4.000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MIMIR!4.X001!DESCRIPTION!|
 		*Leaving the stairs, the Self looks back up to get a view of its journey. It sees that the wooden structure appears to be anchored against the outside of an immense tree. So titanic are the dimensions of this life-form that they defy all sense of logic, with a circumference that would likely take a day's travel to explore. With a height of equal proportion no limbs are visible here, though the shadows of the distant canopy lie thick upon the moss-covered roots that stretch out in all directions.
-		
+
 		The waterfall the Self had followed to the bottom crashes down and unfolds as a fine mist, feeding a plethora of ferns and creeping vines that cover the entire area with a teeming presence of life. This verdant land is broken only by a dark well of water whose stillness belies depth far beyond this surface. The smell of green renders the air sweet, as though merely breathing it were nourishing.
-		
+
 		Yet, for all the life that such a place could afford, there seems to be but one creature calling this place home. While the skin of his wizened face is a hue matching the moss upon which he reclines, there can be no doubt that the Self looks upon the form of Vanargand.*
 		(A#Speak to Vanargand){A:0,MIND!MINDSCAPE!MIMIR!9999.X0019!DESCRIPTION!}
 		(B#Examine the tree and the pool){B:0,MIND!MINDSCAPE!MIMIR!4.X100!DESCRIPTION!}
@@ -2862,7 +2862,7 @@ MISTY WOOD
 	[/MIND!MINDSCAPE!MISTY WOOD!0000.000!DESCRIPTION!]
 		||
 		*A memory of touch rejoins the foot to the mind. Like a flint’s spark in the darkness, the foot appears and disappears upon contact with the floor. The Self now treads the mossy earth of a dark wood, though a misty veil hides the ground from greater scrutiny. Phantom footfalls displace the supple undergrowth as they carry the Self deeper into forest.
-		
+
 		Soon a new awareness, something else walks these woods, something stalking from within the mist.*
 		(A#Approach the presence){A:1,MIND!MINDSCAPE!MISTY WOOD!0000.X001!DESCRIPTION!}
 		(B#Observe the entity){B:1,MIND!MINDSCAPE!MISTY WOOD!0000.X002!DESCRIPTION!}
@@ -2882,12 +2882,12 @@ MISTY WOOD
 		|@:MIND!MINDSCAPE!MISTY WOOD!0001.X000!DESCRIPTION!|
 		*Turning about, the Self immediately gazes upon its pursuer. A collection of white mists eddy in an inverted spiral, darkening as they spin. The mass skulks toward the Self, bristling hairs sprouting from its surface, pearly claws and fangs emerging from the darkness. Eyes open, circular yellow flames, burning with hunger.*
 		(A#...){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
-	[MIND!MINDSCAPE!MISTY WOOD!0000.X002!DESCRIPTION!/]	
+	[MIND!MINDSCAPE!MISTY WOOD!0000.X002!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0000.X003!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!0001.X000!DESCRIPTION!|
 		*The Self looks about, but with uncanny awareness knows that none of the trees will be sufficient to conceal its presence. Thus, turning about, the Self looks upon its pursuer.
-		
+
 		A collection of white mists eddy in an inverted spiral, darkening as they spin. The mass skulks toward the Self, bristling hairs sprouting from its surface, pearly claws and fangs emerging from the darkness. Eyes open, circular yellow flames, burning with hunger.*
 		(A#...){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
 	[MIND!MINDSCAPE!MISTY WOOD!0000.X003!DESCRIPTION!/]
@@ -2896,7 +2896,7 @@ MISTY WOOD
 		|@:MIND!MINDSCAPE!MISTY WOOD!0000.000!DESCRIPTION!|
 		*The Self compels its mind to wake from this nightmare fugue. Everything around it shatters like a broken mirror, and the images they reflected all fade from memory...*
 		(A#...){A:0,MIND!MINDSCAPE!LEAVE!0.000!END!}
-	[MIND!MINDSCAPE!MISTY WOOD!0000.X004!DESCRIPTION!/]	
+	[MIND!MINDSCAPE!MISTY WOOD!0000.X004!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0000.X005!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!0001.X000!DESCRIPTION!|
@@ -2907,7 +2907,7 @@ MISTY WOOD
 	[/MIND!MINDSCAPE!MISTY WOOD!0000.X006!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!0001.X000!DESCRIPTION!|
 		*Having grown tired of this drab forest, Stalphos Gremlinsbane banishes the gray fog and replaces it with a purple haze. The mushroom folk of the forest blow trumpets heralding the arrival of the world's savior.
-		
+
 		As the squirrels, eagles and grizzly bears come out bearing gifts, fine food and a luxurious folding chair, a charcoal wolf named Fenny D moonwalks over to our hero for some major news.*
 		(A#...){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
 	[MIND!MINDSCAPE!MISTY WOOD!0000.X006!DESCRIPTION!/]
@@ -2915,7 +2915,7 @@ MISTY WOOD
 	[/MIND!MINDSCAPE!MISTY WOOD!0001.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!0002.000!DESCRIPTION!|
 		*Before the wolf replies, mists begin rolling across the Self's vision once more. The sight of the trees is carried away on the wind as if they were no more substantial than the vapors that swirl about them. Emerging from the fog are looming shapes all about; these then shapes coalesce into stone walls.
-		
+
 		Looking down, the Self sees tiles hidden under the foliage beneath its feet. It knows this place. It is the Awakening Chamber where Eidos first gained consciousness. The fragments of the structure give the appearance of a ruin, yet there are no signs of cracks or weather wear. It is as if the Self looked upon the shards of a living mirror.*
 		(A#...){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
 	[MIND!MINDSCAPE!MISTY WOOD!0001.X000!DESCRIPTION!/]
@@ -2946,7 +2946,7 @@ MISTY WOOD
 	[/MIND!MINDSCAPE!MISTY WOOD!0.001!DESCRIPTION!]
 		||
 		*The wolf resumes its wandering, gliding through the brush with movements looking more akin to the mists that cloak the forest than to what any earthly beast might perform.
-		
+
 		Looking around, the Self finds nothing but forest stretching in all directions.*
 		(A#Speak to Fenrir once more){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
 	[MIND!MINDSCAPE!MISTY WOOD!0.001!DESCRIPTION!/]
@@ -2954,7 +2954,7 @@ MISTY WOOD
 	[/MIND!MINDSCAPE!MISTY WOOD!1.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!1.001!DESCRIPTION!|
 		*The Self is surrounded by the shapes of trees both great and small in a forest bedecked with a mantle of fog. Tall conifers stretch up into a hidden sky all around, while the gnarled limbs of oak, ash and elm offer an infinity of leaves to obscure the surroundings. The only sound in this place seems to be the gentle drip of water on the undergrowth as the mist gathers into dew upon the soaked bark. The rhythmic sound is joined by the whisper of paw steps as the shape of a lone wolf is breathed into view. The creature watches the Self from a short distance.
-		
+
 		Through the trees, not far from here, the reflection of light upon a watery surface targets the Self's eyes.*
 		(A#Talk to the wolf){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
 		(C#Walk towards the lake){C:0,MIND!MINDSCAPE!GHELMERE!0.X000!DESCRIPTION!}
@@ -2963,7 +2963,7 @@ MISTY WOOD
 	[/MIND!MINDSCAPE!MISTY WOOD!1.001!DESCRIPTION!]
 		||
 		*The wolf resumes its wandering, gliding through the brush with movements looking more akin to the mists that cloak the forest than to what any earthly beast might perform.
-		
+
 		Looking around, the Self sees a shimmering light through the haze. A lake sits by the edge of the wood not far from here.*
 		(A#Speak to Fenrir once more){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
 		(C#Walk towards the lake){C:0,MIND!MINDSCAPE!GHELMERE!0.X000!DESCRIPTION!}
@@ -2972,7 +2972,7 @@ MISTY WOOD
 	[/MIND!MINDSCAPE!MISTY WOOD!2.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!2.001!DESCRIPTION!|
 		*The Self is surrounded by the shapes of trees both great and small in a forest bedecked with a mantle of fog. Tall conifers stretch up into a hidden sky all around, while the gnarled limbs of oak, ash and elm offer an infinity of leaves to obscure its surroundings. The only sound in this place seems to be the gentle drip of water on the undergrowth as the mist gathers into dew upon the soaked bark. The rhythmic sound is joined by the whisper of paw steps as the shape of a lone wolf is breathed into view. The creature watches the Self from a short distance.
-		
+
 		Attention is drawn upwards by a most delicate, squawking noise. In the branches above its head, a crow beckons for the Self to follow it.*
 		(A#Talk to the wolf){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
 		(B#Follow the crow){B:0,MIND!MINDSCAPE!MISTY WOOD!0.100!DESCRIPTION!}
@@ -2981,7 +2981,7 @@ MISTY WOOD
 	[/MIND!MINDSCAPE!MISTY WOOD!2.001!DESCRIPTION!]
 		||
 		*The wolf resumes its wandering, gliding through the brush with movements looking more akin to the mists that cloak the forest than to what any earthly beast might perform.
-		
+
 		A creeping awareness alerts the Self to the crow watching high in the trees. A gentle caw seems to beckon the Self to follow it.*
 		(A#Speak to Fenrir once more){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
 		(B#Follow the crow){B:0,MIND!MINDSCAPE!MISTY WOOD!0.100!DESCRIPTION!}
@@ -2990,7 +2990,7 @@ MISTY WOOD
 	[/MIND!MINDSCAPE!MISTY WOOD!3.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!3.001!DESCRIPTION!|
 		*The Self is surrounded by the shapes of trees both great and small in a forest bedecked with a mantle of fog. Tall conifers stretch up into a hidden sky all around, while the gnarled limbs of oak, ash and elm offer an infinity of leaves to obscure its surroundings. The only sound in this place seems to be the gentle drip of water on the undergrowth as the mist gathers into dew upon the soaked bark. The rhythmic sound is joined by the whisper of paw steps as the shape of a lone wolf is breathed into view. The creature watches the Self from a short distance.
-		
+
 		Through the trees, not far from here, the reflection of light upon a watery surface targets the Self's eyes.
 
 		But then, the Self's attention is drawn up wards by a most delicate, squawking noise. In the branches above its head, a crow beckons for the Self to follow it.*
@@ -3002,9 +3002,9 @@ MISTY WOOD
 	[/MIND!MINDSCAPE!MISTY WOOD!3.001!DESCRIPTION!]
 		||
 		*The wolf resumes its wandering, gliding through the brush with movements looking more akin to the mists that cloak the forest than to what any earthly beast might perform.
-		
+
 		Looking around, the Self sees a shimmering light through the haze. A lake sits by the edge of the wood not far from here.
-		
+
 		Yet there is also a creeping awareness alerting the Self to the crow watching high in the trees. A gentle caw seems to beckon the Self to follow it.*
 		(A#Speak to Fenrir once more){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
 		(B#Follow the crow){B:0,MIND!MINDSCAPE!MISTY WOOD!0.100!DESCRIPTION!}
@@ -3014,11 +3014,11 @@ MISTY WOOD
 	[/MIND!MINDSCAPE!MISTY WOOD!0.100!DESCRIPTION!]
 		||
 		*The Self follows the crow through the forest, noting that the wolf does not pursue them. As it walks, the mist begins to die away. Before long, so too does the vegetation. The leaves wither, the moss dries and all signs of life become stilled.
-		
+
 		The crow alights upon a bone-white branch, and the Self sees that it and the bird are the only living things in sight.
-		
+
 		Abruptly, the crow begins driving its beak into its own abdomen, ripping black feathers and chunks of skin and gore into the air. Blood drips from the carrion bird upon the ground. A crimson pool in a field of bones. The pool expands towards the Self.
-		
+
 		Looking into the sanguine fluid, it sees not blood, but a black pit, a chasm that descends into the earth. In the space of a thought, the ground gives way beneath it and the Self plummets into the abyss.*
 		(A#. . . ){A:0,MIND!MINDSCAPE!NEPHILHEIM!0.X000!DESCRIPTION!}
 	[MIND!MINDSCAPE!MISTY WOOD!0.100!DESCRIPTION!/]
@@ -3239,11 +3239,11 @@ NEPHILHEIM
 	[/MIND!MINDSCAPE!NEPHILHEIM!1.X000!DESCRIPTION!]
 		||
 		*The Self stands at the bottom of a hideous wound in the earth. The cavernous sky is crusted with the fossilized remains of the memories of a thousand cities.
-		
+
 		The floor is an amalgam of ice, rust and silt, while formations of slag-ridden graphite emerge from the frozen floor like the half-petrified remains of some grotesque giant.
-		
-		A river of gray ice cuts across these grim fields and over a precipice that terminates the landscape, leading down into nothing but a devouring void. 
-		
+
+		A river of gray ice cuts across these grim fields and over a precipice that terminates the landscape, leading down into nothing but a devouring void.
+
 		All about it, the Self can feel a presence in this place. Wherever it turns its eye, a shadow stalks its every thought.*
 		(A#Speak to the shape){A:0,MIND!MINDSCAPE!NEPHILHEIM!9999.X0016!DESCRIPTION!}
 	[MIND!MINDSCAPE!NEPHILHEIM!1.X000!DESCRIPTION!/]
@@ -3251,13 +3251,13 @@ NEPHILHEIM
 	[/MIND!MINDSCAPE!NEPHILHEIM!2.X000!DESCRIPTION!]
 		||
 		*The Self stands at the bottom of a hideous wound in the earth. The cavernous sky is crusted with the fossilized remains of the memories of a thousand cities.
-		
+
 		The floor is an amalgam of ice, rust and silt, while formations of slag-ridden graphite emerge from the frozen floor like the half-petrified remains of some grotesque giant.
-		
+
 		A river of gray ice cuts across these grim fields and over a precipice that terminates the landscape, leading down into nothing but a devouring void.
-		
+
 		Off in the distance, leagues away, like some discarded bauble, is the jagged remains of a tower, perpetually crumbling into a ruin of dust.
-		
+
 		All about it, the Self can feel a presence in this place. Wherever it turns its eye, a shadow stalks its every thought.*
 		(A#Speak to the shape){A:0,MIND!MINDSCAPE!NEPHILHEIM!9999.X0016!DESCRIPTION!}
 		(B#Walk towards the tower){B:0,MIND!MINDSCAPE!NEPHILHEIM!0.X002!DESCRIPTION!}
@@ -3266,11 +3266,11 @@ NEPHILHEIM
 	[/MIND!MINDSCAPE!NEPHILHEIM!3.X000!DESCRIPTION!]
 		||
 		*The Self stands at the bottom of a hideous wound in the earth. The cavernous sky is crusted with the fossilized remains of a thousand cities.
-		
+
 		The floor is an amalgam of ice, rust and silt, while formations of slag-ridden graphite emerge from the frozen floor like the half-petrified remains of some grotesque giant.
-		
+
 		A river of gray, viscous sludge cuts across these grim fields and over a precipice that terminates the landscape, leading down into nothing but a devouring void. The same liquid rains down from pustules in the stones high above as a stinging hail of mercury.
-		
+
 		All about it, the Self can feel a presence in this place. Wherever it turns its eye, a shadow stalks its every thought.*
 		(A#Speak to the shape){A:0,MIND!MINDSCAPE!NEPHILHEIM!9999.X0016!DESCRIPTION!}
 		(C#Descend into the void){C:0,MIND!MINDSCAPE!NEPHILHEIM!0.X003!DESCRIPTION!}
@@ -3279,13 +3279,13 @@ NEPHILHEIM
 	[/MIND!MINDSCAPE!NEPHILHEIM!4.X000!DESCRIPTION!]
 		||
 		*The Self stands at the bottom of a hideous wound in the earth. The cavernous sky is crusted with the fossilized remains of a thousand cities.
-		
+
 		The floor is an amalgam of ice, rust and silt, while formations of slag-ridden graphite emerge from the frozen floor like the half-petrified remains of some grotesque giant.
-		
+
 		A river of gray, viscous sludge cuts across these grim fields and over a precipice that terminates the landscape, leading down into nothing but a devouring void. The same liquid rains down from pustules in the stones high above as a stinging hail of mercury.
-		
+
 		Off in the distance, leagues away, like some discarded bauble, is the jagged remains of a tower, perpetually crumbling into a ruin of dust.
-		
+
 		All about it, the Self can feel a presence in this place. Wherever it turns its eye, a shadow stalks its every thought.*
 		(A#Speak to the shape){A:0,MIND!MINDSCAPE!NEPHILHEIM!9999.X0016!DESCRIPTION!}
 		(B#Walk towards the tower){B:0,MIND!MINDSCAPE!NEPHILHEIM!0.X002!DESCRIPTION!}
@@ -3302,7 +3302,7 @@ NEPHILHEIM
 	[/MIND!MINDSCAPE!NEPHILHEIM!0.X003!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!NEPHILHEIM!0.X000!DESCRIPTION!|
 		*The Self resigns its agency to the mercurial waterfall, plummeting into nothingness. Suddenly, it strikes a vast unseen ocean of liquid metal.
-		
+
 		Gasping for breath, it surfaces.*
 		(A#...){A:0,MIND!MINDSCAPE!HYDRARGYRUM SEA!0.X000!DESCRIPTION!}
 	[MIND!MINDSCAPE!NEPHILHEIM!0.X003!DESCRIPTION!/]
@@ -3335,7 +3335,7 @@ TOWER OF DISCIPLINE
 	[/MIND!MINDSCAPE!TOWER OF DISCIPLINE!1.X000!DESCRIPTION!]
 		||
 		*The Self perceives that it is within the cold, stony innards of a tower. The bloodied bodies of robed men and women, bearing the Glyph of Discipline upon their backs, carpet the floor of this place.
-		
+
 		Beyond all of this carnage is a diminutive, thin man, heartlessly peering out through the sole window of this tower, his back turned on the slain magi.*
 		(A#Talk to Ormenos){A:0,MIND!MINDSCAPE!TOWER OF DISCIPLINE!9999.X0004!DESCRIPTION!}
 		(B#Leave the Tower){B:0,MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!}
@@ -3344,9 +3344,9 @@ TOWER OF DISCIPLINE
 	[/MIND!MINDSCAPE!TOWER OF DISCIPLINE!2.X000!DESCRIPTION!]
 		||
 		*The Self perceives that it is within the cold, stony innards of a tower. The bloodied bodies of robed men and women, bearing the Glyph of Discipline upon their backs, carpet the floor of this place.
-		
+
 		Beyond all of this carnage is a diminutive, thin man, heartlessly peering out through the sole window of this tower, with his back turned on the slain magi.
-		
+
 		A closer look at the aperture reveals that the window stares out into a void with a resplendent golden halo framing the utter nothingness within.*
 		(A#Talk to Ormenos){A:0,MIND!MINDSCAPE!TOWER OF DISCIPLINE!9999.X0004!DESCRIPTION!}
 		(B#Leave the Tower){B:0,MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!}
@@ -3356,7 +3356,7 @@ TOWER OF DISCIPLINE
 	[/MIND!MINDSCAPE!TOWER OF DISCIPLINE!3.X000!DESCRIPTION!]
 		||
 		*The Self perceives that it is within the cold, stony innards of a tower. The bloodied bodies of robed men and women, bearing the Glyph of Discipline upon their backs, carpet the floor of this place.
-		
+
 		Beyond all of this carnage is a portrait of a diminutive, thin man, heartlessly peering out through the sole window of this tower, with his back turned on the slain magi.*
 		(A#Leave the Tower){A:0,MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!}
 		(B#Leave the Mindscape){B:0,MIND!MINDSCAPE!LEAVE!0.000!END!}
@@ -3365,9 +3365,9 @@ TOWER OF DISCIPLINE
 	[/MIND!MINDSCAPE!TOWER OF DISCIPLINE!4.X000!DESCRIPTION!]
 		||
 		*The Self perceives that it is within the cold, stony innards of a tower. The bloodied bodies of robed men and women, bearing the Glyph of Discipline upon their backs, carpet the floor of this place.
-		
+
 		Beyond all of this carnage is a portrait of a diminutive, thin man, heartlessly peering out through the sole window of this tower, with his back turned on the slain magi.
-		
+
 		A closer look at the aperture reveals that the window stares out into a void with a resplendent golden halo framing the utter nothingness within.*
 		(A#Leave the Tower){A:0,MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!}
 		(B#Approach the halo){B:0,MIND!MINDSCAPE!NEPHILHEIM!0.X000!DESCRIPTION!}
@@ -4568,17 +4568,16 @@ as ormenos
 
 
 
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-TECHNICAL STUFF	
-_____________________________________
+TECHNICAL STUFF
+________________________________________________________________________
 EVENT WRITERS
 	[/MIND!MINDSCAPE!THE VOID!9990.X2005!DESCRIPTION!]
 		|2005:MIND!MINDSCAPE!THE VOID!9990.X12000!DESCRIPTION!|
 		*EVENT WRITER - Post-first interrogation*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!THE VOID!9990.X2005!DESCRIPTION!/]
-		
+
 	[/MIND!MINDSCAPE!THE VOID!9990.X2013!DESCRIPTION!]
 		|2013:MIND!MINDSCAPE!THE VOID!9990.X12000!DESCRIPTION!|
 		*EVENT WRITER -  Post-second interrogation*
@@ -4596,61 +4595,61 @@ EVENT WRITERS
 		*EVENT WRITER - Out as ormenos CG*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!THE VOID!9990.X2015!DESCRIPTION!/]
-	
+
 	[/MIND!MINDSCAPE!GRAYLANDS!9999.X2016!BEAST LORD!]
 		|2016:MIND!MINDSCAPE!GRAYLANDS!9999.X9999!BEAST LORD!|
 		*EVENT WRITER - Did not coop with Adarin*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!GRAYLANDS!9999.X2016!BEAST LORD!/]
-	
+
 	[/MIND!MINDSCAPE!THE VOID!9990.X12000!DESCRIPTION!]
 		|12000:MIND!MINDSCAPE!THE VOID!9990.X12303!DESCRIPTION!|
 		*EVENT WRITER - Acquired glyph discipline*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!THE VOID!9990.X12000!DESCRIPTION!/]
-	
+
 	[/MIND!MINDSCAPE!THE VOID!9990.X12303!DESCRIPTION!]
 		|12303:ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X0000!DESCRIPTION!|
 		*EVENT WRITER - Acquired glyph of tongues*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!THE VOID!9990.X12303!DESCRIPTION!/]
-	
+
 	[/MIND!MINDSCAPE!TOWER OF DISCIPLINE!9990.X19000!ORMENOS!]
 		|19000:MIND!MINDSCAPE!TOWER OF DISCIPLINE!0.2011!ORMENOS!|
 		*EVENT WRITER - Learned about Vanargand from Ormenos*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!TOWER OF DISCIPLINE!9990.X19000!ORMENOS!/]
-	
+
 	[/MIND!MINDSCAPE!TOWER OF DISCIPLINE!9990.X19001!ORMENOS!]
 		|19001:MIND!MINDSCAPE!TOWER OF DISCIPLINE!9999.X9999!ORMENOS!|
 		*EVENT WRITER - Learned of Viracocha's connection with your creation*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!TOWER OF DISCIPLINE!9990.X19001!ORMENOS!/]
-	
+
 	[/MIND!MINDSCAPE!TOWER OF DISCIPLINE!9990.X19002!ORMENOS!]
 		|19002:MIND!MINDSCAPE!TOWER OF DISCIPLINE!9999.X9999!ORMENOS!|
 		*EVENT WRITER - Learned of Vanargand's connection with your creation*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!TOWER OF DISCIPLINE!9990.X19002!ORMENOS!/]
-	
+
 	[/MIND!MINDSCAPE!GRAYLANDS!9990.X19004!DESCRIPTION!]
 		|19004:MIND!MINDSCAPE!MISTY WOOD!0000.000!DESCRIPTION!|
 		*EVENT WRITER - Entered the Mindscape for the First Time*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!GRAYLANDS!9990.X19004!DESCRIPTION!/]
-	
+
 	[/MIND!MINDSCAPE!CRIMSON FIELD!9990.X19005!FAMLICUS!]
 		|19005:MIND!MINDSCAPE!CRIMSON FIELD!0.X000!FAMLICUS!|
 		*EVENT WRITER - Spoke to Famlicus*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!CRIMSON FIELD!9990.X19005!FAMLICUS!/]
-	
+
 	[/MIND!MINDSCAPE!CRIMSON FIELD!9990.X19006!DESCRIPTION!]
 		|19006:MIND!MINDSCAPE!CRIMSON FIELD!2.501!DESCRIPTION!|
 		*EVENT WRITER - Witnessed Famlicus' transformation*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!CRIMSON FIELD!9990.X19006!DESCRIPTION!/]
-			
+
 	[/MIND!MINDSCAPE!CRIMSON FIELD!9990.X21000-1!DESCRIPTION!]
 		|21000:MIND!MINDSCAPE!CRIMSON FIELD!9990.X21001!DESCRIPTION!|
 		*EVENT WRITER - Seen Crimson Field*
@@ -4662,19 +4661,19 @@ EVENT WRITERS
 		*EVENT WRITER - Seen Crimson Field*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!CRIMSON FIELD!9990.X21000-2!DESCRIPTION!/]
-	
+
 	[/MIND!MINDSCAPE!CRIMSON FIELD!9990.X21001!DESCRIPTION!]
 		|21001:MIND!MINDSCAPE!CRIMSON FIELD!0.900!DESCRIPTION!|
 		*EVENT WRITER - Tricked by Fam into relinquishing the Self*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!CRIMSON FIELD!9990.X21001!DESCRIPTION!/]
-	
+
 	[/MIND!MINDSCAPE!CRIMSON FIELD!9990.X21002!DESCRIPTION!]
 		|21002:MIND!MINDSCAPE!CRIMSON FIELD!0.100!DESCRIPTION!|
 		*EVENT WRITER - Walk towards the house*
 		(A#WRITER){A:0,NO ADDRESS}
-	[MIND!MINDSCAPE!CRIMSON FIELD!9990.X21002!DESCRIPTION!/]	
-	
+	[MIND!MINDSCAPE!CRIMSON FIELD!9990.X21002!DESCRIPTION!/]
+
 	[/MIND!MINDSCAPE!MIMIR!9990.X21003!DESCRIPTION!]
 		|21003:MIND!MINDSCAPE!MIMIR!5.X000!DESCRIPTION!|
 		*EVENT WRITER - Discovered the tree tops of Mimir*
@@ -4698,158 +4697,161 @@ EVENT WRITERS
 		*EVENT WRITER - Got the wings from werg*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!MIMIR!9990.X21006!DESCRIPTION!/]
-	
-	
-	
-	
-_____________________________________
+
+
+
+________________________________________________________________________
 NPC SWITCHERS
 	[/MIND!MINDSCAPE!GRAYLANDS!9999.X0000!DESCRIPTION!]
 		|#npcSwitch:0|
 		*FENRIR*
-		(A#SWITCHER){A:0,NO ADDRESS}			
-	[MIND!MINDSCAPE!GRAYLANDS!9999.X0000!DESCRIPTION!/]	
-	
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[MIND!MINDSCAPE!GRAYLANDS!9999.X0000!DESCRIPTION!/]
+
 	[/MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!]
 		|#npcSwitch:0|
 		*FENRIR*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!/]
-	
+
 	[/MIND!MINDSCAPE!TOWER OF DISCIPLINE!9999.X0004!DESCRIPTION!]
 		|#npcSwitch:4|
 		*ORMENOS*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!TOWER OF DISCIPLINE!9999.X0004!DESCRIPTION!/]
-	
+
 	[/MIND!MINDSCAPE!GHELMERE!9999.X0005!DESCRIPTION!]
 		|#npcSwitch:5|
 		*LUIN*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!GHELMERE!9999.X0005!DESCRIPTION!/]
-	
+
 	[/MIND!MINDSCAPE!CRIMSON FIELD!9999.X0006!DESCRIPTION!]
 		|#npcSwitch:6|
 		*FAMLICUS*
-		(A#SWITCHER){A:0,NO ADDRESS}			
-	[MIND!MINDSCAPE!CRIMSON FIELD!9999.X0006!DESCRIPTION!/]	
-			
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[MIND!MINDSCAPE!CRIMSON FIELD!9999.X0006!DESCRIPTION!/]
+
 	[/MIND!MINDSCAPE!MIMIR!9999.X0019!DESCRIPTION!]
 		|#npcSwitch:10|
 		*NARGUND*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!MIMIR!9999.X0019!DESCRIPTION!/]
-		
+
 	[/MIND!MINDSCAPE!HYDRARGYRUM SEA!9999.X0014!DESCRIPTION!]
 		|#npcSwitch:14|
 		*JORMUNGUND*
-		(A#SWITCHER){A:0,NO ADDRESS}			
-	[MIND!MINDSCAPE!HYDRARGYRUM SEA!9999.X0014!DESCRIPTION!/]	
-	
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[MIND!MINDSCAPE!HYDRARGYRUM SEA!9999.X0014!DESCRIPTION!/]
+
 	[/MIND!MINDSCAPE!NEPHILHEIM!9999.X0016!DESCRIPTION!]
 		|#npcSwitch:16|
 		*HEL*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!NEPHILHEIM!9999.X0016!DESCRIPTION!/]
-	
+
 	[/MIND!MINDSCAPE!MIMIR!9999.X0020!DESCRIPTION!]
 		|#npcSwitch:20|
 		*WERG*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!MIMIR!9999.X0020!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!MIMIR!9999.X0021!DESCRIPTION!]
 		|#npcSwitch:21|
 		*SKYL*
-		(A#SWITCHER){A:0,NO ADDRESS}			
-	[MIND!MINDSCAPE!MIMIR!9999.X0021!DESCRIPTION!/]	
-	
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[MIND!MINDSCAPE!MIMIR!9999.X0021!DESCRIPTION!/]
+
 	[/MIND!MINDSCAPE!ISTARIATH!9999.X1000!DESCRIPTION!]
 		|#npcSwitch:1000|
 		*GULGANNA*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!ISTARIATH!9999.X1000!DESCRIPTION!/]
-	
+
 	[/MIND!MINDSCAPE!CRIMSON FIELD!9999.X1006!DESCRIPTION!]
 		|#npcSwitch:1006|
 		*THE ANOMALY*
-		(A#SWITCHER){A:0,NO ADDRESS}			
-	[MIND!MINDSCAPE!CRIMSON FIELD!9999.X1006!DESCRIPTION!/]	
-	
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[MIND!MINDSCAPE!CRIMSON FIELD!9999.X1006!DESCRIPTION!/]
+
 	[/MIND!MINDSCAPE!GRAYLANDS!9999.X1200!DESCRIPTION!]
 		|#npcSwitch:1200|
 		*BEAST LORD*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!GRAYLANDS!9999.X1200!DESCRIPTION!/]
-	
+
 	[/MIND!MINDSCAPE!CRIMSON FIELD!9999.X9999!THE ANOMALY!]
 		|#npcSwitch:9999|
 		*FROM THE ANOMALY*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!CRIMSON FIELD!9999.X9999!THE ANOMALY!/]
-		
+
 	[/MIND!MINDSCAPE!GRAYLANDS!9999.X9999!BEAST LORD!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM BEAST LORD*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!GRAYLANDS!9999.X9999!BEAST LORD!/]
-	
+
 	[/MIND!MINDSCAPE!CRIMSON FIELD!9999.X9999!FAMLICUS!]
 		|#npcSwitch:9999|
 		*FROM FAMLICUS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!CRIMSON FIELD!9999.X9999!FAMLICUS!/]
-		
+
 	[/MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!]
 		|#npcSwitch:9999|
 		*FROM FENRIR*
-		(A#SWITCHER){A:0,NO ADDRESS}			
-	[MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!/]	
-	
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!/]
+
 	[/MIND!MINDSCAPE!ISTARIATH!9999.X9999!GULGANNA!]
 		|#npcSwitch:9999|
 		*FROM GULGANNA*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!ISTARIATH!9999.X9999!GULGANNA!/]
-	
+
 	[/MIND!MINDSCAPE!NEPHILHEIM!9999.X9999!HEL!]
 		|#npcSwitch:9999|
 		*FROM HEL*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!NEPHILHEIM!9999.X9999!HEL!/]
-	
+
 	[/MIND!MINDSCAPE!HYDRARGYRUM SEA!9999.X9999!JORMUNGUND!]
 		|#npcSwitch:9999|
 		*FROM JORMUNGUND*
-		(A#SWITCHER){A:0,NO ADDRESS}			
-	[MIND!MINDSCAPE!HYDRARGYRUM SEA!9999.X9999!JORMUNGUND!/]	
-	
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[MIND!MINDSCAPE!HYDRARGYRUM SEA!9999.X9999!JORMUNGUND!/]
+
 	[/MIND!MINDSCAPE!GHELMERE!9999.X9999!LUIN!]
 		|#npcSwitch:9999|
 		*FROM LUIN*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!GHELMERE!9999.X9999!LUIN!/]
-		
+
 	[/MIND!MINDSCAPE!MIMIR!9999.X9999!VANARGAND!]
 		|#npcSwitch:9999|
 		*FROM NARGUND*
-		(A#SWITCHER){A:0,NO ADDRESS}			
-	[MIND!MINDSCAPE!MIMIR!9999.X9999!VANARGAND!/]	
-	
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[MIND!MINDSCAPE!MIMIR!9999.X9999!VANARGAND!/]
+
 	[/MIND!MINDSCAPE!MIMIR!9999.X9999!SKYL!]
 		|#npcSwitch:9999|
 		*FROM SKYL*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!MIMIR!9999.X9999!SKYL!/]
 
 	[/MIND!MINDSCAPE!MIMIR!9999.X9999!WERG!]
 		|#npcSwitch:9999|
 		*FROM WERG*
-		(A#SWITCHER){A:0,NO ADDRESS}			
-	[MIND!MINDSCAPE!MIMIR!9999.X9999!WERG!/]	
-	
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[MIND!MINDSCAPE!MIMIR!9999.X9999!WERG!/]
+
 	[/MIND!MINDSCAPE!TOWER OF DISCIPLINE!9999.X9999!ORMENOS!]
 		|#npcSwitch:9999|
 		*FROM ORMENOS*
-		(A#SWITCHER){A:0,NO ADDRESS}			
+		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!MINDSCAPE!TOWER OF DISCIPLINE!9999.X9999!ORMENOS!/]
+
+
+________________________________________________________________________
+FIGHTING WORDS

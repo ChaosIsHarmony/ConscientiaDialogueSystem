@@ -322,7 +322,7 @@ BEAST LORD
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00201!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00202!BEAST LORD!]
-		||	
+		||
 		*"Brothers! Sisters! Members of the Enclave! Listen well!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00203!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00202!BEAST LORD!/]
@@ -405,7 +405,7 @@ BEAST LORD
 		||
         *"But it looks like we'll just have to settle for it between us two for now."*
         (A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00221!BEAST LORD!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00220!BEAST LORD!/]        
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00220!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00221!BEAST LORD!]
 		||
@@ -525,13 +525,13 @@ BEAST LORD
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0041!BEAST LORD!]
 		||
-		*"I've little tolerance for your disloyal musings, Brother..."* 
+		*"I've little tolerance for your disloyal musings, Brother..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00410!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0041!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00410!BEAST LORD!]
 		||
-		*"The Choir's will IS our will! Ever has been and ever will be, too!"* 
+		*"The Choir's will IS our will! Ever has been and ever will be, too!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00411!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00410!BEAST LORD!/]
 
@@ -595,7 +595,7 @@ BEAST LORD
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0044!BEAST LORD!]
 		||
-		*"...From Thought-weaver to Thought-woven..."* 
+		*"...From Thought-weaver to Thought-woven..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00440!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0044!BEAST LORD!/]
 
@@ -849,7 +849,7 @@ LAW BRINGER
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.006!LAW BRINGER!]
 		||
-		*"And the future of Humanity!"*	
+		*"And the future of Humanity!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.007!LAW BRINGER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.006!LAW BRINGER!/]
 
@@ -878,7 +878,7 @@ OATH ABETTOR
 		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X001!OATH ABETTOR!|
 		*"War upon the Choir comes before the moon rises in the east!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1216!OATH ABETTOR!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!OATH ABETTOR!/]	
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!OATH ABETTOR!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X001!OATH ABETTOR!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!OATH ABETTOR!|
@@ -888,13 +888,13 @@ OATH ABETTOR
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!OATH ABETTOR!]
 		||
-		*"But let's not idly sit while tides shift!"* 
+		*"But let's not idly sit while tides shift!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!OATH ABETTOR!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!OATH ABETTOR!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!OATH ABETTOR!]
 		||
-		*"We must make the preparations necessary to contain the Nameless watchers!"* 
+		*"We must make the preparations necessary to contain the Nameless watchers!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!OATH ABETTOR!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!OATH ABETTOR!/]
 
@@ -1408,7 +1408,7 @@ ORMENOS' CELL
 
 >>>Acquired The Art of Blindsight by Rikharr (2098)<<<
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.X00110!DESCRIPTION!]
-		|^2098:ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0012!DESCRIPTION!|		
+		|^2098:ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0012!DESCRIPTION!|
 		*But that passionate gallop of a young mind has devolved into the labored trot of a weary, old mage - moving more from inertia than inspiration.*
 		(A#Read the tome){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!9990.X2098!DESCRIPTION!}
 		(B#Lie down and rest){B:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.000!DESCRIPTION!}
@@ -2123,7 +2123,8 @@ COOK DING
 
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TECHNICAL STUFF
 ________________________________________________________________________
 EVENT WRITERS
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9990.X2015!DESCRIPTION!]
@@ -2225,8 +2226,6 @@ EVENT WRITERS
 
 
 ________________________________________________________________________
-FIGHTING WORDS
-________________________________________________________________________
 NPC SWITCHERS
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1200!DESCRIPTION!]
 		|#npcSwitch:1200|
@@ -2323,3 +2322,9 @@ NPC SWITCHERS
 		*DESCRIPTION FROM MIND SEER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X9999!MIND SEER!/]
+
+
+
+________________________________________________________________________
+FIGHTING WORDS
+

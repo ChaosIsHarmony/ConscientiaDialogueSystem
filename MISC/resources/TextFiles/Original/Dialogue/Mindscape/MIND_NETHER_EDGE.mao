@@ -91,7 +91,7 @@ GARDEN
 	[/MIND!NETHER EDGE!GARDEN!0.X0000!DESCRIPTION!]
 		|^18999:MIND!NETHER EDGE!GARDEN!1.X000!DESCRIPTION!|
 		*Unspeakable pain courses through Eidos' Self, her Falseflesh melting away in the blue-hot fire of Awareness. A thousand flakes of skin shoot off like fireworks in the six directions, while uncountable fibers of muscle unravel off into the void. And soon every last piece of her physical being loses cohesion, spreading out into infinity. All sense of individuality, all agency is lost, devoured in the flames.
-		
+
 		Yet, even this pain, intense and eternal as it may seem, soon recedes as form and definition are lost, disappearing along with all perception.*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!0.0001!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.X0000!DESCRIPTION!/]
@@ -99,9 +99,9 @@ GARDEN
 	[/MIND!NETHER EDGE!GARDEN!0.0001!DESCRIPTION!]
 		||
 		*In the span of a thought, a timeless eon, Eidos regains awareness of Self and surroundings. The subtle sound of water. A rush of vibrant colors. A perfume befitting nature.
-		
+
 		Standing atop a Farcaster seal, Eidos' Self is now within a forest clearing. Eyes see a glade carpeted in lush, emerald grasses, nearly knee-high, but with an uncanny uniformity. A flowing stream wends its way among the gently swaying trees - invisible to sight, but the ears surmise its existence. The earthy smells of soil, leaves, and flowers drift through the air, a musky sweetness the result.
-		
+
 		But nature's design it is not, for it is all too perfect. Casting awareness skyward, eyes see a radiant crystal showering the surroundings with unnatural light, too pure, too distilled. The trees they bathe have subtly repeating patterns, too regular to be chance.*
 		(A#Enter the false wilderness){A:0,MIND!NETHER EDGE!GARDEN!0.0002!DESCRIPTION!}
 		(B#Use the Farcaster){B:0,MIND!NETHER EDGE!GARDEN!9999.X9000!DESCRIPTION!}
@@ -116,7 +116,7 @@ GARDEN
 	[/MIND!NETHER EDGE!GARDEN!0.0003!DESCRIPTION!]
 		||
 		*Attention now turns from the trees to the babbling stream meandering through them. The gentle flow empties into a deep pool over a small waterfall not too far off. Dragonflies hover above lilies floating heedlessly at the waterside, while toads croak their atonal chorus on the rocky shore.
-		
+
 		But soon, another sound enters her Self's awareness: the rhythmic snipping of shears...*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!0.0004!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.0003!DESCRIPTION!/]
@@ -138,9 +138,9 @@ GARDEN
 	[/MIND!NETHER EDGE!GARDEN!0.0010!DESCRIPTION!]
 		||
 		*Nargund returns to his work signaling that it is time for his visitor to leave.
-		
+
 		While walking back to the Farcaster, the scenery shifts. Leaves spontaneously exchange places, and entire branches disappear. Even groups of trees vanish to the left and reappear to the right. Any sense of familiarity has vanished in this ever-changing labyrinth of trees and shrubs. Yet, even in spite of these chaotic transformations, the right path is always evident - indeed, innate - to her Self, remaining fixed in this maelstrom of growth.
-		
+
 		In short order, the Farcaster appears, waiting patiently in its lonely glade.*
 		(A#Return to and use the Farcaster){A:0,MIND!NETHER EDGE!GARDEN!9999.X9000!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.0010!DESCRIPTION!/]
@@ -177,9 +177,9 @@ GARDEN
 	[/MIND!NETHER EDGE!GARDEN!10.0001!DESCRIPTION!]
 		||
 		*In the span of a thought or perhaps an eon, Eidos regains awareness of Self and surroundings. The subtle sound of water. A rush of vibrant colors. A perfume befitting nature.
-		
+
 		Standing atop a Farcaster seal, Eidos' Self is now amidst a forest clearing. Eyes see the glade is carpeted in lush, emerald grasses, nearly knee-high, but with an uncanny uniformity. A flowing stream wends its way among the gently swaying trees - invisible to sight, but the ears reveal as much. The earthy smells of soil, leaves and flowers drift through the air, a musky sweetness the result.
-		
+
 		But nature's design it is not, for it is all too perfect. Casting awareness skyward, eyes see a radiant crystal showering the surroundings with unnatural light, too pure, too distilled. The trees they bathe have subtle patterns, too regular to be chance.*
 		(A#Enter the false wilderness){A:0,MIND!NETHER EDGE!GARDEN!10.0002!DESCRIPTION!}
 		(B#Use the Farcaster){B:0,MIND!NETHER EDGE!GARDEN!9999.X9000!DESCRIPTION!}
@@ -194,7 +194,7 @@ GARDEN
 	[/MIND!NETHER EDGE!GARDEN!10.0003!DESCRIPTION!]
 		||
 		*Attention now turns from the trees to the babbling stream meandering through them. The gentle flow empties into a deep pool over a diminutive waterfall not too far off. Dragonflies hover above lilies floating heedlessly at the waterside, while toads croak their atonal chorus on the rocky shore.
-		
+
 		But soon, another sound enters her Self's awareness: the rhythmic snipping of shears...*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!10.0004!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!10.0003!DESCRIPTION!/]
@@ -214,7 +214,7 @@ GARDEN
 
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 FARCASTER
 	[/MIND!NETHER EDGE!GARDEN!0.000!FARCASTER!]
 		||
@@ -754,7 +754,7 @@ SECOND ENCOUNTER
 		*"Her speech also kept switching its mood and accent, seemingly at random. Even had I attempted to help, her mind would have been beyond my abilities to heal..."*
 		(A#"..."){A:0,MIND!NETHER EDGE!GARDEN!1.1201!NARGUND!}
 	[MIND!NETHER EDGE!GARDEN!1.1200!NARGUND!/]
-	
+
 	[/MIND!NETHER EDGE!GARDEN!1.1201!NARGUND!]
 		||
 		*"But what most disturbs me is that I know I have met her; I simply cannot recall when or where..."*
@@ -1389,7 +1389,7 @@ SUBSEQUENT INTERACTIONS SANS NEW KNOWLEDGE
 		*"Come back again when you have some more to contribute to the conversation."*
 		(A#"..."){A:0,MIND!NETHER EDGE!GARDEN!9999.X9999!NARGUND!}
 	[MIND!NETHER EDGE!GARDEN!3.X001!NARGUND!/]
-	
+
 
 messed with the bull
 	[/MIND!NETHER EDGE!GARDEN!99.000!NARGUND!]
@@ -1415,8 +1415,8 @@ messed with the bull
 		*"And if need be, I can burn it to the root..."*
 		(A#"..."){A:0,MIND!NETHER EDGE!GARDEN!9999.X9999!NARGUND!}
 	[MIND!NETHER EDGE!GARDEN!99.X003!NARGUND!/]
-	
-	
+
+
 	[/MIND!NETHER EDGE!GARDEN!99.X004!NARGUND!]
 		|@:MIND!NETHER EDGE!GARDEN!99.000!NARGUND!|
 		*"I said use the Farcaster and be gone, or you will see once more that there is still reason to fear this old Architect..."*
@@ -1464,7 +1464,7 @@ EVENT WRITERS
 		|18999:MIND!NETHER EDGE!GARDEN!0.X000!NARGUND!|
 		*EVENT WRITER - Spoke with Vanargand*
 		(A#WRITER){A:0,NO ADDRESS}
-	[MIND!NETHER EDGE!GARDEN!9990.X18999!NARGUND!/]	
+	[MIND!NETHER EDGE!GARDEN!9990.X18999!NARGUND!/]
 
 	[/MIND!NETHER EDGE!ATELIER!9990.X20002!DESCRIPTION!]
 		|20002:MIND!THE BOOK OF TORMA!THE BEGINNING!0.000!DESCRIPTION!|
@@ -1504,3 +1504,8 @@ NPC SWITCHERS
 		*DESCRIPTION FROM VANARGAND*
 		(A#SWITCH){A:0,NO ADDRESS}
 	[MIND!NETHER EDGE!ATELIER!9999.X9999!VANARGAND!/]
+
+
+________________________________________________________________________
+FIGHTING WORDS
+

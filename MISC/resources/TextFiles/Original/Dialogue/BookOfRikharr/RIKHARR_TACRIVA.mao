@@ -5,7 +5,7 @@ ALCHEMY WARD
     [/KAVU!TACRIVA!ALCHEMY WARD!1.000!DESCRIPTION!]
 		||
 		*Rikos opens his eyes. The gentle oscillation of an amber illumination crystal bathe the surroundings in amber light. Rikos has lived under the dome long enough to recognize the Alchemy Ward. He remembers the first time unwanted sleep found him; this very bed was where he awoke. This time was different, though. Memory fails him, like staring through a sheet of glass at the sun, he knows something is there, he just cannot quite see it.
-		
+
 		Lazham makes a comment about how he is awake.
 		Hamdulah, the High Magissar of the Tacrivian Council of Magissari, tells Rikos how their guest picked him up in the Archives, how he helped the Alchemists.
 		Lazham comments that he had seen a case prior, many moons ago. He would very much like to talk to Rikos... after the ceremony.
@@ -156,7 +156,7 @@ ARCHIVES
 	[/TACRIVA!ARCHIVES!0.X0022!DESCRIPTION!]
 		|^3001:KAVU!TACRIVA!ARCHIVES!0.0027!DESCRIPTION!|
 		*Sleep brought to him once more terrible nightmares.
-		
+
 		A terrible black mirror revealed the Wastes beyond Heaven's Bridge, writhing with myriad draugnir like some terrible pox upon the Earth's skin. He looked through the glass out into the sea of pale demons and saw once who stood highest among them, death made flesh. Those empty eyes pierced a hole through his heart, erasing it from existence. He stared down at the emptiness in his chest and then again at his assailant only to realize the mirror now showed only his reflection.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3001!DESCRIPTION!}
 	[TACRIVA!ARCHIVES!0.X0022!DESCRIPTION!/]
@@ -165,7 +165,7 @@ ARCHIVES
 	[/TACRIVA!ARCHIVES!0.X0023!DESCRIPTION!]
 		|^3002:KAVU!TACRIVA!ARCHIVES!0.0027!DESCRIPTION!|
 		*Vision of Thetian
-		
+
 		Death cults, Mortis, Jormungund - the Wyrm*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3002!DESCRIPTION!}
 	[TACRIVA!ARCHIVES!0.X0023!DESCRIPTION!/]
@@ -174,7 +174,7 @@ ARCHIVES
 	[/TACRIVA!ARCHIVES!0.X0024!DESCRIPTION!]
 		|^3003:KAVU!TACRIVA!ARCHIVES!0.0027!DESCRIPTION!|
 		*Vision of Tormenos
-		
+
 		Locked inside the Enclave, stolen memories, creation of Biracul, desolation of the Order*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3003!DESCRIPTION!}
 	[TACRIVA!ARCHIVES!0.X0024!DESCRIPTION!/]
@@ -183,7 +183,7 @@ ARCHIVES
 	[/TACRIVA!ARCHIVES!0.X0025!DESCRIPTION!]
 		|^3004:KAVU!TACRIVA!ARCHIVES!0.0027!DESCRIPTION!|
 		*Vision of Wulfias
-		
+
 		Sure, all young boys dream of becoming as powerful as the Heathen, but Rikos is only two winters shy of his third decade and should have long since forgotten such childish dreams. His final, hopeless battles that created the Wastes, his completion of the Wellspring to atone for his betrayal.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3004!DESCRIPTION!}
 	[TACRIVA!ARCHIVES!0.X0025!DESCRIPTION!/]
@@ -198,7 +198,7 @@ ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.0027!DESCRIPTION!]
 		||
 		*This feels... familiar... A surreal sensation overcomes Rikos. Eyes seem to peer down at him through a dark mirror. Terror momentarily grips his Trueflesh, seemingly tearing it apart, ripping the very fabric of his being. He is stripped of all identity, divorced from individuality, tossed into the infinite.
-		
+
 		A flash of Awareness laced with agony unimaginable. And then...*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00270!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.0027!DESCRIPTION!/]
@@ -232,13 +232,13 @@ ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.00282!DESCRIPTION!]
 		||
 		*Waves of pain ripple through his gut, undulating, pulsating. The most bizarre sensations emerge from the chaos his innards face. These sensations are distinct, yet all add up to something grander, more magnificient than they could ever be in isolation, like pieces of some godly puzzle. The amalgamation of all these points to a single desire: to lay an egg.
-		
+
 		Odd. Though Rikos knows a human could not possibly do this, he somehow knows this feeling could indicate nothing else. His churning gut begins to tighten, pushing on the foreign object within. Pushing, squirming, squeezing, writhing. The egg is about to exit. He is about to give birth! A birth most divine, in fact. As if inspired by the beautiful act, the muses send a name. His child will be called 'Roostor'!
-		
+
 		He pushes and pushes and finally... he soils himself.
-		
+
 		Feeling so utterly foolish, his cheeks redden to a hue that would make Old Hamlik jealous. But what else can he do? He has to get out of here and change his trousers. Discretely, silently. He moves his chair back to stand up and it screeches on the tile, etching ugly lines into it. Pushing on the table to stand up, it cracks in half causing everything on it to come crashing down in a delicious clang that resounds throughout the entire Archives.
-		
+
 		>>>WHAT HAPPENS NEXT, ELIOT??!?!<<<*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.00282!DESCRIPTION!/]
@@ -246,7 +246,7 @@ ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.00283!DESCRIPTION!]
 		||
 		*Another visit to the Alchemy Ward is now high on his list of priorities. And to make matters worse, he lost his train of thought. What was it he was trying to determine just now?
-		
+
 		Gone. The flame once snuffed can never be found again, it can only be replaced by a new flame.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.00283!DESCRIPTION!/]
@@ -255,7 +255,7 @@ ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!]
 		||
 		*Truly, these sudden bouts of slumber have taken control of his life. Desperate to learn the reason behind them he has dug deep into the Archives - thankful he chose to be an Archivist, otherwise he would not have been able to. Alas, to no avail.
-		
+
 		He was confused, swimming in a sea of anxiety, unsure about the future.*
 		(A#Everything will be okay.){A:1,KAVU!TACRIVA!ARCHIVES!0.0031!DESCRIPTION!}
 		(B#Ignorance is unacceptable.){B:1,KAVU!TACRIVA!ARCHIVES!0.0032!DESCRIPTION!}
@@ -266,7 +266,7 @@ ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.0031!DESCRIPTION!]
 		||
 		*The volumes surrounding him, meticulously copied by Magissari since Biracul first founded Kavu, provided the comfort he required. He knows the knowledge he seeks lies somewhere within the vast wealth of these tomes, and barring that, it would inevitably be somewhere in the Muninn itself, waiting to be found.
-		
+
 		The sudden appearance of a shadow on the ground before him stirs Rikos' attention.*
 		(D#Danger lurks nearby.){D:1,KAVU!TACRIVA!ARCHIVES!0.0034!DESCRIPTION!}
 		(E#Only fools jump at shadows.){E:1,KAVU!TACRIVA!ARCHIVES!0.0035!DESCRIPTION!}
@@ -276,7 +276,7 @@ ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.0032!DESCRIPTION!]
 		||
 		*The books he used as pillows seem to glare back up at him, a reminder of why he is here, of why any of the Magissari are. Rikos feels a stab of shame at neglecting his duties.
-		
+
 		The sudden appearance of a shadow on the ground before him stirs Rikos' attention.*
 		(D#Danger lurks nearby.){D:1,KAVU!TACRIVA!ARCHIVES!0.0034!DESCRIPTION!}
 		(E#Only fools jump at shadows.){E:1,KAVU!TACRIVA!ARCHIVES!0.0035!DESCRIPTION!}
@@ -286,7 +286,7 @@ ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.0033!DESCRIPTION!]
 		||
 		*The old adage passed down from Biracul himself. All was ever as it should be. How could it be otherwise?
-		
+
 		The sudden appearance of a shadow on the ground before him stirs Rikos' attention.*
 		(D#Danger lurks nearby.){D:1,KAVU!TACRIVA!ARCHIVES!0.0034!DESCRIPTION!}
 		(E#Only fools jump at shadows.){E:1,KAVU!TACRIVA!ARCHIVES!0.0035!DESCRIPTION!}
@@ -296,7 +296,7 @@ ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.0034!DESCRIPTION!]
 		||
 		*Rikos never had cause to be nervous before; he could always trust is his ability to reason through things, but these dreams have drawn out his deepest fears. He looked toward the shadow and simply saw a Magissar perusing the shelves of tomes nearby. A foreigner, clearly, given his peculiar cloak, a patchwork of reds from the darkest crimson to the weakest pink. A wide-brimmed hat hung from his neck, covering the width of his back, and then some.
-		
+
 		He saw no danger, just the need to go get some fresh air to clear his mind.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.X004!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.0034!DESCRIPTION!/]
@@ -304,7 +304,7 @@ ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.0035!DESCRIPTION!]
 		||
 		*Rikos never let arrogance cloud his judgment before, though his reasoning abilities were among the greatest the Archivist class had yet seen. He recognized the shadow as that of a person, almost immediately. Clearly a Magissar searching for some dusty tome to pore over. A quick glance revealed it was a Librarian of Tambulan descent, Radysar's eldest, if he was not mistaken.
-		
+
 		The Librarian waved and smiled at Rikos. His own smile and nod returned the greeting, but he knew he spent too long in the Archives; it was time to go get some fresh air.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.X004!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.0035!DESCRIPTION!/]
@@ -312,19 +312,19 @@ ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.0036!DESCRIPTION!]
 		||
 		*A vision - that that does not adequately describe it, truly - waltzed before him. A marvellous spectacle of variegated plumage passed before him. Fowls of all kinds danced in choregraphed unison, cawing their hearts out as the processed through the air. Streamers and confetti shot out from papier mache canons, raining down on them as they marched off into the darkness.
-		
+
 		Just when he thought it had finished, myriad vegetables came plowing out of the shadows, stepping to the beat of unseen drums. Theirs was a more austere and subdued sway, more than a dance, but nonetheless breath-taking. They too disappeared into the darkness, following in the birds' wake.
-		
+
 		A pause.
-		
+
 		A slightly lengthier, more dramatic pause.
-		
+
 		And then...
-		
+
 		Soaring through the air, the silhouette of a magnificient rooster seems to blot out the heatless flames of the airborn clock. The image burns itself into Rikos' Trueflesh, thus becoming an undeniable part of it.
-		
+
 		The poor bastard.
-		
+
 		Rikos pauses to reflect on what he just saw. Still maintaining an outward appearance of calm, he scans to see if any one else had witnessed the scene. He is alone in this section of the Archives. A rare but not unheard of occurence. He must have been pushing too hard lately, burning the candle at both ends. Apparently his sanity is threatening to unravel. He had to go get some fresh air.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.X004!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.0036!DESCRIPTION!/]
@@ -334,7 +334,7 @@ ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.X004!DESCRIPTION!]
 		|^12307:KAVU!TACRIVA!ARCHIVES!1.X000!DESCRIPTION!|
 		*He stands up and begins to walk toward the cloudstone, ready to go get some fresh air before <Evening Prayers>.
-		
+
 		A messenger comes in to tell him the news of his father's passing.*
 		(A#Return to Dazil){A:0,KAVU!TACRIVA!COURTYARD!1.X000!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.X004!DESCRIPTION!/]
@@ -343,21 +343,21 @@ ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!1.X000!DESCRIPTION!]
 		|^17902:KAVU!TACRIVA!ARCHIVES!1.100!DESCRIPTION!|
 		*He stands up and begins to walk toward the cloudstone, ready to go get some fresh air before <Evening Prayers>. On the way he sees the Muninn, something about it is, odd. He feels bound to it somehow. He moves to touch the great white beast. Death by his hand and resurrection of it, too. The tree exhibits neither rancor nor thanks towards him, its slayer as well as its savior.
-		
+
 		He does not understand and tries to peer deeper, seeing only the image of a crimson bird-like specter, roosting upon a long-dead tree. Two eyes shine like rubies in the dying light of dusk; they glare at Rikos not from the creature itself, but from the blood red sky behind it.
-		
+
 		His head, slick with sweat, slides from the Muninn's trunk. Face to floor, his arms betray him, lying limp at his side. He starts from the fingers, through sheer force of will regaining control of his hand. Soon he has the strength to prop himself up. Before long, he is on his feet, giving one last stare.
-		
+
 		A messenger comes in to tell him the news of his father's passing.*
 		(A#Return to Dazil){A:0,KAVU!TACRIVA!COURTYARD!1.X000!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!1.X000!DESCRIPTION!/]
-		
+
 	[/KAVU!TACRIVA!ARCHIVES!1.100!DESCRIPTION!]
-		||	
+		||
 		*He stands up and begins to walk toward the cloudstone, ready to go get some fresh air before <Evening Prayers>. On the way he sees the Muninn, something about it is, odd. He feels bound to it somehow. He moves to touch the great white beast. Death by his hand and resurrection of it, too. The tree exhibits neither rancor nor gratitude towards its slayer and savior.
-		
+
 		He does not understand and tries to peer deeper, seeing only the image of a crimson bird-like specter, roosting upon a long-dead tree. Two eyes shine like rubies in the dying light of dusk; they glare at Rikos not from the creature itself, but from the blood red sky behind it.
-		
+
 		Suddenly, the creature condenses into a black sphere, sucking away the scene behind it, opening up a path beyond... into something Rikos cannot quite comprehend.*
 		(A#To the Interstice!){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3006!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!1.100!DESCRIPTION!/]
@@ -372,11 +372,11 @@ COURTYARD
     [/KAVU!TACRIVA!COURTYARD!1.X000!DESCRIPTION!]
 		|^3006:KAVU!TACRIVA!COURTYARD!1.100!DESCRIPTION!|
 		*Light shines in through the dome in moving bars, though the place is deserted. The loud ringing of ghostly chimes in the airborn light clock signals <Evening Prayer Time>, but Rikos must leave.
-		
+
 		He and his messenger travel to the tram.
-		
+
 		A red-cloaked foreign Magissar is perched on the fountain in the middle of the courtyard, giving him a flashback to Eidos.
-		
+
 		The messenger snaps him out of it. They exit the dome.*
 		(A#Return to Dazil){A:0,KAVU!JENOWIN PLAIN!ROAD TO DAZIL!1.X000!DESCRIPTION!}
 	[KAVU!TACRIVA!COURTYARD!1.X000!DESCRIPTION!/]
@@ -384,7 +384,7 @@ COURTYARD
     [/KAVU!TACRIVA!COURTYARD!1.100!DESCRIPTION!]
 		||
 		*Light shines in through the dome in moving bars, though the place is deserted. The loud ringing of ghostly chimes in the airborn light clock signals <Evening Prayer Time>, but Rikos must leave.
-        
+
         Lazham walks you to the tram and reaffirms his desire to speak to such Rik, seeing that he has become somewhat of an authority on Muninns.
 		Rik suggests Radysar is the true authority.
 		Lazham insists that he will show up to the ceremony tomorrow and they can speak if he has time.
@@ -392,7 +392,7 @@ COURTYARD
         Rikos exits the dome.*
 		(A#Return to Dazil){A:0,KAVU!JENOWIN PLAIN!ROAD TO DAZIL!1.X000!DESCRIPTION!}
 	[KAVU!TACRIVA!COURTYARD!1.100!DESCRIPTION!/]
-    
+
 
 
 
@@ -415,7 +415,7 @@ ALCHEMY WARD
 	[/KAVU!TACRIVA!ALCHEMY WARD!19.200!DESCRIPTION!]
 		||
 		*WAKE up again in the Alchemy Ward. The High Magissar threatens to take away your Archivist access if it happens again.
-		
+
 		LAZHAM enters your dreams.*
 		(A#...){A:0,KAVU!TACRIVA!ALCHEMY WARD!20.200!DESCRIPTION!}
 	[KAVU!TACRIVA!ALCHEMY WARD!19.200!DESCRIPTION!/]
@@ -456,11 +456,11 @@ Muninn Death; Jinnwraith Birth
 	[/KAVU!TACRIVA!ARCHIVES!39.200!DESCRIPTION!]
 		||
 		*RIKOS destroys the Muninn and flees to the Wasteland. Hel's abilities destroy the section of stairs and open the path to the Thought Wheel. He tears a hole out of the chamber with all the Neverborn and runs.
-		
+
 		SLEEP comes again for him.*
 		(A#Dream){A:0,KAVU!TACRIVA!ARCHIVES!39.999!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!39.200!DESCRIPTION!/]
-	
+
 
 
 ______________
@@ -469,11 +469,11 @@ Festival of Light
 	[/KAVU!TACRIVA!COURTYARD!30.000!DESCRIPTION!]
 		||
 		*FESTIVAL of light. Interrupted by a violent storm caused by the Radysar's meddling with the Muninn. It cracks the dome and sends many to an early grave, including Rikos and Ark.
-		
+
 		FIN.*
 		(A#Dream){A:0,KAVU!TACRIVA!ARCHIVES!39.999!DESCRIPTION!}
 	[KAVU!TACRIVA!COURTYARD!30.000!DESCRIPTION!/]
-	
+
 	[/KAVU!TACRIVA!COURTYARD!39.999!DESCRIPTION!]
 		||
 		*~ac*
@@ -534,7 +534,10 @@ EVENT WRITERS
 	[KAVU!TACRIVA!ARCHIVES!9990.X3006!DESCRIPTION!/]
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TECHNICAL STUFF
+________________________________________________________________________
+EVENT WRITERS
 ________________________________________________________________________
 NPC SWITCHERS
 ________________________________________________________________________

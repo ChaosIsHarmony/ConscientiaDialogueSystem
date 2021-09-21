@@ -19,11 +19,11 @@ acq glyph of Prime Archon prev
 		*Turning around, Ormenos soon sees the lone rebel in this pit of darkness, the sole source of pale, pulsating light in this ruinous abyss. He sees the roots of a massive Muninn. Its determined glow radiates out into the inky void, slowly dying the further it ventures from the origin. The trunk reaches skyward, likewise disappearing somewhere in this sea of absence.
 
         The tree's light also falls on the miscellany of this space. Illuminating relics from the exodus of Thiuda as they lay scattered about, three to every Neverborn at least. Some on desks equally ancient, others on shelves, and still some too large to be housed in any casing.
-		
+
 		Though numerous the relics may be, only two objects truly tug at Ormenos' attention. One is a judgment dais, similar to the one in the Hall of Reckoning, he notes, with the only difference being the charred circle decorating its base - shadows they cannot be, for the neither hum nor buzz when the Muninn's light wavers. The second is simpler, and perhaps less grim: an altar, with several lit candles atop it.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
 		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!DESCRIPTION!/]	
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!]
 		||
@@ -125,7 +125,7 @@ acq glyph of Prime Archon prev
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!]
 		||
 		*Cautiously, Ormenos approaches the strange altar. Six digits rise skyward from the a giant palm of solid onyx, curving inwards at their tips. Cloudy jade fingernails each host candles burning with undying and unflinching flames. Red wax flows down the nails' gentle slopes, dripping towards the palm, but vanishing before ever reaching it.
-		
+
 		Just who or what this altar venerates is uncertain, but whatever the object of worship may be, it was likely invaluable to the Order's Thiudan ancestors. The very fact that any religious rites or altars exist in their fiercely materialistic civilization speaks volumes to how highly they must have valued it.*
 		(A#Step upon the dais){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.004!DESCRIPTION!}
@@ -191,7 +191,7 @@ acq glyph of Prime Archon prev
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.006!DESCRIPTION!]
 		||
 		*Ormenos turns his attention once more to the adumbral chamber. Eyes immediately search for the ruby he emptied. Its memories resonate with his Trueflesh, sympathetic threads whispering across the fabric of time.
-		
+
 		But as attractive as the familiar may be, what is already known holds little sway over the inquisitive mage's attention. Discipline will help light his path through the shadows of ignorance; Discipline will wring knowledge from those who seek to cast shadows; Discipline will free Ormenos from fear... This has always been his hope.*
 		(#A...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0060!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.006!DESCRIPTION!/]
@@ -199,7 +199,7 @@ acq glyph of Prime Archon prev
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0060!DESCRIPTION!]
 		||
 		*Casting his gaze about, he sees relics from the exodus of Thiuda scattered around the room, three to every Neverborn sentry, at least. Some on desks equally ancient, others on shelves, and still some too large to be housed in any casing.
-		
+
 		Though numerous the relics may be, only two objects truly tug at Ormenos' attention. One is a judgment dais, similar to the one in the Hall of Reckoning, he notes, with the only difference being the circle of bones decorating this one's base. The second is simpler, and perhaps less grim: an altar, with several lit candles atop it.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
 		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
@@ -218,11 +218,11 @@ came in with Babel after confronting him with knowledge of Pr Ar
 		*Turning around, Ormenos soon sees the lone rebel in this pit of darkness, the sole source of pale, pulsating light in this ruinous abyss. He sees the roots of a massive Muninn. Its determined glow radiates out into the inky void, slowly dying the further it ventures from the origin. The trunk reaches skyward, likewise disappearing somewhere in this sea of absence.
 
         The tree's light also falls on the miscellany of this space. Illuminating relics from the exodus of Thiuda as they lay scattered about, three to every Neverborn at least. Some on desks equally ancient, others on shelves, and still some too large to be housed in any casing.
-		
+
 		Though numerous the relics may be, only two objects truly tug at Ormenos' attention. One is a judgment dais, similar to the one in the Hall of Reckoning, he notes, with the only difference being the charred circle decorating its base - shadows they cannot be, for the neither hum nor buzz when the Muninn's light wavers. The second is simpler, and perhaps less grim: an altar, with several lit candles atop it.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.X0011!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0010!DESCRIPTION!/]
-		
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.X0011!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!DESCRIPTION!|
 		*Eyes then desperately search for the man who brought him here. Movement among the shadows traces the form of Babel as he walks toward the dais. Twisted words seem to echo through the darkness, distorted into the nightmarish speech of delirium.*
@@ -303,7 +303,7 @@ EXECUTOR
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X000!EXECUTOR!/]
 
 
-babel	
+babel
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.001!EXECUTOR!]
 		||
 		*"Babel, as Prime Archon seen."*
@@ -334,7 +334,7 @@ player
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!EXECUTOR!]
 		||
-		*"Worth is proven. 
+		*"Worth is proven.
 		Here arrived due to ingenuity."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0020!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!EXECUTOR!/]
@@ -354,11 +354,11 @@ player
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.003!EXECUTOR!]
 		||
-		*"Three born of His mind, to the blind God control. 
-		The first upon birth howled a clarion cry, 
+		*"Three born of His mind, to the blind God control.
+		The first upon birth howled a clarion cry,
 		So loud, with such force, it split the night sky.
 		Hear her words; say her name; make the parts whole!
-		
+
         'Of myriad states, I alone reign supreme,
 		Directing Time's arrow to chaos' dream.
 		Arrange as you will, I still win in the end,
@@ -382,7 +382,7 @@ player
 		Their truest of Trueflesh by my body bound.
 		Constricting, confining, breath stolen, soon gone,
 		I tighten, I squeeze, no escape from my brawn!
-		
+
         'Helpless, unmoving, forever tame,
 		Quickly now, say it! What is my name?!"*
 		(A#"Jormungund"){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.005!EXECUTOR!}
@@ -396,12 +396,12 @@ player
 		Though the Architect's mind holds clear its task,
 		To contain the blind God in an unbreakable cask.
 		Hear his words; say his name; find what is sought!
-		
+
         'My devouring maw will gnaw and consume.
 		My belly, for countless ghosts, serves as a tomb.
 		A prison absent walls, no window, no door.
 		Once in, I will act as your shell evermore.
-		
+
         'Living, though dead, extinguished your flame.
 		Quickly now, say it! What is my name?!"*
 		(A#"Fenrir"){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.006!EXECUTOR!}
@@ -440,7 +440,7 @@ player
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0062!EXECUTOR!/]
 
 
-Failed	
+Failed
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.904!EXECUTOR!]
 		||
 		*"The second one from the ether was pressed.
@@ -452,26 +452,26 @@ Failed
 		Their truest of Trueflesh by my body bound.
 		Constricting, confining, breath stolen, soon gone,
 		I tighten, I squeeze, no escape from my brawn!
-		
+
         'Helpless, unmoving, forever tame,
 		Quickly now, say it! What is my name?!"*
 		(A#"Jormungund"){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.905!EXECUTOR!}
 		(B#"Luin"){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.905!EXECUTOR!}
 		(C#"Hel"){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.905!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.904!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.905!EXECUTOR!]
 		||
 		*"The third, as of yet remains but a thought.
 		Though the Architect's mind holds clear its task,
 		To contain the blind God in an unbreakable cask.
 		Hear his words; say his name; find what is sought!
-		
+
         'My devouring maw will gnaw and consume.
 		My belly, for countless ghosts, serves as a tomb.
 		A prison absent walls, no window, no door.
 		Once in, I will act as your shell evermore.
-		
+
         'Living, though dead, extinguished your flame.
 		Quickly now, say it! What is my name?!"*
 		(A#"Fenrir"){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.906!EXECUTOR!}
@@ -598,7 +598,7 @@ virgin run
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0025!DESCRIPTION!]
 		||
 		*Suddenly, one of the unkempt duo appears to have been blessed with an epiphany. Arrange all arrows to point upwards in the direction of the metal disk first, he then replaces the cap.
-		
+
 		The whir begins, but this time intensifying into a consistent purr and finally into sounds accompanying images of the ancients...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0026!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0025!DESCRIPTION!/]
@@ -647,13 +647,13 @@ virgin run
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 		(C#Observe the magi work){C:0,ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-2!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.X0032!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0033!DESCRIPTION!]
 		||
 		*Though there is nothing here that truly grabs his attention. Perhaps he is unobservant and ignorant; he looks, but he does not see. Or perhaps he has simply learned all he can from this place.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0033!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0034!DESCRIPTION!]
 		||
 		*The magi pore over the artifact, pecking at it from time to time, rearranging it into various configurations and replacing the metallic cap to the unenthusiastic whirring and fizzling sounds of an impotent machine attempting to revive itself.*
@@ -663,7 +663,7 @@ virgin run
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0035!DESCRIPTION!]
 		||
 		*Suddenly, one of the unkempt duo appears to have been blessed with an epiphany. Arrange all arrows to point upwards in the direction of the metal disk first, he then replaces the cap.
-		
+
 		The whir begins, but this time intensifying into a consistent purr and finally into sounds accompanying images of the ancients...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0036!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0035!DESCRIPTION!/]
@@ -978,9 +978,9 @@ MATHETIA
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.001!DESCRIPTION!]
 		||
 		*Through the arched corridor lies a chamber wide enough to escape vision's periphery and tall enough to break a neck. Several thousands of stories compose this cyclopean structure, rings spiraling around a void pillar. From above, light cascades in through a massive aperture to the midday sky. Myriad rooms are carved into the rocky skin of the mountain's interior as they impertinently climb heaven-bound, ever-reaching for the heights the Vanquished once soared.
-		
+
 		At the center stands a Muninn tree, perhaps larger than all other Muninns combined. Its knotted, pearlescent branches reach forth from a mighty trunk, yearning for and growing towards the white crystals dotting the rooms along the walls.
-		
+
 		Rippling forth from its base are concentric rows of tables filled with scores of scholarly magi, studying, researching, ever-chasing the shadows of ignorance from their minds with the torch of Discipline.*
 		(A#Talk to people){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.X0010!DESCRIPTION!}
 		(B#Observe surroundings){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0011!DESCRIPTION!}
@@ -1000,19 +1000,19 @@ MATHETIA
 		*Ormenos approaches, searching his memory for her name; though it seems  he would have more luck casting nets to catch the wind. He nears as she shuts her book, a finger marking the page...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1211!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X00101!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00102!DESCRIPTION!]
 		||
 		*Sister Midnight silently nods and promptly forgets Ormenos even exists. Cracking open her book, she begins to pore over her texts as though she had never been interrupted.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00103!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00102!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00103!DESCRIPTION!]
 		||
 		*It seems now there truly are none with whom to speak. An appearance from the Sylvan Architect himself would scarcely raise a few noses from the books they find themselves so deeply buried in - though, Ormenos never expected to find idle conversation here in the Mathetia anyway.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00103!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0011!DESCRIPTION!]
 		||
 		*Ormenos wanders, observing the studious magi hither, thither and yon. But as usual, he finds himself gravitating towards the colossal Muninn. Sight tracing trunk to branches, he sees the tree's myriad limbs explode outwards, latching onto the spiraling floors several hundred paces away. They wind themselves tightly around the spiral railing, warping iron bars, replacing whole swaths of dark metal with brilliant, gnarled wood. Up and up they go, weaving their way through stories upon stories of intricately carved architectural embellishments.*
@@ -1046,7 +1046,7 @@ MATHETIA
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0012!DESCRIPTION!]
 		||
 		*There appear to be three points of egress from the Mathetia: the same portal whence Ormenos entered the Archives, and the two massive wings of the Archive - the Wing of Actuality with its Muninn Grove and Scriptorium; and the Wing of Potentiality with its Huginn Grove and the Seat of the True Archon.
-		
+
 		As a Thought-Weaver, Ormenos regularly haunts the Vault down in the Third Sphere, but many moons ago when he had first arrived, he would spend countless hours in these Archives, devouring the knowledge his predecessors had left. Indeed, he cannot help but feel a small bout of nostalgia creep up on him as he decides where to direct his feet.*
 		(A#To the Wing of Actuality){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
 		(B#To the Wing of Potentiality){B:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
@@ -1157,12 +1157,12 @@ completed three events
 agreed to go gremlin-slaying
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.005!DESCRIPTION!]
 		||
-		*The Memory Keeper rushes through the halls undeterred by the multitude of magi... or is it GREMLINS?! Yes, undeterred by the repugnant halflings blocking his straight-lined path to victory! He laughs maniacally as he incinerates all obstacles! More a boisterous caw, than a laugh, to be fair. 
-		
+		*The Memory Keeper rushes through the halls undeterred by the multitude of magi... or is it GREMLINS?! Yes, undeterred by the repugnant halflings blocking his straight-lined path to victory! He laughs maniacally as he incinerates all obstacles! More a boisterous caw, than a laugh, to be fair.
+
 		The entire hall is in a panic when the killjoys arrive. These so-called 'Enforcers' have been, all this time, simply demons masquerading as allies. Well, are they in for a surprise! Because...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0050!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.005!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0050!DESCRIPTION!]
 		||
 		*A thud... Great pain... Sudden collapse... Descending darkness...*
@@ -1208,7 +1208,7 @@ BEAST LORD
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00201!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00202!BEAST LORD!]
-		||	
+		||
 		*"Brothers! Sisters! Members of the Enclave! Listen well!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00203!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00202!BEAST LORD!/]
@@ -1291,7 +1291,7 @@ BEAST LORD
 		||
         *"But it looks like we'll just have to settle for it between us two for now."*
         (A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00221!BEAST LORD!}
-	[ENCLAVE!ARCHIVES!MATHETIA!0.00220!BEAST LORD!/]        
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00220!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00221!BEAST LORD!]
 		||
@@ -1411,13 +1411,13 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!]
 		||
-		*"I've little tolerance for your disloyal musings, Brother..."* 
+		*"I've little tolerance for your disloyal musings, Brother..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00410!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00410!BEAST LORD!]
 		||
-		*"The Choir's will IS our will! Ever has been and ever will be, too!"* 
+		*"The Choir's will IS our will! Ever has been and ever will be, too!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00411!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00410!BEAST LORD!/]
 
@@ -1481,7 +1481,7 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0044!BEAST LORD!]
 		||
-		*"...From Thought-weaver to Thought-woven..."* 
+		*"...From Thought-weaver to Thought-woven..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00440!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0044!BEAST LORD!/]
 
@@ -1557,10 +1557,10 @@ FORM FORGER
 		*"Said senseless artifacts could return to us the powers of the Vanquished, Brother. Imagine being able to Nearcast or even Farcast once more. Or to regain the ability to write new Techne. Or..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1210!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X003!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.004!FORM FORGER!]
 		||
-		*"Brother Memory Keeper, we could both list numerous justifications. Why not be silent and let Brother Inquisitor speak his mind, first?"* 
+		*"Brother Memory Keeper, we could both list numerous justifications. Why not be silent and let Brother Inquisitor speak his mind, first?"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0040!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.004!FORM FORGER!/]
 
@@ -1611,7 +1611,7 @@ FORM FORGER
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00440!FORM FORGER!]
 		||
-		*"Thank you for your guidance. We will endeavor to be as diligent in our duties as you are in yours."* 
+		*"Thank you for your guidance. We will endeavor to be as diligent in our duties as you are in yours."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!10.X000!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00440!FORM FORGER!/]
 
@@ -1640,13 +1640,13 @@ FORM FORGER
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00460!FORM FORGER!]
 		||
-		*"Yes... of course, Brother. Thank you for your... guidance. We will leave you to your task of... vegetable rescue..."* 
+		*"Yes... of course, Brother. Thank you for your... guidance. We will leave you to your task of... vegetable rescue..."*
 		(F#"TALLY HO!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!10.X000!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00460!FORM FORGER!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00461!FORM FORGER!]
 		||
-		*"Yes... of course, Brother. Thank you for your... guidance. We will leave you to your task of... improving your hygiene..."* 
+		*"Yes... of course, Brother. Thank you for your... guidance. We will leave you to your task of... improving your hygiene..."*
 		(F#"TALLY HO!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!10.X000!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00461!FORM FORGER!/]
 
@@ -1711,7 +1711,7 @@ MEMORY KEEPER
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.005!MEMORY KEEPER!]
 		||
-		*"What...? No! You can't possibly..."* 
+		*"What...? No! You can't possibly..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0050!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.005!MEMORY KEEPER!/]
 
@@ -1801,7 +1801,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.011!MIDNIGHT!]
 		||
-		*"Thank ya, Brother! Brevity in wards from me, ar the Darkun take my tongue!"* 
+		*"Thank ya, Brother! Brevity in wards from me, ar the Darkun take my tongue!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0110!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.011!MIDNIGHT!/]
 
@@ -1815,7 +1815,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0111!MIDNIGHT!]
 		||
-		*"Well... He's been requestin' many a tome regardin' the Cults Morticarum of Jer..."* 
+		*"Well... He's been requestin' many a tome regardin' the Cults Morticarum of Jer..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0112!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0111!MIDNIGHT!/]
 
@@ -1959,7 +1959,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.015!MIDNIGHT!]
 		||
-		*"...I can ask some other time. I'd not wish to hold ya up, no? Busy as ya must be."* 
+		*"...I can ask some other time. I'd not wish to hold ya up, no? Busy as ya must be."*
 		(A#..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0150!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.015!MIDNIGHT!/]
 
@@ -2044,7 +2044,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0220!MIDNIGHT!]
 		||
-		*"But suffice to say, ya'd have black masses held at midnight in warship of the Abyssal Mother, ar bein' chased by nameless, unseen evils in Mindscape fugues drivin' men to madness, ar better yet, three and only three locations ever even havin' recards of these happenin's..."* 
+		*"But suffice to say, ya'd have black masses held at midnight in warship of the Abyssal Mother, ar bein' chased by nameless, unseen evils in Mindscape fugues drivin' men to madness, ar better yet, three and only three locations ever even havin' recards of these happenin's..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0221!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0220!MIDNIGHT!/]
 
@@ -2078,25 +2078,25 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0225!MIDNIGHT!]
 		||
-		*"Truth be on ya, but their secrets died with 'em. Even the Thiuda were nothin' but a newbarn foal in comparison..."* 
+		*"Truth be on ya, but their secrets died with 'em. Even the Thiuda were nothin' but a newbarn foal in comparison..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0226!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0225!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0226!MIDNIGHT!]
 		||
-		*"There's another possibility, somethin' likely fam'liar to ya, Brother Inquisitar..."* 
+		*"There's another possibility, somethin' likely fam'liar to ya, Brother Inquisitar..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0227!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0226!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0227!MIDNIGHT!]
 		||
-		*"The Eidos."* 
+		*"The Eidos."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0228!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0227!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0228!MIDNIGHT!]
 		||
-		*"She's revered amon' the mystics of yar homeland, likely associates of the Cults Morticarum in Jer."* 
+		*"She's revered amon' the mystics of yar homeland, likely associates of the Cults Morticarum in Jer."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0229!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0228!MIDNIGHT!/]
 
@@ -2108,19 +2108,19 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!]
 		||
-		*"Birak's beard! 'Pologize, Brother; I'm easily excited at the thought of discoverin' who's castin' shadows on truth's face! Jus' know there's gotta be some trick to it."* 
+		*"Birak's beard! 'Pologize, Brother; I'm easily excited at the thought of discoverin' who's castin' shadows on truth's face! Jus' know there's gotta be some trick to it."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0230!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0230!MIDNIGHT!]
 		||
-		*"Still, shouldn' be dronin' on more than a broken cloudstone..."* 
+		*"Still, shouldn' be dronin' on more than a broken cloudstone..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0231!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0230!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0231!MIDNIGHT!]
 		||
-		*"But, actually, if ya've a moment, Brother Inquisitar, I've been wonderin' about another topic..."* 
+		*"But, actually, if ya've a moment, Brother Inquisitar, I've been wonderin' about another topic..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0232!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0231!MIDNIGHT!/]
 
@@ -2134,7 +2134,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.024!MIDNIGHT!]
 		||
-		*"And indeed they are!"* 
+		*"And indeed they are!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0240!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.024!MIDNIGHT!/]
 
@@ -2186,7 +2186,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.025!MIDNIGHT!]
 		||
-		*"...Yar words're... dark... Brother."* 
+		*"...Yar words're... dark... Brother."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0250!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.025!MIDNIGHT!/]
 
@@ -2251,7 +2251,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0340!MIDNIGHT!]
 		||
-		*"...Of carse, Brother... Well, there're far too many sim'larities to offer an exhaustive list."* 
+		*"...Of carse, Brother... Well, there're far too many sim'larities to offer an exhaustive list."*
 		(D#"Go on!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0341!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0340!MIDNIGHT!/]
 
@@ -2292,7 +2292,7 @@ MUNINN GROVE
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X000!DESCRIPTION!/]
 
-	
+
 virgin run
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00100!DESCRIPTION!]
 		||
@@ -2347,7 +2347,7 @@ virgin run
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00110!DESCRIPTION!]
 		||
 		*Giddy as an aroused jackrabbit, the Memory Keeper quickens his pace to the door, beckoning Ormenos, demanding he make haste so that they can begin their new life together. Such a sense of urgency, such an unmitigated and singular focus wells up within the Curator that Orm... er... Stalphos, now sees a brilliant, golden, avian aura surrounding the man. Roostor hath descended upon one of His chosen to guide him toward the complete and utter annihilation of the devilish fiends that would seek to sully His turf.
-		
+
 		And with this thought, Stalphos gives chase, attempting to catch up with his new partner in gremlin-slaying!*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00110!DESCRIPTION!/]
@@ -2365,7 +2365,7 @@ virgin run
 		*A thought, a command, a necessity. Like the sun emerging from behind a storm cloud, it was always there, simply hidden from view. Before he gives the word, his feet already carry him deeper into the grove. He does this despite knowing he is incapable of communing with the trees, lacking the Techne and the powerful artifacts of the Archivists. Thus, he must content himself with the warm glow of the Order's collective knowledge growing before him.*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00120!DESCRIPTION!/]
-	
+
     [/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00121!DESCRIPTION!]
 		||
 		*A thought, a command, a necessity. Like the sun emerging from behind a storm cloud, it was always there, simply hidden from view. Before he gives the word, his feet already carry him deeper into the grove.*
@@ -2391,7 +2391,7 @@ virgin run
 		(A#Commune with the tree){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2045!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00124!DESCRIPTION!/]
 
->>>Absorbed Tome of Kavan Myths (2046)<<<	
+>>>Absorbed Tome of Kavan Myths (2046)<<<
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00125!DESCRIPTION!]
 		|^2046:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00126!DESCRIPTION!|
 		*And once more the Inquisitor finds himself lusting after the energetic nectar of the Muninn trees; sweet memories' taste chills the mind, while deep knowledge's spice warms the soul.*
@@ -2620,7 +2620,7 @@ virgin run
         *Despite the inevitable tragedy that awaits, he knows that now, in this moment, he yet stands. And so, steadying trembling knees, he prepares to move on.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00141!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013916!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00140!DESCRIPTION!]
 		||
 		*Shock descends like a veil on Ormenos' face, weighing heavy on his downward curving lips. Assimilating the tome's contents was so... easy. So inconceivably easy. An ordinary mage feels nothing but heat from the Muninn crystals; an Archivist feels the seeds writhing beneath. Only after decades of careful study will an Archivist learn to see the connections between the seeds and recreate the latent memories within. Only then do then earn the title of Senior Archivist.*
@@ -2737,7 +2737,7 @@ completed more than one event
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0020!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0021!DESCRIPTION!]
-		||        
+		||
         *Ormenos muses on his musings, remembering the tale the Sumarkandian witch from the reports on the Wayfarer. Something about a man condemned to roll a boulder up a mountain path, only to always have it roll back down. In the witch's story it was designed to warn of obsession with hopeless tasks, though Ormenos always found an ineffable nobility in the project - then again, perhaps Sister Gate Keeper was right, that madness was simply beginning to sequester his wits; he dared not dwell too long on the possibility.*
 		(A#Stroll through the grove){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0012!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
@@ -2853,7 +2853,7 @@ MEMORY KEEPER
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0122!MEMORY KEEPER!]
 		||
-		*"Well... Not to sound ominous, but I do recall several Thought-Weavers being assigned to the task of locating the Thought Wheel in rapid succession..."* 
+		*"Well... Not to sound ominous, but I do recall several Thought-Weavers being assigned to the task of locating the Thought Wheel in rapid succession..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0123!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0122!MEMORY KEEPER!/]
 
@@ -2874,7 +2874,7 @@ MEMORY KEEPER
 		*"Glad to help. But I will abuse your time no more!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0126!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0125!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0126!MEMORY KEEPER!]
 		||
 		*"Enjoy your time in the Grove, Brother. And may your work for the Order be as fruitful as full-grown Muninn!"*
@@ -2883,7 +2883,7 @@ MEMORY KEEPER
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.013!MEMORY KEEPER!]
 		||
-		*"...Then I suppose I shall make no further inquiries and abuse your time no more."* 
+		*"...Then I suppose I shall make no further inquiries and abuse your time no more."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0130!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.013!MEMORY KEEPER!/]
 
@@ -2918,13 +2918,13 @@ MEMORY KEEPER
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.021!MEMORY KEEPER!]
 		||
-		*"You haven't yet reported this?! Then you must leave at once, Brother!"* 
+		*"You haven't yet reported this?! Then you must leave at once, Brother!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0210!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.021!MEMORY KEEPER!/]
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0210!MEMORY KEEPER!]
 		||
-		*"The Choir will be displeased that you are neglecting your duties with such a breakthrough hanging on your tongue!"* 
+		*"The Choir will be displeased that you are neglecting your duties with such a breakthrough hanging on your tongue!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0211!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0210!MEMORY KEEPER!/]
 
@@ -2936,7 +2936,7 @@ MEMORY KEEPER
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.022!MEMORY KEEPER!]
 		||
-		*"For me, the individual, no importance; but for me, the loyal servant of our Order, it is everything!"* 
+		*"For me, the individual, no importance; but for me, the loyal servant of our Order, it is everything!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0220!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.022!MEMORY KEEPER!/]
 
@@ -2998,7 +2998,7 @@ MEMORY KEEPER
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0242!MEMORY KEEPER!]
 		||
-		*"The most radical of them claim to have found incontrovertible proof that the Sylvan Architect was real, that It manipulates us from the shadows to this day!"* 
+		*"The most radical of them claim to have found incontrovertible proof that the Sylvan Architect was real, that It manipulates us from the shadows to this day!"*
 		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0243!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0242!MEMORY KEEPER!/]
 
@@ -3009,13 +3009,13 @@ MEMORY KEEPER
 		(D#" 'Just as a shadow is not the caster, so too is the caster not its essence'..."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0244!MEMORY KEEPER!}
 		(E#"Is this what you bottom-feeders spend your time musing about?"){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.005!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0243!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0244!MEMORY KEEPER!]
 		||
-		*"Forbidden verses from the Biraculian mystics of your hometown, I presume..."* 
+		*"Forbidden verses from the Biraculian mystics of your hometown, I presume..."*
 		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0245!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0244!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0245!MEMORY KEEPER!]
 		||
 		*"There is wisdom in those words; wisdom of a dark and sanity-thieving nature..."*
@@ -3330,13 +3330,13 @@ SCRIPTORIUM
 		*Aromatics spicing the air relax the weary mage; the dull glow of a crystalline candelabra casts just the faintest light; the rhythmic beats of scattered percussionists and the melodic lull of the strings sooth an aching mind.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.00100!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0010!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.00100!DESCRIPTION!]
 		||
 		*Stumbling over a hill of throw pillows, Ormenos takes a dive through the ground, sinking deeply into a viscous ether. Ever-deeper, the light fades, and along with it all sorrow, worry, excitation, anticipation, and emotion. A hypnotic wave of pure energy washes away the stains of the imagined, leaving behind only that which is. As though in a profound sleep, but with an unparalleled awareness, the perceiver dreams the waking life for years, millennia, eons.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X0011!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.00100!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X0011!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0012!DESCRIPTION!|
 		*Emerging from the sea of cleansing ether the revived consciousness witnesses its physical form, the Falseflesh it had apparently left behind, now reclining among the throw pillows and alongside a kindred spirit, of countenance so relaxed, so unperturbed as to be unrecognizable as human, a mirror image made flesh. The Sister image peers back, deep into his truth, and smiles.*
@@ -3453,7 +3453,7 @@ exiting
 		(A#Exit){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2105!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!1.010!DESCRIPTION!/]
 
-destroy crystal	
+destroy crystal
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!2.000!DESCRIPTION!]
 		||
 		*Rage? Disillusion? Insanity? Ormenos struggles to name the trigger, the spark that will destroy the crystal. He well knows the explosion will be fatal, and with a crystal this large, this wing of the Archives will return to dust before its sound even reaches the magi in the Mathetia...*
@@ -3538,13 +3538,13 @@ WORD SMITH
 
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.003!WORD SMITH!]
 		||
-		*"Truth abides."* 
+		*"Truth abides."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.004!WORD SMITH!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.003!WORD SMITH!/]
 
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.004!WORD SMITH!]
 		||
-		*"But the part of our whole you examine, she is unique as the heart is to the mind."* 
+		*"But the part of our whole you examine, she is unique as the heart is to the mind."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.005!WORD SMITH!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.004!WORD SMITH!/]
 
@@ -3629,7 +3629,7 @@ WORD WEAVER
 		||
 		*"For through It they derive purpose."*
 		(A#"Then is the player just Fate's piece?"){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.005!WORD WEAVER!}
-	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.004!WORD WEAVER!/]	
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.004!WORD WEAVER!/]
 
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.005!WORD WEAVER!]
 		||
@@ -3804,13 +3804,13 @@ virgin run
 		*The footfalls quickly morph from shapeless echoes down the hall to sharp stabs on the tiles, and in the space of a thought, a young acolyte enters. Up walks a youthful man, seemingly oblivious of Ormenos at first, as though in a trance...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00106!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00104!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00105!DESCRIPTION!]
 		||
 		*The footfalls quickly morph from shapeless echoes down the hall to sharp stabs on the tiles, and in the space of a thought, a young acolyte enters. Up walks the young Thought-Weaver, Babel, seemingly oblivious of Ormenos at first, as though in a trance...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00106!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00105!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00106!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00107!DESCRIPTION!|
 		*The youth's Falseflesh halts its progress, a fact that seems to utterly confuse him. Ormenos clears his throat, an apparent cause for alarm as his new companion tries to jump out of his flesh.*
@@ -3825,9 +3825,9 @@ virgin run
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00107!DESCRIPTION!/]
-	
 
-told babs to fuck off	
+
+told babs to fuck off
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00108!DESCRIPTION!]
 		||
 		*His warnings unheeded, disappointment and pity weigh down the corner's of Babel's mouth. He looks a helpless father witnessing a foolhardy child get punished for a crime they could have avoided. But with a sigh of resignation, Babel leaves the Hall, his purpose for being there still unclear.*
@@ -3895,7 +3895,7 @@ had been admonished
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010112!DESCRIPTION!/]
 
 
->>>Met Babel (2025)<<<	
+>>>Met Babel (2025)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0011!DESCRIPTION!]
 		|^2025:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0012!DESCRIPTION!|
 		*Everything is as it was before the mysterious youth came and vanished, not a speck of dust out of place. The shrouded throne yet abides, silently observing the passage of time.*
@@ -3934,7 +3934,7 @@ had been admonished
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00111!DESCRIPTION!]
 		||
 		*Its smooth, coppered surface is scarred with a dizzying pattern of lines, curves and spirals. At the center of the design, a Glyph sits patiently awaiting the silent speech of thought. Yet, though Ormenos knows the symbol has meaning, such knowledge by itself is meaningless - easier to read the Earth's mood from the clouds than to read an unremembered Glyph.
-		
+
 		Beneath the disk are a pile of lazy stones with no urgent desire to seek out their proper order.*
 		(A#Manipulate the stones beneath){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X001110!DESCRIPTION!}
 		(B#Examine the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
@@ -3950,7 +3950,7 @@ had been admonished
 		(B#Arrange them to point in towards each other){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001112!DESCRIPTION!}
 		(C#Arrange them to point up towards the copper disk){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2078!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X001110!DESCRIPTION!/]
-		
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001111!DESCRIPTION!]
 		||
 		*Slaying entropy's sloth with an order of his own, Ormenos arranges the stones such that no arrow faces another before replacing the copper disk atop.*
@@ -3958,7 +3958,7 @@ had been admonished
 		(B#Examine the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
 		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001111!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001112!DESCRIPTION!]
 		||
 		*Slaying entropy's sloth with an order of his own, Ormenos arranges the stones such that all face one another, and then carefully replaces the copper disk atop.*
@@ -3991,7 +3991,7 @@ had been admonished
 		(B#Examine the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
 		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001114!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001115!DESCRIPTION!]
 		||
 		*Its smooth, coppered surface is scarred with a dizzying pattern of lines, curves and spirals. At the center of the design, a Glyph sits patiently awaiting the silent speech of thought. Yet, though Ormenos knows the symbol has meaning, such knowledge by itself is meaningless - easier to read the Earth's mood from the clouds than to read an unremembered Glyph.*
@@ -4003,7 +4003,7 @@ had been admonished
 		*But now with the arrows in their proper alignment, the broken pieces mended and the amethyst crystal powering the device, a Glyph begins to manifest. Curiosity has led Ormenos to tangle with forces he does not comprehend, and now he very much regrets reassembling some abandoned device in ignorance. Fear grips him as he prays to the sacred Wyrm the Jeran mystics for protection.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2083!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011150!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001116!DESCRIPTION!]
 		||
 		*Air rushes in as Fear suddenly releases its hold on the mage's lungs. As though taking his first breath anew, Ormenos is reborn, now with the knowledge of Nearcasting seared into his Trueflesh. The Glyph tells of its storied past, times it and Ormenos shared. Confusion replaces understanding as Ormenos fathoms the unlikely memories, but the Glyph does not care. Instead, it urges its old friend to make use of it, resonating with the newly reformed Caster.*
@@ -4050,7 +4050,7 @@ had been admonished
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001119!DESCRIPTION!/]
 
 
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!]
 		||
 		*MULTICHECKER*
@@ -4175,7 +4175,7 @@ had been admonished
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!]
 		|^2084:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001130!DESCRIPTION!|
 		*A light mist cast up from the humble cataract spreads a foggy veil around the garden, and the braziers, burning away, do nothing to help sharpen the image of the nebulous vegetation. Indeed, were it not for the brilliant array of crystals bathing the area in ample rays of light, it would be difficult to tell that anything lingered beyond this fog at all.
-		
+
 		Crossing the bridge Ormenos finds himself carving a path through the mist, getting a much clearer look at the shapes it seeks to obfuscate. Braziers, mineral-rich soil, coursing water, colorful floral life unbecoming of the subterranean environs, all combine to yield the most bizarre and unexpected scene Ormenos has come to see in his long time at the Enclave.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
@@ -4378,7 +4378,7 @@ water
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113212!DESCRIPTION!/]
 
 braziers
->>>Extinguished braziers (2086)<<<	
+>>>Extinguished braziers (2086)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0011330!DESCRIPTION!]
 		|^2086:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132110!DESCRIPTION!|
 		*The braziers draw the mage in with the irresistible pull of their dancing flames, his Mind's Fire resonating with their physical manifestations, ever-intensifying with each approaching step. The two soon merge into a chaotic symphony, their blinding crescendoing seeming to overwhelm his fevered awareness.*
@@ -4454,7 +4454,7 @@ braziers
 		*Carefully covering his hands with the tattered edges of his sleeves, Ormenos ceremoniously carries the brazier toward the copper disk. Upon arrival, he casts its embers among the loosened stones. Heat sinks into the pieces, liquefying the flat edges of each. The edges meld, uniting individuals into groups, and ultimately groups into a single unit. A memory vaguely floats across the background of consciousness, something about heat and the self-healing properties of ancient artifacts. But alas, this seed of thought never fully blossoms.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2085-3!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113322!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133220!DESCRIPTION!]
 		||
 		*Then, in the space of a thought, a sputtering sound and a violent shaking possess the contraption. The whirring crescendos pounding at the ears; the trembling escalates cracking the newly-healed stones. These frenzied oscillations, these roaring groans, they remind Ormenos of something...*
@@ -4637,12 +4637,12 @@ BABEL
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X000!BABEL!/]
-	
-	
-virgin run	
+
+
+virgin run
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.000!BABEL!]
 		||
-		*"Aaaahh! You scared the ghost right from me!"* 
+		*"Aaaahh! You scared the ghost right from me!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0000!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.000!BABEL!/]
 
@@ -4848,7 +4848,7 @@ virgin run
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002225!BABEL!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002226!BABEL!]
-		||	
+		||
 		*"But even that false prophet saw the wisdom in unity."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002230!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002226!BABEL!/]
@@ -4980,7 +4980,7 @@ know babel is Pr. Ar.
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.002!BABEL!]
 		||
-		*"Brother Inquisitor's keen sense of awareness has taken me aback..."* 
+		*"Brother Inquisitor's keen sense of awareness has taken me aback..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.003!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.002!BABEL!/]
 
@@ -5050,7 +5050,7 @@ ormenos opened the sylvan refuge
         (E#Only a coward would run.){E:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0015!DESCRIPTION!}
         (F#Meh. It's just Vanargand in a tree suit.){F:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0017!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0014!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0015!DESCRIPTION!]
 		||
         *Ormenos steels himself, driven to witness this eldritch terror, even if it drives him insane. Up until now, he has been able to wrest his sanity from the grips of chaos, but all this changes the moment he sees the shadow climbing up from the depths.*
@@ -5148,7 +5148,7 @@ comes in w babel
 		*Babel's grin now splits his face, baring the chattering teeth of a madman.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X0011!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0028!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0029!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!DESCRIPTION!|
 		*Ormenos stares stupidly at Babel, as if only now seeing him for the first time. Caught between his fear of what approaches and of the man in front of him, he is utterly speechless.*
@@ -5225,7 +5225,8 @@ BABEL
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.006!BABEL!/]
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TECHNICAL STUFF
 ________________________________________________________________________
 EVENT WRITERS
 	[/ENCLAVE!ARCHIVES!MATHETIA!9990.X2027!FORM FORGER!]
@@ -5233,31 +5234,31 @@ EVENT WRITERS
 		*EVENT WRITER - Witnessed theory v practice debate*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2027!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9990.X2028!DESCRIPTION!]
 		|2028:ENCLAVE!ARCHIVES!MATHETIA!0.0011!DESCRIPTION!|
 		*EVENT WRITER - Ignored Sister midnight*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2028!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9990.X2029!MIDNIGHT!]
 		|2029:ENCLAVE!ARCHIVES!MATHETIA!9999.X9999!MIDNIGHT!|
 		*EVENT WRITER - Spoke w Sister midnight*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2029!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2030-1!DESCRIPTION!]
 		|2030:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0010!DESCRIPTION!|
 		*EVENT WRITER - Met Babel at Seat of True Ar*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2030-1!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2030-2!DESCRIPTION!]
 		|2030:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9999.X0011!DESCRIPTION!|
 		*EVENT WRITER - Met Babel at Seat of True Ar*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2030-2!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2031-1!BABEL!]
 		|2031:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001!BABEL!|
 		*EVENT WRITER - Agreed to go to the Nave*
@@ -5269,187 +5270,187 @@ EVENT WRITERS
 		*EVENT WRITER - Agreed to go to the Nave*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2031-2!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2033!BABEL!]
 		|2033:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.001!BABEL!|
 		*EVENT WRITER - Confronted Babel with Prime Archon knowledge in Archives*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2033!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2034!DESCRIPTION!]
 		|2034:ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.X000!DESCRIPTION!|
 		*EVENT WRITER - Opened the Sylvan Refuge*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2034!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2035!WORD SMITH!]
 		|2035:ENCLAVE!ARCHIVES!SCRIPTORIUM!9999.X9999!WORD SMITH!|
 		*EVENT WRITER - Spoke w Wordsmith*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2035!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2036!WORD WEAVER!]
 		|2036:ENCLAVE!ARCHIVES!SCRIPTORIUM!9999.X9999!WORD WEAVER!|
 		*EVENT WRITER - Spoke w Wordweaver*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2036!WORD WEAVER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2037!EXECUTOR!]
 		|2037:ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X9999!EXECUTOR!|
 		*EVENT WRITER - Pass test in Cipher of Prime Archon*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2037!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2038!FORM FORGER!]
 		|2038:ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2042!FORM FORGER!|
 		*EVENT WRITER - Completed one event*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2038!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9990.X2038!FORM FORGER!]
 		|2038:ENCLAVE!ARCHIVES!MATHETIA!9990.X2027!FORM FORGER!|
 		*EVENT WRITER - Completed one event*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2038!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9990.X2038!MIDNIGHT!]
 		|2038:ENCLAVE!ARCHIVES!MATHETIA!9990.X2029!MIDNIGHT!|
 		*EVENT WRITER - Completed one event*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2038!MIDNIGHT!/]
-		
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2038!DESCRIPTION!]
 		|2038:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00139!DESCRIPTION!|
 		*EVENT WRITER - Completed one event*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2038!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2038!MEMORY KEEPER!]
 		|2038:ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2043!MEMORY KEEPER!|
 		*EVENT WRITER - Completed one event*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2038!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2038!WORD SMITH!]
 		|2038:ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2035!WORD SMITH!|
 		*EVENT WRITER - Completed one event*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2038!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2038!WORD WEAVER!]
 		|2038:ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2036!WORD WEAVER!|
 		*EVENT WRITER - Completed one event*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2038!WORD WEAVER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2039!FORM FORGER!]
 		|2039:ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2042!FORM FORGER!|
 		*EVENT WRITER - Completed two events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2039!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9990.X2039!FORM FORGER!]
 		|2039:ENCLAVE!ARCHIVES!MATHETIA!9990.X2027!FORM FORGER!|
 		*EVENT WRITER - Completed two events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2039!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9990.X2039!MIDNIGHT!]
 		|2039:ENCLAVE!ARCHIVES!MATHETIA!9990.X2029!MIDNIGHT!|
 		*EVENT WRITER - Completed two events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2039!MIDNIGHT!/]
-		
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2039!DESCRIPTION!]
 		|2039:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00140!DESCRIPTION!|
 		*EVENT WRITER - Completed two events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2039!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2039!MEMORY KEEPER!]
 		|2039:ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2043!MEMORY KEEPER!|
 		*EVENT WRITER - Completed two events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2039!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2039!WORD SMITH!]
 		|2039:ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2035!WORD SMITH!|
 		*EVENT WRITER - Completed two events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2039!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2039!WORD WEAVER!]
 		|2039:ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2036!WORD WEAVER!|
 		*EVENT WRITER - Completed two events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2039!WORD WEAVER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2040!FORM FORGER!]
 		|2040:ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2042!FORM FORGER!|
 		*EVENT WRITER - Completed three events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2040!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9990.X2040!FORM FORGER!]
 		|2040:ENCLAVE!ARCHIVES!MATHETIA!9990.X2027!FORM FORGER!|
 		*EVENT WRITER - Completed three events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2040!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9990.X2040!MIDNIGHT!]
 		|2040:ENCLAVE!ARCHIVES!MATHETIA!9990.X2029!MIDNIGHT!|
 		*EVENT WRITER - Completed three events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2040!MIDNIGHT!/]
-		
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2040!DESCRIPTION!]
 		|2040:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00140!DESCRIPTION!|
 			*EVENT WRITER - Completed three events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2040!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2040!MEMORY KEEPER!]
 		|2040:ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2043!MEMORY KEEPER!|
 		*EVENT WRITER - Completed three events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2040!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2040!WORD SMITH!]
 		|2040:ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2035!WORD SMITH!|
 		*EVENT WRITER - Completed three events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2040!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2040!WORD WEAVER!]
 		|2040:ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2036!WORD WEAVER!|
 		*EVENT WRITER - Completed three events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2040!WORD WEAVER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2042!FORM FORGER!]
 		|2042:ENCLAVE!ARCHIVES!HUGINN GROVE!9999.X9999!FORM FORGER!|
 		*EVENT WRITER - Spoke w Form Forger in Huginn Grove*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2042!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2043!MEMORY KEEPER!]
 		|2043:ENCLAVE!ARCHIVES!MUNINN GROVE!9999.X9999!MEMORY KEEPER!|
 		*EVENT WRITER - Spoke w Memory Keeper in Muninn Grove*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2043!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2045!DESCRIPTION!]
 		|2045:ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!DESCRIPTION!|
 		*EVENT WRITER - The Art of Blindsight by Rikharr*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2045!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2046!DESCRIPTION!]
 		|2046:ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!DESCRIPTION!|
 		*EVENT WRITER - Kavan Myths*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2046!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2047!DESCRIPTION!]
 		|2047:ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!DESCRIPTION!|
 		*EVENT WRITER - Precepts of Thought*
@@ -5461,55 +5462,55 @@ EVENT WRITERS
 		*EVENT WRITER - Deathly Cults*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2048!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2049!DESCRIPTION!]
 		|2049:ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!DESCRIPTION!|
 		*EVENT WRITER - Wayfarer Extractions*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2049!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9990.X2075!FORM FORGER!]
 		|2075:ENCLAVE!ARCHIVES!MATHETIA!0.X0042!FORM FORGER!|
 		*EVENT WRITER - Backed Memory Keeper in the debate*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2075!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9990.X2076!FORM FORGER!]
 		|2076:ENCLAVE!ARCHIVES!MATHETIA!0.X0045!FORM FORGER!|
 		*EVENT WRITER - Backed Form Forger in the debate*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2076!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2077!MEMORY KEEPER!]
 		|2077:ENCLAVE!ARCHIVES!MUNINN GROVE!9999.X9999!MEMORY KEEPER!|
 		*EVENT WRITER - Agreed to go gremlin hunting*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2077!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2078!DESCRIPTION!]
 		|2078:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X001113!DESCRIPTION!|
 		*EVENT WRITER - Correctly aligned the arrows*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2078!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-1!DESCRIPTION!]
 		|2079:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0024!DESCRIPTION!|
 		*EVENT WRITER - Saw proper alignment clue*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-1!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-2!DESCRIPTION!]
 		|2079:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0034!DESCRIPTION!|
 		*EVENT WRITER - Saw proper alignment clue*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-2!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2080!DESCRIPTION!]
 		|2080:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112002!DESCRIPTION!|
 		*EVENT WRITER - Broke crystals in Seat of True Arch*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2080!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2081!DESCRIPTION!]
 		|2081:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112000!DESCRIPTION!|
 		*EVENT WRITER - Revived crystals in Seat of True Arch*
@@ -5521,103 +5522,103 @@ EVENT WRITERS
 		*EVENT WRITER - Placed the amethyst crystal in Seat of True Arch*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2082!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2083!DESCRIPTION!]
 		|2083:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001116!DESCRIPTION!|
 		*EVENT WRITER - Acquired Glyph of Nearcasting*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2083!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2084!DESCRIPTION!]
 		|2084:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113322!DESCRIPTION!|
 		*EVENT WRITER - Used fire to mend the pieces of the nearcaster*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2084!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2085-1!DESCRIPTION!]
 		|2085:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113110!DESCRIPTION!|
 		*EVENT WRITER - Ruins the nearcaster*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2085-1!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2085-2!DESCRIPTION!]
 		|2085:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113212!DESCRIPTION!|
 		*EVENT WRITER - Ruins the nearcaster*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2085-2!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2085-3!DESCRIPTION!]
 		|2085:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133220!DESCRIPTION!|
 		*EVENT WRITER - Ruins the nearcaster*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2085-3!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2086!DESCRIPTION!]
 		|2086:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113211!DESCRIPTION!|
 		*EVENT WRITER - Extinguished braziers*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2086!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2087!DESCRIPTION!]
 		|2087:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X000!DESCRIPTION!|
 		*EVENT WRITER - Dissuaded from further delving into the Muninn Grove*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2087!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2088!DESCRIPTION!]
 		|2088:ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!DESCRIPTION!|
 		*EVENT WRITER - Whispered Prophecy*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2088!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2089!DESCRIPTION!]
 		|2089:ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!DESCRIPTION!|
 		*EVENT WRITER - Quangjo Vol XVII*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2089!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2090!DESCRIPTION!]
 		|2090:ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!DESCRIPTION!|
 		*EVENT WRITER - Quangjo Vol XX*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2090!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2091!DESCRIPTION!]
 		|2091:ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!DESCRIPTION!|
 		*EVENT WRITER - Art and Artifice*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2091!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2092!DESCRIPTION!]
 		|2092:ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!DESCRIPTION!|
 		*EVENT WRITER - The Infinite Pursuit*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2092!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2093!DESCRIPTION!]
 		|2093:ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!DESCRIPTION!|
 		*EVENT WRITER - Origins of the Schism*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2093!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2094!DESCRIPTION!]
 		|2094:ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!DESCRIPTION!|
 		*EVENT WRITER - Primordial Technocraft*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2094!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2095!DESCRIPTION!]
 		|2095:ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!DESCRIPTION!|
 		*EVENT WRITER - Spectral Projection*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2095!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2096!DESCRIPTION!]
 		|2096:ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0051!DESCRIPTION!|
 		*EVENT WRITER - Prime Archon list*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2096!DESCRIPTION!/]
-		
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2097!DESCRIPTION!]
 		|2097:ENCLAVE!THE NAVE!ARCHONS' APSE!0.X000!DESCRIPTION!|
 		*EVENT WRITER - Went to Archon's Apse from Crypt of Archons*
@@ -5641,18 +5642,6 @@ EVENT WRITERS
 		*EVENT WRITER - Learned about Sylvan Architect*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X19000!DESCRIPTION!/]
-	
-	
-	
-	
-________________________________________________________________________
-FIGHTING WORDS
-    [/ENCLAVE!ARCHIVES!MUNINN GROVE!9992.X1210!MEMORY KEEPER!]
-        ||
-		**
-		(A#FIGHT){A:0,FIGHT}
-    [ENCLAVE!ARCHIVES!MUNINN GROVE!9992.X1210!MEMORY KEEPER!/]
-
 
 
 
@@ -5663,19 +5652,19 @@ NPC SWITCHERS
 		*BABEL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X0011!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X0011!EXECUTOR!]
 		|#npcSwitch:11|
 		*BABEL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X0011!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X0011!DESCRIPTION!]
 		|#npcSwitch:11|
 		*BABEL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X0011!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9999.X0011!DESCRIPTION!]
 		|#npcSwitch:11|
 		*BABEL*
@@ -5687,129 +5676,142 @@ NPC SWITCHERS
 		*BEAST LORD*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9999.X1200!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!9999.X1209!DESCRIPTION!]
 		|#npcSwitch:1209|
 		*FORM FORGER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!9999.X1209!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!DESCRIPTION!]
 		|#npcSwitch:1209|
 		*FORM FORGER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!MEMORY KEEPER!]
 		|#npcSwitch:1209|
 		*FORM FORGER FROM MEMORY KEEPER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!MEMORY KEEPER!/]
-		
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9999.X1210!DESCRIPTION!]
 		|#npcSwitch:1210|
 		*MEMORY KEEPER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9999.X1210!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9999.X1210!FORM FORGER!]
 		|#npcSwitch:1210|
 		*MEMORY KEEPER FROM FORM FORGER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9999.X1210!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9999.X1211!DESCRIPTION!]
 		|#npcSwitch:1211|
 		*MIDNIGHT*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9999.X1211!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!9999.X1212!DESCRIPTION!]
 		|#npcSwitch:1212|
 		*WORD SMITH*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9999.X1212!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!9999.X1213!DESCRIPTION!]
 		|#npcSwitch:1213|
 		*WORD WEAVER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9999.X1213!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X1214!BABEL!]
 		|#npcSwitch:1214|
 		*EXECUTOR FROM BABEL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X1214!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X1214!DESCRIPTION!]
 		|#npcSwitch:1214|
 		*EXECUTOR*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X1214!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X9999!BABEL!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM BABEL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X9999!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X9999!BABEL!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM BABEL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X9999!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9999.X9999!BABEL!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM BABEL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9999.X9999!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9999.X9999!BEAST LORD!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM BEAST LORD*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9999.X9999!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X9999!EXECUTOR!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM EXECUTOR*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X9999!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!9999.X9999!FORM FORGER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM FORM FORGER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!9999.X9999!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9999.X9999!FORM FORGER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM FORM FORGER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9999.X9999!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9999.X9999!MEMORY KEEPER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM MEMORY KEEPER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9999.X9999!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!9999.X9999!MIDNIGHT!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM MIDNIGHT*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9999.X9999!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!9999.X9999!WORD SMITH!]
 		|#npcSwitch:9999|
 		*WORD SMITH*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9999.X9999!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!9999.X9999!WORD WEAVER!]
 		|#npcSwitch:9999|
 		*WORD WEAVER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9999.X9999!WORD WEAVER!/]
+
+
+
+
+________________________________________________________________________
+FIGHTING WORDS
+    [/ENCLAVE!ARCHIVES!MUNINN GROVE!9992.X1210!MEMORY KEEPER!]
+        ||
+		**
+		(A#FIGHT){A:0,FIGHT}
+    [ENCLAVE!ARCHIVES!MUNINN GROVE!9992.X1210!MEMORY KEEPER!/]
+
+

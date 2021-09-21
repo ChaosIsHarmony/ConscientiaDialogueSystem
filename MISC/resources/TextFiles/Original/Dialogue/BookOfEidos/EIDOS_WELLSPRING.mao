@@ -12,9 +12,9 @@ AQUEDUCT
 	[/KABU!WELLSPRING!AQUEDUCT!0.000!DESCRIPTION!]
 		||
 		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway. Only a short time seems to elapse before she finally emerges into the light of day.
-		
+
 		Squinting against the sun, she looks up at the sky through a pane of carefully polished glass. She determines she is now atop an aqueduct - a structure clearly not meant for human transport.
-		
+
 		Her head collides with the stony sides of the tubes, bringing on an unwanted bout of dreamless sleep...*
 		(A#...){A:0,KABU!WELLSPRING!AQUEDUCT!9990.X11417-1!DESCRIPTION!}
 	[KABU!WELLSPRING!AQUEDUCT!0.000!DESCRIPTION!/]
@@ -23,9 +23,9 @@ knows about mission or has been to dawn fortress
 	[/KABU!WELLSPRING!AQUEDUCT!1.000!DESCRIPTION!]
 		||
 		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway. Only a short time seems to elapse before she finally emerges into the light of day.
-		
+
 		Squinting her eyes against the sun, she looks up at the sky through a pane of carefully polished glass. She quickly surmises she is now atop an aqueduct and is likely headed for the parched Dawn Fortress—whose water she now delivers personally.
-		
+
 		After only a few moments, she realizes this structure is clearly not meant for human transport - just as her head collides with the stony sides of the tubes. The impact brings with it an unwanted bout of dreamless sleep...*
 		(A#...){A:0,KABU!WELLSPRING!AQUEDUCT!9990.X11417-1!DESCRIPTION!}
 	[KABU!WELLSPRING!AQUEDUCT!1.000!DESCRIPTION!/]
@@ -34,9 +34,9 @@ khlutt dead
 	[/KABU!WELLSPRING!AQUEDUCT!2.000!DESCRIPTION!]
 		||
 		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway. Only a short time seems to elapse before she finally emerges into the light of day.
-		
+
 		Squinting against the sun, she looks up at the sky through a pane of glass, surmising she is now atop an aqueduct. She likewise concludes her destination must be the parched Dawn Fortress, and now here she is delivering their missing water personally - though Khlutt is no longer around to thank her.
-		
+
 		However, this aqueduct was clearly not meant for human transport. Her head soon collides with the hard sides of the tubes, bringing on an unwanted bout of dreamless sleep...*
 		(A#...){A:0,KABU!WELLSPRING!FLOOD GATE!9990.X11414-101!DESCRIPTION!}
 	[KABU!WELLSPRING!AQUEDUCT!2.000!DESCRIPTION!/]
@@ -45,20 +45,20 @@ logira dead
 	[/KABU!WELLSPRING!AQUEDUCT!3.000!DESCRIPTION!]
 		||
 		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway. Only a short time seems to elapse before she finally emerges into the light of day.
-		
+
 		Squinting against the sun, she looks up at the sky through a pane of glass, surmising she is now atop an aqueduct. She likewise concludes her destination must be the parched Dawn Fortress, and now here she is delivering their missing water personally - though Logira is no longer around to thank her.
-		
+
 		However, this aqueduct was clearly not meant for human transport. Her head soon collides with the hard sides of the tubes, bringing on an unwanted bout of dreamless sleep...*
 		(A#...){A:0,KABU!WELLSPRING!FLOOD GATE!9990.X11414-101!DESCRIPTION!}
 	[KABU!WELLSPRING!AQUEDUCT!3.000!DESCRIPTION!/]
-	
+
 khlutt knows about star bridge
 	[/KABU!WELLSPRING!AQUEDUCT!4.000!DESCRIPTION!]
 		||
 		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway. Only a short time seems to elapse before she finally emerges into the light of day.
-		
+
 		Squinting against the sun, she looks up at the sky through a pane of carefully polished glass. She surmises she is now atop an aqueduct and likely headed for the parched Dawn Fortress whose water she now delivers personally.
-		
+
 		After only a few moments, she realizes this structure is clearly not meant for human transport - just as her head collides with the stony sides of the tubes. The impact brings with it an unwanted bout of dreamless sleep...*
 		(A#...){A:0,KABU!WELLSPRING!FLOOD GATE!9990.X11414-101!DESCRIPTION!}
 	[KABU!WELLSPRING!AQUEDUCT!4.000!DESCRIPTION!/]
@@ -71,7 +71,7 @@ BRIDGE
 	[/KABU!WELLSPRING!BRIDGE!0.000!DESCRIPTION!]
 		||
 		*Walking from the corridor, Eidos steps out into a vast fracture in the earth. Huge rock formations tower overhead, and beyond them is a star-studded sky. While cold winds blow all about, the dominant sound is that of water coursing across stone.
-		
+
 		Directly across the ravine is another cliff face, some hundred paces away. A massive stone bridge connects the distant sides; built of large and roughly hewn granite stones, it is a thing of no great beauty. However, it seems sturdy and well-maintained, if nothing else.*
 		(A#Traverse the bridge){A:0,KABU!WELLSPRING!BRIDGE!0.X001!DESCRIPTION!}
 		(B#Return to the Living quarters){B:0,KABU!WELLSPRING!LIVING QUARTERS!0.X000!DESCRIPTION!}
@@ -172,7 +172,7 @@ THE CAGE
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
-	[KABU!WELLSPRING!THE CAGE!0.X000!DESCRIPTION!/]	
+	[KABU!WELLSPRING!THE CAGE!0.X000!DESCRIPTION!/]
 
 
 
@@ -216,7 +216,7 @@ virgin entrance
 	[/KABU!WELLSPRING!THE CAGE!0.211!DESCRIPTION!]
 		||
 		*Eidos hears a voice, echoing within her mind. Faint and elusive, it more closely resembles the incomplete recollection of a melody than speech. She listens, carefully, seeking the pattern within the melody. She hears no words, only humming and buzzing, waves of emotion both consistent and evolving.
-		
+
 		Parsing the signs and signifiers, Eidos suddenly has a flash of insight: the creature does not speak; it simply emotes; and it appears to eagerly anticipate Eidos' approach...*
 		(A#Examine the stone pedestal){A:0,KABU!WELLSPRING!THE CAGE!0.X220!DESCRIPTION!}
 		(B#Reach out to touch the woman){B:0,KABU!WELLSPRING!THE CAGE!0.260!DESCRIPTION!}
@@ -243,7 +243,7 @@ virgin entrance
 	[/KABU!WELLSPRING!THE CAGE!0.2400!DESCRIPTION!]
 		||
 		*Eidos grips the crystal firmly, ready to wrench it from its casing. At her touch, the creature darts from the cage head first, swimming through the air towards Eidos. Soon thereafter, from within her mind, Eidos hears a faint voice echoing words in an incomprehensible tongue of buzzes and hums.
-		
+
 		Pulling the crystal from its housing, she prompts matching halos of yellow light to burst from both the floating woman's form and the shard held in Eidos' grip. The air crackles with energy and the buzzing voice inside her head becomes a high-pitched shriek, reverberating at the same frequency as the cry emanating from the heart of the crystal itself.*
 		(A#...){A:0,KABU!WELLSPRING!THE CAGE!0.2401!DESCRIPTION!}
 	[KABU!WELLSPRING!THE CAGE!0.2400!DESCRIPTION!/]
@@ -251,7 +251,7 @@ virgin entrance
 	[/KABU!WELLSPRING!THE CAGE!0.2401!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		The Glyph of Fenrir and its Techne of Extraction resonate as the woman's brow emits a wave of desperate, yellow light. The crystal responds to the Glyph-Techne dyad and its energetic pattern merges with Eidos, the anguished creature dissipating as its essence feeds Eidos.*
 		(A#...){A:0,KABU!WELLSPRING!THE CAGE!0.2402!DESCRIPTION!}
 	[KABU!WELLSPRING!THE CAGE!0.2401!DESCRIPTION!/]
@@ -311,7 +311,7 @@ virgin entrance
 	[/KABU!WELLSPRING!THE CAGE!0.2503!DESCRIPTION!]
 		||
 		*However, before her final breath is consumed, her life along with it, the weakened floor gives way. Fixed becomes mutable and stone becomes dust; supports collapse and all the unbroken pieces of the floor are betrayed by the ones that succumbed to the blast.
-		
+
 		Riding atop a shower of angry stones, Eidos falls into the chamber below. Precious air, now corrupted with dust, returns to her lungs as she tumbles in gravity's embrace.*
 		(A#...){A:0,KABU!WELLSPRING!THE CAGE!9990.X11421-2!DESCRIPTION!}
 	[KABU!WELLSPRING!THE CAGE!0.2503!DESCRIPTION!/]
@@ -319,7 +319,7 @@ virgin entrance
 	[/KABU!WELLSPRING!THE CAGE!0.260!DESCRIPTION!]
 		||
 		*Eidos reaches out to feel the creature's hazy skin. Her hand pierces through the illuminated emptiness of its body, casting hand-shaped shadows on herself.
-		
+
 		The ethereal woman, now grinning, gently wraps her brilliant arms around Eidos and for the space of a thought, time appears to freeze.*
 		(A#...){A:0,KABU!WELLSPRING!THE CAGE!0.X2600!DESCRIPTION!}
 	[KABU!WELLSPRING!THE CAGE!0.260!DESCRIPTION!/]
@@ -346,7 +346,7 @@ virgin entrance
 	[/KABU!WELLSPRING!THE CAGE!0.2603!DESCRIPTION!]
 		||
 		*However, before her final breath is consumed, her life along with it, the weakened floor gives way. Fixed becomes mutable and stone becomes dust; supports collapse and all the unbroken pieces of the floor are betrayed by the ones that succumbed to the blast.
-		
+
 		Riding atop a shower of angry stones, Eidos falls into the chamber below. Precious air, now corrupted with dust, returns to her lungs as she tumbles in gravity's embrace.*
 		(A#...){A:0,KABU!WELLSPRING!THE CAGE!9990.X11420-2!DESCRIPTION!}
 	[KABU!WELLSPRING!THE CAGE!0.2603!DESCRIPTION!/]
@@ -436,12 +436,12 @@ Absorbed, not destroyed crystal
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[KABU!WELLSPRING!THE CAGE!2.X222!DESCRIPTION!/]
-	
-	
+
+
 	[/KABU!WELLSPRING!THE CAGE!2.223!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		The Glyph of Resurrection resonates as the crystal fills with brilliant amber light. From the ether of the Graylands, a guardian comes into being laced within a filament set deep within the crystal. Eidos senses its motivations; it yet remains intent on enacting the task Wulfias burdened it with so many centuries past...*
 		(A#...){A:0,KABU!WELLSPRING!THE CAGE!2.224!DESCRIPTION!}
 	[KABU!WELLSPRING!THE CAGE!2.223!DESCRIPTION!/]
@@ -540,7 +540,7 @@ CHAMBER OF BONES
 	[/KABU!WELLSPRING!CHAMBER OF BONES!0.X000!DESCRIPTION!]
 		|^11438:KABU!WELLSPRING!CHAMBER OF BONES!0.100!DESCRIPTION!|
 		*Walking into the passage, Eidos feels the full oppression of the cold and damp. Droplets of moisture sprinkle down upon her head as she makes her way toward the faint, flickering light up ahead. Stumbling over the uneven and obscured paving stones, she nears the source of illumination only to discover its grim source: a human skull placed into a hollow in the stone wall. A single shard of crystalline glass has been placed within the left eye-socket, and it burns with a perpetual yet undulating light.
-		
+
 		From here, she sees the path taking a sharp turn, leading toward another grisly light cyclops. Passing three such lanterns, dozens of paces separating one from the next, she finally arrives at a larger space, brilliantly illuminated with a powerful array of crystals...*
 		(A#...){A:0,KABU!WELLSPRING!CHAMBER OF BONES!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!CHAMBER OF BONES!0.X000!DESCRIPTION!/]
@@ -554,7 +554,7 @@ CHAMBER OF BONES
 	[/KABU!WELLSPRING!CHAMBER OF BONES!0.002!DESCRIPTION!]
 		||
 		*As she walks forward, it becomes clear that this chamber is larger than it at first appeared. Further wings extend from all sides; yet only two of these are of any note. The first, directly ahead, is a separate room, illuminated by a different species of light, pale white in color; the other is to the side and is significantly dimmed; all others are obstructed by mounds of excavated rock and the tools that moved them.
-		
+
 		Peeking into the near lightless wing, the recent excavation adequately explains its dim state; skull-lamps having been displaced and scattered throughout a lengthy tunnel, carved deep into the bedrock. Pickaxes and shovels litter the ground, while some human remains have been rather unceremoniously moved to wooden bins. Turning her attention to the pale room, all she can make out are the outlines of two bulky statues flanking either side of a doorway further into darkness.*
 		(A#Enter the pale room){A:0,KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.000!DESCRIPTION!}
 		(B#Enter the excavation site){B:0,KABU!WELLSPRING!EXCAVATION!0.000!DESCRIPTION!}
@@ -564,7 +564,7 @@ CHAMBER OF BONES
 	[/KABU!WELLSPRING!CHAMBER OF BONES!0.100!DESCRIPTION!]
 		||
 		*Strolling through the familiar hall, droplets of water falling gently upon her, Eidos makes her way to the Chamber of Bones. Before long, she returns to the resting hall of the dead, scores of light-giving eyes watching her from above derisive grins. What these skull-lamps have witnessed over the centuries, and what they witness now in the great beyond, these are both jealously guarded secrets; any inquiry is met only with their disobliging silence.
-		
+
 		Peeling her senses away from the unrelenting gaze of the dead, Eidos then turns her attention to the three pathways available to her - one, the pale room, another, the excavation site, and the final, the bridge whence she came.*
 		(A#Enter the pale room){A:0,KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.000!DESCRIPTION!}
 		(B#Enter the excavation site){B:0,KABU!WELLSPRING!EXCAVATION!0.000!DESCRIPTION!}
@@ -574,7 +574,7 @@ CHAMBER OF BONES
 	[/KABU!WELLSPRING!CHAMBER OF BONES!1.000!DESCRIPTION!]
 		||
 		*Eidos returns to the resting hall of the dead, scores of light-giving eyes watching her from above derisive grins. What these skull-lamps have witnessed over the centuries, and what they witness now in the great beyond, these are both jealously guarded secrets; any inquiry is met only with their disobliging silence.
-		
+
 		Peeling her senses away from the unrelenting gaze of the dead, Eidos then turns her attention to the three pathways available to her - one, the pale room, another, the excavation site, and the final, the bridge whence she came.*
 		(A#Re-enter the Chantry of the Martyr){A:0,KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.000!DESCRIPTION!}
 		(B#Enter the excavation site){B:0,KABU!WELLSPRING!EXCAVATION!0.000!DESCRIPTION!}
@@ -584,7 +584,7 @@ CHAMBER OF BONES
 	[/KABU!WELLSPRING!CHAMBER OF BONES!1.500!DESCRIPTION!]
 		||
 		*Eidos comes sword-propelled back into the resting hall of the dead, hundreds of light-giving eyes watch her above their deathly grins. Her insides feel as though they have been rearranged from the impact, but thanks to Luin, her Falseflesh yet persists.
-		
+
 		There are but three notable places to go from here: the bridge, the pale room or the excavation site.*
 		(A#Re-enter the Chantry of the Martyr){A:0,KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.000!DESCRIPTION!}
 		(B#Enter the excavation site){B:0,KABU!WELLSPRING!EXCAVATION!0.000!DESCRIPTION!}
@@ -612,7 +612,7 @@ CHAMBER OF BONES
 	[/KABU!WELLSPRING!CHAMBER OF BONES!2.003!DESCRIPTION!]
 		||
 		*Before long, she returns to the resting hall of the dead, scores of light-giving eyes watching her from above derisive grins. What these skull-lamps have witnessed over the centuries, and what they witness now in the great beyond, these are both jealously guarded secrets; any inquiry is met only with their disobliging silence.
-		
+
 		Peeling her senses away from the unrelenting gaze of the dead, Eidos then turns her attention to the three pathways available to her - one, the pale room, another, the excavation site, and the final, the bridge whence she came.*
 		(A#Enter the pale room){A:0,KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.000!DESCRIPTION!}
 		(B#Return to the excavation site){B:0,KABU!WELLSPRING!EXCAVATION!1.000!DESCRIPTION!}
@@ -665,7 +665,7 @@ CHANTRY OF THE MARTYR
 		*In a sudden burst of motion, the marble warriors bring their lustrous swords down, converging upon Eidos. The instant before impact, Eidos can feel her skin harden as Luin responds to her mortal danger. The heavy swords send sparks flying as they scrape down her shielded Falseflesh. But the pressure is too great, the force too energetic, and she is violently ejected from the room...*
 		(A#...){A:0,KABU!WELLSPRING!CHAMBER OF BONES!1.500!DESCRIPTION!}
 	[KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.002!DESCRIPTION!/]
-	
+
 	[/KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.003!DESCRIPTION!]
 		||
 		*Just then, the sparks of Awareness shower down upon the kindling of possibility. The memory of the Occult reignites, its brand seared into her very Trueflesh. Quickly gaining in clarity, she soon perfectly recalls the way to obfuscate her mind.*
@@ -795,7 +795,7 @@ From Excavation
 	[/KABU!WELLSPRING!DEEP LAKE!10.000!DESCRIPTION!]
 		||
 		*Eidos leaps down onto the landing, crushing the damp vegetation beneath her weight. The innocent flora is not without recourse, however, for the destructive pressure wrings all moisture from the plants, propelling Eidos’ feet in random directions. The result, naturally, is an intimate encounter with the rocky ground.
-		
+
 		Fallen, she sits, pain crawling up her tender rump through her spine and showering out across her entire body in intense sparks of agony. Whatever the consequences of her descent, she has the last laugh as she rises, injured but unbroken, triumphant in arriving at her desired destination. She leaves the question as to whether or not it was worth it for later consideration.*
 		(A#...){A:0,KABU!WELLSPRING!DEEP LAKE!10.001!DESCRIPTION!}
 	[KABU!WELLSPRING!DEEP LAKE!10.000!DESCRIPTION!/]
@@ -803,7 +803,7 @@ From Excavation
 	[/KABU!WELLSPRING!DEEP LAKE!10.001!DESCRIPTION!]
 		||
 		*Eidos then surveys the surroundings. She now stands a story or two above the edge of a great underground lake. Out on the dark water, she hears the sounds of an invisible oar furtively paddling - though the darkness has consumed any visual vestige of its operator.
-		
+
 		Straight ahead, a massive dam rises from the lake, barring passage to the water that impatiently laps up against it. At the rightmost extreme of the dam, a warm amber glow hints at a crystal. To the left, a path extends downward, hugging the cliff face as it leads to a great archway near the opposite end of the bridge.*
 		(A#Go down the path and through the archway){A:0,KABU!WELLSPRING!THRONE ROOM!9990.X11416!DESCRIPTION!}
 		(F#Go for a refreshing swim?){F:1,KABU!WELLSPRING!DEEP LAKE!10.X002!DESCRIPTION!}
@@ -1367,17 +1367,17 @@ EXCAVATION
 	[KABU!WELLSPRING!EXCAVATION!0.000!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!EXCAVATION!0.001!DESCRIPTION!]
-		||	
+		||
 		*She is grateful that the fetid tunnel is at least well illuminated. It seems this vault is indebted to the burial room for the skull-lanterns keeping the shadows at bay. Taken from their resting places, they are now made to rest upon staves driven into loosened rubble piles on the floor.*
 		(A#...){A:0,KABU!WELLSPRING!EXCAVATION!0.002!DESCRIPTION!}
 	[KABU!WELLSPRING!EXCAVATION!0.001!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!EXCAVATION!0.002!DESCRIPTION!]
-		||	
+		||
 		*No more than twenty paces in, the tunnel widens into an irregularly shaped chamber, bulging here and narrowing there, but never less than fifty paces wide. Nets line the ceiling to catch larger pieces of rubble before someone's head would have broken their fall. Crates and shelves, scattered tools and oddly even a desk, account for most of the contents of the room, though its other holdings are certainly more interesting.
-		
+
 		A number of statues have been left in alcoves that combine avian and human features. Other areas hold fragments of darkened glasses, or perhaps crystal, of various shapes and sizes.
-		
+
 		The wooden desk in the center of the room appears to have been hauled from elsewhere - no mean feat, given its awkward dimensions and hefty look. Upon it are parchments newly written, made legible by a skull left nearby, its flameless yet burning eye casting long shadows across the room.*
 		(A#...){A:0,KABU!WELLSPRING!EXCAVATION!0.X003!DESCRIPTION!}
 	[KABU!WELLSPRING!EXCAVATION!0.002!DESCRIPTION!/]
@@ -1386,7 +1386,7 @@ EXCAVATION
 	[/KABU!WELLSPRING!EXCAVATION!0.X003!DESCRIPTION!]
 		|^11433:KABU!WELLSPRING!EXCAVATION!0.003!DESCRIPTION!|
 		*Yet another tunnel exits opposite the one Eidos entered, leading further into the earth. Peering in, she sees that it is simply a crumbling stairwell leading down towards the sound of water. Advancing ten paces or so, the way ahead terminates, broken and ruined, as though the staircase had been simply torn in two. A ways below the broken path appears to be a landing of sorts, and further still, the continuation of the staircase. Beside it, a precipitous drop hugs the edge of a tenebrous subterranean lake.
-		
+
 		Eidos notices large wooden fragments scattered about on the landing below. They appear to have been ladders at one point, all hastily destroyed. Though jumping down to the landing would prove quite simple, if she does, it will likely be impossible to climb back up, the slick, moss-covered rock.*
 		(A#Enter the Chamber of Bones){A:0,KABU!WELLSPRING!CHAMBER OF BONES!2.000!DESCRIPTION!}
 		(B#Descend the ruined path){B:0,KABU!WELLSPRING!EXCAVATION!9990.X11424!DESCRIPTION!}
@@ -1396,7 +1396,7 @@ EXCAVATION
 	[/KABU!WELLSPRING!EXCAVATION!0.003!DESCRIPTION!]
 		||
 		*Yet another tunnel exits opposite the one Eidos entered, leading further into the earth. Peering in, she sees that it is simply a crumbling stairwell leading down towards the sound of water. Advancing ten paces or so, the way ahead terminates, broken and ruined, as though the staircase had been simply torn in two. A ways below the broken path appears to be a landing of sorts - the continuation of the staircase, only at about twice her height beneath where it should be. Beside it, a precipitous drop hugs the edge of a tenebrous subterranean lake.
-		
+
 		Eidos detects wooden works of artifice scattered about on the landing below. They appear to have been ladders at one point, all hastily destroyed to prevent access to the area below - or to prevent something from climbing up. Though jumping down to the landing is more than feasible, if she goes this way, it will likely be impossible to climb back up, the slick, moss-covered rock.*
 		(A#Enter the Chamber of Bones){A:0,KABU!WELLSPRING!CHAMBER OF BONES!2.000!DESCRIPTION!}
 		(B#Descend the ruined path){B:0,KABU!WELLSPRING!EXCAVATION!9990.X11424!DESCRIPTION!}
@@ -1409,7 +1409,7 @@ EXCAVATION
 		(A#Enter the Chamber of Bones){A:0,KABU!WELLSPRING!CHAMBER OF BONES!2.000!DESCRIPTION!}
 		(B#Descend the ruined path){B:0,KABU!WELLSPRING!EXCAVATION!9990.X11424!DESCRIPTION!}
 	[KABU!WELLSPRING!EXCAVATION!0.100!DESCRIPTION!/]
-	
+
 	[/KABU!WELLSPRING!EXCAVATION!1.000!DESCRIPTION!]
 		||
 		*Eidos is clearly reticent to enter the cramped site again, the mephitic fumes and dearth of oxygen oozing out from the passage she fresh - fetid? - in her memory. She is again forced into an excruciating cycle of gasping for air and dry heaving. Yet a decision made is an action taken and she crosses the threshold...*
@@ -1425,7 +1425,7 @@ FARCASTER CHAMBER
 	[/KABU!WELLSPRING!FARCASTER CHAMBER!0.X000!DESCRIPTION!]
 		|^11420:KABU!WELLSPRING!FARCASTER CHAMBER!1.000!DESCRIPTION!|
 		*Darkness flees with the advent of light. Pure, concentrated, nary a flicker as it rushes out from the Farcaster seal. The process inverts. Bones and sinew weave a shell, and skin rushes to complete her Falseflesh as Eidos is rebuilt from the life-fire of the Nether Edge. When the reintegration ends and the light dies, the murky shadows return and Eidos is plunged into their dark realm. She is immediately buffeted from all sides by short-lived gusts of wind, driving her from the metallic surface of the Farcaster seal. Her eyes grow accustomed to the chamber’s low light. Four walls shield half an octagonal chamber, the missing ones the source of the recent gales.
-		
+
 		Moving forward towards the opening and looking down, she sees tiny pinpoints of light, shimmering within the tenebrous surface below. They stare at her like the myriad eyes of curious yet shy onlookers hiding behind dark veils. Yet soon the illusion is dispelled. As Eidos notices their unnatural swaying motion, she sees the reflection for what it is. These are the light of the stars mischievously misguiding their observers into a reflecting pool. Canting her head skywards, she confirms her suspicions, finding a band of sky snaking through the canopy of shadows overhead.*
 		(A#...){A:0,KABU!WELLSPRING!FARCASTER CHAMBER!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!FARCASTER CHAMBER!0.X000!DESCRIPTION!/]
@@ -1433,9 +1433,9 @@ FARCASTER CHAMBER
 	[/KABU!WELLSPRING!FARCASTER CHAMBER!0.001!DESCRIPTION!]
 		||
 		*Her eyes adapt quickly to the meager starlight, and the shapes of her surroundings begin to reveal themselves. Eidos stands in a chamber much like the one in which she first awoke. The tiles here may be cracked and broken all about, and the walls may be barren and devoid of all decoration, but the material, and structure are identical to what she witnessed in the Sanctuary.
-		
+
 		Staring out beyond the missing walls, Eidos soon sees that this room is not the only victim of entropy’s greed; in fact, the building housing the chamber itself has likewise been ripped open by some ancient cataclysm. An immense ravine cuts through the building like a killing blow from Heaven’s sword.
-		
+
 		Behind her, a door but ten paces away breaks the continuity of the walls and leads deeper into the Wellspring.*
 		(A#Enter the adjacent room){A:0,KABU!WELLSPRING!THE CAGE!0.X000!DESCRIPTION!}
 		(B#_Use the Sigil of Farcasting_){B:0,MIND!NETHER EDGE!GARDEN!9990.X12007!DESCRIPTION!}
@@ -1454,7 +1454,7 @@ FARCASTER CHAMBER
 	[/KABU!WELLSPRING!FARCASTER CHAMBER!1.000!DESCRIPTION!]
 		||
 		*Bones and sinew weave a shell as they are rebuilt from the life-fire of the Nexus. When the light dies, Eidos sees that she stands within the Farcaster Chamber of the Wellspring once more.
-		
+
 		She is once again faced by the immense ravine dividing the Wellspring in two. The doorway opposite the ravine is not as it once was, though. It now billows thin streams of ash and smoke from its gaping maw, like a horizontal chimney.*
 		(A#Enter the adjacent room){A:0,KABU!WELLSPRING!THE CAGE!0.X000!DESCRIPTION!}
 		(B#_Use the Sigil of Farcasting_){B:0,MIND!NETHER EDGE!GARDEN!9990.X12007!DESCRIPTION!}
@@ -1512,7 +1512,7 @@ Eidos Solo
 	[/KABU!WELLSPRING!FLOOD GATE!0.0001!DESCRIPTION!]
 		||
 		*As she steps forward, a brilliant flame of amber light consumes the shadows, and at the center of the dam, a floating apparition of ethereal beauty manifests. The form of a red-haired woman radiates phosphorescence from beneath translucent skin, eyes springing to life with a piercing yellow fire at Eidos' approach. The apparition's glow also reveals a grand archway on the far side of the dam.
-		
+
 		However, soon Eidos' movement is halted as she notes a bizarre oscillation from behind. The crystal within a nearby pedestal has begun to pulsate like a luminescent heartbeat.*
 		(A#Retreat to the Drowned Archive){A:0,KABU!WELLSPRING!DROWNED ARCHIVE!0.X000!DESCRIPTION!}
 		(B#Cross the dam){B:0,KABU!WELLSPRING!FLOOD GATE!9990.X11414-1!DESCRIPTION!}
@@ -1596,7 +1596,7 @@ Eidos + Quangjo
 	[/KABU!WELLSPRING!FLOOD GATE!10.001!DESCRIPTION!]
 		||
 		*Quangjo has stopped dead in his tracks, but Eidos does not notice. As she steps forward, a brilliant flame of amber light consumes the shadows, and at the center of the floodgate a floating apparition of ethereal beauty manifests. The form of a red-haired woman radiates phosphorescence from beneath translucent skin, eyes springing to life with a piercing yellow fire at Eidos' approach. The apparition's glow likewise reveals a grand archway on the far side of the dam.
-		
+
 		However, soon Eidos' movement is halted as she notes a bizarre oscillation from behind. The crystal within the nearby pedestal has begun to pulsate like a luminescent heartbeat.*
 		(A#Cross the dam){A:0,KABU!WELLSPRING!FLOOD GATE!9990.X11429-1!DESCRIPTION!}
 		(B#Examine the pedestal){B:0,KABU!WELLSPRING!FLOOD GATE!10.X200!DESCRIPTION!}
@@ -1639,7 +1639,7 @@ Eidos + Quangjo
 	[/KABU!WELLSPRING!FLOOD GATE!10.201!DESCRIPTION!]
 		||
 		*Ripping the glass from it casing, Eidos clutches it in her hand. Bringing the Glyph of Fenrir and his Techne of Extraction to her mind, she feels the structure of the lattice begin to unravel. Just as the guardian nears her, the crystal melts into the pores of her skin. The light-born female winks out of existence and Eidos then stands alone in the tenebrous cavern.
-		
+
 		Alone? The crazed Wellspring ghoul Quangjo is nowhere to be seen.*
 		(A#...){A:0,KABU!WELLSPRING!FLOOD GATE!10.2021!DESCRIPTION!}
 	[KABU!WELLSPRING!FLOOD GATE!10.201!DESCRIPTION!/]
@@ -1731,7 +1731,7 @@ Arclight still exists
 	[/KABU!WELLSPRING!FLOOD GATE!90.001!DESCRIPTION!]
 		||
 		*Faraway, on a small landing opposite this one, is a pedestal gently humming with the steady glow of an amber crystal. As Eidos walks towards it, a brilliant flame of amber light consumes the shadows, and at the center of the gate a floating apparition of ethereal beauty manifests. The form of a red-haired woman radiates phosphorescence from beneath translucent skin, eyes springing to life with a piercing yellow fire at Eidos' approach. The apparition's effulgence likewise reveals a stairway spiraling upward on the opposite landing.
-		
+
 		However, soon Eidos' movement is halted as she notes a bizarre oscillation from the pedestal near the stairway. The crystal within has begun to pulsate like a luminescent heartbeat.*
 		(A#Attack the creature){A:0,KABU!WELLSPRING!FLOOD GATE!9990.X11414-1!DESCRIPTION!}
 		(B#Retreat to the Throne Room){B:0,KABU!WELLSPRING!THRONE ROOM!9990.X11416!DESCRIPTION!}
@@ -1755,7 +1755,7 @@ Damn lowered
 	[/KABU!WELLSPRING!FLOOD GATE!100.000!DESCRIPTION!]
 		||
 		*Eidos exits through the archway, her path dimly lit by a band of faintly twinkling stars in a distant, forgotten sky. Water now violently courses through the opened dam, its bulk no longer repressed by the schemes of man.
-		
+
 		Eidos cautiously nears the edge to get a better look, but the alliance of splashing water and the mossy hordes has made the path treacherously slippery. She falls for Nature's trap, slipping down and slamming into the baleful rapids.*
 		(A#...){A:0,KABU!WELLSPRING!AQUEDUCT!0.X000!DESCRIPTION!}
 	[KABU!WELLSPRING!FLOOD GATE!100.000!DESCRIPTION!/]
@@ -1769,9 +1769,9 @@ GATE OF THE HEATHEN
 	[/KABU!WELLSPRING!GATE OF THE HEATHEN!0.X000!DESCRIPTION!]
 		|^11414:KABU!WELLSPRING!GATE OF THE HEATHEN!0.000!DESCRIPTION!|
 		*Here, the fruits of death's labor reach full bloom. In a well-lit chamber, Eidos finds herself looking upon the festering fragments of what once were the Wellspring's operators, their dismembered corpses a testament to their failure to escape this cursed place.
-		
+
 		This chamber had clearly served as the point of entry and egress from the Wellspring. However, the archway leading out hosts not the empty space of a door, but rather a massive and immobile slab of shadowy rock.
-		
+
 		Two accessible chambers are visible from here. One is a room filled with tomes, parchments, tables and writing tools. The other is almost certainly a place of worship.*
 		(A#Enter the Scriptorium){A:0,KABU!WELLSPRING!SCRIPTORIUM!0.X000!DESCRIPTION!}
 		(B#Enter the Temple){B:0,KABU!WELLSPRING!TEMPLE!0.X000!DESCRIPTION!}
@@ -1781,9 +1781,9 @@ GATE OF THE HEATHEN
 	[/KABU!WELLSPRING!GATE OF THE HEATHEN!0.000!DESCRIPTION!]
 		||
 		*Here, the fruits of death's labor reach full bloom. Eidos finds herself looking upon the festering fragments of what once were the Wellspring's operators, their desecrated corpses a testament to their failure to escape this cursed place.
-		
+
 		The foreboding archway is now unobstructed, revealing the sneaky fingers of the sun as they attempt to choke the life out of the shadows.
-		
+
 		Two other chambers are visible from here. One is a room filled with tomes, parchments, tables and writing tools. The other is likely a place of worship.*
 		(A#Enter the Scriptorium){A:0,KABU!WELLSPRING!SCRIPTORIUM!0.X000!DESCRIPTION!}
 		(B#Enter the Temple){B:0,KABU!WELLSPRING!TEMPLE!0.X000!DESCRIPTION!}
@@ -1794,7 +1794,7 @@ GATE OF THE HEATHEN
 	[/KABU!WELLSPRING!GATE OF THE HEATHEN!0.X001!DESCRIPTION!]
 		|^11434:KABU!WELLSPRING!GATE OF THE HEATHEN!0.001!DESCRIPTION!|
 		*The dark rock preventing any hope of escape from the Wellspring is wholly unlike the limestone that makes up the environment around her. It seems to be a solid, monolithic chunk of onyx. No abrasions mar its smooth face, yet bloody streaks from the clawing fingers of desperate victims make for gory accents upon its shiny surface.
-		
+
 		Bodies piled in a chaotic heap before the unforgiving barrier look as if the folk were crawling over one another in a hopeless struggle to retreat even as they were torn to pieces by some unknown Wellspring horror that perhaps yet lurks in its depths. Each body is rent with countless lacerations, as if clawed apart by something distinctly inhuman.*
 		(A#Enter the Scriptorium){A:0,KABU!WELLSPRING!SCRIPTORIUM!0.X000!DESCRIPTION!}
 		(B#Enter the Temple){B:0,KABU!WELLSPRING!TEMPLE!0.X000!DESCRIPTION!}
@@ -1803,7 +1803,7 @@ GATE OF THE HEATHEN
 	[/KABU!WELLSPRING!GATE OF THE HEATHEN!0.001!DESCRIPTION!]
 		||
 		*The dark rock preventing any hope of escape from the Wellspring is wholly unlike the limestone that makes up the environment around her. It seems to be a solid, monolithic chunk of onyx. No abrasions mar its smooth face, yet bloody streaks from the clawing fingers of the desperate make for gory accents upon its shiny surface.
-		
+
 		Bodies piled in a chaotic heap before the unforgiving barrier look as if the folk were crawling over one another in a hopeless struggle to retreat even as they were torn to pieces by some unknown Wellspring horror - a horror that Eidos fared better against than these pitiable folk, or what is left of them.*
 		(A#Enter the Scriptorium){A:0,KABU!WELLSPRING!SCRIPTORIUM!0.X000!DESCRIPTION!}
 		(B#Enter the Temple){B:0,KABU!WELLSPRING!TEMPLE!0.X000!DESCRIPTION!}
@@ -1820,7 +1820,7 @@ followed by crows
 	[/KABU!WELLSPRING!GATE OF THE HEATHEN!502.000!DESCRIPTION!]
 		||
 		*The fruits of death's labor reach full bloom in this entry and Eidos finds herself looking upon the festering shells of what once were the Wellspring's operators, their desecrated corpses a testament to their failure to escape this cursed place. The chamber had clearly served as the point of entrance and egress from the Wellspring. However, the archway leading out hosts not the empty space of a door, but rather an unmoving, massive and shadowy rock.
-		
+
 		Two accessible chambers are visible from here. One is a room filled with tomes, parchments, tables and writing tools. The other is almost certainly a place of worship.*
 		(A#Enter the Scriptorium){A:0,KABU!WELLSPRING!GATE OF THE HEATHEN!502.003!DESCRIPTION!}
 		(B#Enter the Temple){B:0,KABU!WELLSPRING!GATE OF THE HEATHEN!502.003!DESCRIPTION!}
@@ -1830,7 +1830,7 @@ followed by crows
 	[/KABU!WELLSPRING!GATE OF THE HEATHEN!502.001!DESCRIPTION!]
 		||
 		*The dark rock preventing any hope of escape from the Wellspring is wholly unlike the limestone that makes up the environment around her. It seems to be a solid, monolithic chunk of onyx. No abrasions mar its smooth face, yet bloody streaks from the clawing fingers of the desperate make for gory accents upon its shiny surface.
-		
+
 		Bodies piled in a chaotic heap before the unforgiving barrier look as if the folk were crawling over one another in a hopeless struggle to retreat even as they were torn to pieces by some unknown Wellspring horror that perhaps yet lurks in its depths. Each body is rent with countless lacerations, as if clawed apart by something distinctly inhuman.*
 		(A#Enter the Scriptorium){A:0,KABU!WELLSPRING!GATE OF THE HEATHEN!502.002!DESCRIPTION!}
 		(B#Enter the Temple){B:0,KABU!WELLSPRING!GATE OF THE HEATHEN!502.002!DESCRIPTION!}
@@ -2384,7 +2384,7 @@ RIKHARR
 	[KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.201!RIKHARR!/]
 
 	[/KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.2010!RIKHARR!]
-		||		
+		||
 		*"Expected it is, though otherwise I hoped. But completion there shall be. It, I demand! The death of Kabu will it bring, if nothing else can."*
 		(A#"More deaths will solve nothing."){A:1,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.102!RIKHARR!}
 		(B#"I seek to understand as well."){B:1,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.202!RIKHARR!}
@@ -2456,7 +2456,7 @@ RIKHARR
 	[KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.5012!RIKHARR!/]
 
 	[/KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.5013!RIKHARR!]
-		||		
+		||
 		*"But completion there will be. The death of Kabu, will it bring."*
 		(A#"More deaths will solve nothing."){A:1,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.102!RIKHARR!}
 		(D#"... Tell me your secrets Rikharr, and you shall know what I am."){D:1,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.402!RIKHARR!}
@@ -2551,7 +2551,7 @@ LIVING QUARTERS
 	[/KABU!WELLSPRING!LIVING QUARTERS!0.X000!DESCRIPTION!]
 		|^11435:KABU!WELLSPRING!LIVING QUARTERS!0.100!DESCRIPTION!|
 		*Guided solely by her probing hands and feet, Eidos enters the silent darkness of this new chamber - though the sour stench of rotting meat certainly offers further clues of what to expect.
-		
+
 		Errant streams of subdued light give the three doors of this room an icy glow. The lack of lighting within the chamber, however, forces her eyes to grow attuned to the shadows. What the darkness once concealed is a living area in complete disarray. Bedding, chairs, tables, bunks and tomes have been scattered across the floor. Walking becomes difficult as a great number of the bunks themselves have been ripped from the walls and splintered into puzzles impossible to reassemble.*
 		(A#...){A:0,KABU!WELLSPRING!LIVING QUARTERS!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!LIVING QUARTERS!0.X000!DESCRIPTION!/]
@@ -2709,7 +2709,7 @@ MURAL ROOM
 	[/KABU!WELLSPRING!MURAL ROOM!0.X000!DESCRIPTION!]
 		|^11439:KABU!WELLSPRING!MURAL ROOM!1.000!DESCRIPTION!|
 		*As the cage travels further up the shaft, the darkness slowly gives way to a dim yet variegated glow. When the contraption is pulled passed the lip of the floor above, Eidos witnesses its source. Innumerable crystalline pieces adorn the walls, each one glowing dimly like an everlasting candle flame.
-		
+
 		The illumination distracts, however, from the true nature of this rainbow mosaic; crystals upon three of the four walls are arranged in what looks to be a collection of smaller images, seeming to relate a series of grand events. While the character and detail of the happenings differs, they appear to have been committed to stone at the same time and by a single artist. The stark contrast of the one wall standing completely devoid of glass and light seems to await a history yet to come.*
 		(A#...){A:0,KABU!WELLSPRING!MURAL ROOM!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!MURAL ROOM!0.X000!DESCRIPTION!/]
@@ -2717,9 +2717,9 @@ MURAL ROOM
 	[/KABU!WELLSPRING!MURAL ROOM!0.001!DESCRIPTION!]
 		||
 		*The first wall shows a number of folk standing in worship about a circle of stones at whose center is a massive tree. The branches of this great white Muninn host leaves of a vibrant emerald green. Looking closely, Eidos sees that this wall is framed in a matching border of twisting, leafy vines. A blue clad figure sits in its branches, bearing a halo or sun-like object in upraised hands.
-		
+
 		Another image upon the wall depicts three individuals following a gray-hooded figure into a range of mountains. They are followed by two hulking beasts a story tall and twice as long, skinned in plates of shimmering sapphire.
-		
+
 		The final image on this wall depicts the gray leader and his fellows lying dead, while the image of the blue clad figure stands triumphant. His followers and the armored beasts are drawn in poses of worship and submission before their vanquisher.*
 		(A#...){A:0,KABU!WELLSPRING!MURAL ROOM!0.002!DESCRIPTION!}
 	[KABU!WELLSPRING!MURAL ROOM!0.001!DESCRIPTION!/]
@@ -2727,9 +2727,9 @@ MURAL ROOM
 	[/KABU!WELLSPRING!MURAL ROOM!0.002!DESCRIPTION!]
 		||
 		*The second wall's first image shows a proud woman displaying a vibrant emerald spear with many people knelt before her, hands widespread in stances of adoration and awe. The blade of the weapon shines brightly, reflecting off of several skulls and bones littered across the ground.
-		
+
 		The same individual is shown atop a mountain in battle with one of the hulking, sapphire beasts from the first mural. The result of the combat is clear, with the emerald blade drawing rubies from the beast's defeated husk.
-		
+
 		In the final vignette, gouts of yellow smoke seem to belch forth from its mouth, striking many bystanders dead while the heroine's fate remains ambiguous. However, the leaves of the border look to have withered to a barely luminescent imperial topaz.*
 		(A#...){A:0,KABU!WELLSPRING!MURAL ROOM!0.003!DESCRIPTION!}
 	[KABU!WELLSPRING!MURAL ROOM!0.002!DESCRIPTION!/]
@@ -2737,9 +2737,9 @@ MURAL ROOM
 	[/KABU!WELLSPRING!MURAL ROOM!0.003!DESCRIPTION!]
 		||
 		*The third wall continues the heroine’s saga. She is locked in combat with a monstrous thing, painted as a horrific fusion of human and animal features, with pale diamond skin bathed in onyx flame. It seems that in response to this struggle, the vines that make up the border are being consumed by the dark fire radiating from the abomination.
-		
+
 		Wreathed around this scene is a larger conflict between armed warriors and a horde of emaciated horrors, looking more skeletal than human. Everything is illustrated in brutal detail with all the visceral imagery of war. A gold flecked tower is drawn in a state of collapse, falling into a canyon. Nearby, obsidian wolves and crows feast upon the corpses of the dead. It seems as though the female champion and her nemesis follow the golden tower, all of them falling into a pitch abyss at the bottom of a canyon, just below a leviathanic bridge.
-		
+
 		However, the final image upon the wall depicts both the heroine and the monster still alive. The lower third of the image shows the adversary in a chamber deep beneath the earth, superimposed over a black void, chained and imprisoned. The heroine is shown with her weapon over her shoulder, walking into a desert that fades into the face of the barren stone wall.*
 		(A#Return to the floor below){A:0,KABU!WELLSPRING!MURAL ROOM!0.004!DESCRIPTION!}
 		(B#Examine the murals once more){B:0,KABU!WELLSPRING!MURAL ROOM!0.001!DESCRIPTION!}
@@ -2767,9 +2767,9 @@ RAVINE
 	[/KABU!WELLSPRING!RAVINE!0.X000!DESCRIPTION!]
 		|^10106:KABU!WELLSPRING!RAVINE!0.010!DESCRIPTION!|
 		*Eidos approaches the edge of the ruined chamber now staring out over the ravine. A mischievous wind once more seeks to off-balance the intrepid explorer, but this time Eidos is prepared. She roots herself firmly and only her travel robe is whipped about.
-		
+
 		Her eyes, now fully adjusted to the lonely starlight above, spot the reflective surface of another rockface at the far side of this expansive ravine. Though too dark to tell for sure, she thinks she spots four more walls on the opposite side.
-		
+
 		Suddenly, Eidos feels an unfamiliar presence. Engraved into a smooth stone pedestal near her, a Glyph stares up at the starlit sky. However, she does not recognize the symbol - though perhaps at one time she did, it remains difficult to pin down memories of a foreign past.*
 		(A#...){A:0,KABU!WELLSPRING!RAVINE!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!0.X000!DESCRIPTION!/]
@@ -2793,13 +2793,13 @@ RAVINE
 		(A#Enter the adjacent corridor){A:0,KABU!WELLSPRING!THE CAGE!0.X000!DESCRIPTION!}
 		(B#Go back and use the Farcaster){B:0,MIND!NETHER EDGE!GARDEN!9990.X12007!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!0.003!DESCRIPTION!/]
-	
+
 	[/KABU!WELLSPRING!RAVINE!0.010!DESCRIPTION!]
 		||
 		*Eidos approaches the edge of the ruined chamber now staring out over the ravine. A mischievous wind once more seeks to off-balance the intrepid explorer, but this time Eidos is prepared. She roots herself firmly and only her travel robe is whipped about.
-		
+
 		Her eyes, now fully adjusted to the lonely starlight above, spot the reflective surface of another rockface at the far side of this expansive ravine. Though too dark to tell for sure, she thinks she spots four more walls on the opposite side.
-		
+
 		Looking down from the ledge, she observes a bridge spanning the chasm far below her current position, yet high above the star-speckled pool.*
 		(A#...){A:0,KABU!WELLSPRING!RAVINE!0.011!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!0.010!DESCRIPTION!/]
@@ -2807,7 +2807,7 @@ RAVINE
 	[/KABU!WELLSPRING!RAVINE!0.011!DESCRIPTION!]
 		||
 		*Suddenly, Eidos feels a familiar presence. Engraved into a smooth stone pedestal near her, a Glyph gazes up at the starlit sky. She reaches to touch the pedestal and suddenly all thought becomes consumed in the fire of memory. Staring into the mirror of memory, the reflection of a proud yet penitent mage flashes before her eyes.
-		
+
 		A single tear for Rikharr traces his cheek, falling to the cold metal of his throne. The deep spring beneath these ruins cries in sympathy, thus beginning the endless flow now within the Wellspring. The flame of life soon flares within the ancient edifice as the mage's own flame slowly dwindles, slowly wanes, soon becoming nothing but a thin stream of smoke. Very soon, all turns cold and still, as even the memory of the candle itself fades into oblivion...*
 		(A#...){A:0,KABU!WELLSPRING!RAVINE!0.012!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!0.011!DESCRIPTION!/]
@@ -3111,7 +3111,7 @@ Quangjo thinks you are Eidos
 	[/KABU!WELLSPRING!RUINED ARCHIVE!0.000!DESCRIPTION!]
 		||
 		*This place was evidently a library at some point. Tomes line the shelves of all bookcases that have not yet collapsed, and by the rotten, moldy smell that pervades, even these shelves have been eaten away by the dampness all around. Even more tomes are strewn about the wet floor, vomited forth from crippled piles of wooden debris.
-		
+
 		The only path unimpeded is a narrow stretch leading to separate islands in the sea of volumes and folios. A large table, a reading chair and a pathetic looking bedroll seem to indicate this is Quangjo's makeshift residence.*
 		(A#...){A:0,KABU!WELLSPRING!RUINED ARCHIVE!0.X001!DESCRIPTION!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!0.000!DESCRIPTION!/]
@@ -3119,7 +3119,7 @@ Quangjo thinks you are Eidos
 	[/KABU!WELLSPRING!RUINED ARCHIVE!0.X001!DESCRIPTION!]
 		|@:KABU!WELLSPRING!RUINED ARCHIVE!1.X000!DESCRIPTION!|
 		*There appears to be another exit further down, but the darkness lies too thick there to see where it might lead. Soon the shadows begin to dance as the light sways and shifts, Quangjo has gracelessly suspended his light from a poorly crafted wooden frame. He sets down the bucket of fish with a clang and eases his thin frame down into his chair, motioning for Eidos to approach.
-		
+
 		As she does, she observes that in addition to the bucket, the table is set with a metallic carafe, studded with gems. Scraps of half eaten fish, bones and papers dotted with dried blood litter the surface of the table, providing continuity with the chaos strewn about the floor. Quangjo then draws a fish from the bucket and plops it down on the table. Now in its death throes, the creature stares back at them, terror filling it milky eyes.*
 		(A#...){A:0,KABU!WELLSPRING!RUINED ARCHIVE!9999.X0069!DESCRIPTION!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!0.X001!DESCRIPTION!/]
@@ -3154,7 +3154,7 @@ Quangjo thinks you are Logira
 	[/KABU!WELLSPRING!RUINED ARCHIVE!10.000!DESCRIPTION!]
 		||
 		*This place was evidently a library at some point. Tomes line the shelves of all bookcases that have not yet collapsed, and by the rotten, moldy smell that pervades, even these shelves have been eaten away by the dampness all around. More tomes are also strewn about the wet floor, vomited forth from crippled piles of wooden debris.
-		
+
 		The only path unimpeded is a narrow stretch leading to separate oases in the sea of volumes and folios. A large table, a reading chair and a pathetic looking bedroll seem to indicate this is Quangjo's makeshift residence.*
 		(A#...){A:0,KABU!WELLSPRING!RUINED ARCHIVE!10.X001!DESCRIPTION!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!10.000!DESCRIPTION!/]
@@ -3162,7 +3162,7 @@ Quangjo thinks you are Logira
 	[/KABU!WELLSPRING!RUINED ARCHIVE!10.X001!DESCRIPTION!]
 		|@:KABU!WELLSPRING!RUINED ARCHIVE!11.X000!DESCRIPTION!|
 		*There appears to be another exit further down, but the shadows lie too thick there to see where it might lead. Soon the shadows begin to dance as the light sways and shifts, Quangjo has gracelessly suspended his light from a poorly crafted wooden frame. He sets down the bucket of fish with a clang and eases his thin frame down into the chair, motioning for Eidos to approach.
-		
+
 		As she does, she observes that in addition to the bucket, the table is set with a metallic carafe, studded with gems. Scraps of half eaten fish, bones and papers dotted with dried blood litter the surface of the table, providing continuity with the chaos strewn about the floor. Quangjo then draws a fish from the bucket and plops it down on the table. Now in its death throes, the creature stares back at them, terror filling it milky eyes.*
 		(A#...){A:0,KABU!WELLSPRING!RUINED ARCHIVE!9999.X0069!DESCRIPTION!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!10.X001!DESCRIPTION!/]
@@ -3170,7 +3170,7 @@ Quangjo thinks you are Logira
 	[/KABU!WELLSPRING!RUINED ARCHIVE!11.X000!DESCRIPTION!]
 		|@:KABU!WELLSPRING!RUINED ARCHIVE!12.X000!DESCRIPTION!|
 		*While speaking, Quangjo has cleaved the head from the fish with a rusty knife. He begins draining the blood into the gem-studded carafe, wringing the sacrificial creature's body like a dishrag. Then, placing the fish aside, he grips the carafe with both hands and bows his head. Eidos begins to perceive a familiar sensation as Quangjo calls to mind a Glyph. The gems studding the jar spring to life briefly, resonating with Librarians invocation.
-		
+
 		He stands up and puts the vessel to his lips, blood spilling out from around the corners of his mouth. Then turning towards Eidos, he flashes a smile, revealing his crimson-stained teeth in the pale light.*
 		(A#...){A:0,KABU!WELLSPRING!RUINED ARCHIVE!9999.X0069!DESCRIPTION!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!11.X000!DESCRIPTION!/]
@@ -3211,7 +3211,7 @@ Quangjo thinks you are Khaa
 	[/KABU!WELLSPRING!RUINED ARCHIVE!20.000!DESCRIPTION!]
 		|@:KABU!WELLSPRING!RUINED ARCHIVE!21.000!DESCRIPTION!|
 		*This place was evidently a library at some point. Tomes line the shelves of all bookcases that have not yet collapsed, and by the rotten, moldy smell that pervades, even these shelves have been eaten away by the dampness all around. More tomes are also strewn about the wet floor, vomited forth from crippled piles of wooden debris.
-		
+
 		The only path unimpeded is a narrow stretch leading to separate oases in the sea of volumes and folios. A large table, a reading chair and a pathetic looking bedroll seem to indicate this is Quangjo's makeshift residence.*
 		(A#...){A:0,KABU!WELLSPRING!RUINED ARCHIVE!20.X001!DESCRIPTION!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!20.000!DESCRIPTION!/]
@@ -3219,7 +3219,7 @@ Quangjo thinks you are Khaa
 	[/KABU!WELLSPRING!RUINED ARCHIVE!20.X001!DESCRIPTION!]
 		|@:KABU!WELLSPRING!RUINED ARCHIVE!21.000!DESCRIPTION!|
 		*There appears to be another exit further down, but the shadows lie too thick there to see where it might lead. Soon the shadows begin to dance as the light sways and shifts, Quangjo has gracelessly suspended his light from a poorly crafted wooden frame. He sets down the bucket of fish with a clang and eases his thin frame down into the chair, motioning for Eidos to approach.
-		
+
 		As she does, she observes that in addition to the bucket, the table is set with a metallic carafe, studded with gems. Scraps of half eaten fish, bones and papers dotted with dried blood litter the surface of the table, providing continuity with the chaos strewn about the floor.*
 		(A#...){A:0,KABU!WELLSPRING!RUINED ARCHIVE!9999.X0069!DESCRIPTION!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!20.X001!DESCRIPTION!/]
@@ -3312,7 +3312,7 @@ Quangjo is dead
 	[/KABU!WELLSPRING!RUINED ARCHIVE!31.001!DESCRIPTION!]
 		||
 		*Having read the documents, there is now little else to occupy Eidos in this wretched place. Though another quick survey of the clutter seems to call her attention to another possible tome...
-		
+
 		The mess of tomes littering the defunct Librarian's squatted residence make it difficult to navigate, yet it is still clear to Eidos that she could make use of the raft downstairs, floating upon the subterranean lake, or she could simply take the nearby stairs descending further into complex.*
 		(B#Examine the tome){B:1,KABU!WELLSPRING!RUINED ARCHIVE!9990.X11441!DESCRIPTION!}
 		(C#Descend the nearby stairs){C:1,KABU!WELLSPRING!DROWNED ARCHIVE!0.X000!DESCRIPTION!}
@@ -3322,9 +3322,9 @@ Quangjo is dead
 	[/KABU!WELLSPRING!RUINED ARCHIVE!31.002!DESCRIPTION!]
 		||
 		*A dream? Perhaps, but if life is dreaming, then to awaken is death. Passing through the Door of Night and abandoning the Falseflesh leaving only behind the memory of the Trueflesh in its stead... These are the preoccupations of the inexperienced, of the unaware.
-		
+
 		Eidos knows that though shells may change, death is but the stillness between breaths. For her a millennia may pass in an instant, a civilization may rise and fall in the blink of her eye, entire cosmos may form and re-collapse within the space of her thoughts.
-		
+
 		No, this vessel she now occupies is not her; these vessels all occupy are perhaps but one, living the same existence and repeating it in an unending cycle...*
 		(A#...){A:0,KABU!WELLSPRING!RUINED ARCHIVE!31.003!DESCRIPTION!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!31.002!DESCRIPTION!/]
@@ -3359,7 +3359,7 @@ Entering w/o meeting Quangjo at deep lake
 	[/KABU!WELLSPRING!RUINED ARCHIVE!41.X000!DESCRIPTION!]
 		|^12304:KABU!WELLSPRING!RUINED ARCHIVE!41.00000!DESCRIPTION!|
 		*This place was evidently a library at some point. Tomes line the shelves of all bookcases that have not yet collapsed, and by the rotten, moldy smell that pervades, even these shelves have been eaten away by the dampness all around. More tomes are also strewn about the wet floor, vomited forth from crippled piles of wooden debris.
-		
+
 		The only path unimpeded is a narrow stretch leading to separate oases in the sea of volumes and folios. A large table, a reading chair and a pathetic looking bedroll seem to indicate this is a makeshift residence.*
 		(A#...){A:0,KABU!WELLSPRING!RUINED ARCHIVE!41.0000!DESCRIPTION!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!41.X000!DESCRIPTION!/]
@@ -3381,7 +3381,7 @@ Entering w/o meeting Quangjo at deep lake
 	[/KABU!WELLSPRING!RUINED ARCHIVE!41.00000!DESCRIPTION!]
 		||
 		*This place was evidently a library at some point. Tomes line the shelves of all bookcases that have not yet collapsed, and by the rotten, moldy smell that pervades, even these shelves have been eaten away by the dampness all around. More tomes are also strewn about the wet floor, vomited forth from crippled piles of wooden debris.
-		
+
 		The only path unimpeded is a narrow stretch leading to separate oases in the sea of volumes and folios. A large table, a reading chair and a pathetic looking bedroll seem to indicate this is a makeshift residence.*
 		(A#...){A:0,KABU!WELLSPRING!RUINED ARCHIVE!41.00001!DESCRIPTION!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!41.00000!DESCRIPTION!/]
@@ -4240,7 +4240,7 @@ Sans Quangjo
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!0.000!DESCRIPTION!]
 		||
 		*Five corners mark where the walls' edges meet. The walls seem reflections of the floor, extending upwards like the petals of a metallic rose in bloom. The ceiling is but another reflection of the floor and walls, though shifted in phase and angle. All sides of this chamber bear radiant crystalline structures, each of which pulsates rhythmically like the beating of an elemental heart.
-		
+
 		The composition of the walls is difficult to determine, their reflective but harsh sheen looking like a strange fusion of mineral and metal. On the floor, Eidos sees countless silvered lines etched within this material. They run in cascades of parallel lines, dividing, flowing and rejoining at harsh angles, birthing from them the skeleton of a massive Glyph...*
 		(A#...){A:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!SANCTUM OF GULGANNA!0.000!DESCRIPTION!/]
@@ -4254,7 +4254,7 @@ Sans Quangjo
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!0.002!DESCRIPTION!]
 		||
 		*Then, slowly but steadily, the metallic behemoth begins to move. With a sibilant sound as if steel ground on a whetstone, the plates unfold and separate from each other. The form of an immense quadrupedal monstrosity unfurls. Standing more than four times her height, it ponderously turns its massive head toward Eidos, a furious intellect apparent in its unerring gaze.
-		
+
 		Soon, a seam slowly reveals itself in the smooth surface of its face as it unhinges a gaping jaw - its maw filled with cruel teeth jutting from metallic lips, all of a single, unbroken piece. Rising from its reclined position and with grace defying its bulk, it marches towards Eidos...*
 		(A#..!){A:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!9992.X1000!GULGANNA!}
 	[KABU!WELLSPRING!SANCTUM OF GULGANNA!0.002!DESCRIPTION!/]
@@ -4269,7 +4269,7 @@ w/ Luin
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!1.0000!DESCRIPTION!]
 		||
 		*The realization hits Eidos and she falls to her knees. The game is over, the play has finished, and she has left her indelible mark on the world. Yet, in that moment, Eidos senses the very last unfractured crystal embedded within the beast calls out to her, the mental defenses of her adversary laid bare before her. A plea for memory. A desire to not be dealt the final death of forgetting...
-		
+
 		For a brief instant, she feels a hunger within her mind. As though awakened by the smell of blood, Eidos can sense the ravening jaws of Fenrir.*
 		(B#Answer the call){B:1,KABU!WELLSPRING!SANCTUM OF GULGANNA!9990.X11503-1!DESCRIPTION!}
 		(D#Escape reality){D:1,KABU!WELLSPRING!SANCTUM OF GULGANNA!1.002!DESCRIPTION!}
@@ -4278,7 +4278,7 @@ w/ Luin
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!1.001!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		Eidos calls the Glyph of Fenrir to mind, and using the Techne of Extraction she consumes the soul of Gulganna; her final act this time.*
 		(A#Escape reality){A:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!1.002!DESCRIPTION!}
 	[KABU!WELLSPRING!SANCTUM OF GULGANNA!1.001!DESCRIPTION!/]
@@ -4312,7 +4312,7 @@ sans Luin
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!2.001!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		Eidos calls the Glyph of Fenrir to mind, and using the Techne of Extraction she consumes the soul of Gulganna.*
 		(A#Exit Gulganna's chamber){A:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!2.002!DESCRIPTION!}
 	[KABU!WELLSPRING!SANCTUM OF GULGANNA!2.001!DESCRIPTION!/]
@@ -4329,7 +4329,7 @@ Avec Quangjo
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!10.000!DESCRIPTION!]
 		||
 		*Five corners mark where the walls' edges meet. The walls seem reflections of the floor, extending upwards like the petals of a metallic rose in bloom. The ceiling is but another reflection of the floor and walls, though shifted in phase and angle. All sides of this chamber bear radiant crystalline structures, each of which pulsates rhythmically like the beating of an elemental heart.
-		
+
 		The composition of the walls is difficult to determine, their reflective but harsh sheen looking like a strange fusion of mineral and metal. Moreover, looking down at the floor, Eidos sees countless silvered lines etched within this material. They run in cascades of parallel lines, dividing, flowing and rejoining at harsh angles, birthing from them the skeleton of a massive Glyph...*
 		(A#...){A:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!10.001!DESCRIPTION!}
 	[KABU!WELLSPRING!SANCTUM OF GULGANNA!10.000!DESCRIPTION!/]
@@ -4343,9 +4343,9 @@ Avec Quangjo
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!10.X002!DESCRIPTION!]
 		|@:KABU!WELLSPRING!SANCTUM OF GULGANNA!11.X000!DESCRIPTION!|
 		*Then, slowly but steadily, the metallic behemoth begins to move. With a sibilant sound as if steel ground on a whetstone, the plates unfold and separate from each other. The form of an immense quadrupedal monstrosity unfurls. Standing more than four times her height, it ponderously turns its massive head toward Eidos, a furious intellect apparent in its unerring gaze.
-		
+
 		Soon, a seam slowly reveals itself in the smooth surface of its face as it unhinges a gaping jaw - a maw filled with cruel teeth jutting from its metallic lip, all of a single, unbroken piece. Rising from its reclined position and with grace defying its bulk, it marches towards Eidos...
-		
+
 		Yet, the frail Librarian seems utterly unaffected. His habitually watery eyes simply stare ahead as he walks resolutely towards a dark glass panel nearby.*
 		(A#...){A:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!9999.X0069!DESCRIPTION!}
 	[KABU!WELLSPRING!SANCTUM OF GULGANNA!10.X002!DESCRIPTION!/]
@@ -4371,14 +4371,14 @@ Q as FOE
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
-	[KABU!WELLSPRING!SANCTUM OF GULGANNA!11.X001!DESCRIPTION!/]	
+	[KABU!WELLSPRING!SANCTUM OF GULGANNA!11.X001!DESCRIPTION!/]
 
 
 
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!11.001!DESCRIPTION!]
 		||
 		*Blurry shapes pass across her vision. But when it returns, Eidos sees Quangjo's crumpled frame lying still upon the floor in a smoldering heap. Her companion's arm has been separated from his fragile frame, and the smell of burning cloth and flesh heavily permeates the air...
-		
+
 		Eidos begins to feel a presence within the lifeless skull... a growing sense of clarity... an unambiguous awareness of symbols still living within the dead man, all attempting to etch themselves within her mind.*
 		(A#Absorb the Glyph of Purification){A:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!9990.X11100!DESCRIPTION!}
 		(B#Absorb the tome){B:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!9990.X12303!DESCRIPTION!}
@@ -4388,7 +4388,7 @@ Q as FOE
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!11.011!DESCRIPTION!]
 		||
 		*Blurry shapes pass across her vision. But when it returns, Eidos sees Quangjo's crumpled frame lying still upon the floor in a smoldering heap. Her companion's arm has been separated from his fragile frame, and the smell of burning cloth and flesh heavily permeates the air...
-		
+
 		Eidos begins to feel a presence within the lifeless skull... a growing sense of clarity... an unambiguous awareness of symbols still living within the dead man, all attempting to etch themselves within her mind. Yet one calls stronger than any other...*
 		(A#Absorb the Glyph of Purification){A:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!9990.X11100!DESCRIPTION!}
 		(B#Resist the pull){B:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!12.002!DESCRIPTION!}
@@ -4397,7 +4397,7 @@ Q as FOE
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!11.021!DESCRIPTION!]
 		||
 		*Blurry shapes pass across her vision. But when it returns, Eidos sees Quangjo's crumpled frame lying still upon the floor in a smoldering heap. Her companion's arm has been separated from his fragile frame, and the smell of burning cloth and flesh heavily permeates the air...
-		
+
 		Eidos begins to feel a presence within the lifeless skull... a growing sense of clarity... an unambiguous awareness of symbols still living within the dead man, all attempting to etch themselves within her mind. Yet one calls stronger than any other...*
 		(A#Absorb the tome){A:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!9990.X12303!DESCRIPTION!}
 		(B#Resist the pull){B:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!12.002!DESCRIPTION!}
@@ -4440,7 +4440,7 @@ Q as FOE
 	[KABU!WELLSPRING!SANCTUM OF GULGANNA!12.003!DESCRIPTION!/]
 
 
-Q as FRIEND	
+Q as FRIEND
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!14.000!DESCRIPTION!]
 		||
 		*A hissing sound screams out from the exit, and the gate leading back to the Throne Room seals shut once more. Before Eidos can react, Quangjo draws a rust-covered blade from his sleeve and drives it through the dark glass. The sound of shattering crystal is followed by a blinding flash of light and the shock wave of an explosion...*
@@ -4452,7 +4452,7 @@ w/ Luin
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!15.000!DESCRIPTION!]
 		||
 		*The monster collapses, cerulean ichor oozing from its wounds. The crystals of the chamber immediately dim and the only illumination becomes the fading phosphorescence of the beast's lifeblood. An empathic radiation wells up from within the creature and Eidos becomes aware of sensations outside of herself. As the life of the Neverborn behemoth ebbs, she can feel the power within the Wellspring itself likewise expire. Like blood pooling within a corpse, Eidos can feel the water cease flowing within the pumping stations and aqueducts.
-		
+
 		And suddenly, the realization dawns upon Eidos...*
 		(A#...){A:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!15.0000!DESCRIPTION!}
 	[KABU!WELLSPRING!SANCTUM OF GULGANNA!15.000!DESCRIPTION!/]
@@ -4482,7 +4482,7 @@ sans Luin
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!15.2001!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		Eidos calls the Glyph of Fenrir to mind, and using the Techne of Extraction she consumes the soul of Gulganna.*
 		(A#Exit Gulganna's chamber){A:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!15.2002!DESCRIPTION!}
 	[KABU!WELLSPRING!SANCTUM OF GULGANNA!15.2001!DESCRIPTION!/]
@@ -4531,7 +4531,7 @@ Fought Gulganna
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!90.001!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		Eidos calls the Glyph of Fenrir and her mind becomes possessed by the Techne of Extraction. She can feel the wolf's steamy breath eddy about her as her consciousness reaches out to grasp their prey. In a frenzy, she consumes the soul of Gulganna, her final act in this incarnation.*
 		(A#Escape reality){A:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!1.002!DESCRIPTION!}
 	[KABU!WELLSPRING!SANCTUM OF GULGANNA!90.001!DESCRIPTION!/]
@@ -4606,7 +4606,7 @@ SANCTUM OF GURGADON
 
 	[/KABU!WELLSPRING!SANCTUM OF GURGADON!0.101!DESCRIPTION!]
 		||
-		*Composure regained, Eidos begins to circle the body, noticing numerous dimly glowing, green gashes marring the corpse's metal carapace. While the chamber is too dark to look inside the wounds with any semblance of clarity, it appears that the cobalt plating is not hollow but an armored skin protecting something inorganic within. She walks for minutes until finally coming back around to what must have been its gargantuan head. Here a puncture wound piercing it from jaw to crown leaks a cerulean ichor, still wet to the touch...*		
+		*Composure regained, Eidos begins to circle the body, noticing numerous dimly glowing, green gashes marring the corpse's metal carapace. While the chamber is too dark to look inside the wounds with any semblance of clarity, it appears that the cobalt plating is not hollow but an armored skin protecting something inorganic within. She walks for minutes until finally coming back around to what must have been its gargantuan head. Here a puncture wound piercing it from jaw to crown leaks a cerulean ichor, still wet to the touch...*
 		(A#...){A:0,KABU!WELLSPRING!SANCTUM OF GURGADON!0.X102!DESCRIPTION!}
 	[KABU!WELLSPRING!SANCTUM OF GURGADON!0.101!DESCRIPTION!/]
 
@@ -4692,7 +4692,7 @@ SCRIPTORIUM
 	[/KABU!WELLSPRING!SCRIPTORIUM!0.000!DESCRIPTION!]
 		||
 		*Eidos enters a room punctuated by broken desks, victims of the recent rubble shower from the spontaneous destruction of the floor above it. Aside from detritus, the place is strewn with tomes, parchment, pens and quills - or at least the remains of such items. Likely, this place is dedicated to reading and copying the many volumes that line the shelves along the walls.
-		
+
 		Two chambers lead from here, both identified by simple wooden placards placed above their corresponding door frames. One of them reads 'Living Quarters', the other claiming 'Gate of the Heathen' as its name. Though the contents of these halls are difficult to determine from this location, a faint smell of rotting meat permeates the entire area.*
 		(A#Enter the Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!0.X000!DESCRIPTION!}
 		(B#Proceed to the Gates){B:0,KABU!WELLSPRING!GATE OF THE HEATHEN!0.X000!DESCRIPTION!}
@@ -4701,7 +4701,7 @@ SCRIPTORIUM
 	[/KABU!WELLSPRING!SCRIPTORIUM!1.000!DESCRIPTION!]
 		||
 		*Eidos stands in a room filled with tomes, parchment, pens and quills, and is likely dedicated to reading and copying the many volumes that line the shelves along the walls.
-		
+
 		Two chambers lead from here, both identified by simple wooden placards placed above their corresponding door frames. One of them reads 'Living Quarters', the other claiming 'Gate of the Heathen' as its name. Though the contents of these halls are difficult to determine from this location, a faint smell of rotting meat permeates the entire area.*
 		(A#Enter the Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!0.X000!DESCRIPTION!}
 		(B#Proceed to the Gates){B:0,KABU!WELLSPRING!GATE OF THE HEATHEN!0.X000!DESCRIPTION!}
@@ -4722,7 +4722,7 @@ SILVER SHRINE
 	[/KABU!WELLSPRING!SILVER SHRINE!0.001!DESCRIPTION!]
 		||
 		*This room is a strange concoction of ruin and ritual, accident and artifice. The floor gently crackles with her every step as though eggshells lined her path. Looking down, Eidos notes that the floor was once made of titanic slabs of stone, each perhaps twice as wide as she is tall and half again as long, yet all are now shattered. Cracks spread out like spiderwebs from focused wounds in the slabs.
-		
+
 		Gaze again shifting skywards, Eidos observes that the many dark panes of the ceiling mirror the ground in their destruction. Nearly all are marred by countless fractures streaking across their surfaces like sparks frozen in time.*
 		(A#...){A:0,KABU!WELLSPRING!SILVER SHRINE!0.002!DESCRIPTION!}
 	[KABU!WELLSPRING!SILVER SHRINE!0.001!DESCRIPTION!/]
@@ -4730,7 +4730,7 @@ SILVER SHRINE
 	[/KABU!WELLSPRING!SILVER SHRINE!0.002!DESCRIPTION!]
 		||
 		*Yet, the room's utter ruin stands in stark opposition to its centerpiece. The metallic throne abates the encroaching pandemonium, a defiant rock standing amid the crashing waves of entropy. It is surrounded by clay vessels of water, eight in number. From these eight points, white chalk radiates outward, marking a spiraling pathway through the chamber. The line connects each impact point to the central throne, octagons within squares within circles surrounding each point. Unlit candles have been placed along this path and the smell of incense still lingers in the air.
-		
+
 		The perfection and symmetry given to these tracings battle Nature's tendency toward anarchy, serving as an imposition of order upon chaos, stability upon uncertainty.*
 		(A#...){A:0,KABU!WELLSPRING!SILVER SHRINE!0.003!DESCRIPTION!}
 	[KABU!WELLSPRING!SILVER SHRINE!0.002!DESCRIPTION!/]
@@ -4746,7 +4746,7 @@ SILVER SHRINE
 	[/KABU!WELLSPRING!SILVER SHRINE!0.X100!DESCRIPTION!]
 		|@:KABU!WELLSPRING!SILVER SHRINE!0.200!DESCRIPTION!|
 		*Eidos carefully steps across the cracking surface and over the designs, momentarily darkening the shimmering glow of reflected starlight as though she were a storm cloud blotting out the sun. The silvered throne appears to blur as she draws nearer and clarity eludes her vision despite conquering physical distance. The surface appears to have melted slightly, as if it had once been exposed to intense heat.
-		
+
 		An irresistible urge to sit upon the chair emerges, and without understanding why, she sits. All about her, a lingering whisper echoes, yet she does not feel the vibrations of a physical sound. The whisper crescendos through the power of mechanisms unseen until language emerges.*
 		(A#...){A:0,KABU!WELLSPRING!SILVER SHRINE!9999.X0501!DESCRIPTION!}
 	[KABU!WELLSPRING!SILVER SHRINE!0.X100!DESCRIPTION!/]
@@ -4803,12 +4803,12 @@ FATHOM
 
 
 ______________________________
-TEMPLE 
+TEMPLE
 >>>Killed clockwork crows (11434)<<<
 	[/KABU!WELLSPRING!TEMPLE!0.X000!DESCRIPTION!]
 		|^11434:KABU!WELLSPRING!TEMPLE!10.000!DESCRIPTION!|
 		*Eidos enters a place of hallowed worship. Several crystalline sconces pour their dim, amber light down into the room - though, this dying incandescence seems to feel gravity's pull tenfold, leaving the ceiling drowned in a sea of shadows. The room's center is occupied by a raised altar of some sort, with bowls of offering placed upon it.
-		
+
 		Most notable of all, perhaps, are the two statues flanking the altar. They look to be crafted from wood, and clothed in dark raiments. Their form is a hybrid of human shape and avian features. Their feet are clawed with red-accented, ivory talons, and their elongated faces, though veiled in scarves, provide the impression of beaks.*
 		(A#...){A:0,KABU!WELLSPRING!TEMPLE!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!TEMPLE!0.X000!DESCRIPTION!/]
@@ -4879,7 +4879,7 @@ killed the crows
 	[/KABU!WELLSPRING!TEMPLE!10.000!DESCRIPTION!]
 		||
 		*Eidos enters a place of hallowed worship. Several crystalline sconces pour their dim, amber light down into the room - though, this dying incandescence seems to feel gravity's pull tenfold, leaving the ceiling drowned in a sea of shadows.
-		
+
 		At the room's center, an altar extends upwards from the floor, growing skywards like a rectilinear stalagmite. The two columns upon which the killer statues once perched are now vacant. Their corpses have vanished, almost as though consumed by the Wellspring itself.*
 		(A#...){A:0,KABU!WELLSPRING!TEMPLE!10.001!DESCRIPTION!}
 	[KABU!WELLSPRING!TEMPLE!10.000!DESCRIPTION!/]
@@ -4904,7 +4904,7 @@ destroyed the crows
 	[/KABU!WELLSPRING!TEMPLE!502.X100!DESCRIPTION!]
 		|^12300:KABU!WELLSPRING!TEMPLE!502.101!DESCRIPTION!|
 		*Eidos picks up the sacrificial bowls and violently bashes the statues into dust, easily rendering them harmless. Their speed and agility no longer an advantage, as surprise and blunt force from heavy metals break them quickly.
-		
+
 		Having disabled the threat the statues posed, it is now time for Eidos to move on.*
 		(A#Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!0.X000!DESCRIPTION!}
 		(B#Enter the Gate area){B:0,KABU!WELLSPRING!GATE OF THE HEATHEN!0.X000!DESCRIPTION!}
@@ -4913,7 +4913,7 @@ destroyed the crows
 	[/KABU!WELLSPRING!TEMPLE!502.101!DESCRIPTION!]
 		||
 		*Eidos summons Luin to dispense with the statues; Luin gladly obliges. For only the destruction of such fearsome foes brings delight to the ghelblade of Vanargand.
-		
+
 		But as with all actions of impulse and emotion, it ends almost as soon as it begins. Now, the void left by this bloodlust must be tamed so that Eidos can control her quivering hands.*
 		(F#...){F:1,KABU!WELLSPRING!TEMPLE!502.102!DESCRIPTION!}
 	[KABU!WELLSPRING!TEMPLE!502.101!DESCRIPTION!/]
@@ -4964,7 +4964,7 @@ Entrance sans Quangjo
 	[/KABU!WELLSPRING!THRONE ROOM!0.002!DESCRIPTION!]
 		||
 		*But before long, the spell is broken and she regains her bearings. Examining the dome, she focuses on the large panes of black glass filling in the spaces between the stonework, all trimmed and gilded in a silvery metal. They share a strong resemblance to the ones she encountered in the Sanctuary.
-		
+
 		At the opposite end of the chamber, an enormous and robust door blocks passage with its overlapping metallic scales. The dominant feature of the chamber, however, is the high-backed, silver throne that appears to grow right out of the floor's center.*
 		(A#Sit in the chair){A:0,KABU!WELLSPRING!THRONE ROOM!0.X50!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.002!DESCRIPTION!/]
@@ -4973,9 +4973,9 @@ Entrance sans Quangjo
 	[/KABU!WELLSPRING!THRONE ROOM!0.X50!DESCRIPTION!]
 		|^10106:KABU!WELLSPRING!THRONE ROOM!0.500!DESCRIPTION!|
 		*She approaches the chair. Dragging a finger across the grooves in the armrest, she begins to circle the throne. It has a beauty both flamboyant and austere; just as a silver ingot may shine and sparkle, yet is still simply a hunk of metal, so too does this throne walk the line between simplicity and extravagance.
-		
+
 		After she completes her round,Eidos sits upon the throne. To her right, a small stone column rises from the floor. It is lined and laced with strands of liquid silver.
-		
+
 		Then, the emanation of a thought pulses from the contraption. A sense of expectation fills Eidos' mind... An expectation she, unfortunately, cannot fulfill. And as such, she rises from the chair and the stone column recedes.*
 		(A#Exit to Deep Lake){A:0,KABU!WELLSPRING!DEEP LAKE!10.500!DESCRIPTION!}
 		(B#Exit to the Flood Gate){B:0,KABU!WELLSPRING!FLOOD GATE!90.X000!DESCRIPTION!}
@@ -4984,7 +4984,7 @@ Entrance sans Quangjo
 	[/KABU!WELLSPRING!THRONE ROOM!0.500!DESCRIPTION!]
 		||
 		*She approaches the chair. Dragging a finger across the grooves in the armrest, she begins to circle the throne. It has a beauty both flamboyant and austere; just as a silver ingot may shine and sparkle, yet is still simply a hunk of metal, so too does this throne walk the line between simplicity and extravagance.
-		
+
 		After she completes her round, Eidos sits in the chair. All about her, the dark glass panels spring to life, displaying myriad scattered images, flowing one from the next. However, the panel directly in front of her remains fixed on a single image, frozen in time. This panel shows the body of water she witnessed on her way here.*
 		(A#...){A:0,KABU!WELLSPRING!THRONE ROOM!0.X5000!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.500!DESCRIPTION!/]
@@ -5016,7 +5016,7 @@ Purify + Auto-Release
 	[/KABU!WELLSPRING!THRONE ROOM!0.X5010!DESCRIPTION!]
 		|@:KABU!WELLSPRING!THRONE ROOM!0.X501!DESCRIPTION!|
 		*The one frozen image from the panels revives as a great rumble stirs Eidos’ innards. Thereupon, the dam lowers, finally releasing the water it so dutifully kept at bay. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.
-		
+
 		However, soon a different sound from above draws her gaze upward. From the ceiling, a descending cloudstone reveals a passage skyward.*
 		(B#Step atop the cloudstone){B:0,KABU!WELLSPRING!THRONE ROOM!0.5040!DESCRIPTION!}
 		(C#Sit and speak to Fathom){C:0,KABU!WELLSPRING!THRONE ROOM!9999.X0501!DESCRIPTION!}
@@ -5025,7 +5025,7 @@ Purify + Auto-Release
 	[/KABU!WELLSPRING!THRONE ROOM!0.X5020!DESCRIPTION!]
 		|@:KABU!WELLSPRING!THRONE ROOM!0.X501!DESCRIPTION!|
 		*The one frozen image from the panels revives as a great rumble stirs Eidos’ innards. Thereupon, the dam lowers, finally releasing the water it so dutifully kept at bay. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.
-		
+
 		However, soon a different sound from above draws her gaze upward. From the ceiling, a descending cloudstone reveals a passage skyward.*
 		(B#Step atop the cloudstone){B:0,KABU!WELLSPRING!THRONE ROOM!0.5040!DESCRIPTION!}
 		(C#Sit again upon the throne){C:0,KABU!WELLSPRING!THRONE ROOM!9999.X0501!DESCRIPTION!}
@@ -5122,7 +5122,7 @@ W/ Quangjo
 	[/KABU!WELLSPRING!THRONE ROOM!11.X000!DESCRIPTION!]
 		||
 		*MULTICHECKER*
-		(A#CHECKER){A:0,NO ADDRESS}	
+		(A#CHECKER){A:0,NO ADDRESS}
 	[KABU!WELLSPRING!THRONE ROOM!11.X000!DESCRIPTION!/]
 
 
@@ -5147,7 +5147,7 @@ poisoned + release
 		(A#...){A:0,KABU!WELLSPRING!THRONE ROOM!9992.X0069!QUANGJO!}
 	[KABU!WELLSPRING!THRONE ROOM!11.002!DESCRIPTION!/]
 
-opened Gulganna chamber	
+opened Gulganna chamber
 	[/KABU!WELLSPRING!THRONE ROOM!12.000!DESCRIPTION!]
 		||
 		*The voice barely finishes before the frame surrounding the gate at the far side of the room springs into luminescence. Suddenly, the massive metal door begins to reveal what lays beyond. It splits and divides into many smaller plates that are drawn into the walls, doing so in almost total silence. A rush of air inundates the Throne Room from the adjoining area, as though a deific exhalation. It carries with it a distinctly odorless scent...*
@@ -5249,7 +5249,7 @@ Quangjo is killed here
 	[KABU!WELLSPRING!THRONE ROOM!40.0050!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!THRONE ROOM!40.0051!DESCRIPTION!]
-		||	
+		||
 		*In the space of a thought, the frame surrounding the gate at the far side of the room springs into luminescence. Suddenly, the massive metal door begins to reveal what lays beyond. It splits and divides into many smaller plates that are drawn into the walls, doing so in almost total silence. A rush of air inundates the Throne Room from the adjoining area, as though a deific exhalation. It carries with it a distinctly odorless scent.*
 		(B#Go to the Flood Gate){B:0,KABU!WELLSPRING!FLOOD GATE!90.X000!DESCRIPTION!}
 		(C#Enter the newly revealed chamber){C:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!0.X000!DESCRIPTION!}
@@ -5335,7 +5335,7 @@ Eidos Solo
 		(A#"..."){A:0,KABU!WELLSPRING!THRONE ROOM!1.X001!FATHOM!}
 	[KABU!WELLSPRING!THRONE ROOM!1.000!FATHOM!/]
 
->>>Acquire Glyph of Purification (11100)<<<	
+>>>Acquire Glyph of Purification (11100)<<<
 	[/KABU!WELLSPRING!THRONE ROOM!1.X001!FATHOM!]
 		|^11100:KABU!WELLSPRING!THRONE ROOM!1.0011!FATHOM!|
 		*"Within the waters death lives. A memory, penned by Glyphs of Wulfias and Corruption. To save life, the water flow I stemmed. All guardians are awakened. Further harm halted."*
@@ -5477,7 +5477,7 @@ QUANGJO
 
 	[/KABU!WELLSPRING!THRONE ROOM!10.001!QUANGJO!]
 		||
-		*"Mmm, I knew Biracul was capable of such works, yes, but to think that a mere man could've accomplished such a miracle!"* 
+		*"Mmm, I knew Biracul was capable of such works, yes, but to think that a mere man could've accomplished such a miracle!"*
 		(A#"..."){A:0,KABU!WELLSPRING!THRONE ROOM!10.0010!QUANGJO!}
 	[KABU!WELLSPRING!THRONE ROOM!10.001!QUANGJO!/]
 
@@ -5501,7 +5501,7 @@ QUANGJO
 
 	[/KABU!WELLSPRING!THRONE ROOM!10.0013!QUANGJO!]
 		||
-		*"It knows of our transgression and commands us to rid the water of its contamination, so that the Tacribians might yet live!"* 
+		*"It knows of our transgression and commands us to rid the water of its contamination, so that the Tacribians might yet live!"*
 		(A#"..."){A:0,KABU!WELLSPRING!THRONE ROOM!10.0014!QUANGJO!}
 	[KABU!WELLSPRING!THRONE ROOM!10.0013!QUANGJO!/]
 
@@ -5599,7 +5599,7 @@ EVENT WRITERS
 		|11100:KABU!WELLSPRING!THRONE ROOM!40.002!DESCRIPTION!|
 		*EVENT WRITER - Acquire Glyph of Purification*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!WELLSPRING!THRONE ROOM!9990.X11100!DESCRIPTION!/]	
+	[KABU!WELLSPRING!THRONE ROOM!9990.X11100!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!DROWNED ARCHIVE!9990.X11100!DESCRIPTION!]
 		|11100:KABU!WELLSPRING!DROWNED ARCHIVE!21.002!DESCRIPTION!|
@@ -5611,14 +5611,14 @@ EVENT WRITERS
 		|11100:KABU!WELLSPRING!RUINED ARCHIVE!30.002!DESCRIPTION!|
 		*EVENT WRITER - Acquire Glyph of Purification*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!WELLSPRING!RUINED ARCHIVE!9990.X11100!DESCRIPTION!/]	
+	[KABU!WELLSPRING!RUINED ARCHIVE!9990.X11100!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!9990.X11100!DESCRIPTION!]
 		|11100:KABU!WELLSPRING!SANCTUM OF GULGANNA!11.002!DESCRIPTION!|
 		*EVENT WRITER - Acquire Glyph of Purification*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!WELLSPRING!SANCTUM OF GULGANNA!9990.X11100!DESCRIPTION!/]	
-	
+	[KABU!WELLSPRING!SANCTUM OF GULGANNA!9990.X11100!DESCRIPTION!/]
+
 	[/KABU!WELLSPRING!FLOOD GATE!9990.X11100!DESCRIPTION!]
 		|11100:KABU!WELLSPRING!FLOOD GATE!20.X002!DESCRIPTION!|
 		*EVENT WRITER - Acquire Glyph of Purification*
@@ -5684,7 +5684,7 @@ EVENT WRITERS
 		*EVENT WRITER - LET EIDOS SPEAK*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!9990.X11210!RIKHARR!/]
-	
+
 	[/KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!9990.X11211!RIKHARR!]
 		|11211:KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!0.000!RIKHARR!|
 		*EVENT WRITER - Know Rikharr's fate in Wellspring*
@@ -5701,7 +5701,7 @@ EVENT WRITERS
 		|11406:KABU!WELLSPRING!DEEP LAKE!0.200!QUANGJO!|
 		*EVENT WRITER - Quangjo thinks you are Eidos*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!WELLSPRING!DEEP LAKE!9990.X11406-2!QUANGJO!/]	
+	[KABU!WELLSPRING!DEEP LAKE!9990.X11406-2!QUANGJO!/]
 
 	[/KABU!WELLSPRING!RUINED ARCHIVE!9990.X11406!QUANGJO!]
 		|11406:KABU!WELLSPRING!RUINED ARCHIVE!0.X000!QUANGJO!|
@@ -6148,49 +6148,6 @@ EVENT WRITERS
 	[KABU!WELLSPRING!THRONE ROOM!9990.X15900!QUANGJO!/]
 
 
-
-
-________________________________
-FIGHTING WORDS
-	[/KABU!WELLSPRING!GATE OF THE HEATHEN!9992.X0502!CLOCKWORK CROWS!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}
-	[KABU!WELLSPRING!GATE OF THE HEATHEN!9992.X0502!CLOCKWORK CROWS!/]
-
-	[/KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!9992.X0504!VALVORTHR!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}
-	[KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!9992.X0504!VALVORTHR!/]
-
-	[/KABU!WELLSPRING!LIVING QUARTERS!9992.X0502!CLOCKWORK CROWS!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}
-	[KABU!WELLSPRING!LIVING QUARTERS!9992.X0502!CLOCKWORK CROWS!/]
-
-	[/KABU!WELLSPRING!THRONE ROOM!9992.X0069!QUANGJO!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}
-	[KABU!WELLSPRING!THRONE ROOM!9992.X0069!QUANGJO!/]
-
-	[/KABU!WELLSPRING!REFECTORY OF THE VALVORTHR!9992.X0503!MATHELIAN!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}
-	[KABU!WELLSPRING!REFECTORY OF THE VALVORTHR!9992.X0503!MATHELIAN!/]
-
-	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!9992.X1000!GULGANNA!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}
-	[KABU!WELLSPRING!SANCTUM OF GULGANNA!9992.X1000!GULGANNA!/]
-
-
-
-
 ______________________________
 NPC SWITCHERS
 	[/KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!9999.X0018!DESCRIPTION!]
@@ -6300,3 +6257,47 @@ NPC SWITCHERS
 		*RIKHARR*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!9999.X9999!RIKHARR!/]
+
+
+
+
+________________________________
+FIGHTING WORDS
+	[/KABU!WELLSPRING!GATE OF THE HEATHEN!9992.X0502!CLOCKWORK CROWS!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!WELLSPRING!GATE OF THE HEATHEN!9992.X0502!CLOCKWORK CROWS!/]
+
+	[/KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!9992.X0504!VALVORTHR!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!9992.X0504!VALVORTHR!/]
+
+	[/KABU!WELLSPRING!LIVING QUARTERS!9992.X0502!CLOCKWORK CROWS!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!WELLSPRING!LIVING QUARTERS!9992.X0502!CLOCKWORK CROWS!/]
+
+	[/KABU!WELLSPRING!THRONE ROOM!9992.X0069!QUANGJO!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!WELLSPRING!THRONE ROOM!9992.X0069!QUANGJO!/]
+
+	[/KABU!WELLSPRING!REFECTORY OF THE VALVORTHR!9992.X0503!MATHELIAN!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!WELLSPRING!REFECTORY OF THE VALVORTHR!9992.X0503!MATHELIAN!/]
+
+	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!9992.X1000!GULGANNA!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!WELLSPRING!SANCTUM OF GULGANNA!9992.X1000!GULGANNA!/]
+
+
+

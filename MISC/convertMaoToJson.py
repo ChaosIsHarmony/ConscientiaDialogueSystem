@@ -2,6 +2,126 @@ import os
 import json
 from typing import List, Tuple
 
+
+def check_for_accuracy(json_str: str) -> None:
+    '''
+    Pretty print the JSON string to confirm proper formatting.
+    Will raise exceptions if it cannot parse the string due to incorrect formatting.
+    '''
+    json_obj = json.loads(json_str)
+    parsed_json_str = json.dumps(json_obj, indent=2)
+    print(parsed_json_str)
+
+
+
+def parse_blocks(rawSectionLines: List[str]) -> List[List[str]]:
+    '''
+    Aggregates the lines relevant to an address specific block.
+    '''
+    blocks = []
+    i = 0
+    while i < len(rawSectionLines):
+        block = []
+        if "[/" in rawSectionLines[i]:
+            while not "/]" in rawSectionLines[i]:
+                block.append(rawSectionLines[i])
+                i += 1
+            block.append(rawSectionLines[i])
+        else:
+            i += 1
+            continue
+
+        if len(block) > 0:
+            blocks.append(block)
+
+    return blocks
+
+
+
+def convert_npc_switchers(npcSwitchersMao: List[str]) -> str:
+    # aggregate into address-specific, self-contained blocks
+    npcSwitchersBlocks = parse_blocks(npcSwitchersMao)
+    # convert to JSON string
+    npcSwitchersJson = "{"
+    for block in npcSwitchersBlocks:
+        # parse address
+        add_start = block[0].find('/')+1
+        add_end = block[0].find(']')
+        address = block[0][add_start:add_end]
+        npcSwitchersJson += "\"" + address + "\":"
+        # parse npc id
+        npc_id_start = block[1].find(':')+1
+        npc_id_end = block[1].find('|', npc_id_start)
+        npc_id = block[1][npc_id_start:npc_id_end]
+        npcSwitchersJson += npc_id + ", "
+
+    if len(npcSwitchersJson) > 1:
+        npcSwitchersJson = npcSwitchersJson[:-2] + "}" # trm trailing comma
+    else:
+        npcSwitchersJson = "{}" # Unfinished dialogue file OR no switchers
+
+    # check for accuracy
+    #  check_for_accuracy(npcSwitchersJson)
+
+    return npcSwitchersJson
+
+
+
+def convert_fighting_words(fightingWordsMao: List[str]) -> str:
+    # aggregate into address-specific, self-contained blocks
+    fightingWordsBlocks = parse_blocks(fightingWordsMao)
+    # convert to JSON string
+    fightingWordsJson = "{ \"addresses\": ["
+    for block in fightingWordsBlocks:
+        add_start = block[0].find('/')+1
+        add_end = block[0].find(']')
+        address = block[0][add_start:add_end]
+        fightingWordsJson += "\"" + address +"\", "
+
+    if len(fightingWordsJson) > 20:
+        fightingWordsJson = fightingWordsJson[:-2] + "]}" # trim trailing comma
+    else:
+        fightingWordsJson = "{}" # Unfinished dialogue file OR no fighting
+
+    # check for accuracy
+    #  check_for_accuracy(fightingWordsJson)
+
+    return fightingWordsJson
+
+
+
+def convert_events(eventsMao: List[str]) -> str:
+    # aggregate into address-specific, self-contained blocks
+    eventBlocks = parse_blocks(eventsMao)
+    # build JSON string
+    eventsJson = "{"
+    for block in eventBlocks:
+        # indexes
+        event_start = block[1].find('|')+1
+        event_mid = block[1].find(':')
+        event_end = block[1].find('|', event_start)
+
+        # parse address
+        address = block[0][block[0].find('/')+1:block[0].find(']')]
+        eventsJson += "\"" + address + "\": {"
+        # parse event
+        event_num = block[1][event_start:event_mid]
+        eventsJson += "\"event_num\": " + event_num + ", "
+        # parse destination address
+        event_dest_add = block[1][event_mid+1:event_end]
+        eventsJson += "\"dest_add\": \"" + event_dest_add +"\"}, "
+
+    if len(eventsJson) > 1:
+        eventsJson = eventsJson[:-2] + "}" # trim trailing comma
+    else:
+        eventsJson = "{}" # Unfinished dialogue file OR file with no events
+
+    # check for accuracy
+    #  check_for_accuracy(eventsJson)
+
+    return eventsJson
+
+
 def escape_special_chars(text: str) -> str:
     inds_of_quotes = []
     inds_of_whitespaces = []
@@ -37,7 +157,7 @@ def parse_response(response: str) -> str:
     # parse response text
     text_start = response.find('#', pers_end)+1
     text_end = response.find(')', text_start)
-    json_response += "\"text\": \"" + escape_special_chars(response[text_start:text_end]) + "\", "
+    json_response += "\"response_text\": \"" + escape_special_chars(response[text_start:text_end]) + "\", "
 
     # parse personality points
     pts_start = response.find(':', text_end)+1
@@ -106,7 +226,7 @@ def convert_dialogue_block_to_json(block: List[str]) -> str:
     while ind < len(block)-1:
         dialogueJson += parse_response(block[ind])
         ind += 1
-    dialogueJson = dialogueJson[:-2] + "}" # to eliminate trailing commas
+    dialogueJson = dialogueJson[:-2] + "}" # trim trailing commas
 
     # close off JSON object
     dialogueJson += "}, "
@@ -119,56 +239,55 @@ def convert_dialogue(dialogueMao: List[str]) -> str:
     """
     Takes in the .mao formatted dialogue section and return as a json formatted string.
     """
-    dialogueBlocks = []
-    i = 0
-    while i < len(dialogueMao):
-        dialogueBlock = []
-        if "[/" in dialogueMao[i]:
-            while not "/]" in dialogueMao[i]:
-                dialogueBlock.append(dialogueMao[i])
-                i += 1
-            dialogueBlock.append(dialogueMao[i])
-        else:
-            i += 1
-            continue
-
-        if len(dialogueBlock) > 0:
-            dialogueBlocks.append(dialogueBlock)
-
+    # aggregate into address-specific, self-contained blocks
+    dialogueBlocks = parse_blocks(dialogueMao)
+    # convert to JSON
     dialogueJson = "{"
     for dialogueBlock in dialogueBlocks:
         dialogueJson += convert_dialogue_block_to_json(dialogueBlock)
-    dialogueJson = dialogueJson[:-2] + "}" # removing trailing comma
+    dialogueJson = dialogueJson[:-2] + "}" # trim trailing comma
 
+    # check for accuracy
+    #  check_for_accuracy(dialogueJson)
 
-    print(dialogueJson[484100:484200])
+    return dialogueJson
 
-    json_obj = json.loads(dialogueJson)
-    json_str = json.dumps(json_obj, indent=2)
-    print(json_str)
-
-
-    return ""
 
 
 
 def parse_sections(contents: List[str]) -> Tuple[List[str], List[str], List[str], List[str]]:
     dialogue = contents[:contents.index("TECHNICAL STUFF\n")-1]
-    events = contents[contents.index("TECHNICAL STUFF\n"):contents.index("FIGHTING WORDS\n")-1]
-    fightingWords = contents[contents.index("FIGHTING WORDS\n"):contents.index("NPC SWITCHERS\n")-1]
-    npcSwitchers = contents[contents.index("NPC SWITCHERS\n"):]
+    events = contents[contents.index("TECHNICAL STUFF\n"):contents.index("NPC SWITCHERS\n")-1]
+    npcSwitchers = contents[contents.index("NPC SWITCHERS\n"):contents.index("FIGHTING WORDS\n")-1]
+    fightingWords = contents[contents.index("FIGHTING WORDS\n")]
 
-    return dialogue, events, fightingWords, npcSwitchers
+    return dialogue, events, npcSwitchers, fightingWords
+
+
+
+def convert_file(filepath: str) -> None:
+    with open(filepath) as f:
+        contents = f.readlines()
+
+    dialogueMao, eventsMao, npcSwitchersMao, fightingWordsMao = parse_sections(contents)
+
+    dialogueJson = convert_dialogue(dialogueMao)
+    eventsJson = convert_events(eventsMao)
+    npcSwitchersJson = convert_npc_switchers(npcSwitchersMao)
+    fightingWordsJson = convert_fighting_words(fightingWordsMao)
+
+    fileJson = "{ \"dialogue\": " + dialogueJson + ", \"events\": " + eventsJson + ", \"npc_switchers\": " + npcSwitchersJson + ", \"fighting_words\": " + fightingWordsJson  + "}"
+
+    # check for accuracy
+    check_for_accuracy(fileJson)
 
 
 
 if __name__ == "__main__":
-    filepath = "resources/TextFiles/Original/Dialogue/BookOfEidos/EIDOS_DAZIR.mao"
-    with open(filepath) as f:
-        contents = f.readlines()
 
-    dialogueMao, eventsMao, fightingWordsMao, npcSwitchersMao = parse_sections(contents)
+    import glob
+    filepaths = glob.glob(os.getcwd() + "/resources/TextFiles/Original/Dialogue/*/*.mao")
 
-    dialogueJson = convert_dialogue(dialogueMao)
-    print(len(dialogueJson))
-
+    for filepath in filepaths:
+        print(filepath)
+        convert_file(filepath)

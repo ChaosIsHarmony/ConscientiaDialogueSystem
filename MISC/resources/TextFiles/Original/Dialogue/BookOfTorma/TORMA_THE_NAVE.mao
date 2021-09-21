@@ -5,8 +5,8 @@ ARCHONS' APSE
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.X000!DESCRIPTION!/]
-	
-	
+
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.X001!DESCRIPTION!]
 		|@:ENCLAVE!THE NAVE!ARCHONS' APSE!0.X0010!DESCRIPTION!|
 		*An impenetrable darkness cloaks the chamber, though the lengthy echoes from Ormenos' footfalls hint at its impressive dimensions. The room's sole apparent source of illumination hangs high above a broken circle of onyx humanoid statues, some twenty paces ahead. The circle opens toward Ormenos, revealing a silver throne - currently occupied. Closer inspection reveals a second, lesser source of light: behind the throne an imposing blast furnace breathes fire and spits sparks.*
@@ -18,22 +18,22 @@ ARCHONS' APSE
 		*Ormenos approaches the carpeted aperture to the circle of statues, noticing that a man of undeniable youth sits upon the silver throne. Reaching the perimeter of the circle he stops and kneels, as instructed.*
 		(A#...){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!9999.X0011!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.X0010!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.X002!DESCRIPTION!]
 		|@:ENCLAVE!THE NAVE!ARCHONS' APSE!0.X000!DESCRIPTION!|
 		*An impenetrable darkness cloaks the chamber, though the lengthy echoes from Ormenos' footfalls hint at its impressive dimensions. The room's sole apparent source of illumination hangs high above a broken circle of onyx humanoid statues, some twenty paces ahead. The circle opens toward Ormenos, revealing a silver throne - currently occupied by the young Thought-Weaver from the Stone Circle, Brother Babel. Closer inspection reveals a second, lesser source of light: behind the throne an imposing blast furnace breathes fire and spits sparks.*
 		(A#...){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!9999.X0011!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.X002!DESCRIPTION!/]
-	
-	
+
+
 objected to Kambesh & no fight
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.003!DESCRIPTION!]
 		||
 		*The conversation at its termin...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.500!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.003!DESCRIPTION!/]
-	
-	
+
+
 fought and won
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.005!DESCRIPTION!]
 		||
@@ -70,7 +70,7 @@ came from Crypt of Archons
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0080!DESCRIPTION!/]
 
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0081!DESCRIPTION!]
-		||		
+		||
 		*He jumps from the throne and rushes out of the circle, into the darkness, stumbling upon the invisible, uneven stones that tile the floor. He knows not what this place could be, but intuits it is the Archon's Apse. His inexplicable knowledge of this is almost as disconcerting as the existence of the forbidden chamber itself.*
         (A#...){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0082!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0081!DESCRIPTION!/]
@@ -122,7 +122,7 @@ BABEL
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.001!BABEL!/]
 
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0010!BABEL!]
-		||	
+		||
 		*"And at its center stand I, Marduk of Zemes, the 17th Prime Archon."*
 		(A#"So the Choir of Archons... is just you?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0011!BABEL!}
 		(B#"Why have you summoned me here?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0012!BABEL!}
@@ -339,7 +339,7 @@ BABEL
 
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00221!BABEL!]
 		||
-		*"But it's not yet my time to cast will into the fire of unity."* 
+		*"But it's not yet my time to cast will into the fire of unity."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00222!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00221!BABEL!/]
 
@@ -353,7 +353,7 @@ BABEL
 
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0023!BABEL!]
 		||
-		*"But you see, Brother Inquisitor, I cannot abdicate this silver throne; for I have unfinished tasks - ones which cannot be entrusted to the uninitiated."* 
+		*"But you see, Brother Inquisitor, I cannot abdicate this silver throne; for I have unfinished tasks - ones which cannot be entrusted to the uninitiated."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00230!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0023!BABEL!/]
 
@@ -403,7 +403,7 @@ BABEL
 
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00251!BABEL!]
 		||
-		*"Optimality presupposes unity, after all."* 
+		*"Optimality presupposes unity, after all."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00252!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00251!BABEL!/]
 
@@ -429,7 +429,7 @@ BABEL
 
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00260!BABEL!]
 		||
-		*"No, you're here because of your discovery of Nearcasting!"* 
+		*"No, you're here because of your discovery of Nearcasting!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00261!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00260!BABEL!/]
 
@@ -588,7 +588,7 @@ BABEL
 		*"...I can't believe an arse like you will succeed me as Prime Archon!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00364!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00363!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00364!BABEL!]
 		||
 		*"Enough! I've had it! To the Void with you!"*
@@ -608,7 +608,7 @@ HALL OF RECKONING
 
 
 
-Went directly to the Nave	
+Went directly to the Nave
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00100!DESCRIPTION!]
 		||
 		*Ormenos approaches the massive wooden doors leading to the Nave. They stand like two lone trees clinging to an otherwise barren cliffside. Out of place to be sure, but somehow majestic because of their oddity. Etched deep into their collective surface is one lonely symbol - alone because it is all that needs be there - the very symbol of the Enclave. Four alpha omega chimeras stare inward toward a single point, never quite touching at it; four corners suggest a broken square containing them. Shivers sneak their way down his spine - the unwelcome prelude to speaking before the Choir.*
@@ -988,9 +988,9 @@ CHOIR OF ARCHONS
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!CHOIR OF ARCHONS!/]
-	
-	
-went directly to the nave	
+
+
+went directly to the nave
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0000!CHOIR OF ARCHONS!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.0001!CHOIR OF ARCHONS!|
 		*"Brother Inquisitor, report your findings from recent excursions. To the front, immediately. All others, stand aside."*
@@ -1326,7 +1326,7 @@ went directly to the nave
 		*"Her interrogation has been the most protracted one we have seen, and the Mind-Loom has soured her sanity..."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0009111!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009110!CHOIR OF ARCHONS!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0009111!CHOIR OF ARCHONS!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!10.X000!CHOIR OF ARCHONS!|
 		*"Her destruction will be our final mercy to her."*
@@ -1446,7 +1446,7 @@ dilly-dallied
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!1.X0001!CHOIR OF ARCHONS!/]
 
 
-brought by force to the nave	
+brought by force to the nave
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!2.0000!CHOIR OF ARCHONS!]
 		||
 		*"Inquisitor, your utter neglect of duty and flagrant disregard for the Order is inexcusable."*
@@ -1631,7 +1631,8 @@ MESSAGE BEARER
 
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TECHNICAL STUFF
 ________________________________________________________________________
 EVENT WRITERS
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2017!DESCRIPTION!]
@@ -1639,57 +1640,55 @@ EVENT WRITERS
 		*EVENT WRITER - Witnessed Khlutt confront Archons*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2017!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2020!CHOIR OF ARCHONS!]
 		|2020:ENCLAVE!THE NAVE!HALL OF RECKONING!0.000914!CHOIR OF ARCHONS!|
 		*EVENT WRITER - Objected to Kambesh and censorship*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2020!CHOIR OF ARCHONS!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!9990.X2022!BABEL!]
 		|2022:ENCLAVE!THE NAVE!ARCHONS' APSE!9990.X2025!BABEL!|
 		*EVENT WRITER - Admonished by Prime Archon*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!9990.X2022!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!9990.X2025!BABEL!]
 		|2025:ENCLAVE!THE NAVE!ARCHONS' APSE!9990.X2032!BABEL!|
 		*EVENT WRITER - Met Babel*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!9990.X2025!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!9990.X2032!BABEL!]
 		|2032:ENCLAVE!THE NAVE!ARCHONS' APSE!9999.X9999!BABEL!|
 		*EVENT WRITER - Know Babel is the Prime Archon*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!9990.X2032!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!9990.X2033!BABEL!]
 		|2033:ENCLAVE!THE NAVE!ARCHONS' APSE!9999.X9999!BABEL!|
 		*EVENT WRITER - Agreed to help in Apse*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!9990.X2033!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2071!CHOIR OF ARCHONS!]
 		|2071:ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X9999!CHOIR OF ARCHONS!|
 		*EVENT WRITER - Went full crazy in the Nave convo*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2071!CHOIR OF ARCHONS!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2072!CHOIR OF ARCHONS!]
 		|2072:ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X9999!CHOIR OF ARCHONS!|
 		*EVENT WRITER - To be taken to Dissent's Remorse because of insolence*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2072!CHOIR OF ARCHONS!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2073!CHOIR OF ARCHONS!]
 		|2073:ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X9999!CHOIR OF ARCHONS!|
 		*EVENT WRITER - To be taken to Soul Stasis Cell*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2073!CHOIR OF ARCHONS!/]
-	
-________________________________________________________________________
-FIGHTING WORDS
+
 ________________________________________________________________________
 NPC SWITCHERS
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!9999.X0011!DESCRIPTION!]
@@ -1697,57 +1696,62 @@ NPC SWITCHERS
 		*BABEL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!9999.X0011!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1202!CHOIR OF ARCHONS!]
 		|#npcSwitch:1202|
 		*JINN SLAYER FROM CHOIR*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1202!CHOIR OF ARCHONS!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1202!DESCRIPTION!]
 		|#npcSwitch:1202|
 		*JINN SLAYER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1202!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!DESCRIPTION!]
 		|#npcSwitch:1206|
 		*CHOIR OF ARCHONS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!JINN SLAYER!]
 		|#npcSwitch:1206|
 		*CHOIR OF ARCHONS FROM JINN SLAYER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!JINN SLAYER!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1218!DESCRIPTION!]
 		|#npcSwitch:1218|
 		*MESSAGE BEARER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1218!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!9999.X9999!BABEL!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM BABEL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!9999.X9999!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X9999!CHOIR OF ARCHONS!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM CHOIR OF ARCHONS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X9999!CHOIR OF ARCHONS!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X9999!JINN SLAYER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM JINN SLAYER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X9999!JINN SLAYER!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X9999!MESSAGE BEARER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM MESSAGE BEARER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X9999!MESSAGE BEARER!/]
+
+
+________________________________________________________________________
+FIGHTING WORDS
+

@@ -6,63 +6,63 @@ Creation of Biracul Memory
 		*My ghost and its shell are consumed. Dismantled into bizarre and variegated arrays of light. Painless. Warm. As though embraced by Love itself.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!0.001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!0.000!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!0.001!DESCRIPTION!]
 		||
 		*Brother Time warps and eddies, causing present to became past and past will become future. Yet nothing convolutes nor stymies; all was synergistic, cooperative, unimpaired.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!0.002!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!0.001!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!0.002!DESCRIPTION!]
 		||
 		*And thus to the mythical Empyrean my Self was elevated. Beyond all expression is the simultaneous beauty and wretchedness of the nexus of all existence, the origin and the terminus of all that was, is and shall ever be.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!0.003!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!0.002!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!0.003!DESCRIPTION!]
 		||
 		*The singularity.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!0.004!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!0.003!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!0.004!DESCRIPTION!]
 		||
 		*My Self peered at it as though peering into a light even fiercer than Brother Sun, and a darkness even deeper than Sister Midnight. Rivers of the purest light will flow both in and out of the infinitely dense, and incomparably perfect sphere.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!0.005!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!0.004!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!0.005!DESCRIPTION!]
 		||
 		*There will stand my Self before It, observing in awe, yet not awestruck, simply awaiting Its commands.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!0.006!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!0.005!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!0.006!DESCRIPTION!]
 		||
 		*Then an unmistakable image crosses my mind's eye. From me It desired something, that which my Trueflesh will collect upon my journeys...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!0.007!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!0.006!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!0.007!DESCRIPTION!]
 		||
 		*No, It will desire the Glyphs from the journeys of others seared into our Trueflesh...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!0.008!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!0.007!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!0.008!DESCRIPTION!]
 		||
 		*Yet Its demands were simultaneous extremes of expectation and indifference.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!0.009!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!0.008!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!0.009!DESCRIPTION!]
 		||
 		*A flawless inscrutability of purpose.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!1.X000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!0.009!DESCRIPTION!/]
-	
-	
-	
+
+
+
 >>>Have Corruption (13113)<<<
 >>>Have Purification (11100)<<<
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!1.X000!DESCRIPTION!]
@@ -70,15 +70,15 @@ Creation of Biracul Memory
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!1.X000!DESCRIPTION!/]
-	
-	
-Have nothing you loser	
+
+
+Have nothing you loser
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!1.000!DESCRIPTION!]
 		||
 		*How clear all is in the light of Awareness! Both halves of the twinned Glyph!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!1.001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!1.000!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!1.001!DESCRIPTION!]
 		||
 		*By the frequency of Its humming hails, Corruption and Purification, two facets of the same truth...*
@@ -90,33 +90,33 @@ Have nothing you loser
 		*Of course! This was not the mission itself, but rather the explanation thereof!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!1.003!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!1.002!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!1.003!DESCRIPTION!]
 		||
 		*Clarity now replacing confusion, True eyes saw what the False cannot!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!1.004!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!1.003!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!1.004!DESCRIPTION!]
 		||
 		*Indeed! Again, my Self lived and again will it enter this most sacred of planes to proffer the fruits of our labors unto the All-Seer! Yes, it seemed that this is the true beginning... not the disappointing conclusion of the divine task given us.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!1.005!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!1.004!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!1.005!DESCRIPTION!]
 		||
 		*Thus sleep descended upon my ghost, to await rebirth in the shell of another...*
 		(A#Dream){A:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!1.005!DESCRIPTION!/]
-	
-	
+
+
 Have Purification
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!2.000!DESCRIPTION!]
 		||
 		*How clear all is in the light of Awareness! Both halves of the twinned Glyph!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!2.001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!2.000!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!2.001!DESCRIPTION!]
 		||
 		*By the frequency of Its humming hails, Corruption and Purification, two facets of the same truth... a truth whose immaculate twin lives within this Trueflesh.*
@@ -130,14 +130,14 @@ Have Corruption
 		*How clear all is in the light of Awareness! Both halves of the twinned Glyph!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!3.001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!3.000!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!3.001!DESCRIPTION!]
 		||
 		*By the frequency of Its humming hails, Corruption and Purification, two facets of the same truth... a truth whose volatile twin lives within this Trueflesh.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!1.002!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!3.001!DESCRIPTION!/]
 
-	
+
 Have both
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!4.000!DESCRIPTION!]
 		||
@@ -159,7 +159,7 @@ Have both
 
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!4.003!DESCRIPTION!]
 		||
-		*Ages before this, this molten essence will begin to take form into some angelic shape of Biracul - a Falseflesh closer to the True than humanly fathomable!* 
+		*Ages before this, this molten essence will begin to take form into some angelic shape of Biracul - a Falseflesh closer to the True than humanly fathomable!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!4.004!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!4.003!DESCRIPTION!/]
 
@@ -215,49 +215,49 @@ HYDRARGYRUM KEEP
 		*And to the Wyrm's prison Caito's truth-blind servants led. My captors see to it that my Falseflesh may make no graceful entrance, a crude and violent push casting the pushed through the portal.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.000!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0001!DESCRIPTION!]
 		||
 		*Stumbling, falling, colliding, skin shreds on the rough surface of the floor; blood stains the ancient masonry, its metallic flavor lingering on the tongue.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0002!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0001!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0002!DESCRIPTION!]
 		||
 		*Still on hands and knees, the portal seals, leaving my Self with but its shadow as companion in this candlelit chamber.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0003!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0002!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0003!DESCRIPTION!]
 		||
 		*Alone... and yet, something... some invisible presence begins to inundate the area. A perpetual slithering, constriction limits movement - not physically, rather the very desire to move slowly vanishes...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0004!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0003!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0004!DESCRIPTION!]
 		||
 		*The candles then cast into sharp relief the altars beneath them, with sacrifices of fresh fruits and choice meats, wines and fragrant incenses, multiplied by the presence of black mirrors reflecting their images from behind.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0005!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0004!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0005!DESCRIPTION!]
 		||
 		*Tighter and tighter it compresses, seeking to force my Trueflesh from its shell...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0006!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0005!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0006!DESCRIPTION!]
 		||
 		*Now accustomed to the humble lighting, my Self spots the leviathanic wooden statue of a bestial serpent, tied in an impossible knot by the hands of a blue-robed mage. Oh, but no ordinary mage is He! Biracul is He!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0007!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0006!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0007!DESCRIPTION!]
 		||
 		*And then is it clear, as it remains now, that my first and final meeting with the Blood-Drinker's spawn, Jormungund, is about to occur; nowhere but in this very chamber!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0008!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0007!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0008!DESCRIPTION!]
 		||
 		*Finally, the unseen beast hails, and in the service of the Shining One, with this unnatural monstrosity my Self communes.*
@@ -291,141 +291,141 @@ No vovoks and no pact
 		*Candles flare, banishing darkness from the shadowy room. Dim turns to bright, and bright to blinding as the flames crescendo. On the floor below, a brilliant, verdant Glyph howls through the ambient radiance.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00100!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0010!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00100!DESCRIPTION!]
 		||
 		*My Falseflesh slowly rises among the emerald rays. Limbs contort, bones crack, and blood boils under the pressure.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00101!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00100!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00101!DESCRIPTION!]
 		||
 		*This is my end.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00102!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00101!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00102!DESCRIPTION!]
 		||
 		*Alone.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00103!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00102!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00103!DESCRIPTION!]
 		||
 		*Truly abandoned as fodder for the foul serpent.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00104!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00103!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00104!DESCRIPTION!]
 		||
 		*But expiration of the Falseflesh was sealed long ago; our ends written at the beginning of time.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00105!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00104!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00105!DESCRIPTION!]
 		||
 		*All is as it should be.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0011!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00105!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0011!DESCRIPTION!]
 		||
 		*Yet, as my essence empties from its shell, my Self cannot help but reflect upon the journey fate prepared for it.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00110!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0011!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00110!DESCRIPTION!]
 		||
 		*Why has Biracul led us here?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00111!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00110!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00111!DESCRIPTION!]
 		||
 		*Does He protect us from some unknown evil?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00112!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00111!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00112!DESCRIPTION!]
 		||
 		*How can my imprisonment serve to help the Shining One?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00113!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00112!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00113!DESCRIPTION!]
 		||
 		*Was this to be the hallowed mission's end?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0012!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00113!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0012!DESCRIPTION!]
 		||
 		*It matters not; as faith protects us in the final moments while consciousness fades and the guiding Voice leaves in search of a new...*
 		(A#Dream){A:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0012!DESCRIPTION!/]
-	
-	
+
+
 No pact for Thetian + vovkos
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.002!DESCRIPTION!]
 		||
 		*Candles flare, banishing darkness from the shadowy room. Dim turns to bright, and bright to blinding as the flames crescendo. On the floor below, a brilliant, verdant Glyph howls through the ambient radiance.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0020!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.002!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0020!DESCRIPTION!]
 		||
 		*My Falseflesh slowly rises among the emerald rays. Limbs contort, bones crack, and blood boils under the pressure.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0021!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0020!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0021!DESCRIPTION!]
 		||
 		*This is my end.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0022!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0021!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0022!DESCRIPTION!]
 		||
 		*Alone.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0023!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0022!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0023!DESCRIPTION!]
 		||
 		*Truly abandoned as fodder for the foul serpent.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0024!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0023!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0024!DESCRIPTION!]
 		||
 		*But expiration of the Falseflesh was sealed long ago; our ends written at the beginning of time.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0025!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0024!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0025!DESCRIPTION!]
 		||
 		*All is as it should be.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00250!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0025!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00250!DESCRIPTION!]
 		||
 		*Then, as in countless times past, the sole portal leading to and from this wretched place unseals. A silhouette through it traverses the space between us.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00251!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00250!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00251!DESCRIPTION!]
 		||
 		*Shadow gains in color, color then in chroma; lines and curves soon define the form of Vovkos, dearest friend, a thousand times betrayed. He is the destined companion to Kavu, to the All-Seer's cradle.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X00252!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00251!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X00252!DESCRIPTION!]
 		|@:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X00253!DESCRIPTION!|
 		*Though determination may be carved upon his face in perpetuity, his voice betrays a sense of desperation. Voice? Yes, his words provide the harmony to my elegy...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X1102!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X00252!DESCRIPTION!/]
-	
+
 >>>Spoke Vovkos secret name (2054)<<<
 vovkos leaves
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X00253!DESCRIPTION!]
@@ -433,37 +433,37 @@ vovkos leaves
 		*Words, thus to sound committed, cannot be unsaid.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00254!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X00253!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00254!DESCRIPTION!]
 		||
 		*Vovkos the oarsman, both sated and disappointed, turns to leave. He staggers away uncertainly, casting back a single questioning glance, one answered only with silence.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00255!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00254!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00255!DESCRIPTION!]
 		||
 		*Then he is gone, leaving to seek the true Eidos... leaving my Self as no more than a memory.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0026!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00255!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0026!DESCRIPTION!]
 		||
 		*But is that not me?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00260!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0026!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00260!DESCRIPTION!]
 		||
 		*Why then did the Voice declare it not thus?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0027!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00260!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0027!DESCRIPTION!]
 		||
 		*Yet, as my essence empties from its shell, my Self cannot help but reflect upon the lie Biracul brought to these lips.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00270!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0027!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00270!DESCRIPTION!]
 		||
 		*Does He protect us from some unknown evil?*
@@ -476,55 +476,55 @@ vovkos rescues
 		*Words, thus to sound committed, cannot be unsaid.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00291!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00290!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00291!DESCRIPTION!]
 		||
 		*Vovkos the oarsman, content with the knowledge he has gained, places hands upon two of the altars, bringing life to their darkened mirrors.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00292!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00291!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00292!DESCRIPTION!]
 		||
 		*The images conjured, to me, are inscrutable, indecipherable, and mystical.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00293!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00292!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00293!DESCRIPTION!]
 		||
 		*The speed and deftness of his hands embody elegance; they are as a wind-whipped willow's branches. Mesmerizing, truly.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00294!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00293!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00294!DESCRIPTION!]
 		||
 		*And in the space of a thought, my Falseflesh falls free from the restrictive grip of the thwarted Wyrm. Its Glyph's brilliant rays of green evaporate beneath my feet, darkening the room as they wane.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00295!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00294!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00295!DESCRIPTION!]
 		||
 		*Suddenly, through the open door screams much distinct from the earlier moans of pleasurable agony, ring through.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00296!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00295!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00296!DESCRIPTION!]
 		||
 		*Now they are tainted with a powerful scent of regret and desperation.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00297!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00296!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00297!DESCRIPTION!]
 		||
 		*The emerald light that once filled this room now floods the outside.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00298!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00297!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00298!DESCRIPTION!]
 		||
 		*It seems as though the Wyrm will have its sacrifice after all...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00299!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00298!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00299!DESCRIPTION!]
 		||
 		*Moments turn to spans and those in turn to periods, stretching the clock into a contorted abomination. What for us is an instant may well be an eternity. But Brother Time yet moves and this disfigured too moment dies, birthing the next from its remains.*
@@ -545,217 +545,218 @@ vovkos rescues
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00299000!DESCRIPTION!]
 		||
-		*Though the impression lingers, the exact method of our exodus my memory now fails to elucidate... like the scent of a meal haunts the air long after it has been eaten, so too do these memories persist; they simply hint at what was - the strongest impression overwhelming the lesser.* 
+		*Though the impression lingers, the exact method of our exodus my memory now fails to elucidate... like the scent of a meal haunts the air long after it has been eaten, so too do these memories persist; they simply hint at what was - the strongest impression overwhelming the lesser.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.002991!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00299000!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.002991!DESCRIPTION!]
 		||
 		*Or is it one of the countless stolen memories lost to me forever?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.002992!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.002991!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.002992!DESCRIPTION!]
 		||
 		*Even the mere attempt to distinguish between the two possibilities casts me back into the endless darkness of the Void...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!3.X000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.002992!DESCRIPTION!/]
-	
-	
+
+
 Pact for Thetian, self-sacrifice
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.003!DESCRIPTION!]
 		||
 		*Candles flare, banishing darkness from the shadowy room. Dim turns to bright, and bright to blinding as the flames crescendo. On the floor below, a brilliant, verdant Glyph howls through the ambient radiance.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0030!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.003!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0030!DESCRIPTION!]
 		||
 		*My Falseflesh slowly rises among the emerald rays. Limbs contort, bones crack, and blood boils under the pressure.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0031!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0030!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0031!DESCRIPTION!]
 		||
 		*This is my end.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0032!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0031!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0032!DESCRIPTION!]
-		||	
+		||
 		*Alone.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0033!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0032!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0033!DESCRIPTION!]
 		||
 		*Truly abandoned as fodder for the foul serpent.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0034!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0033!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0034!DESCRIPTION!]
 		||
 		*But expiration of the Falseflesh was sealed long ago; our ends written at the beginning of time.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0035!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0034!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0035!DESCRIPTION!]
 		||
 		*And now that my mission to aid Thetian has concluded, left is my Self with but one thought.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0036!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0035!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0036!DESCRIPTION!]
 		||
 		*All is as it should be.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0037!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0036!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0037!DESCRIPTION!]
 		||
 		*Then, as in countless times past, the sole portal leading to and from this wretched place unseals. A silhouette through it traverses the space between us.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0038!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0037!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0038!DESCRIPTION!]
 		||
 		*Shadow gains in color, color then in chroma; lines and curves soon define the form of Vovkos, dearest friend, a thousand times betrayed. He is the destined companion to Kavu, to the All-Seer's cradle.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X0039!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0038!DESCRIPTION!/]
-	
+
 >>>Rejected Vovkos' sound plan to get off Isle of the Wyrm (2055)<<<
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X0039!DESCRIPTION!]
 		|^2055:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00310!DESCRIPTION!|
 		*But wait must he for another turning of the wheel. For late is he this time and fallen is my Self to the Wyrm. Do not see this too as betrayal, old friend.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00312!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X0039!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00310!DESCRIPTION!]
 		||
 		*But wait must he for another turning of the wheel. For late is he this time and fallen is my Self to the Wyrm.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00311!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00310!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00311!DESCRIPTION!]
 		||
 		*His oath of protection unsatisfied, my Trueflesh weeps for Vovkos. Are we condemned to betray you regardless of our end?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00312!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00311!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00312!DESCRIPTION!]
 		||
 		*Unwittingly the Voice speaks through me, chanting the Sacred Plea:
-		
-		Biracul, Biracul! Keep us from the Blood-Drinkers' talons. 
+
+		Biracul, Biracul! Keep us from the Blood-Drinkers' talons.
 		Biracul, Biracul! Lead us to your righteous path.
 		Biracul, Biracul! Make us one! Oh Shining Scion of the All-Seer!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00313!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00312!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00313!DESCRIPTION!]
 		||
 		*May that we meet in the eternal Spiral and be together once more...*
 		(A#Dream){A:0,MIND!THE BOOK OF THETIAN!THE BEGINNING!0.X000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00313!DESCRIPTION!/]
-	
-	
+
+
 Pact for Thetian, sacrifice all on the island
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.004!DESCRIPTION!]
 		||
 		*Candles flare, banishing darkness from the shadowy room. Dim turns to bright, and bright to blinding as the flames crescendo. Upon the altars, a brilliant, verdant Glyph howls through the ambient radiance.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0040!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.004!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0040!DESCRIPTION!]
 		||
 		*The wretched enemies of Biracul proffered as fodder for the vile serpent - as though feeding poison to acid.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0041!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0040!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0041!DESCRIPTION!]
 		||
 		*Yes... And only my Self will remain.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0042!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0041!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0042!DESCRIPTION!]
 		||
 		*Alone.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0043!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0042!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0043!DESCRIPTION!]
 		||
 		*All is as it should be...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00450!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0043!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00450!DESCRIPTION!]
 		||
 		*Then, as in countless times past, the sole portal leading to and from this wretched place unseals. A silhouette through it traverses the space between us.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00451!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00450!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00451!DESCRIPTION!]
 		||
 		*Shadow gains in color, color then in chroma; lines and curves soon define the form of Vovkos, dearest friend, a thousand times betrayed. He is the destined companion to Kavu, to the All-Seer's cradle.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X00452!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00451!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X00452!DESCRIPTION!]
 		|@:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X00453!DESCRIPTION!|
 		*Though determination may be carved upon his face in perpetuity, his voice betrays a sense of desperation. Voice? Yes, his words provide the harmony to my elegy...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X1102!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X00452!DESCRIPTION!/]
-	
+
 >>>Spoke Vovkos secret name (2054)<<<
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X00453!DESCRIPTION!]
 		|^2054:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00490!DESCRIPTION!|
 		*Words, thus to sound committed, cannot be unsaid.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00454!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X00453!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00454!DESCRIPTION!]
 		||
 		*Vovkos the oarsman, sate though disillusioned with the knowledge he has gained, places hands upon two of the altars, bringing life to their darkened mirrors.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00455!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00454!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00455!DESCRIPTION!]
 		||
 		*The images conjured, to me, are inscrutable, indecipherable, and mystical.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0046!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00455!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0046!DESCRIPTION!]
 		||
 		*The speed and deftness of his hands embody elegance; they are as a wind-whipped willow's branches. Mesmerizing, truly.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00460!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0046!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00460!DESCRIPTION!]
-		||*And in the space of a thought, candles flare, banishing darkness from the shadowy room. Dim turns to bright, and bright to blinding as the flames crescendo. On the floor below, a brilliant, verdant Glyph howls through the ambient radiance.*
+	||
+	*And in the space of a thought, candles flare, banishing darkness from the shadowy room. Dim turns to bright, and bright to blinding as the flames crescendo. On the floor below, a brilliant, verdant Glyph howls through the ambient radiance.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00461!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00460!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00461!DESCRIPTION!]
 		||
 		*My Falseflesh slowly rises among the emerald rays. Limbs contort, bones crack, and blood boils under the pressure.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0047!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00461!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0047!DESCRIPTION!]
 		||
 		*And so it is, that despite my best efforts to condemn the heathens to the Hydrargyrum, their savior, this crafty oarsmen shifts the sentence upon me.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00470!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0047!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00470!DESCRIPTION!]
 		||
 		*But this too was foretold; for has it not already happened infinite times prior?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0048!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00470!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0048!DESCRIPTION!]
 		||
 		*It has...*
@@ -774,57 +775,57 @@ spoke his name
 		*The oarsman is then interrupted by a terrible screeching, a choir of a thousand hawks.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00494!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00490!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00494!DESCRIPTION!]
 		||
 		*The vibrations shake the very fluids of our Falsefleshes, unspeakable pain carried on those pulsing waves.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.004940!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00494!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.004940!DESCRIPTION!]
 		||
 		*But almost as soon as it began, the demonic cacophony ceases, leaving only deathly silence in its wake.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00295!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.004940!DESCRIPTION!/]
-	
-	
+
+
 made pact before
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.005!DESCRIPTION!]
 		||
 		*Silence.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0050!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.005!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0050!DESCRIPTION!]
 		||
 		*Utter and unbreakable.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0051!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0050!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0051!DESCRIPTION!]
 		||
 		*Images.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0052!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0051!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0052!DESCRIPTION!]
 		||
 		*Vovkos and my Self take flight.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0053!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0052!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0053!DESCRIPTION!]
 		||
 		*Impressions.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0054!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0053!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0054!DESCRIPTION!]
 		||
 		*How? Memory now fails to elucidate...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0055!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0054!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0055!DESCRIPTION!]
 		||
 		*One of the countless stolen memories lost to me forever? No, memories... real ones... lingering like scents after dinner... from the myriad times it happened before?*
@@ -877,7 +878,7 @@ JORMUNGUND
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.004!JORMUNGUND!/]
 
 
-Can name Thetian as successor	
+Can name Thetian as successor
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.X000!JORMUNGUND!]
 		|^2051:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.000!JORMUNGUND!|
 		*"None since the Captor have thus to me spoken."*
@@ -894,7 +895,7 @@ Can name Thetian as successor
 Continued after Fen first
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.001!JORMUNGUND!]
 		||
-		*"Father's ploy? To bind the Endbringer, that alone my task be, yet here bound by Its servant I suffer!"* 
+		*"Father's ploy? To bind the Endbringer, that alone my task be, yet here bound by Its servant I suffer!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0010!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.001!JORMUNGUND!/]
 
@@ -1371,7 +1372,7 @@ FENRIR
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X0015!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X0000!FENRIR!/]
 
-Continued after Jor's reply	
+Continued after Jor's reply
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.001!FENRIR!]
 		||
 		*"Alas, I too by duty bound to Eidos be, and great hunger likewise as chains act."*
@@ -1562,19 +1563,19 @@ Jer Memory
 		*And to Jer my Self returns. Though the memory of arriving once more eludes me. Clear it is now that we crawl through the waves as the oarsman directs our craft into the impregnable fog - so white, so pure, the perfect inversion of the Void.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.000!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0000!DESCRIPTION!]
 		||
 		*If the Void is nothingness, then the fog is everything.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0000!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00000!DESCRIPTION!]
 		||
 		*Nature's perfect mirror.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00000!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0001!DESCRIPTION!]
 		||
 		*Robbed of sight as we are, blind we are not. Our ally, the deft oarsman Vovkos, heeds not the illusions of the eyes, guided instead by the wailing winds. He now listens to Nature's song, to the waves echoing off the seabed's crusty fingers. He and he alone hears the wailing warnings off those stony claws that reach out from the watery depths to drag us under, down to the destruction of the Falseflesh!*
@@ -1586,13 +1587,13 @@ Jer Memory
 		*And yet no measure of fear wavers my faith in the Shining One and His mission. Tasked to here find Vovkos, guide to the Thought Wheel of the Beginning. And more than this, prophecies, nay, memories - for what are prophecies but memories of the future? - indeed, according to memories told from other lives, other journeys, it is here that we finally meet.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0003!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0002!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0003!DESCRIPTION!]
 		||
 		*Yet it is not without apprehension that my Self proceeds, for the group of occult wizards who now share my company, seem fallen, eyes closed to the light of the All-Seer. Although my Self knows Biracul has touched this place with his wisdom in times now passed, a sense of fear that it has been corrupted by the Blood-Drinkers lingers.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0003!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X001!DESCRIPTION!]
 		|@:MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0010!DESCRIPTION!|
 		*But all these thoughts scatter at the somber and heavy tone of the mystic High Priest...*
@@ -1605,7 +1606,7 @@ After Caito speaks
 		*An emphatic crack punctuates with echoing finality his last words, and our boat docks into the archaic peer. This island appears to house numerous structures from Vanquished eras, the dock among them, fashioned with a precision and cunning beyond even the treacherous Thiudans' capabilities. Seamless stones fitted together and unmoved for uncounted spans of forgotten time, as though yet awaiting their cruel masters' return. The winds and waters in alliance for centuries have failed to so much as chip the edges of these docks. Clearly the All-Seer will not allow his servants to soon forget the hubris of their sinful ancestors...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00100!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0010!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00100!DESCRIPTION!]
 		||
 		*But more memories of the fallen come in the form of a sweeping beam of intense light. It cuts through the very fog and illuminates the path through the craggy and perilous shore like some false Biracul! Though one misstep here would mean certain death, should we sinners not trust in the All-Seer's plan? What work of witchcraft is it that causes false light to chase fog from the very air which spawned it? Such an ominous Techne does much to make one ill-at-ease in this wretched land.*
@@ -1618,107 +1619,107 @@ After Caito speaks
 		(A#Quickly follow){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0012!DESCRIPTION!}
 		(B#Wait){B:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0013!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0011!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0012!DESCRIPTION!]
 		||
 		*And as always, my guidance arrives. Now it is clear as a virgin spring that He demands following this dubious wizard into the unknown.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00120!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0012!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00120!DESCRIPTION!]
 		||
 		*Shining One! Watch over me...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00120!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0013!DESCRIPTION!]
 		||
 		*And as always, guidance arrives. Now it is clear as a virgin spring that He demands stillness, inaction, stasis.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00130!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0013!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00130!DESCRIPTION!]
 		||
 		*But, swallowed up in the crafty fog, a mere shift in my footing causes a wobble, the wobble a lurch, and the lurch a slip.*
         (A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00131!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00130!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00131!DESCRIPTION!]
 		||
         *It is inevitable... It is His will.*
         (A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00132!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00131!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00132!DESCRIPTION!]
 		||
         *Here ends the Falseflesh... Here ends Torma.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X00133!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00132!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X00133!DESCRIPTION!]
-		|@:MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X0014!DESCRIPTION!|	
+		|@:MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X0014!DESCRIPTION!|
 		*Yet Biracul's judgment is unerring and destiny calls; for loyal Vovkos appears with lantern in hand gripping my wrist firmly and pulling me from Brother Death's clutches. Not today, Death. Not today.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X1102!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X00133!DESCRIPTION!/]
-	
-	
-	
+
+
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X0014!DESCRIPTION!]
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X0014!DESCRIPTION!/]
-	
-	
+
+
 After talking to Vovkos
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0020!DESCRIPTION!]
 		||
 		*The oarsman then walks forward, using his keen sense of Nature's song to guide him. My Self begins to follow his bobbing lantern quickly, though cautiously, forging a path toward the pit of fallen wizards.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00200!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0020!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00200!DESCRIPTION!]
 		||
 		*Shining One! Watch over me...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00200!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0021!DESCRIPTION!]
 		||
 		*As Biracul wills it, my alliance with Vovkos is forged. Without sensing the need to remain, we return to his watercraft and begin our travels to the Thought Wheel of the Beginning, to my ultimate destiny...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00210!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0021!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00210!DESCRIPTION!]
 		||
 		*But the exact nature of our flight remains shrouded in the mists of memory.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00211!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00210!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00211!DESCRIPTION!]
 		||
 		*White fades to gray and gray to black.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00212!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00211!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00212!DESCRIPTION!]
 		||
 		*All sounds vanish into the distance.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00213!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00212!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00213!DESCRIPTION!]
 		||
 		*All senses dull...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!3.X000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00213!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0022!DESCRIPTION!]
 		||
 		*As Biracul wills it, my alliance with Vovkos is forged. Now with even greater strength of will, my Self dares to see once more the cursed mirage of the Wyrm, to make with it that fated pact which only unborn Thetian can consummate. Sacred and necessary though this action may be, to my Self its meaning is utterly inscrutable...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00220!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0022!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00220!DESCRIPTION!]
 		||
 		*Do not of the All-Seer demand understanding, rather pray for the strength to unerringly follow! For how could the ant ever understand man? How could man ever understand God?*
@@ -1733,31 +1734,31 @@ CAITO
 		*"Wayfarer, the cliffs of our sacred island are upon us!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.001!CAITO!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.000!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.001!CAITO!]
 		||
 		*"Soon we bear witness to His will. To His judgment!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.002!CAITO!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.001!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.002!CAITO!]
 		||
 		*"Many before you have claimed the title of Prophetess, yet our Order still seeks..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.003!CAITO!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.002!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.003!CAITO!]
 		||
 		*"I hope you understand what this means."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.004!CAITO!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.003!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.004!CAITO!]
 		||
 		*"The Shining One loves and spurns in equal measure. The righteous he showers in ecstasy, the deceitful in agony."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.005!CAITO!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.004!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.005!CAITO!]
 		||
 		*"Prepare yourself, 'Prophetess'. Your Final Catechism nears."*
@@ -1796,7 +1797,7 @@ VOVKOS
 
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.004!VOVKOS!]
 		||
-		*"Yes... Just ready to save the supposed Prophetess when she's danger..."* 
+		*"Yes... Just ready to save the supposed Prophetess when she's danger..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0040!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.004!VOVKOS!/]
 
@@ -1821,26 +1822,26 @@ VOVKOS
 		*"...How is it you know this name?"*
 		(F#"Oh, you and me go WAY back! We end up traveling to Kavu together!"){F:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.016!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.006!VOVKOS!/]
-	
-	
+
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.011!VOVKOS!]
 		||
-		*"I know not what games you play, but this name... is known to only one other..."* 
+		*"I know not what games you play, but this name... is known to only one other..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0110!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.011!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0110!VOVKOS!]
 		||
-		*"The very giver of the name, in fact."* 
+		*"The very giver of the name, in fact."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0111!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0110!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0111!VOVKOS!]
 		||
 		*"Biracul gave this name to me, told me to guard it jealously, to speak it to no one..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0112!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0111!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0112!VOVKOS!]
 		||
 		*"But now you've come... The Prophetess has finally come..."*
@@ -1854,7 +1855,7 @@ VOVKOS
 		(B#"A vision? Then your evidence is unreliable."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.022!VOVKOS!}
 		(E#"You're just as deluded as that idiot priest Caito."){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.025!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0113!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.016!VOVKOS!]
 		||
 		*"Then... you're the Prophetess! The Eidos!"*
@@ -1869,25 +1870,25 @@ VOVKOS
 		(B#"It'll have to wait; I have business with the Wyrm."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.031!VOVKOS!}
 		(E#"I am the sole arbiter of my destiny! I will not go!"){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.031!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.021!VOVKOS!/]
-		
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.022!VOVKOS!]
 		||
 		*"But I've never spoken this name before! As was my pact with the Shining One when I was but an apprentice!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0220!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.022!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0220!VOVKOS!]
 		||
 		*"That is all the evidence I need, Wayfarer!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.021!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0220!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.025!VOVKOS!]
 		||
 		*"I'll gladly suffer your insults, but for now we must depart from this wretched isle!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0250!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.025!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0250!VOVKOS!]
 		||
 		*"Quickly! Before Caito grows suspicious!"*
@@ -1895,70 +1896,70 @@ VOVKOS
 		(D#"It'll have to wait; I have business to attend to on this isle."){D:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.031!VOVKOS!}
 		(E#"I am the sole arbiter of my destiny! I will not go!"){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.031!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0250!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.026!VOVKOS!]
 		||
 		*"Death of the Falseflesh holds no meaning!"*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0260!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.026!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0260!VOVKOS!]
 		||
-		*"Not when we aid the Shining One himself!"* 
+		*"Not when we aid the Shining One himself!"*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0261!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0260!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0261!VOVKOS!]
 		||
 		*"Your knowledge of the name he gave me is proof beyond all doubt!"*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2054-1!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0261!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0262!VOVKOS!]
 		||
 		*"Come now! We must depart from this wretched isle!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.02620!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0262!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.02620!VOVKOS!]
 		||
 		*"Quickly! Before Caito grows suspicious!"*
 		(A#"But, I have to enter into a covenant with the Wyrm..."){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0263!VOVKOS!}
 		(F#"Okay, let's make like a teenage boy and beat it."){F:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.000!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.02620!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0263!VOVKOS!]
 		||
 		*"But..! No! We must depart immediately!"*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0264!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0263!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0264!VOVKOS!]
 		||
 		*"You don't know of the depravity of these fallen 'servants' of Biracul!"*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0265!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0264!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0265!VOVKOS!]
 		||
 		*"Now they're just vacant shells! Their reverence for the Shining One has faded from so long a wait..."*
 		(A#"No, I must insist. For this too is part of His plan."){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2055-1!VOVKOS!}
 		(F#"Yeesh! You're annoying. Fine, let's go. The Wyrm thing can wait till next time."){F:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.000!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0265!VOVKOS!/]
-	
-	
+
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.031!VOVKOS!]
 		||
 		*"But..! No! We must depart immediately!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0310!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.031!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0310!VOVKOS!]
 		||
 		*"You don't know of the depravity of these fallen 'servants' of Biracul!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0311!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0310!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0311!VOVKOS!]
 		||
 		*"Now they're just vacant shells! Their reverence for the Shining One has faded from so long a wait..."*
@@ -1966,113 +1967,113 @@ VOVKOS
 		(B#"No, I must insist. I need to see the Wyrm."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2055-2!VOVKOS!}
 		(E#"I will not be deterred!"){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2055-2!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0311!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0312!VOVKOS!]
 		||
 		*"..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0313!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0312!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0313!VOVKOS!]
 		||
 		*"If this is your desire... then I'm left with little choice."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0314!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0313!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0314!VOVKOS!]
 		||
 		*"Prophetess, I will guard you from the shadows!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.03140!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0314!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.03140!VOVKOS!]
 		||
 		*"I give you my oath, in Biracul's name, no harm will befall you!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0315!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.03140!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0315!VOVKOS!]
 		||
 		*"When you're satisfied this place has long been bereft of faith, we'll leave."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0316!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0315!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0316!VOVKOS!]
 		||
 		*"Biracul guide us."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X9999!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0316!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.036!VOVKOS!]
 		||
 		*"..."*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0360!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.036!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0360!VOVKOS!]
 		||
 		*"If this is your desire... then I'm left with little choice."*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0361!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0360!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0361!VOVKOS!]
 		||
 		*"Prophetess, I'll guard you from the shadows!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0362!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0361!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0362!VOVKOS!]
 		||
 		*"I give you my oath, in Biracul's name, no harm will befall you!"*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0363!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0362!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0363!VOVKOS!]
 		||
 		*"When you're satisfied this place has long been bereft of faith, we'll leave."*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0364!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0363!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0364!VOVKOS!]
 		||
 		*"Biracul guide us."*
 		(F#"TALLY HO!"){F:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X9999!VOVKOS!}
-	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0364!VOVKOS!/]		
-	
-	
+	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0364!VOVKOS!/]
+
+
 leaving isle
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.000!VOVKOS!]
 		||
-		*"Then there's no time to waste!"* 
+		*"Then there's no time to waste!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.001!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.000!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.001!VOVKOS!]
 		||
 		*"I'll make sure you arrive safely in Kavu! I swear it in His name!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.002!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.001!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.002!VOVKOS!]
 		||
 		*"Quickly now!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X9999!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.002!VOVKOS!/]
-	
-	
+
+
 said not Prophetess
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.000!VOVKOS!]
 		||
 		*"Indeed. Now follow me."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.001!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.000!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.001!VOVKOS!]
 		||
 		*"I'll lead you up the path to the temple."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.002!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.001!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.002!VOVKOS!]
 		||
 		*"The light of Awareness guide your Trueflesh, Wayfarer... whatever It's about to do with the False."*
@@ -2122,7 +2123,7 @@ TEMPLE OF THE VOICE
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.006!DESCRIPTION!]
 		||
-		*These are not the actions of the faithful! These misdeeds betray a faith lost long ago - if ever had at all!* 
+		*These are not the actions of the faithful! These misdeeds betray a faith lost long ago - if ever had at all!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.007!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.006!DESCRIPTION!/]
 
@@ -2186,7 +2187,7 @@ post-caito convo
 		*In truth, thought is the sworn enemy of faith!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.017!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.016!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.017!DESCRIPTION!]
 		||
 		*Thus is my Self driven like livestock along the hazy corridors, away from the bog of blasphemy.*
@@ -2198,7 +2199,7 @@ post-caito convo
 CAITO
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.X000!CAITO!]
 		||
-		*"Is the 'Prophetess' displeased with our ways..?"* 
+		*"Is the 'Prophetess' displeased with our ways..?"*
 		(A#"Your 'methods' are indeed foreign to my own worship of Biracul..."){A:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.001!CAITO!}
 		(B#"You glorify hedonism, but see not beyond it."){B:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.002!CAITO!}
 		(C#"Biracul never spoke against it, so I guess it's fine."){C:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!CAITO!}
@@ -2213,7 +2214,7 @@ CAITO
 		*"I assure you that only the 'truly' faithful would act as we."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0010!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.001!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0010!CAITO!]
 		||
 		*"For condemnation of the Falseflesh as impermanent and foul is expressed in its utmost through its abuse, Wayfarer."*
@@ -2242,7 +2243,7 @@ CAITO
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0020!CAITO!]
 		||
-		*"For condemnation of the Falseflesh as impermanent and foul is expressed in its utmost through its abuse!"* 
+		*"For condemnation of the Falseflesh as impermanent and foul is expressed in its utmost through its abuse!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0021!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0020!CAITO!/]
 
@@ -2259,19 +2260,19 @@ CAITO
 		(B#"In corrupting the vessel, does the content not also spoil?"){B:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.002!CAITO!}
 		(C#"Well, Biracul never said it was wrong, I guess."){C:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0022!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!CAITO!]
 		||
 		*"How magnanimous of you, oh great 'Prophetess'!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0030!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0030!CAITO!]
 		||
 		*"So tolerant is the 'Eidos' of our ways!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0031!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0030!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0031!CAITO!]
 		||
 		*"Bah! Your equivocation is unbecoming of one supposedly so devout!"*
@@ -2279,19 +2280,19 @@ CAITO
 		(C#"Judgment comes from the Wyrm, not you."){C:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.003!CAITO!}
 		(D#"Oh, and filling all 'voids' is somehow more righteous?"){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.004!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0031!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.004!CAITO!]
 		||
 		*"Clever you may think yourself, but I assure you that only the 'truly' faithful would act as we."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0040!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.004!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0040!CAITO!]
 		||
-		*"For condemnation of the Falseflesh as impermanent and foul is expressed in its utmost through its abuse."* 
+		*"For condemnation of the Falseflesh as impermanent and foul is expressed in its utmost through its abuse."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0041!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0040!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0041!CAITO!]
 		||
 		*"Thus, we intoxicate ourselves with the basest and most destructive pleasures of the Falseflesh! We burn away all evils in the fires of desire!"*
@@ -2305,7 +2306,7 @@ CAITO
 		(D#"So your cure for poison is more poison? Genius..."){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.004!CAITO!}
 		(E#"I'm afraid the only cure for stupidity is death, my friend."){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0042!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!]
 		||
 		*"Oh, we await the glorious moment of our deaths anxiously! But not before we wear away the layers of accumulated sin our ancestors bequeathed!"*
@@ -2397,13 +2398,13 @@ CAITO
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0022!CAITO!]
 		||
-		*"And as such, we are done here; you are no Eidos; your death will merely be a vindication from Biracul to His faithful!"* 
+		*"And as such, we are done here; you are no Eidos; your death will merely be a vindication from Biracul to His faithful!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0023!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0022!CAITO!/]
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0023!CAITO!]
 		||
-		*"The Wyrm shall cast its mighty judgment upon you and bind your Trueflesh!"* 
+		*"The Wyrm shall cast its mighty judgment upon you and bind your Trueflesh!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0012!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0023!CAITO!/]
 
@@ -2430,7 +2431,7 @@ CAITO
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0020!CAITO!]
 		||
-		*"The last pretender - that vain Seer wench! - she succumbed instantly, and you clearly lack what little strength of character she possessed."* 
+		*"The last pretender - that vain Seer wench! - she succumbed instantly, and you clearly lack what little strength of character she possessed."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0021!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0020!CAITO!/]
 
@@ -2485,7 +2486,7 @@ CAITO
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0010!CAITO!]
 		||
-		*"Nonetheless, we are done here. You are no Eidos, and your death will merely be a vindication from Biracul to His faithful!"* 
+		*"Nonetheless, we are done here. You are no Eidos, and your death will merely be a vindication from Biracul to His faithful!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0011!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0010!CAITO!/]
 
@@ -2503,7 +2504,7 @@ CAITO
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.004!CAITO!]
 		||
-		*"...I've my doubts that your words will be so cutting when faced with the Wyrm."* 
+		*"...I've my doubts that your words will be so cutting when faced with the Wyrm."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0010!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.004!CAITO!/]
 
@@ -2533,7 +2534,7 @@ URUGH
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.000!DESCRIPTION!]
 		||
 		*And as such, my feet to ancient Urugh shift, or at least, to what remains of it. A desolate city, whole swaths of it remarkably untouched by the cruel and indiscriminate hands of Brother Time, yet still it stands as lifeless as the wastes surrounding it.
-        
+
         As if a demon summoned by the thought of its name, the wastes wheeze their foul breath at my back, kicking up spiraling clouds of dust. The spirals dance toward the open gate - unwanted guides urging on a reluctant visitor. Remembering all too well what awaits, these feet still walk those fateful steps across the threshold.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.000!DESCRIPTION!/]
@@ -2585,14 +2586,14 @@ URUGH
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00100!DESCRIPTION!]
 		||
 		*It is then my Self steps into the decaying shell of a once proud structure. The gray light of the Wasteland sky filters through gaping holes in a high-vaulted ceiling, illuminating motes of dust as they swirl like snowflakes in a windless fall.
-		
+
 		But the path is known to me now, as it was to me then. It is now and ever has been as it should be. A descent into the waterways, and a final birth from its canals await.*
 		(B#Descend into the waterways){B:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01!DESCRIPTION!}
 		(C#Look around){C:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00101!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00100!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00101!DESCRIPTION!]
-		||	
+		||
 		*This place... it may once have mirrored the entrance hall at the city's origin. Alcoves line the walls where statues once stood - where partially misshapen stumps of rock now stand. Awareness calls like distant thunder as the mind counts the statues. Their number coincides with the number of Thiudan Blood-Drinkers... Eyes stare unbidden, searing those abominable, half-eroded visages forever into memory. These were the Masters of the Vanquishers! The malcontents who crushed humanity under the weight of their avarice! Their faces, into my Trueflesh burned, have never been forgotten.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2057!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00101!DESCRIPTION!/]
@@ -2628,26 +2629,26 @@ URUGH
 		(A#Descend into the waterways){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01!DESCRIPTION!}
 		(B#Go to the Stone Circle){B:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X0012!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00111!DESCRIPTION!/]
-		
+
 >>>Saw the Stone Circle (2058)<<<
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X0012!DESCRIPTION!]
 		|^2058:MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0014!DESCRIPTION!|
 		*Through these forlorn and forgotten streets feet shift. To the spiraling Glyph of the Stone Circle, my Trueflesh is directed.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00120!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X0012!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00120!DESCRIPTION!]
 		||
 		*The massive blocks here, though unmistakably wrought by man's hand, emit a rare air of Mother's touch - almost as if they were naturally eroded sculptures, perfected by Brother Time's chisel. Arranged in what looks to be concentric circles, ever tightening, they center upon the bone-white husk of a dead tree.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00121!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00120!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00121!DESCRIPTION!]
 		||
 		*Standing among the ancient stones, no sickening and unholy resonance with the damned Vanquished ails me. Odd, as it is these heathens whose tools must have once crafted this place. Greater still my confusion grows when an intense pull from the dizzying labyrinth of lines upon the circle's floor begins to overwhelms the Trueflesh. An unmistakable connection with the Shining One seems to flow through my very core!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00122!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00121!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00122!DESCRIPTION!]
 		||
 		*Though with it, a connection both undeniable and ineffable in equal parts remains, clarity of its purpose yet eludes me...*
@@ -2660,7 +2661,7 @@ URUGH
 		(A#Head west to the massive emerald font){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X001!DESCRIPTION!}
 		(B#Go inspect the crumbling remains){B:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X00015!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0013!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0014!DESCRIPTION!]
 		||
 		*To the Stone Circle my form returns and the connection with the Shining One pours to the forefront of memory. Yet as hazy as youthful memory is, it remains incomplete, and fragmented as the coppery, fallen bricks of the nearby structure.*
@@ -2672,22 +2673,22 @@ URUGH
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X00015!DESCRIPTION!]
 		||
 		*The crumbling reddish sandstone now returns to the dust whence it came. Ancient beyond measure, this place has not the stains of a Vanquished hand. The fallen bricks outline the walls a once imposing tower. Its contents... only absence, a darkened pit, bottomless at best estimates - though, this still somehow fails to convey its true depth. An erasure so thorough its original existence now seems just a forgotten tale.
-		
+
 		But whatever the tragic fate of this tower may have been, all is as it should be.*
 		(A#Back to the Stone Circle){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X0012!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X00015!DESCRIPTION!/]	
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X00015!DESCRIPTION!/]
 	~~~~>	Maybe eventually have a point of access to the final Red Tower here if 30000 == true???
 
-	
+
 To the tubes
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01!DESCRIPTION!]
 		||
 		*The city's veins, fittingly filled with the filth of man even after all this time, its stench warns of their unnatural birth. Yet down the ladder descending and into the tubes vanishing my Self goes. His will be done. All is as it should be.
-		
+
 		But surprise awaits halfway down, where the rungs give way to corrosion and my body falls into a pile of refuse, soft with rot. Clear as Summer's sky this is the final task of Biracul's Eidos, return no longer possible. Weakness of the Falseflesh conjures emotions of fear and regret. Strength of the True dispels them.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X010!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01!DESCRIPTION!/]
-	
+
 >>>Widened crack (2102)<<<
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X010!DESCRIPTION!]
 		|^2102:MIND!PALACE OF MEMORY!RUINS OF URUGH!0.010!DESCRIPTION!|
@@ -2695,7 +2696,7 @@ To the tubes
 		(C#Keep moving forward){C:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.012!DESCRIPTION!}
 		(E#Widen the crack to hasten the process){E:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2102!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X010!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.010!DESCRIPTION!]
 		||
 		*Thus my form arises and wanders, awaiting a sign in the darkness of this corpse's veins. The echoes of faint trickle of water demand attention. Massive, amplified artificially by the tube. Tracing a foot along the floor, it seems a crack beneath grants escape to the city's lifeblood...*
@@ -2703,11 +2704,11 @@ To the tubes
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.010!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0100!DESCRIPTION!]
-		||		
+		||
 		*Without warning, my form moves. As of habit, pounding fists and stomping feet splinter, pulverize and otherwise erase from existence the fissure, sending it into the realm of memory. Below this vein, another layer holds. Yet the damage is done and Brother Time will surely finish Biracul's work.*
 		(A#Move forward){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.012!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0100!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.011!DESCRIPTION!]
 		||
 		*With no tools to use but those which Mother gifted, my Self resolves to widen the crack. Pounding fists and stomping feet splinter, pulverize and otherwise erase from existence the fissure, casting it deep into the realm of memory. However, below this vein, another layer holds, tenuously shielding the echoing cavern beneath it. Yet the damage is done and Brother Time will surely finish Biracul's work...*
@@ -2731,7 +2732,7 @@ Require some Glyph to pass through here, one the can be used in BoE when she's i
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0120!DESCRIPTION!]
 		||
 		*Recollection eludes the mind... Brother Time leaves none untouched. As His feet in solemn march step absently upon our carefully crafted sandcastles, so too do His fingers smudge the ink of Memory as it dries.
-		
+
 		Clear as cloudless skies did my Self past the portal travel, yet how it was accomplished... certainty to mystery returns. All is as it should be.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0121!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0120!DESCRIPTION!/]
@@ -2744,7 +2745,7 @@ Require some Glyph to pass through here, one the can be used in BoE when she's i
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.013!DESCRIPTION!]
 		||
-		*Passing through ghostly portals - here now, then gone - feet drift among the chambers in utter darkness. Floating in the shade, the eyes soon bathe in eldritch light. Not far ahead, the floor yawns, vomiting a ghoulish glow through the shattered teeth of its gaping maw. Peering down its throat, eyes now see into its empty belly; long has it gone hungry. But today it breaks the fast, swallowing my form as it leaps to the room below.* 
+		*Passing through ghostly portals - here now, then gone - feet drift among the chambers in utter darkness. Floating in the shade, the eyes soon bathe in eldritch light. Not far ahead, the floor yawns, vomiting a ghoulish glow through the shattered teeth of its gaping maw. Peering down its throat, eyes now see into its empty belly; long has it gone hungry. But today it breaks the fast, swallowing my form as it leaps to the room below.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0130!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.013!DESCRIPTION!/]
 
@@ -2756,9 +2757,9 @@ Require some Glyph to pass through here, one the can be used in BoE when she's i
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0130!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0131!DESCRIPTION!]
-		||	
+		||
 		*Eyes wander, soon falling upon a break in the eight walls, upon a window peering out into a gargantuan cavern. The area's luminescence springs from the unnatural emerald sludge coating the cavern walls.
-		
+
 		But the cavern holds secrets far more profane, far more wicked than this! Five spheres of darkness absolute hover mid-air, staring out like a corpse's sightless eyes. Oh, curse those wretched, truth-blind eyes of the Blood-Drinkers! When they gazed upon the Empyrean, the All-Seer must have burned brilliantly, casting eternal shadows on the arrogant fools who came uninvited!*
 		(B#Look at the spheres){B:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.014!DESCRIPTION!}
 		(C#Examine the seal the thrones surround){C:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X015!DESCRIPTION!}
@@ -2831,32 +2832,32 @@ Require some Glyph to pass through here, one the can be used in BoE when she's i
 		(A#Record final words){A:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2103!DESCRIPTION!}
 		(C#Step upon the seal){C:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.03!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X015!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0150!DESCRIPTION!]
 		||
 		*Then a sudden revelation instills in me the need to record some parting words... A loosened stone my pen, the Shining One my muse, and out flow the words that will be my last on this seemingly interminable journey...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0151!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0150!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0151!DESCRIPTION!]
 		||
 		*SUCCESS! THE ORIGIN OF THE MONAD FOUND IS!
 		DEMONS THE VANQUISHED WERE IF SUCH A THOUGHT WHEEL HERE TURNS,
 		A COUNTER WHEEL IN RESPONSE TO THE REVOLUTION OF OUR WORLD.
 		LIES THE EMPYREAN BEYOND THIS PLANE?
-		CERTAINTY ELUDES MY KEN. 
+		CERTAINTY ELUDES MY KEN.
 		ALONE HERE STANDING, PAST AND FUTURE BEYOND RECKONING.
 		WHATEVER HERE NOW OCCURS, GLADLY THE SIN I SHALL BEAR.
 		I, TORMA, HAVE BEEN. WITNESS ME.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0152!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0151!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0152!DESCRIPTION!]
 		||
 		*Thought to word translated, as incomplete as essence to thought first rendered... An emptiness my Trueflesh had always felt in trying to express both in thought and word the sublime nature of my Biraculian connection to the Monad, to the name my Trueflesh now dares to utter...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0153!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0152!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0153!DESCRIPTION!]
 		||
 		*To Conscientia.*
@@ -2880,7 +2881,7 @@ Require some Glyph to pass through here, one the can be used in BoE when she's i
 		*Perhaps 'I' can simply 'be'...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.03!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01541!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0155!DESCRIPTION!]
 		||
 		*The seal... Yes, the seal! Memories of the Empyrean now flood my thoughts, the All-Seer's warm embrace, the unbounded ecstasy of the holy mission entrusted to me!*
@@ -2892,7 +2893,7 @@ Require some Glyph to pass through here, one the can be used in BoE when she's i
 		*Gifting one final glance to those fateful words my hand once etched into the stony floor so long ago, my Self once more steps upon the Farcaster seal.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.03!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01550!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.03!DESCRIPTION!]
 		||
 		*A lifetime of travel and searching, a lifetime of dedication and servitude... The culmination of His plan. It is finally upon us! Whatever deeds you demand of my Trueflesh now, willingly are they done! A foot upon the seal, soon accompanied by its twin, the Thought Wheel begins to spin, its activation signaling the fulfillment of my oath.*
@@ -2935,7 +2936,7 @@ Kavu Memory
 		(B#Descend into the crater){B:1,MIND!PALACE OF MEMORY!WASTELAND!0.001!DESCRIPTION!}
 		(D#Run away){D:1,MIND!PALACE OF MEMORY!WASTELAND!0.0013!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0001!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.001!DESCRIPTION!]
 		||
 		*As the Voice commands, so do we obey! Recklessly we descend, into the jaws of madness. The chaos below eyes us with interest and desire in equal measure, tugging roughly at our Trueflesh, and slowly chipping away at our essence. Each step closer to it seems to melt a fraction of the Self, threatening to sever our link to the All-Seer. Even still, faith in the Shining One compels us! In His light no darkness can abide!*
@@ -2948,18 +2949,18 @@ Kavu Memory
 		*Sudden movement draws the eye. The crater's ebon skin now crawls with pearlescent pustules, writhing in agony, taking on some demonic form. Blood-Drinkers' spawn! Deniers of Truth! They are all the Monad is not! Wicked mirrors relaying shadows! The absence of all Self!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0012!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.X0010!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0011!DESCRIPTION!]
 		||
 		*Sudden movement draws the eye. The crater's ebon skin now crawls with pearlescent pustules, writhing in agony, taking on some demonic form. Blood-Drinkers' spawn! Deniers of Truth! They are all the Monad is not! Wicked mirrors relaying shadows! The absence of all Self! The...
-		
+
 		Odd... From the depths of memory, a forgotten Glyph resonates. Its throbbing pulse whispers... thoughts... no, words! Words begging communion...*
 		(C#Ignore the call){C:1,MIND!PALACE OF MEMORY!WASTELAND!0.0012!DESCRIPTION!}
 		(D#__Use the Glyph of the Occult__){D:1,MIND!PALACE OF MEMORY!WASTELAND!1.501!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0011!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0012!DESCRIPTION!]
-		||	
+		||
 		*A flash of Awareness acts as summons to the current present. Roused from ecstasy and delivered into terror, eyes witness the pulsating river of filth shift its flow in our direction. Fear grips the form, compelling flight from duty, escape from whatever madness lurks below. Vovkos gives chase. Yet soon does he fade into the dust of unremembered events.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.00120!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0012!DESCRIPTION!/]
@@ -2969,13 +2970,13 @@ Kavu Memory
 		*Feet work unbidden, their panicked retreat carrying my form north, far from the wicked pit. Space is a blur, until at last my Self ascends a glassy dune, capped with the calcified husk of a Vanquished warbeast. Here the safety of solitude awaits. Even in Danger's den, Biracul offers shelter.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.002!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.00120!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0013!DESCRIPTION!]
 		||
 		*Yes, this place is... unsettling. The heart's unspoken fears, its silent cries, ring truly in His ears! Biracul urges retreat! Willingly the Self would have descended into chaos, yet this He does not demand. Faith steadfast, the tranquil peace of safety is my reward!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0012!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0013!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.002!DESCRIPTION!]
 		||
 		*Reaching the warbeast's worn carapace, my Self pauses in a moment of silent contemplation. Here yet another finger upon the hand of the All-Seer moved the world...*
@@ -3006,20 +3007,20 @@ Kavu Memory
 		*When all have forgotten Torma, when history no longer whispers the name, only then can my Self truly rejoin the Self! A return to the Eternal Spiral! That is faith's reward!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.003!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0023!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.00200!DESCRIPTION!]
 		||
 		*Without warning, a strange sensations bubbles up from within memory. The emotional tug of Wulfias...*
 		(A#Resist the pull){A:1,MIND!PALACE OF MEMORY!WASTELAND!0.00201!DESCRIPTION!}
 		(C#Acquiesce to the pull){C:1,MIND!PALACE OF MEMORY!WASTELAND!0.00210!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.00200!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.00201!DESCRIPTION!]
 		||
 		*As the Voice commands, so does this servant obey. Strong the pull may be, but stronger is faith! The mind is a storm at sea, waves breaking, crashing, drowning out all thought. Faith are my chains! Bound is my Self to His will! Safe in His restraints, the waves cannot carry me to sea!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.003!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.00201!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.00210!DESCRIPTION!]
 		||
 		*As the Voice commands, so does this servant obey. Strong the pull may be, but stronger is faith! The mind is a storm at sea, waves breaking, crashing, drowning out all thought. Faith are my chains! Bound is my Self to His will! Tied to the sacrificial altar, the surging waters and bellowing winds strip the Trueflesh from the mind, carrying it off into the infinite. Awareness wanes as slumber falls upon the Falseflesh like the Final Night. All is as it should be...*
@@ -3073,55 +3074,55 @@ Kavu Memory
 		*Yet, the wastes offer no true solace to the weary traveler.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0040!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.004!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0040!DESCRIPTION!]
 		||
 		*A thunderous crack acts as prelude to a pillar's fall. Vovkos moves again his silent lips, barking commands, unheard, unheeded. So he is cast in shadow, his eyes freezing upon the thing that would stand in light's way. Head turning, dread returning, eyes fall upon the fiend. Bigger than the beast of the Vedt twice over, a towering colossus stares down at us with ruby eyes burning brightly. Its form is some perverse mutation of crystals opaque and otherwise. Dark obsidian acts as armor, shielding powerful amethysts beneath.*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0041!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0040!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0041!DESCRIPTION!]
 		||
         *And in the space of a thought, the strength that fell a pillar comes crashing down towards our frail Falsefleshes...*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0042!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0041!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0042!DESCRIPTION!]
 		||
         *When eyes next open to vision blurred, Vovkos kneels over me, forlorn face nearly hidden in the intercourse of dust and sand permeating the air. Now red streams flow where tears once did back in the Vedt - an eternity ago, it seems. But even though this moment lasts only an instant, his face tells me what his unspoken words never could...*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0043!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0042!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0043!DESCRIPTION!]
 		||
         *We will not meet again in the Eternal Spiral.*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0044!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0043!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0044!DESCRIPTION!]
 		||
         *With a nod of parting, he steps into the light, Falseflesh burning brighter than any crystal ever could! His thought draws circles in the sand, lines ricocheting within their bounds. With each new edge part of Vovkos and his crystalline foe shattered, spiraling toward their common center, fusing into some dark, unholy brew. When all is done and the light wanes, shadows return to the ancient forest.*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0045!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0044!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0045!DESCRIPTION!]
 		||
 		*A sacrifice he will make endless times, the ultimate sacrifice...*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0046!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0045!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0046!DESCRIPTION!]
 		||
         *Never again can his Self rejoin the Spiral.*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0047!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0046!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0047!DESCRIPTION!]
 		||
         *Vovkos is gone.*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0048!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0047!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0048!DESCRIPTION!]
 		||
         *Undone.*
@@ -3133,26 +3134,26 @@ Kavu Memory
 		*The wind whistles through the pillars, mocking my pain. Though, Mother often warns not to dwell on loss at length, lest we make of it an lasting companion.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0050!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.005!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0050!DESCRIPTION!]
 		||
 		*Eyes fall one last time on the abomination, the fruit of forbidden Techne. Never could this be changed, not the first time, not the myriad times since. Never will it be forgotten, not now, not the thousand times hence!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0051!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0050!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0051!DESCRIPTION!]
 		||
 		*His love is great; His love is cruel! His love is all we need! And all is as it should be!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.X000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0051!DESCRIPTION!/]
-	
+
 >>>Have Ormenos (12304)<<<
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.X000!DESCRIPTION!]
 		|^12304:MIND!PALACE OF MEMORY!WASTELAND!1.000!DESCRIPTION!|
 		*Ripples unfold across the scene in shimmering waves. Something haunts me from among the shadows. The Memory-Thief... His presence now so strong... His chilling breath pours down my neck like a waterfall of mephitic vapors. The eyes turn to look, but he has already melted back into the shadows. Soon, he is gone and all fades with him, back into nothing, back into the Void...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.X000!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.000!DESCRIPTION!]
 		||
 		*Ripples unfold across the scene in shimmering waves. Something haunts me from among the shadows. The Memory-Thief... His presence now so strong... His chilling breath pours down my neck like a waterfall of mephitic vapors. The eyes turn to look, but he has already melted back into the shadows... and into the shadows, as if by instinct, my Self follows...*
@@ -3199,7 +3200,7 @@ __Re-living of Rikharr's Folly__
 
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.5015!DESCRIPTION!]
 		||
-        *Never again... never ag...*        
+        *Never again... never ag...*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5016!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.5015!DESCRIPTION!/]
 
@@ -3229,7 +3230,7 @@ __Re-living of Rikharr's Folly__
 
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.512!DESCRIPTION!]
 		||
-        *From the adversary... from the 'Shining One'...*        
+        *From the adversary... from the 'Shining One'...*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.513!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.512!DESCRIPTION!/]
 
@@ -3364,7 +3365,7 @@ Zhili Memory
     [/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000021!DESCRIPTION!]
 		||
 		*The scene expanded before the eyes, off into the six directions. Feet stand upon stubborn grasses that claw their way up through chilled soil, gathering Brother Sun's bounty. Skin feels Uncle Wind as He whispers cold tales from travels to lands unknown. Eyes watch as Sister Cloud sculpted figures in the sky.
-		
+
 		Serene and pure, this place, Mother's very home, is sacred to the Eye.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000021!DESCRIPTION!/]
@@ -3386,19 +3387,19 @@ Zhili Memory
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!]
 		||
 		*Even so, in this realm of smoke and mirrors my Self remained. Feet shift, carrying me forward; left and right fruitlessly vie to be first, unaware that they are bound together in the end. Faster and faster they move, soon breaking into a dash. The speed peels layers of time and memory from the Falseflesh, leaving only the True behind.
-		
+
 		Summer rains chase away autumn winds, and frozen winters oust fertile springs. Over and over the cycle unwinds, returning my form to the innocent youth of its origins, to a time before knowledge tainted its core.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00010!DESCRIPTION!]
-		||		
+		||
 		*Admittedly, illusions would have put me ill-at-ease were it not for my bond with the Shining One. Devotion and sacrifice to the higher purpose of His creation dispelled the illusion of fear. His light banishes the specters of darkness! No illusions, no doubts can lurk in His shadowless presence!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00010!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00011!DESCRIPTION!]
-		||		
+		||
 		*Admittedly, the Trueflesh is willing, but the False is weak. This servant of Biracul's was but a mere human, no divinity can she reach, no apotheosis awaits her. But strength is not necessary, for my guide is the crystalline Voice of the Shining One. Enough for me is it to be touched by the hand of the divine. After all, contentment begets bliss..*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00011!DESCRIPTION!/]
@@ -3667,7 +3668,7 @@ Zhili Memory
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X0040!DESCRIPTION!/]
 
 
-post Uraklian dialogue	
+post Uraklian dialogue
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.005!DESCRIPTION!]
 		||
 		*Kavu, the end of my voyage, the Thought Wheel of the Beginning. Though its significance remained unclear at the time, now my understanding is unclouded by the fog of ignorance. Kavu! It was, is and forever shall be my destination.*
@@ -3718,9 +3719,9 @@ URAKLIAN
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.X000!URAKLIAN!/]
-	
-	
-	
+
+
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.100!URAKLIAN!]
 		||
 		*"Yes! I knew you were just another truth-blind savage come by mistake! A foolish lamb come to be sacrificed!"*
@@ -3767,12 +3768,12 @@ URAKLIAN
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2002!URAKLIAN!]
 		||
-		*"Because you're no Eidos, no Prophetess! You're not chosen by the Shining One!"* 
+		*"Because you're no Eidos, no Prophetess! You're not chosen by the Shining One!"*
 		(A#"As you are now? What happened to you, Uraklian?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.101!URAKLIAN!}
 		(B#"I don't pretend to be Eidos."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.201!URAKLIAN!}
 		(C#"What makes you so certain I'm not Eidos?"){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2002!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.300!URAKLIAN!]
 		||
 		*"...What trick of blood magic is this? Have you practiced Lady Midnight's black rituals, you fiend?!"*
@@ -3814,7 +3815,7 @@ URAKLIAN
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4002!URAKLIAN!]
 		||
-		*"You are but another truth-blind savage come by mistake, a foolish lamb come to be sacrificed!"* 
+		*"You are but another truth-blind savage come by mistake, a foolish lamb come to be sacrificed!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4003!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4002!URAKLIAN!/]
 
@@ -3852,7 +3853,7 @@ URAKLIAN
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5002!URAKLIAN!]
 		||
-		*"Because you're no Eidos, no Prophetess! You're not chosen by the Shining One!"* 
+		*"Because you're no Eidos, no Prophetess! You're not chosen by the Shining One!"*
 		(A#"As you are now? What happened to you, Uraklian?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.101!URAKLIAN!}
 		(D#"It sounds as though you were once an 'impostor' yourself..."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.401!URAKLIAN!}
 		(E#"I have no ears for the wisdom of losers."){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!}
@@ -3863,28 +3864,28 @@ URAKLIAN
 		*"...Are your designs to confuse? To beguile? Like some pauper's Lord of Tricks!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6000!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.600!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6000!URAKLIAN!]
 		||
 		*"No! I won't be distracted!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6001!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6000!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6001!URAKLIAN!]
 		||
-		*"Soon enough your intentions will be irrelevant!"* 
+		*"Soon enough your intentions will be irrelevant!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6002!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6001!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6002!URAKLIAN!]
 		||
 		*"And as I am now, so too shall you be! Hubris guides you into the shadows of ignorance where the Wyrm will bind you!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6003!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6002!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6003!URAKLIAN!]
 		||
-		*"Because you're no Eidos, no Prophetess! You're not chosen by the Shining One!"* 
+		*"Because you're no Eidos, no Prophetess! You're not chosen by the Shining One!"*
 		(A#"As you are now? What happened to you, Uraklian?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.101!URAKLIAN!}
 		(B#"I don't pretend to be Eidos."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.201!URAKLIAN!}
 		(C#"What makes you so certain I'm not Eidos?"){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
@@ -3908,7 +3909,7 @@ URAKLIAN
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1011!URAKLIAN!]
 		||
-		*"But how is it you know my sacred name? Out with it!"*		
+		*"But how is it you know my sacred name? Out with it!"*
 		(A#"I have the impression we've met before."){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.102!URAKLIAN!}
 		(B#"I don't know why; I simply know it is so."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
 		(E#"What does it matter? This conversation is going nowhere."){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!}
@@ -3967,7 +3968,7 @@ URAKLIAN
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3012!URAKLIAN!]
 		||
-		*"But the judgment of the Wyrm will weigh heavy upon your Trueflesh, oh great charlatan!"* 
+		*"But the judgment of the Wyrm will weigh heavy upon your Trueflesh, oh great charlatan!"*
 		(B#"I'll determine for myself who I am."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.202!URAKLIAN!}
 		(C#"My fate was written long ago; all is as it should be."){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2011!URAKLIAN!}
 		(D#"You're terribly charming, aren't you..."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
@@ -3987,7 +3988,7 @@ URAKLIAN
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4011!URAKLIAN!]
 		||
-		*"For when you finally arrive at Jer, as we all did before you, only then will you feel the weight of your hubris, heavy upon your Trueflesh under the crushing oppression of the Wyrm's judgment."* 
+		*"For when you finally arrive at Jer, as we all did before you, only then will you feel the weight of your hubris, heavy upon your Trueflesh under the crushing oppression of the Wyrm's judgment."*
 		(C#"..."){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
 		(D#"You're terribly charming, aren't you..."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
 		(E#"Maybe I should just kill you for wasting my time..."){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
@@ -3995,7 +3996,7 @@ URAKLIAN
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!]
 		||
-		*"Then by all means, proceed onwards to Jer!"* 
+		*"Then by all means, proceed onwards to Jer!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5010!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!/]
 
@@ -4109,7 +4110,7 @@ URAKLIAN
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-TECHNICAL STUFF	
+TECHNICAL STUFF
 _____________________________________
 EVENT WRITERS
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2006!URAKLIAN!]
@@ -4123,7 +4124,7 @@ EVENT WRITERS
 		*EVENT WRITER - Chose Tru Response in Urk convo*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2007!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2008!URAKLIAN!]
 		|2008:MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X002!URAKLIAN!|
 		*EVENT WRITER - Chose Neu Response in Urk convo*
@@ -4134,26 +4135,26 @@ EVENT WRITERS
 		|2009:MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X002!URAKLIAN!|
 		*EVENT WRITER - Chose Sur Response in Urk convo*
 		(A#WRITER){A:0,NO ADDRESS}
-	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2009!URAKLIAN!/]	
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2009!URAKLIAN!/]
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2010!URAKLIAN!]
 		|2010:MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X002!URAKLIAN!|
 		*EVENT WRITER - Chose Tyr Response in Urk convo*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2010!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2011!URAKLIAN!]
 		|2011:MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!|
 		*EVENT WRITER - Accepted fate Urk convo*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2011!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!THE EMPYREAN!9990.X2012!DESCRIPTION!]
 		|2012:MIND!PALACE OF MEMORY!THE EMPYREAN!4.000!DESCRIPTION!|
 		*EVENT WRITER -  Created the Biracul*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!THE EMPYREAN!9990.X2012!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2044!VOVKOS!]
 		|2044:MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.000!VOVKOS!|
 		*EVENT WRITER -  Did not speak Vovkos' name*
@@ -4165,43 +4166,43 @@ EVENT WRITERS
 		*EVENT WRITER -  Created the Biracul*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2051!JORMUNGUND!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2052!JORMUNGUND!]
 		|2052:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X9999!JORMUNGUND!|
 		*EVENT WRITER -  Torma offers herself as sacrifice*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2052!JORMUNGUND!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2053!JORMUNGUND!]
 		|2053:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X9999!JORMUNGUND!|
 		*EVENT WRITER -  Torma offers others as sacrifice*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2053!JORMUNGUND!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2054-1!VOVKOS!]
 		|2054:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0010!VOVKOS!|
 		*EVENT WRITER -  Spoke Vovkos secret name*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2054-1!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2054-2!VOVKOS!]
 		|2054:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X0020!VOVKOS!|
 		*EVENT WRITER -  Spoke Vovkos secret name*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2054-2!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2054-1!VOVKOS!]
 		|2054:MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0262!VOVKOS!|
 		*EVENT WRITER -  Spoke Vovkos secret name*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2054-1!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2054-2!VOVKOS!]
 		|2054:MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.001!VOVKOS!|
 		*EVENT WRITER -  Spoke Vovkos secret name*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2054-2!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2055-1!VOVKOS!]
 		|2055:MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.036!VOVKOS!|
 		*EVENT WRITER -  Rejected Vovkos' sound plan to get off Isle of the Wyrm*
@@ -4213,40 +4214,40 @@ EVENT WRITERS
 		*EVENT WRITER -  Rejected Vovkos' sound plan to get off Isle of the Wyrm*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2055-2!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2057!DESCRIPTION!]
 		|2057:MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00102!DESCRIPTION!|
 		*EVENT WRITER - Saw statues of the Jinetes at the Emerald Font*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2057!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2058!DESCRIPTION!]
 		|2058:MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0013!DESCRIPTION!|
 		*EVENT WRITER - Saw the stone circle*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2058!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2101!DESCRIPTION!]
 		|2101:MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000!DESCRIPTION!|
 		*EVENT WRITER - Playing as Ormenos*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2101!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2102!DESCRIPTION!]
 		|2102:MIND!PALACE OF MEMORY!RUINS OF URUGH!0.011!DESCRIPTION!|
 		*EVENT WRITER - Widened crack*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2102!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2103!DESCRIPTION!]
 		|2103:MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0150!DESCRIPTION!|
 		*EVENT WRITER - Wrote torma's final words*
 		(A#WRITER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2103!DESCRIPTION!/]
-	
-	
-	
-	
+
+
+
+
 _____________________________________
 NPC SWITCHERS
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X0000!JORMUNGUND!]
@@ -4254,67 +4255,67 @@ NPC SWITCHERS
 		*FENRIR FROM JORMUNGUND*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X0000!JORMUNGUND!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X0015!DESCRIPTION!]
 		|#npcSwitch:15|
 		*JORMUNGUND*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X0015!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X0015!FENRIR!]
 		|#npcSwitch:15|
 		*JORMUNGUND*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X0015!FENRIR!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X1100!DESCRIPTION!]
 		|#npcSwitch:1100|
 		*URAKLIAN*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X1100!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X1101!DESCRIPTION!]
 		|#npcSwitch:1101|
 		*CAITO*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X1101!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!9999.X1101!DESCRIPTION!]
 		|#npcSwitch:1101|
 		*CAITO*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!9999.X1101!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X1102!DESCRIPTION!]
 		|#npcSwitch:1102|
 		*VOVKOS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X1102!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X1102!DESCRIPTION!]
 		|#npcSwitch:1102|
 		*VOVKOS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X1102!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X9999!CAITO!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM CAITO*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X9999!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!9999.X9999!CAITO!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM CAITO*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!9999.X9999!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X9999!JORMUNGUND!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM JORMUNGUND*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X9999!JORMUNGUND!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X9999!URAKLIAN!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM URAKLIAN*
@@ -4326,9 +4327,13 @@ NPC SWITCHERS
 		*DESCRIPTION FROM VOVKOS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X9999!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X9999!VOVKOS!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM VOVKOS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X9999!VOVKOS!/]
+
+________________________________________________________________________
+FIGHTING WORDS
+

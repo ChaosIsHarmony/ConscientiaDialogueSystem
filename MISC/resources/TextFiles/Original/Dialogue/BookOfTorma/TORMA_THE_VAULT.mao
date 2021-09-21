@@ -137,7 +137,7 @@ post-first interrogation
 		*Thousands of nodes pull skin and hair as Ormenos rips the Mind-Loom from his scalp severing his connection to Torma.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!0.00100!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X001!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.00100!DESCRIPTION!]
 		||
 		*This abrupt and violent action is not without its consequences. The agitated mage doubles over, vision blurring, pain searing the end of his myriad nerve-endings.*
@@ -161,17 +161,17 @@ post-first interrogation
 		*Tachycardia.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X00104!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.00103!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X00104!DESCRIPTION!]
 		|@:ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X0010!DESCRIPTION!|
 		*All signs he knows well. Each the calling card of Death.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!9999.X1203!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X00104!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X0010!DESCRIPTION!]
 		|@:ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0011!DESCRIPTION!|
-		*A palm soon slaps flush against Ormenos' forehead, executing a soothing Techne, slowing Ormenos' heart to the point where he can focus again and calm his breathing. 
-		
+		*A palm soon slaps flush against Ormenos' forehead, executing a soothing Techne, slowing Ormenos' heart to the point where he can focus again and calm his breathing.
+
 		Ormenos looks up to see Brother Mind Seer hovering above him, only now realizing he is laid out on the floor. Though worry and fear contorted his savior's features in their callous tug-of-war, the Mind Seer soon breathes a sigh of relief as he sees the spark of life has returned to his comrade's eyes. Crisis averted, the young man immediately begins to make urgent inquiries into the cause of such a risky exit from the Mind-Loom.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!9999.X1203!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X0010!DESCRIPTION!/]
@@ -179,7 +179,7 @@ post-first interrogation
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0011!DESCRIPTION!]
 		||
 		*Unable to contain his urge to record the bizarre events that just unfolded, the junior Thought-Weaver hastily pens fresh observations in his ever-present notebook. The pen dances a violent, twisting routine upon the page, liquid thoughts soon filling the space between the borders. The tip grips the page right on the threshold of tearing through it. The resulting half-scratches from the interaction of pen and paper add a counterpoint to the enraptured author's near-maniacal giggling.
-		
+
 		The mage then flips the page with such speed and deftness that the ink dries instantly, giving free rein to continue his rhapsodic scribbling.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0012!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0011!DESCRIPTION!/]
@@ -193,7 +193,7 @@ post-first interrogation
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0013!DESCRIPTION!]
 		||
 		*Before he knows it, he is back in the Stasis Cell, standing, hand gripping the glassy prison that houses the Wayfarer. Their eyes lock, only for an instant before he forces himself to look away. Impossible as he knows it must be, he clearly saw her green eyes peering right into his own. No. He will not believe it. In the centuries since her capture, she has not once opened her eyes. But just now...
-		
+
 		He looks back. The eyes are closed. Right. Of course they are. Thoughts and feelings from a fabricated reality, just the psychotic delusions of a cursed mind; he knows it to be true. It has to be...*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0014!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0013!DESCRIPTION!/]
@@ -201,7 +201,7 @@ post-first interrogation
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0014!DESCRIPTION!]
 		||
 		*Work has consumed him for far too long, mainly the burning desire to be the one to solve the intractable Wayfarer and her myriad stolen memories, to find the Thought Wheel of the Beginning. And now he knows: it was in Kabu all along, that far-off desert disaster of Biraculian hypocrisy. Just one more dive and he could confirm his suspicions. But now this...
-		
+
 		Perhaps the Choir of Archons will shed some light on this anomaly - his morning dive report, due soon he realizes, should provide the perfect opportunity to make the necessary inquiries. As such, he steps upon the cloudstone and rises up toward the Warden's Conduit.*
 		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0014!DESCRIPTION!/]
@@ -211,7 +211,7 @@ Witnessed Khlutt outburst and not spoke w Thetian
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!10.001!DESCRIPTION!]
 		||
 		*Ormenos enters the cell only to find a prior arrival connected through the Mind-Loom to the Wayfarer. Brother Mind Seer now conducts an unsanctioned dive, likely thinking Ormenos too busy with his report to return so soon.
-		
+
 		But waking a mage mid-dive is risky business and done only in the most extreme cases. And as such, Ormenos opts to wait for the junior acolyte to surface of his own accord.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!10.00100!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.001!DESCRIPTION!/]
@@ -219,7 +219,7 @@ Witnessed Khlutt outburst and not spoke w Thetian
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!10.00100!DESCRIPTION!]
 		||
 		*It is not long, however, before the young Thought-Weaver begins to stir. Frothy drool drips from a convulsing mouth as silent screams try to escape trembling lips. His hands strain to grip the air, like a desperate man in his death throes. Agony signs its unmistakable name upon the diver's contorted form, while Fear writes its curse into the Mind Seer's twisted expression.
-		
+
 		Ormenos acts, ripping the Mind-Loom from his friend's scalp. Absent the Loom's support, the suffering mage drops down to the floor, vomiting blood in between violent seizures.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!10.00101!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.00100!DESCRIPTION!/]
@@ -251,7 +251,7 @@ Witnessed Khlutt outburst and not spoke w Thetian
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0013!DESCRIPTION!]
 		||
 		*But was it not he who untied this impossible knot? Was it not he who made the Order's greatest discovery in finding the Thought Wheel of the Beginning? Does he not deserve the honor of at least seeing it for himself?
-		
+
 		But then again, extravagant behavior can lead to imbalance and imbalance to chaos. Look no further than the Vanquished and the Thiuda for proof; both were civilizations that could perform miraculous Techne at a whim, and both were civilizations devastated by the egotistical willfulness of individuality.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0014!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0013!DESCRIPTION!/]
@@ -402,7 +402,7 @@ out as torma CG
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.011!DESCRIPTION!]
 		||
 		*Walking to the exit she spots an inert cloudstone, silent and still, ready to respond to the call of a bearer of Glyphs. Though no mage is she, Torma instinctively commands the Vanquished relic she so abhors, for this music calls to her more strongly now than any prejudice she may hold.
-		
+
 		Quickly, she climbs upon the cloudstone and wills it upwards, towards the source of the ethereal melody.*
 		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.011!DESCRIPTION!/]
@@ -416,13 +416,13 @@ out as ormenos CG
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.001!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.002!DESCRIPTION!]
-		||		
+		||
 		*Graver still, he finally notices the viscous, emerald fluid encompassing his form. Panic tries to take hold, but Ormenos knows all too well the function of this liquid prison. He has seen it thousands of times before, though never once been in it - 'had' never once been in it.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.003!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.002!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.003!DESCRIPTION!]
-		||		
+		||
 		*He breathes in the fluid in deep breaths, seeking to calm any residual tension with evidence of the fluid's safety. Mind centered he can begin to enact his escape plan - an odd benefit of his paranoia having allowed him to prepare one a decade ago when he first came to the Vault.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.004!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.003!DESCRIPTION!/]
@@ -430,7 +430,7 @@ out as ormenos CG
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.004!DESCRIPTION!]
 		||
 		*Suddenly, a cataclysmic perturbation jars his glassy prison, making it shake uncontrollably. It sways violently, fracturing under the stress. Soon, the unit even topples to the ground, shattering the glass and spilling the fluid across the floor. Thousands of Ormenos lie sprawled on the ground, now shivering and coughing, reflecting among the shards of his broken container.
-		
+
 		He tries to move, yet finds his muscles unresponsive. He hopes his muscles have not atrophied during his internment - centuries could have already passed since he was locked away for all he knew.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.X005!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.004!DESCRIPTION!/]
@@ -468,7 +468,7 @@ out as ormenos CG
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.010!DESCRIPTION!]
 		||
 		*Stumbling toward the cell's exit, Ormenos hastily calls a cloudstone. Time to press his advantage, the one he has always fights hard to keep: he will strike while the enemy is under a false impression.
-		
+
 		The cloudstone arrives. He mounts and cautiously moves toward the Warden's Conduit.*
 		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.010!DESCRIPTION!/]
@@ -648,13 +648,13 @@ walked in on him doing some investigation of his own
 		*"I'm... so sorry, Brother... so sorry..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!1.002!MIND SEER!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!1.001!MIND SEER!/]
-	
+
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!1.002!MIND SEER!]
 		||
 		*"I know what I did was dangerous... irresponsible... even cause for immediate excommunication..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!1.003!MIND SEER!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!1.002!MIND SEER!/]
-	
+
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!1.003!MIND SEER!]
 		||
 		*"But, I just had to see for myself."*
@@ -668,7 +668,7 @@ walked in on him doing some investigation of his own
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!1.0041!MIND SEER!]
 		||
-		*"...I don't know what to say..."* 
+		*"...I don't know what to say..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!1.00410!MIND SEER!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!1.0041!MIND SEER!/]
 
@@ -692,31 +692,31 @@ walked in on him doing some investigation of his own
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!1.0042!MIND SEER!]
 		||
-		*"I... saw the Wyrm."* 
+		*"I... saw the Wyrm."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!1.00420!MIND SEER!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!1.0042!MIND SEER!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!1.00420!MIND SEER!]
 		||
-		*"The Wayfarer..."* 
+		*"The Wayfarer..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!1.00411!MIND SEER!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!1.00420!MIND SEER!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!1.0044!MIND SEER!]
 		||
-		*"I... sought Torma's memories of our homeland..."* 
+		*"I... sought Torma's memories of our homeland..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!1.00440!MIND SEER!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!1.0044!MIND SEER!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!1.00440!MIND SEER!]
 		||
-		*"She walked among the mystics of old..."* 
+		*"She walked among the mystics of old..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!1.00411!MIND SEER!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!1.00440!MIND SEER!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!1.0046!MIND SEER!]
 		||
-		*"...How is it Brother Inquisitor knows even this!?"* 
+		*"...How is it Brother Inquisitor knows even this!?"*
 		(F#"Well, you see, I'm the personality that receives divinely revealed knowledge!"){F:1,ENCLAVE!THE VAULT!SOUL STASIS CELL!1.00460!MIND SEER!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!1.0046!MIND SEER!/]
 
@@ -839,7 +839,7 @@ Ormenos pre-second interrogation
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0012!DESCRIPTION!]
 		||
 		*Ultimately deciding to subjugate his will to that of the Order's, Ormenos accepts his fate as a mere cog in the machine of greater purpose - for does not the group always achieve more than the individual? Yes, this is why he must kill his Self and fall in line. Only then can true order come about, and only order can lead to true Discipline. Indeed, this is all for the good of the Order, and the future of Humanity!
-		
+
 		Thus, his shoulders hunch and his head sags, as he obediently slinks back to his quarters in the Halls of the Adepti...*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0012!DESCRIPTION!/]
@@ -1254,7 +1254,8 @@ GATE KEEPER
 
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TECHNICAL STUFF
 ________________________________________________________________________
 EVENT WRITERS
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!9990.X2013!DESCRIPTION!]
@@ -1262,30 +1263,28 @@ EVENT WRITERS
 		*EVENT WRITER - Second interrogation*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!9990.X2013!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!9990.X2018!MIND SEER!]
 		|2018:ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X000!MIND SEER!|
 		*EVENT WRITER - Spoke w Thetian*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!9990.X2018!MIND SEER!/]
-	
+
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!9990.X2019!DESCRIPTION!]
 		|2019:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!DESCRIPTION!|
 		*EVENT WRITER - Chose not to do a second interrogation*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!9990.X2019!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!9990.X2100!GATE KEEPER!]
 		|2100:ENCLAVE!THE VAULT!WARDEN'S CONDUIT!9999.X9999!GATE KEEPER!|
 		*EVENT WRITER - Trolled Gate Keeper*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!9990.X2100!GATE KEEPER!/]
-	
-	
-	
-	
-________________________________________________________________________
-FIGHTING WORDS
+
+
+
+
 ________________________________________________________________________
 NPC SWITCHERS
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!9999.X0004!DESCRIPTION!]
@@ -1299,13 +1298,13 @@ NPC SWITCHERS
 		*COGITO*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!9999.X1204!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!9999.X1201!DESCRIPTION!]
 		|#npcSwitch:1201|
 		*GATE KEEPER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!9999.X1201!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!9999.X1203!DESCRIPTION!]
 		|#npcSwitch:1203|
 		*THETIAN*
@@ -1317,13 +1316,13 @@ NPC SWITCHERS
 		*DESCRIPTION FROM COGITO*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!9999.X9999!COGITO!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!9999.X9999!GATE KEEPER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM GATE KEEPER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!9999.X9999!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!9999.X9999!MIND SEER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM GATE KEEPER*
@@ -1335,3 +1334,8 @@ NPC SWITCHERS
 		*DESCRIPTION FROM ORMENOS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!9999.X9999!ORMENOS!/]
+
+
+________________________________________________________________________
+FIGHTING WORDS
+

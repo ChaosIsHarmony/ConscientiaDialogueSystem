@@ -151,7 +151,7 @@ opened sylvan refuge
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0020!DESCRIPTION!]
 		||
 		*Yet confused and reeling from the overwhelming burden of awareness, Thetian looks upon Ormenos as he rushes away from the Enclave. Though hesitant at first, Thetian realizes that regardless of what the circumstances leading to Ormenos' flight may be, he could not leave his Brother and mentor alone to his madness. Thus, Thetian boldly decides to embark on his journey toward an uncertain future with Ormenos.
-		
+
 		He quickly chases after his fellow Jeran, racing to keep pace. Soon the two lock steps, the unmistakable unison of a collective mind.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0021!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0020!DESCRIPTION!/]
@@ -176,7 +176,7 @@ Out as Ormenos CG
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!40.X001!DESCRIPTION!]
 		|@:ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!40.0010!DESCRIPTION!|
 		*The Mind Seer Thetian's vision refocuses. Sunlight. Trees. Ormenos. Running. Gasping. He yet lives, heart and feet both racing. He now runs through the Forest of Deception outside the Enclave.
-		
+
 		Soon, he and Ormenos come upon a moss-covered ruin, stopping to catch their fugitive breath.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X1203!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!40.X001!DESCRIPTION!/]
@@ -237,7 +237,7 @@ THETIAN
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0030!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0031!MIND SEER!]
-		||	
+		||
 		*"Brother, please, share with me your woes, that together we may find strength in each other."*
 		(B#"I've uncovered the secret history of the Enclave's origins!"){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.012!MIND SEER!}
 		(C#"There's so much we don't yet understand, Brother..."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
@@ -942,7 +942,7 @@ Met Babel but not this playthrough
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0022!DESCRIPTION!]
 		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0013!DESCRIPTION!|
 		*Suddenly, Ormenos becomes aware of a presence. A fellow Enclavean with judicious eyes that have seen far more than their youth should permit watches from a nearby perch. Hair darker than soil, eyes darker still. And though his features have not yet escaped adolescence, he appears to insist on a sparse, ill-advised mustache. This is the unmistakable face of Babel - a man Ormenos well-remembers despite not knowing how.
-		
+
 		Babel sits among the stones in a burlap robe marked with the insignia of the Order. He looks to be caught in reverie, yet his gaze pierces straight through Ormenos' Trueflesh, as though fathoming the darkest depths Ormenos himself dare not even explore...*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0011!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0022!DESCRIPTION!/]
@@ -1001,13 +1001,13 @@ Three events completed
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0052!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0053!DESCRIPTION!]
-		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0054!DESCRIPTION!|	
+		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0054!DESCRIPTION!|
 		*Perhaps it is supremely opportune, then, that a contingent of Enforcers have arrived, at the forefront of which is Brother Beast Lord. Then again, perhaps this is not such an auspicious sign, given Ormenos' recent disregard of his duties.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X1200!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0053!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0054!DESCRIPTION!]
-		||	
+		||
 		*Surrounding a defenseless Ormenos, the Enforcers wordlessly drag him away, to the Hall of Reckoning.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0054!DESCRIPTION!/]
@@ -1280,7 +1280,7 @@ Out as Ormenos CG
 		*This is the end.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.0060!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.006!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.0060!DESCRIPTION!]
 		||
 		*Ormenos grabs the Mind Seer into a desperate embrace - whether seeking to give or to receive comfort, panic blurs the distinction. He tries to close his eyes, but cannot. A moth to the flame, he seems entranced by the source of his own destruction.*
@@ -1312,7 +1312,7 @@ Out as Ormenos CG
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.010!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.011!DESCRIPTION!]
-		||		
+		||
 		*Finally, the dismal clouds of despair part, allowing a single ray of hope to shine upon Ormenos. A moment of lucidity reveals that this is his only chance to escape.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.012!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.011!DESCRIPTION!/]
@@ -1766,7 +1766,7 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03247!BABEL!]
 		||
-		*"For a famished bird traveling from the south spotted the mantis, whose attention was placed far too firmly upon its own prey to notice its own peril."* 
+		*"For a famished bird traveling from the south spotted the mantis, whose attention was placed far too firmly upon its own prey to notice its own peril."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03248!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03247!BABEL!/]
 
@@ -1991,7 +1991,7 @@ BEAST LORD
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00201!BEAST LORD!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00202!BEAST LORD!]
-		||	
+		||
 		*"Brothers! Sisters! Members of the Enclave! Listen well!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00203!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00202!BEAST LORD!/]
@@ -2074,7 +2074,7 @@ BEAST LORD
 		||
         *"But it looks like we'll just have to settle for it between us two for now."*
         (A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00221!BEAST LORD!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00220!BEAST LORD!/]        
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00220!BEAST LORD!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00221!BEAST LORD!]
 		||
@@ -2194,13 +2194,13 @@ BEAST LORD
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0041!BEAST LORD!]
 		||
-		*"I've little tolerance for your disloyal musings, Brother..."* 
+		*"I've little tolerance for your disloyal musings, Brother..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00410!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0041!BEAST LORD!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00410!BEAST LORD!]
 		||
-		*"The Choir's will IS our will! Ever has been and ever will be, too!"* 
+		*"The Choir's will IS our will! Ever has been and ever will be, too!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00411!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00410!BEAST LORD!/]
 
@@ -2264,7 +2264,7 @@ BEAST LORD
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0044!BEAST LORD!]
 		||
-		*"...From Thought-weaver to Thought-woven..."* 
+		*"...From Thought-weaver to Thought-woven..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00440!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0044!BEAST LORD!/]
 
@@ -2456,7 +2456,7 @@ SYLVARCH
 		*"We've tried, you fool! For a thousand years!"*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.X002!SYLVARCH!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!SYLVARCH!/]
-		
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.X002!SYLVARCH!]
 		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!2.X000!SYLVARCH!|
 		*"Our failure goes unpunished only through the tireless efforts of the four to cull its fuel!"*
@@ -2472,7 +2472,7 @@ SYLVARCH
 
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.000!SYLVARCH!]
-		||	
+		||
 		*"Inverting the Soulgrafting to create the 'Prophetess' of your Order?"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.001!SYLVARCH!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.000!SYLVARCH!/]
@@ -2497,7 +2497,8 @@ SYLVARCH
 
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TECHNICAL STUFF
 ________________________________________________________________________
 EVENT WRITERS
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!]
@@ -2505,31 +2506,31 @@ EVENT WRITERS
 		*EVENT WRITER - Spoke w Babel at Stone Circle*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2025!BABEL!]
 		|2025:ENCLAVE!THE THRESHOLD!STONE CIRCLE!10.X000!BABEL!|
 		*EVENT WRITER - Met Babel*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2025!BABEL!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9990.X2038!DESCRIPTION!]
 		|2038:ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9990.X2104!DESCRIPTION!|
 		*EVENT WRITER - Completed one event*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9990.X2038!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2038!BABEL!]
 		|2038:ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X9999!BABEL!|
 		*EVENT WRITER - Completed one event*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2038!BABEL!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9990.X2039!DESCRIPTION!]
 		|2039:ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9990.X2104!DESCRIPTION!|
 		*EVENT WRITER - Completed two events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9990.X2039!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2039!BABEL!]
 		|2039:ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X9999!BABEL!|
 		*EVENT WRITER - Completed two events*
@@ -2541,31 +2542,29 @@ EVENT WRITERS
 		*EVENT WRITER - Completed three events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9990.X2040!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2040!BABEL!]
 		|2040:ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X9999!BABEL!|
 		*EVENT WRITER - Completed three events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2040!BABEL!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2074!BABEL!]
 		|2074:ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03243!BABEL!|
 		*EVENT WRITER - Heard the tale of the mantis and the cicada*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2074!BABEL!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9990.X2104!DESCRIPTION!]
 		|2104:ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X000!DESCRIPTION!|
 		*EVENT WRITER - Coming from FoD to SC*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9990.X2104!DESCRIPTION!/]
-	
-	
-	
-	
-	
-________________________________________________________________________
-FIGHTING WORDS
+
+
+
+
+
 ________________________________________________________________________
 NPC SWITCHERS
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0011!DESCRIPTION!]
@@ -2585,51 +2584,57 @@ NPC SWITCHERS
 		*BIRACUL FROM SYLVARCH*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0017!SYLVARCH!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X1200!DESCRIPTION!]
 		|#npcSwitch:1200|
 		*BEAST LORD*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X1200!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X1203!DESCRIPTION!]
 		|#npcSwitch:1203|
 		*MIND SEER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X1203!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X1205!BIRACUL!]
 		|#npcSwitch:1205|
 		*SYLVARCH FROM BIRACUL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X1205!BIRACUL!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X1205!DESCRIPTION!]
 		|#npcSwitch:1205|
 		*SYLVARCH*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X1205!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X9999!BABEL!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM BABEL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X9999!BABEL!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X9999!BEAST LORD!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM BEAST LORD*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X9999!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X9999!BIRACUL!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM BIRACUL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X9999!BIRACUL!/]
-	
+
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM MIND SEER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!/]
+
+
+
+________________________________________________________________________
+FIGHTING WORDS
+

@@ -28,9 +28,9 @@ AWARENESS' SEED
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.X004!DESCRIPTION!]
 		|^2064:ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.005!DESCRIPTION!|
 		*The room brightens, revealing a single door. Above the door, a single word reveals the result of his test...
-		
+
 		Sightless.
-		
+
 		The door opens, revealing the path back to the beginning. The road to Discipline has proven incompatible with the Inquisitor and to the entrance he must now return.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9990.X2038!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.X004!DESCRIPTION!/]
@@ -47,7 +47,7 @@ AWARENESS' SEED
 		(A#Proceed){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.006!DESCRIPTION!/]
 
-	
+
 
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.000!ARBITER!]
@@ -221,7 +221,7 @@ BITTERSWEET EPIPHANY
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!DESCRIPTION!]
 		||
 		*Courage, hidden in the depths of his Trueflesh, seems to propel him through the portal. Yet, it seems less like him walking through it and more like it walking through him. As that shimmering gate absorbs his Falseflesh, the room transforms around him, massive black panels now starting to blanket the ceiling where only rough, rocky surfaces once were. People zip by as Ormenos remains static, nearly frozen in time. The panels flicker on and off, displaying images too quickly for the mage to interpret.
-		
+
 		But soon, the many people become fewer; the lights flicker less and less; and finally no movement, no light at all. In a state near either sleep or death, the room awaits - the object of its waiting uncertain.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0001!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!DESCRIPTION!/]
@@ -480,8 +480,8 @@ EDGE OF IGNORANCE
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X000!DESCRIPTION!/]
-	
-	
+
+
 Just came in
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!DESCRIPTION!]
 		||
@@ -496,7 +496,7 @@ Just came in
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0010!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0011!DESCRIPTION!]
-		||		
+		||
 		*"SEEKERS OF DISCIPLINE WILL ENTER.
 		LACKERS THEREOF WILL FAIL."*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0012!DESCRIPTION!}
@@ -624,8 +624,8 @@ completed the path of discipline
 		*Feet shuffle, directed by the strings of foreign wills, toward the Nave, toward Ormenos' reckoning...*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0065!DESCRIPTION!/]
-	
-	
+
+
 returned to the path after having been kicked out
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.007!DESCRIPTION!]
 		||
@@ -817,7 +817,7 @@ BEAST LORD
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00201!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00202!BEAST LORD!]
-		||	
+		||
 		*"Brothers! Sisters! Members of the Enclave! Listen well!"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00203!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00202!BEAST LORD!/]
@@ -900,7 +900,7 @@ BEAST LORD
 		||
         *"But it looks like we'll just have to settle for it between us two for now."*
         (A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00221!BEAST LORD!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00220!BEAST LORD!/]        
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00220!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00221!BEAST LORD!]
 		||
@@ -1020,13 +1020,13 @@ BEAST LORD
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!]
 		||
-		*"I've little tolerance for your disloyal musings, Brother..."* 
+		*"I've little tolerance for your disloyal musings, Brother..."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00410!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00410!BEAST LORD!]
 		||
-		*"The Choir's will IS our will! Ever has been and ever will be, too!"* 
+		*"The Choir's will IS our will! Ever has been and ever will be, too!"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00411!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00410!BEAST LORD!/]
 
@@ -1090,7 +1090,7 @@ BEAST LORD
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0044!BEAST LORD!]
 		||
-		*"...From Thought-weaver to Thought-woven..."* 
+		*"...From Thought-weaver to Thought-woven..."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00440!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0044!BEAST LORD!/]
 
@@ -1136,7 +1136,7 @@ FAITH'S ADVENT
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.X000!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.X001!DESCRIPTION!|
 		*As Ormenos enters this chamber of the labyrinthine Path, he sees spread out upon the floor a carpet of intricate weave, covered in an array of supple velvet pillows. Fatigue overwhelms reason, carrying him as of habit to rest a spell upon the mess of cushions.
-		
+
 		But there is no rest for the weary, as the now familiar whir acts as a prelude to the Arbiter's voice.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.X000!DESCRIPTION!/]
@@ -1151,7 +1151,7 @@ FAITH'S ADVENT
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0010!DESCRIPTION!]
 		||
 		*In what can only be described as the opposite of a flash, all lights disappear. Ormenos is now left in a darkness so absolute that even shadows would lose their way in it.
-		
+
 		Under the current circumstances, it will take much effort merely to discover the exit, let alone return to the beginning... But what choice does he have?*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9990.X2040!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0010!DESCRIPTION!/]
@@ -1438,7 +1438,7 @@ HUBRIS' DEMISE
 ?[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.000!DESCRIPTION!]
 		||
 		*Floating gently down through the ground, carpet and all, Ormenos emerges in a chamber, flooded below by water and above by light. Slowly the carpet carries its passenger toward the mellow waves, stopping roughly twice the mage's height from the water's shimmering surface. He scans the surroundings, seeking an appropriate place to alight. His eyes almost immediately fall upon the unusual sight of a wide river traveling upwards along the dome. At first he believes it to be a trick of vision, but as he traces it skywards, he confirms its gravity-defying climb, as well as it ultimate disappearance into a hole at the top.
-		
+
 		Soon, he has traversed the whole chamber with his exploratory gaze, finding no solid ground. Perhaps more troubling, though, is the conspicuous absence of Arbiter's resounding voice.*
 		(B#Wait and observe){B:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.002!DESCRIPTION!}
 		(E#Alight into the water){E:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.001!DESCRIPTION!}
@@ -1447,7 +1447,7 @@ HUBRIS' DEMISE
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.001!DESCRIPTION!]
 		||
 		*Ormenos' feet tentatively seek the edges of the carpet. After pouring his legs over the side, he sits his rump firmly behind them, remaining within the certainty and safety of the carpet.
-		
+
 		The water's gently swaying surface seems inviting. Noting it is not much of a drop from his current locus, he...*
 		(A#Leaps feet first, ready to sink){A:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0011!DESCRIPTION!}
 		(B#Throws something at the surface of the water){B:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0012!DESCRIPTION!}
@@ -1460,7 +1460,7 @@ HUBRIS' DEMISE
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0011!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X003!DESCRIPTION!|
 		*Ormenos leaps, landing upon an unexpectedly solid surface with all the unchecked force of his weight bearing down on his oblivious feet. The confused mage crumples into a ball of shivering, whimpering agony, rubbing his throbbing feet, hoping nothing is broken.
-		
+
 		Finally, the absent whirring of the Thought Wheel makes an aural appearance...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0011!DESCRIPTION!/]
@@ -1620,9 +1620,9 @@ end of arbiter convo
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X003!DESCRIPTION!]
 		|^2070:ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0030!DESCRIPTION!|
 		*The conversation at its terminus, Ormenos only now notices that the water seems to have evaporated without a trace. Further, the luxurious carpet now lays tangled in a knot upon a marble pedestal, alongside it a metallic placard stating:
-		
+
 			HE WHO UNTANGLES THIS KNOT, DISCIPLINE SHALL ATTAIN.
-		
+
 		A bold statement, if nothing else.*
 		(A#Examine the knot){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0031!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X003!DESCRIPTION!/]
@@ -1630,7 +1630,7 @@ end of arbiter convo
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0030!DESCRIPTION!]
 		||
 		*In what can only be described as the opposite of a flash, all lights disappear. Ormenos is now left in a darkness so absolute that even shadows would lose their way in it.
-		
+
 		Under the current circumstances, it will take much effort merely to discover the exit, let alone return to the beginning... But what choice does he have?*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.005!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0030!DESCRIPTION!/]
@@ -1646,7 +1646,7 @@ end of arbiter convo
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0032!DESCRIPTION!]
 		|^12300:ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.004!DESCRIPTION!|
 		*A nascent epiphany is birthed of his mind's womb. Oh, he recognizes this situation, the memory of knowing so vividly distinct, but the particulars so impossibly blurred. He digs through his years of forgotten facts and misplaced trivia, like a poor man's Vanargand, searching desperately for the sentences he read in that one tome so long ago... But, alas, his epiphany is stillborn.
-		
+
 		Failed recall thwarting his progress, he has no choice but to return.*
 		(A#Return to the beginning){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.004!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0032!DESCRIPTION!/]
@@ -1654,7 +1654,7 @@ end of arbiter convo
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.004!DESCRIPTION!]
 		||
 		*A nascent epiphany is birthed of his mind's womb. Oh, he recognizes this situation, the memory of knowing so vividly distinct, but the particulars so impossibly blurred. He digs through his years of forgotten facts and misplaced trivia, like a poor man's Vanargand, searching desperately for the sentences he read in that one tome so long ago...
-		
+
 		Suddenly, a dark whisper calls from the unplumbed depths of consciousness. Bloodlust. Destruction. A memory of green. And in a flash, the ancient Phrygian tale comes to Ormenos, fully formed. The connections, the details, everything is there as though it always had been. Yes, he remembers now. The Phrygian wisemen warned that a man who only has a hammer sees all problems as nails, but that a man who only has a sword has no such limitations...*
 		(A#__Use the Glyph of Luin__){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0040!DESCRIPTION!}
 		(B#Leave the knot and return to the beginning){B:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.004!DESCRIPTION!}
@@ -1663,7 +1663,7 @@ end of arbiter convo
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0040!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		From the Graylands emerges Luin, the blade of Vanargand. With a youthful laugh, Luin eviscerates the knot, unraveling it into myriad individual strings. Its task done, the ghelblade vanishes back whence it came, leaving in its wake an unsavory aftertaste of gore and violence.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0041!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0040!DESCRIPTION!/]
@@ -1671,7 +1671,7 @@ end of arbiter convo
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0041!DESCRIPTION!]
 		||
 		*Ormenos soon detects a most bizarre vision, lingering at the cut Luin made. Where the knot split open, a brilliant gash in space itself seems to slowly widen. Wider, wider, ever-widening, the shimmering wound expands, revealing a passage to the final trial on the Path of Discipline. Abruptly, its dilation comes to a halt, grown now to be twice the mage's width and height.
-		
+
 		The mage hesitates, in part excited for what is to come, but in greater part afraid of it. Even if the Path's final chamber meets or exceeds his expectations, it will still be the end... and are not all ends tragic?*
 		(A#Pass through the portal){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!DESCRIPTION!}
 		(B#Leave the Path instead){B:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.004!DESCRIPTION!}
@@ -2149,7 +2149,7 @@ ARBITER
 		*"Ignorance entails lacking. You do not know, hence the desire to know. Ignorance entails blindness. You do not know, hence how to learn is obscure."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.001!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0000!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.001!ARBITER!]
 		||
 		*"Speak then, Inquisitor. If the cube's nature is to the square undecipherable, how does the square learn this truth?"*
@@ -2174,7 +2174,7 @@ ARBITER
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0012!ARBITER!]
 		||
-		*"The right questions asked, the right answers revealed. A question asked, an answer revealed. No questions asked, what hope of revelation?"* 
+		*"The right questions asked, the right answers revealed. A question asked, an answer revealed. No questions asked, what hope of revelation?"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0013!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0012!ARBITER!/]
 
@@ -2192,7 +2192,7 @@ SKILL'S AWAKENING
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X000!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.001!DESCRIPTION!|
 		*Ormenos quickly strides forth into the next chamber. Here, a subterranean river cuts off a portion of the grotto, as it rushes noisily on its way. Along its edges grows a vibrant, emerald moss - nearly too perfectly arrayed for nature's chaotic hand. In the opposite corner, pools of stagnant water dot the floor with precise regularity; uniformly vile and rank - surely poisonous to the touch - their bubbly belching sours the air nearby.
-		
+
 		Once more, the deafening grind heralds the Arbiter's unseen presence.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X000!DESCRIPTION!/]
@@ -2225,7 +2225,7 @@ SKILL'S AWAKENING
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00200!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		Now summoned forth from the Graylands, Ormenos directs the Glyph of Corruption toward the untainted river. Bubbles release a mephitic vapor, hitting Ormenos hard, robbing him of consciousness and causing his Falseflesh to collapse...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00201!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00200!DESCRIPTION!/]
@@ -2270,7 +2270,7 @@ SKILL'S AWAKENING
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00210!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		His thought made form, Ormenos casts his focus upon the incessant flow. Gaining ever in clarity, his mind executes the Techne of Absolution and then...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00211!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00210!DESCRIPTION!/]
@@ -2366,7 +2366,7 @@ SKILL'S AWAKENING
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00310!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		Thought made form, the Glyph of Corruption manifests, ready to defile whatever its cursed hand may caress. Ormenos proceeds to cast his Techne of Putrefaction upon the vile and rank pool of filth...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00311!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00310!DESCRIPTION!/]
@@ -2385,7 +2385,7 @@ SKILL'S AWAKENING
 
 >>>You will learn Purification (2065)<<<
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X00313!DESCRIPTION!]
-		|^2065:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00314!DESCRIPTION!|		
+		|^2065:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00314!DESCRIPTION!|
 		*Perhaps his corrupting talents would prove more effective on the unsullied waters of the nearby river.*
 		(A#Examine the river){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X002!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X00313!DESCRIPTION!/]
@@ -2462,7 +2462,7 @@ ARBITER
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0012!ARBITER!/]
 
 
-purification	
+purification
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.000!ARBITER!]
 		||
 		*"First, visualize the cleansing effects of Purification."*
@@ -2489,7 +2489,8 @@ purification
 
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TECHNICAL STUFF
 ________________________________________________________________________
 EVENT WRITERS
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9990.X2038!DESCRIPTION!]
@@ -2503,109 +2504,107 @@ EVENT WRITERS
 		*EVENT WRITER - Completed two events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2039!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9990.X2040!DESCRIPTION!]
 		|2040:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.005!DESCRIPTION!|
 		*EVENT WRITER - Completed three events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9990.X2040!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9990.X2040!DESCRIPTION!]
 		|2040:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.006!DESCRIPTION!|
 		*EVENT WRITER - Completed three events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9990.X2040!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2063!ARBITER!]
 		|2063:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!1.X000!ARBITER!|
 		*EVENT WRITER - You passed Arbiter's first challenge*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2063!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9990.X2064!ARBITER!]
 		|2064:ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.002!ARBITER!|
 		*EVENT WRITER - You passed Arbiter's second challenge*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9990.X2064!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2065!ARBITER!]
 		|2065:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2063!ARBITER!|
 		*EVENT WRITER - You will learn Purification*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2065!ARBITER!/]
-			
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2066-1!DESCRIPTION!]
 		|2066:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00200!DESCRIPTION!|
 		*EVENT WRITER - You passed Arbiter's third challenge*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2066-1!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2066-2!DESCRIPTION!]
 		|2066:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00300!DESCRIPTION!|
 		*EVENT WRITER - You passed Arbiter's third challenge*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2066-2!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9990.X2067!ARBITER!]
 		|2067:ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.001!ARBITER!|
 		*EVENT WRITER - You have heard the tale of Hamlik*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9990.X2067!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9990.X2068!ARBITER!]
 		|2068:ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9999.X9999!ARBITER!|
 		*EVENT WRITER - You have left in shame from Faith's Advent*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9990.X2068!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!9990.X2069!ARBITER!]
 		|2069:ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.002!ARBITER!|
 		*EVENT WRITER - You have heard the tale of crystals and Muninns*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!9990.X2069!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2070!ARBITER!]
 		|2070:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X9999!ARBITER!|
 		*EVENT WRITER - Kicked out of the path of discipline*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2070!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!9990.X2070!ARBITER!]
 		|2070:ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!9999.X9999!ARBITER!|
 		*EVENT WRITER - Kicked out of the path of discipline*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!9990.X2070!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2070!DESCRIPTION!]
 		|2070:ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!|
 		*EVENT WRITER - Kicked out of the path of discipline*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2070!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9990.X2099!ARBITER!]
 		|2099:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!|
 		*EVENT WRITER - Called the spiral epiphany on the Path of Disc*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9990.X2099!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X11100!ARBITER!]
 		|11100:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.001!ARBITER!|
 		*EVENT WRITER - Acquired Purification*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X11100!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X13113!ARBITER!]
 		|13113:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.001!ARBITER!|
 		*EVENT WRITER - Acquired Corruption*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X13113!ARBITER!/]
-	
-		
 
 
 
-________________________________________________________________________
-FIGHTING WORDS
+
+
 ________________________________________________________________________
 NPC SWITCHERS
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X1200!DESCRIPTION!]
@@ -2613,13 +2612,13 @@ NPC SWITCHERS
 		*BEAST LORD*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X1200!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9999.X1207!DESCRIPTION!]
 		|#npcSwitch:1207|
 		*ARBITER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9999.X1207!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X1207!DESCRIPTION!]
 		|#npcSwitch:1207|
 		*ARBITER*
@@ -2631,43 +2630,43 @@ NPC SWITCHERS
 		*ARBITER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X1207!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9999.X1207!DESCRIPTION!]
 		|#npcSwitch:1207|
 		*ARBITER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9999.X1207!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!9999.X1207!DESCRIPTION!]
 		|#npcSwitch:1207|
 		*ARBITER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!9999.X1207!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!9999.X1207!DESCRIPTION!]
 		|#npcSwitch:1207|
 		*ARBITER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!9999.X1207!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9999.X1207!DESCRIPTION!]
 		|#npcSwitch:1207|
 		*ARBITER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9999.X1207!DESCRIPTION!/]
-		
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9999.X9999!ARBITER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM ARBITER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9999.X9999!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM ARBITER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X9999!ARBITER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM ARBITER*
@@ -2679,27 +2678,31 @@ NPC SWITCHERS
 		*DESCRIPTION FROM ARBITER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9999.X9999!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!9999.X9999!ARBITER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM ARBITER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!9999.X9999!ARBITER!/]
-		
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!9999.X9999!ARBITER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM ARBITER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!9999.X9999!ARBITER!/]
-		
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9999.X9999!ARBITER!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM ARBITER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9999.X9999!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X9999!BEAST LORD!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM BEAST LORD*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X9999!BEAST LORD!/]
+
+________________________________________________________________________
+FIGHTING WORDS
+

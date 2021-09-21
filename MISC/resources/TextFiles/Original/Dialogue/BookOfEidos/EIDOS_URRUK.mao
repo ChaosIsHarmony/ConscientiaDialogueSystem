@@ -67,7 +67,7 @@ ALTAR OF THE VOID
 	[KABU!UR'RUK!ALTAR OF THE VOID!2.007!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!ALTAR OF THE VOID!2.008!DESCRIPTION!]
-		||		
+		||
 		*A crushing sense of desperation and despair overwhelms her. She begins to cry as she laments not just her existence, but all existence. The foul creatures now kneeling before the altar look back in dread sensing their doom. Drawing upon all her Techne, commands the supplicants' muscles to contort their forms, ripping ligaments, splintering bones and ultimately tearing themselves asunder...*
 		(A#...){A:0,KABU!UR'RUK!ALTAR OF THE VOID!2.X009!DESCRIPTION!}
 	[KABU!UR'RUK!ALTAR OF THE VOID!2.008!DESCRIPTION!/]
@@ -117,9 +117,9 @@ CESS PIT
 	[/KABU!UR'RUK!CESS PIT!0.X000!DESCRIPTION!]
 		|^16063:KABU!UR'RUK!CESS PIT!0.000!DESCRIPTION!|
 		*Eidos plummets blindly into the reeking corruption of the abyss, her descent measured only in the accelerating beats of her panicked heart. With a squish, a heap of putrefied waste softens her fall, the vomit-inducing stench of which compels Eidos to contribute the contents of her stomach to it. Eidos extricates herself from the pile and now tries as best she can to remove the filth from her traveling robes and hair, but to little avail.
-		
+
 		Her eyes, now accustomed to the low-light surroundings, spy a speck of light, emanating from directly in front of her.
-		
+
 		Running her hands along the slime-sheathed wall, Eidos senses its tubular curvature. A gust of air rushes over her like a waterless river. Turning away from the pinpoint of light she feels the origin of this airborne stream flowing from somewhere deep within the darkness.*
 		(A#Go toward light){A:0,KABU!UR'RUK!CESS PIT!1.000!DESCRIPTION!}
 		(B#Go the other way){B:0,KABU!UR'RUK!CESS PIT!2.000!DESCRIPTION!}
@@ -128,9 +128,9 @@ CESS PIT
 	[/KABU!UR'RUK!CESS PIT!0.000!DESCRIPTION!]
 		||
 		*Eidos plummets blindly into the reeking corruption of the abyss, her descent measured only in the accelerating beats of her panicked heart. With a squish, a heap of putrefied waste softens her fall, the vomit-inducing stench of which compels Eidos to contribute the contents of her stomach to it. Eidos extricates herself from the pile and now tries as best she can to remove the filth from her traveling robes and hair, but to little avail.
-		
+
 		Her eyes, now accustomed to the low-light surroundings, spy a speck of light, emanating from directly in front of her.
-		
+
 		Running her hands along the slime-sheathed wall, Eidos senses its tubular curvature... and something else.*
 		(A#...){A:0,KABU!UR'RUK!CESS PIT!0.001!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!0.000!DESCRIPTION!/]
@@ -138,7 +138,7 @@ CESS PIT
 	[/KABU!UR'RUK!CESS PIT!0.001!DESCRIPTION!]
 		||
 		*Her hand touches upon a face. As her night vision grows more acute, Eidos can dimly distinguish the filthy visage of Nakara, her glassy eyes now staring out from the sleep of death. Her presence here must be new as Eidos had seen her but some time ago - though how long ago she cannot seem to remember...
-		
+
 		A gust of air rushes over her like a waterless river. Turning away from Nakara she feels the origin of this airborne stream emanating from somewhere deep within the darkness opposite the pinpoint of light.*
 		(A#Go toward light){A:0,KABU!UR'RUK!CESS PIT!1.000!DESCRIPTION!}
 		(B#Go the other way){B:0,KABU!UR'RUK!CESS PIT!2.000!DESCRIPTION!}
@@ -147,9 +147,9 @@ CESS PIT
 	[/KABU!UR'RUK!CESS PIT!1.000!DESCRIPTION!]
 		||
 		*Every step through the festering sewage brings her closer to the sunlit aperture. The stench starts to dissipate as a dry wind is exhaled at the mouth of the passage up ahead. When she arrives at her destination, she finds her escape from the Cess Pit to be a hollow victory; for while Eidos finds that she can indeed see the outside world from here, the sewage outflow empties downward from an impossibly high precipice.
-		
+
 		Though the drop is sheer and lacks cracks or handholds of any kind, she is at least now permitted a view of her whereabouts: to her left is a distant, but apparently massive mountain range; while forward and to her right is a vast, empty flatland that seems to extend off into infinity; and finally, directly below are the ruins of an ancient twin city to the one she now stalks, terminating at the sheer cliff Eidos now looks out from.
-		
+
 		Though difficult to tell how high up she is, it is certain that to attempt such a leap in the face of guaranteed death would be little more than an act of blind faith - or perhaps just a misguided attempt at meeting her maker.*
 		(A#Go back the other way){A:0,KABU!UR'RUK!CESS PIT!2.000!DESCRIPTION!}
 		(F#Attempt the leap of faith){F:1,KABU!UR'RUK!CESS PIT!1.001!DESCRIPTION!}
@@ -160,19 +160,19 @@ CESS PIT
 		*Inexplicably, to her at least, Eidos feels compelled to push off from the edge.*
 		(A#...){A:0,KABU!UR'RUK!CESS PIT!1.002!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!1.001!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!CESS PIT!1.002!DESCRIPTION!]
 		||
 		*The initial exhilaration of her flight into the sweet air is short-lived, as it is replaced with excitement of another kind...*
 		(A#...){A:0,KABU!UR'RUK!CESS PIT!1.003!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!1.002!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!CESS PIT!1.003!DESCRIPTION!]
 		||
 		*Panic.*
 		(A#...){A:0,KABU!UR'RUK!CESS PIT!1.004!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!1.003!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!CESS PIT!1.004!DESCRIPTION!]
 		||
 		*Gripping her soul as she is summoned to the ground by gravity's call, she feels an utter sense of terror. Eidos' escape from the filth of the sewer is truly complete when her bones shatter upon the windswept buildings at the foot of the precipice...*
@@ -187,25 +187,25 @@ CESS PIT
 
 >>>Widened crack in Torma (2102)<<<
 	[/KABU!UR'RUK!CESS PIT!2.X001!DESCRIPTION!]
-		|^2102:KABU!UR'RUK!CESS PIT!2.002!DESCRIPTION!|	
+		|^2102:KABU!UR'RUK!CESS PIT!2.002!DESCRIPTION!|
 		*After some time - minutes or hours, for time disguises itself well in this hellscape - she begins to hear the sound of approaching splashes.*
 		(B#Find their source){B:1,KABU!UR'RUK!CESS PIT!2.0011!DESCRIPTION!}
 		(D#Stop and listen){D:1,KABU!UR'RUK!CESS PIT!2.0010!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.X001!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!CESS PIT!2.0010!DESCRIPTION!]
 		||
 		*She stops, as do they. She kills her breath and centers focus on her ears, her only useful ally at the moment...*
 		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00100!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.0010!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!CESS PIT!2.00100!DESCRIPTION!]
 		||
 		*Nothing.*
 		(A#Move forward){A:1,KABU!UR'RUK!CESS PIT!2.0011!DESCRIPTION!}
 		(F#Stay still){F:1,KABU!UR'RUK!CESS PIT!2.00101!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.00100!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!CESS PIT!2.00101!DESCRIPTION!]
 		||
 		*Nothing... until, suddenly 'something' forms from the ether. An ever-brightening vision, both terrible and grand... Colorful plumage... A golden beak... The rays of a thousand suns... And then...*
@@ -222,7 +222,7 @@ CESS PIT
 		(E#Attack!){E:1,KABU!UR'RUK!CESS PIT!2.001025!DESCRIPTION!}
 		(F#Praise this magnificent creature!){F:1,KABU!UR'RUK!CESS PIT!2.001026!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.00102!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!CESS PIT!2.001021!DESCRIPTION!]
 		||
 		*Though light consumes all sight and cawing devours all sound, Eidos yells out her hail to the shade-born vision, but finds confusion where she had hoped for communication...*
@@ -244,7 +244,7 @@ CESS PIT
 	[/KABU!UR'RUK!CESS PIT!2.001024!DESCRIPTION!]
 		||
 		*Terror bubbles to the surface, eyes shut reflexively and muscles tense. In a burst of movement she flees the unholy site of this unholy sight. Dashing, dancing, prancing, splashing, she flees. Running so hard, so fast, surely she must be halfway to the moon by now. She opens her eyes. She remains at the origin of her path, unmoving, not a single step's distance from the grotesque being!
-        
+
         Fear begins to melt her spine...*
 		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00103!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.001024!DESCRIPTION!/]
@@ -265,7 +265,7 @@ CESS PIT
 
 	[/KABU!UR'RUK!CESS PIT!2.00103!DESCRIPTION!]
 		||
-        *The light and sound instantly and utterly vanish - the being along with it. Not a trace of Its visit remains, save Its melodious call, yet ringing in memory...* 
+        *The light and sound instantly and utterly vanish - the being along with it. Not a trace of Its visit remains, save Its melodious call, yet ringing in memory...*
         (A#...){A:0,KABU!UR'RUK!CESS PIT!2.00104!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.00103!DESCRIPTION!/]
 
@@ -274,38 +274,38 @@ CESS PIT
 		*Eidos shifts her feet in the muck, stumbling on a rare solid artifact among the refuse. Her hands fly out to cushion her fall. What they find instead of floor is wall, the tunnel's end. Her touch causes the cold surface to warm, then to glow, revealing a Glyph - unknown to her, or forgotten. Though, its light soon dies as it returns to a watchful slumber.*
 		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.0012!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.00104!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!CESS PIT!2.0011!DESCRIPTION!]
 		||
 		*She moves again and the splashing begins anew. She hesitates, but soon continues. Stumbling on a rare solid artifact among the muck, her hands fly out to cushion her fall. What they find instead of floor is wall, the tunnel's end. Her touch causes the cold surface to warm, then to glow, revealing a Glyph - unknown to her, or forgotten. Though, its light soon dies as it returns to a watchful slumber.*
 		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.0012!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.0011!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!CESS PIT!2.0012!DESCRIPTION!]
 		||
 		*Passage blocked, she has but a single choice - no choice at all, it could be said.*
 		(A#Go back toward light){A:0,KABU!UR'RUK!CESS PIT!1.000!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.0012!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!CESS PIT!2.002!DESCRIPTION!]
 		||
 		*After some time - minutes or hours, for time disguises itself well in this hellscape - she begins to hear fluid dripping onto a solid floor, one clearly well below the passage she now walks. Searching the floor with her foot, Eidos feels the edge of an opening, the width of the tube, but length unknown. She peers down into the pitch blackness, but sees nothing. From the echo, though, she can tell that the floor is within safe jumping distance - that is if it is ever indeed safe to leap into darkness...*
 		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.003!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.002!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!CESS PIT!2.003!DESCRIPTION!]
 		||
 		*Staring out across the gaping hole and into the lightless subterranean passage, Eidos sees a familiar woman walking away. Slowly and deliberately, she marches, her steps punctuated by water splashing and muck oozing around her feet. Overlapping memories from another life, the reunion of forking paths, all comes together to form a single actuality from the myriad potentials. The results are singular, yet the way to them nearly infinite...*
 		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.004!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.003!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!CESS PIT!2.004!DESCRIPTION!]
 		||
 		*But still, much is left undone, and Eidos once again reaffirms her current reality above all others.*
 		(A#Go back toward light){A:0,KABU!UR'RUK!CESS PIT!1.000!DESCRIPTION!}
 		(B#Jump down){B:0,KABU!UR'RUK!DUNGEON OF THE VOID!0.X000!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.004!DESCRIPTION!/]
-	
+
 
 
 
@@ -323,8 +323,8 @@ DUNGEON OF THE VOID
 virgin entrance
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!1.X000!DESCRIPTION!]
 		|@:KABU!UR'RUK!DUNGEON OF THE VOID!1.X100!DESCRIPTION!|
-		*Eidos enters a chamber bereft of all light. Cold, stagnant, utterly frozen in time. Suddenly, she is gripped by a feeling of displacement, as though her physical perceptions, bodily limitations and all their definitions are no longer her own. 
-		
+		*Eidos enters a chamber bereft of all light. Cold, stagnant, utterly frozen in time. Suddenly, she is gripped by a feeling of displacement, as though her physical perceptions, bodily limitations and all their definitions are no longer her own.
+
 		She feels her awareness step forth from her body, siphoned away by the space beyond...*
 		(A#...){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!1.001!DESCRIPTION!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!1.X000!DESCRIPTION!/]
@@ -332,9 +332,9 @@ virgin entrance
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!1.001!DESCRIPTION!]
 		||
 		*In this waking dream, her form is shrouded in a blue cloak, making it impossible to identify the Trueflesh behind these memories. Nevertheless, a companion dressed in a green hood and traveling robe is clearly visible at her side - even in spite of the absolute darkness.
-		
-		They walk the chamber with eyes that seem to parse the darkness, revealing the dungeon's shape and dimensions while its detail and definition remain obscured. Before them is a flickering image, like a sculpture carved in a frozen, colorless fire that drops its tenuous shadow from higher dimensions. 
-		
+
+		They walk the chamber with eyes that seem to parse the darkness, revealing the dungeon's shape and dimensions while its detail and definition remain obscured. Before them is a flickering image, like a sculpture carved in a frozen, colorless fire that drops its tenuous shadow from higher dimensions.
+
 		It is, in form, a female, casting a sightless stare upon the two as they advance towards her grim throne. She is flanked by a single attendant: a small child of indeterminate sex, with an invisible emerald aura about it.*
 		(A#...){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!9999.X1001!DESCRIPTION!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!1.001!DESCRIPTION!/]
@@ -344,7 +344,7 @@ virgin entrance
 		*The rotten stench of centuries of stagnant air mixed with decades of accumulated sewage brings Eidos back to her senses. Scanning the void she now faces, her Awareness becomes bolstered by the vision. She can sense the grim hall before her and the now familiar presence at its furthest reaches.*
 		(A#Attempt communication){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!9999.X1001!DESCRIPTION!}
 		(B#Attack){B:0,KABU!UR'RUK!DUNGEON OF THE VOID!9992.X1001!ARK!}
-	[KABU!UR'RUK!DUNGEON OF THE VOID!1.X100!DESCRIPTION!/]	
+	[KABU!UR'RUK!DUNGEON OF THE VOID!1.X100!DESCRIPTION!/]
 
 
 post-Ark talk +awareness
@@ -363,11 +363,11 @@ post-Ark talk +awareness
 		(A#Fight Ark){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!9992.X1001!ARK!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!2.000!DESCRIPTION!/]
 
-+discipline	
++discipline
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!2.001!DESCRIPTION!]
 		||
 		*The gray shade rises from her dark throne, her first footfall reverberating across the space of Eidos' blinded awareness. The span between them begins to compress with each of Ark's subsequent steps, drawing the two fated heroines together like opposing poles.
-		
+
 		Little time remains, as Eidos' destiny draws near.*
 		(A#Fight Ark){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!9992.X1001!ARK!}
 		(B#Escape){B:0,KABU!UR'RUK!DUNGEON OF THE VOID!2.0010!DESCRIPTION!}
@@ -376,7 +376,7 @@ post-Ark talk +awareness
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!2.0010!DESCRIPTION!]
 		||
 		*In a frenzied panic, Eidos scampers into the darkened depths lying outside her awareness. Without the light of Biracul's memory to guide her in this place, she wanders blindly. More than a few times, she crashes against pillars or walls, and scrapes against strange and unseen formations of stone, all while the ripples of Ark's approaching stride pulsate around her.
-		
+
 		Abruptly, her consciousness is fixed by a voice. Echoing among the twisting stone, it unfolds across her mind until the vague and amorphous sharpen, forming a clear image. It is a Glyph of Discipline directing an escape from this dungeon, yet promising nothing else.*
 		(A#Seek the hidden chamber){A:0,KABU!UR'RUK!THRONE ROOM!0.X000!DESCRIPTION!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!2.0010!DESCRIPTION!/]
@@ -386,7 +386,7 @@ post-Ark talk +awareness
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!2.002!DESCRIPTION!]
 		||
 		*The gray shade rises from her dark throne, her first footfall reverberating across the space of Eidos' blinded awareness. The span between them begins to compress with each of Ark's subsequent steps, drawing the two fated heroines together like opposing poles.
-		
+
 		Little time remains, as Eidos' destiny draws near.*
 		(A#Fight Ark){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!9992.X1001!ARK!}
 		(B#Escape){B:0,KABU!UR'RUK!DUNGEON OF THE VOID!2.0020!DESCRIPTION!}
@@ -394,8 +394,8 @@ post-Ark talk +awareness
 
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!2.0020!DESCRIPTION!]
 		||
-		*In a frenzied panic, Eidos scampers into the darkened depths lying outside her awareness. Without the light of Biracul's memory to guide her in this place, she wanders blindly. More than a few times, she crashes against pillars or walls, and scrapes against strange and unseen formations of stone, all while the ripples of Ark's approaching stride pulsate around her. 
-		
+		*In a frenzied panic, Eidos scampers into the darkened depths lying outside her awareness. Without the light of Biracul's memory to guide her in this place, she wanders blindly. More than a few times, she crashes against pillars or walls, and scrapes against strange and unseen formations of stone, all while the ripples of Ark's approaching stride pulsate around her.
+
 		Abruptly, her consciousness is fixed by two voices. Echoing among the twisting stone, they unfold across her mind until the vague and amorphous sharpen, forming a clear image. They are Glyphs of Awareness revealing two paths from this dungeon - one promises a transient safety in the light; whereas the other makes bold claims of long forgotten secrets buried amidst the shadows...*
 		(A#Walk into the deeper shadows){A:0,KABU!UR'RUK!ALTAR OF THE VOID!0.X000!DESCRIPTION!}
 		(B#Seek the light){B:0,KABU!UR'RUK!DUNGEON OF THE VOID!9990.X16028!DESCRIPTION!}
@@ -405,9 +405,9 @@ escaped previously and exit to Flatlands has evaporated
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!3.000!DESCRIPTION!]
 		||
 		*Eidos stumbles into a familiar darkness; the dark dweller Ark of Dazil awaits as her hellish companion.
-		
+
 		Upon hearing Eidos' thudding collision with the floor, the gray shade rises from her dark throne to confront the fated deposer. Ark's first footfall reverberates across the space of Eidos' blinded awareness. The span between them begins to compress with each of Ark's subsequent steps, drawing the two fated heroines together like opposing poles.
-		
+
 		Little time remains, as Eidos' destiny draws near.*
 		(A#Fight Ark){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!9992.X1001!ARK!}
 		(B#Escape){B:0,KABU!UR'RUK!DUNGEON OF THE VOID!3.001!DESCRIPTION!}
@@ -416,7 +416,7 @@ escaped previously and exit to Flatlands has evaporated
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!3.001!DESCRIPTION!]
 		||
 		*In a frenzied panic, Eidos scampers into the darkened depths lying outside her awareness. Without the light of Biracul's memory to guide her in this place, she wanders blindly. More than a few times, she crashes against pillars or walls, and scrapes against strange and unseen formations of stone, all while the ripples of Ark's approaching stride pulsate around her.
-		
+
 		Abruptly, her consciousness is fixed by two voices. Echoing among the twisting stone, they unfold across her mind until the vague and amorphous sharpen, forming a clear image. They are Glyphs of Awareness revealing two paths from this dungeon.*
 		(A#Follow the louder, clearer voice){A:0,KABU!UR'RUK!ALTAR OF THE VOID!0.X000!DESCRIPTION!}
 		(B#Follow the faint, dying voice){B:0,KABU!UR'RUK!DUNGEON OF THE VOID!3.0010!DESCRIPTION!}
@@ -443,7 +443,7 @@ w/o army in tow + pact w/ spawn of Vanargand
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!102.000!DESCRIPTION!]
 		||
 		*Ark lies on the dungeon floor, her form fading from view like the afterimage of an extinguished, yet still smoldering torch. Her body is now made visible only by the glow of Luin's edge, the very instrument that cut the Trueflesh from its former wielder.
-		
+
 		As the ghelblade returns to dormancy, Eidos is plunged into absolute darkness. Her senses annihilated, a dawning awareness awakens within the yawning void. A presence made palpable by negation, only perceptible as a shadow among shadows. This silhouette of twisted absence spirals at the edges of her mind...*
 		(A#...){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!102.001!DESCRIPTION!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!102.000!DESCRIPTION!/]
@@ -593,7 +593,7 @@ no pact w/ spawn of Vanargand
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!103.000!DESCRIPTION!]
 		||
 		*Ark lies on the dungeon floor, her form fading from view like the afterimage of an extinguished, yet still smoldering torch. Her body is now made visible only by the glow of Luin's edge, the very instrument that cut the Trueflesh from its former wielder.
-		
+
 		As the ghelblade returns to dormancy, Eidos is plunged into absolute darkness. Her senses annihilated, a dawning awareness awakens within the yawning void. A presence made palpable by negation, only perceptible as a shadow among shadows. This silhouette of twisted absence spirals at the edges of her mind...*
 		(A#...){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!103.001!DESCRIPTION!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!103.000!DESCRIPTION!/]
@@ -648,7 +648,7 @@ no pact w/ spawn of Vanargand
 
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!103.009!DESCRIPTION!]
 		||
-		*Then...* 
+		*Then...*
 		(A#...){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!103.010!DESCRIPTION!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!103.009!DESCRIPTION!/]
 
@@ -670,7 +670,7 @@ defeat ark in previous playthrough
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!110.000!DESCRIPTION!]
 		||
 		*This, the Dungeon of the Void - former abode of Hel's Keeper, Ark - now lies abandoned. In another time, this place would host the terrors of the past, yet Eidos sense that she has already affected reality beyond her ability to reconcile. Unfortunately, however, she finds herself stuck in this dungeon, as her only means of exiting looms far above her, beyond her reach. This journey ends here.
-		
+
 		Her Trueflesh, however, is more reluctant to surrender to entropy. Instead, it seeks a familiar scent left behind a past tenant of this gloomy prison...*
 		(A#Dream){A:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!110.000!DESCRIPTION!/]
@@ -678,7 +678,7 @@ defeat ark in previous playthrough
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!110.001!DESCRIPTION!]
 		||
 		*This, the Dungeon of the Void - former abode of Hel's Keeper, Ark - now lies abandoned. In another time, this place would host the terrors of the past, yet Eidos sense that she has already affected reality beyond her ability to reconcile.
-		
+
 		Abruptly, her consciousness is fixed by a voice; echoing among the twisting stone, it unfolds across her mind until the vague and amorphous sharpen, forming a clear image. It is a Glyph of Discipline directing an escape from this dungeon.*
 		(A#Seek the hidden chamber){A:0,KABU!UR'RUK!THRONE ROOM!0.X000!DESCRIPTION!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!110.001!DESCRIPTION!/]
@@ -686,7 +686,7 @@ defeat ark in previous playthrough
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!110.002!DESCRIPTION!]
 		||
 		*This, the Dungeon of the Void - former abode of Hel's Keeper, Ark - now lies abandoned. In another time, this place would host the terrors of the past, yet Eidos sense that she has already affected reality beyond her ability to reconcile.
-		
+
 		Abruptly, her consciousness is fixed by two voices; echoing among the twisting stone, they unfold across her mind until the vague and amorphous sharpen, forming a clear image. They are Glyphs of Awareness revealing two paths from this dungeon - one promises a transient safety in the light; whereas the other makes bold claims of long forgotten secrets buried amidst the shadows.*
 		(A#Walk into the deeper shadows){A:0,KABU!UR'RUK!ALTAR OF THE VOID!0.X000!DESCRIPTION!}
 		(B#Seek the light){B:0,KABU!UR'RUK!DUNGEON OF THE VOID!9990.X16028!DESCRIPTION!}
@@ -696,7 +696,7 @@ defeat ark in previous playthrough
 ARK+BIRACUL+VANARGAND flashback convo
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!0.000!ARK!]
 		||
-		*"The end it is then, if now your face I look upon. For was that not our pact, Shining One?"* 
+		*"The end it is then, if now your face I look upon. For was that not our pact, Shining One?"*
 		(A#"..."){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!0.X0000!ARK!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!0.000!ARK!/]
 
@@ -726,12 +726,12 @@ ARK+BIRACUL+VANARGAND flashback convo
 
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!0.001!ARK!]
 		||
-		*"Time? It passes not for me, Shining One."* 
+		*"Time? It passes not for me, Shining One."*
 		(A#"..."){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!0.0010!ARK!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!0.001!ARK!/]
 
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!0.0010!ARK!]
-		||	
+		||
 		*"For was it not you who told me I would be as a still stone in its stream?"*
 		(A#"..."){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!0.0011!ARK!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!0.0010!ARK!/]
@@ -770,10 +770,10 @@ ARK+BIRACUL+VANARGAND flashback convo
 		||
 		*"You say that, even as you abide here with the fruits of my labors..."*
 		(A#"..."){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!0.001!VANARGAND!}
-	[KABU!UR'RUK!DUNGEON OF THE VOID!0.000!VANARGAND!/]	
+	[KABU!UR'RUK!DUNGEON OF THE VOID!0.000!VANARGAND!/]
 
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!0.001!VANARGAND!]
-		||	
+		||
 		*"You know it well; my children do not wither on the vine as those born of the spiral."*
 		(A#"..."){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!0.002!VANARGAND!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!0.001!VANARGAND!/]
@@ -782,7 +782,7 @@ ARK+BIRACUL+VANARGAND flashback convo
 		||
 		*"But old is this argument, and too weary am I for its defense now."*
 		(A#"..."){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!9999.X0017!VANARGAND!}
-	[KABU!UR'RUK!DUNGEON OF THE VOID!0.002!VANARGAND!/]	
+	[KABU!UR'RUK!DUNGEON OF THE VOID!0.002!VANARGAND!/]
 
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!0.X001!BIRACUL!]
 		|@:KABU!UR'RUK!DUNGEON OF THE VOID!0.002!BIRACUL!|
@@ -792,7 +792,7 @@ ARK+BIRACUL+VANARGAND flashback convo
 
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!0.002!ARK!]
 		||
-		*"So it is not enough that I sacrifice my eternal Trueflesh, I must surrender my sole companion as well?"* 
+		*"So it is not enough that I sacrifice my eternal Trueflesh, I must surrender my sole companion as well?"*
 		(A#"..."){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!0.0020!ARK!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!0.002!ARK!/]
 
@@ -827,7 +827,7 @@ ARK+BIRACUL+VANARGAND flashback convo
 	[KABU!UR'RUK!DUNGEON OF THE VOID!0.0020!BIRACUL!/]
 
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!0.0021!BIRACUL!]
-		||	
+		||
 		*"I ask this of you as a..."*
 		(A#"..."){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!0.0022!BIRACUL!}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!0.0021!BIRACUL!/]
@@ -938,7 +938,7 @@ EMERALD FONT
 	[/KABU!UR'RUK!EMERALD FONT!0.X000!DESCRIPTION!]
 		|^16025:KABU!UR'RUK!EMERALD FONT!0.050!DESCRIPTION!|
 		*Eidos steps into the decaying shell of a once proud structure. Gray light from the cloudless Wasteland sky filters through gaping holes in the scant remains of a high-vaulted ceiling. These meager rays illuminate motes of dust as they float through the air at glacial speeds.
-		
+
 		It looks as though this place may once have mirrored the Hall of Vanargand, as it is similarly festooned with alcoves for statues. However, the statues within are completely unrecognizable, having been rendered into nothing but misshapen stumps of rock.*
 		(A#...){A:0,KABU!UR'RUK!EMERALD FONT!0.001!DESCRIPTION!}
 	[KABU!UR'RUK!EMERALD FONT!0.X000!DESCRIPTION!/]
@@ -965,7 +965,7 @@ Radan still here
 		(B#Pry it open){B:0,KABU!UR'RUK!EMERALD FONT!0.X0100!DESCRIPTION!}
 		(C#Cover the well and leave){C:0,KABU!UR'RUK!EMERALD FONT!0.600!DESCRIPTION!}
 	[KABU!UR'RUK!EMERALD FONT!0.010!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!EMERALD FONT!0.X0100!DESCRIPTION!]
 		|@:KABU!UR'RUK!EMERALD FONT!0.X000!DESCRIPTION!|
 		*Succumbing to an irresistible temptation, Eidos removes the cover... and is subsequently greeted by a violent stink. Some perverse and demonic combination of rotting meat with a pinch of raw sewage, truly this is a bouquet not even a sewer rat could survive. If she tarries too long, she will undoubtedly be ignobly found unconscious and basting in her own vomit near this cess pit.*
@@ -1070,7 +1070,7 @@ tried to kill people
 	[/KABU!UR'RUK!EMERALD FONT!20.000!DESCRIPTION!]
 		||
 		*The citizens of Ur'Ruk bring a bound Eidos to a covered well. The lot of them pinch their noses before cracking open a space barely wide enough for a human to fit through. The reasons for both actions become quite evident first, as soon as Eidos' senses are assaulted by what can only be described as the insides of a Jinn's arse, belching forth from that hellish well; and second, as soon as she is tossed into the source of this stench for her misdeeds.
-		
+
 		The portal closes, sealing off all light as Eidos careens down into the gut-wrenching stench of the unknown.*
 		(A#...){A:0,KABU!UR'RUK!CESS PIT!0.X000!DESCRIPTION!}
 	[KABU!UR'RUK!EMERALD FONT!20.000!DESCRIPTION!/]
@@ -1132,7 +1132,7 @@ RADAN
 	[KABU!UR'RUK!EMERALD FONT!0.200!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.2000!RADAN!]
-		||	
+		||
 		*"My name is Radan of Dazir. What brings you to Ur'Ruk, young lady?"*
 		(A#"My decisions brought me here, good sir."){A:1,KABU!UR'RUK!EMERALD FONT!0.101!RADAN!}
 		(B#"I seek clarity of knowledge."){B:1,KABU!UR'RUK!EMERALD FONT!0.201!RADAN!}
@@ -1143,7 +1143,7 @@ RADAN
 		|@:KABU!UR'RUK!EMERALD FONT!1.000!RADAN!|
 		*"Bah! Waste not my time, you jinnslave! Famlicus take you!"*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!9999.X9999!RADAN!}
-	[KABU!UR'RUK!EMERALD FONT!0.X300!RADAN!/]	
+	[KABU!UR'RUK!EMERALD FONT!0.X300!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.400!RADAN!]
 		||
@@ -1210,7 +1210,7 @@ RADAN
 		*"Well perhaps it too is by happenstance that this conversation is now over."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.X3011!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.3010!RADAN!/]
-	
+
 	[/KABU!UR'RUK!EMERALD FONT!0.X3011!RADAN!]
 		|@:KABU!UR'RUK!EMERALD FONT!1.000!RADAN!|
 		*"May the Shining One guide you to a life of purpose."*
@@ -1237,7 +1237,7 @@ RADAN
 		*"Thank you. None wish to be forgotten - not even us sinners."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1020!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.102!RADAN!/]
-	
+
 	[/KABU!UR'RUK!EMERALD FONT!0.1020!RADAN!]
 		||
 		*"I'll keep it as short as thoroughness permits."*
@@ -1256,14 +1256,14 @@ RADAN
 		(B#"Knowledge is motivation enough for me."){B:1,KABU!UR'RUK!EMERALD FONT!0.X501!RADAN!}
 		(E#"You know nothing of my motivations. What I do is for myself."){E:1,KABU!UR'RUK!EMERALD FONT!0.101!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.2020!RADAN!/]
-	
-	
+
+
 	[/KABU!UR'RUK!EMERALD FONT!0.103!RADAN!]
 		||
 		 *"I am Radan of Dazir, keeper of the flames of Biracul and Ark, may they eternally guide our way."*
 		 (A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1030!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.103!RADAN!/]
-		 
+
 	[/KABU!UR'RUK!EMERALD FONT!0.1030!RADAN!]
 		||
 		 *"I, opposer of the usurpers Khaa and Pakahron, supporter of the Archmage Kambesh, swear to you that what I'm about to reveal is truth, not absolute, rather truth with the clarity that only time and blindness can afford."*
@@ -1539,9 +1539,9 @@ RADAN
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!9999.X9999!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!1.000!RADAN!/]
 
-	
-	
-	
+
+
+
 ______________________________
 GATES OF AWAKENING
 >>>w/ Army in tow (multiple)<<<
@@ -1652,15 +1652,15 @@ to a different arc
 	[/KABU!UR'RUK!GATES OF AWAKENING!0.500!DESCRIPTION!]
 		||
 		*Overcome with fatigue, Eidos lies down in the sand, its searing heat no longer present. As she closes her eyes, time begins to slow... stop... then to reverse and spin ever more intensely, in all directions simultaneously.
-		
+
 		And in an instant, time flattens so that it is entirely visible from Eidos' vantage point, as if a sphere looked upon its flat reflection in a mirror. She sees it begin and end at the Red Tower, the endless spiral of existence, racing away from its origin by racing toward it.*
 		(A#...){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.501!DESCRIPTION!}
 	[KABU!UR'RUK!GATES OF AWAKENING!0.500!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!GATES OF AWAKENING!0.501!DESCRIPTION!]
 		||
-		*Eidos feels her ghost extricate itself from her Falseflesh, now in possession of a clarity of vision she never before possessed. 
-		
+		*Eidos feels her ghost extricate itself from her Falseflesh, now in possession of a clarity of vision she never before possessed.
+
 		She sees the thinly veiled machinations of Khaa, Khlutt and Pakahron. The futile struggles of Logira and Quangjo. The intrigue of Mifas'cul, Famlicus, Famlaz. The intentions of Nargund, Vanargand, the Emerald Architect. The purpose of his three spawn. This and more, all concurrently.*
 		(A#...){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.503!DESCRIPTION!}
 	[KABU!UR'RUK!GATES OF AWAKENING!0.501!DESCRIPTION!/]
@@ -1668,7 +1668,7 @@ to a different arc
 	[/KABU!UR'RUK!GATES OF AWAKENING!0.503!DESCRIPTION!]
 		||
 		*Widening her view, Eidos sees herself as Thetian, still wandering Jer. She sees her life as the Jinnwraith Rikharr. She sees herself as Torma, the prophet, locked in the Vault of the Enclave. And as Wulfias, slave turned master. But then finally as Viracocha, the plurality of the Biracul.
-		
+
 		And in so doing, time folds in on itself and the cycle repeats. Zeroing in on a single point, a flash of light consumes her thought...*
 		(A#Dream){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.504!DESCRIPTION!}
 	[KABU!UR'RUK!GATES OF AWAKENING!0.503!DESCRIPTION!/]
@@ -1699,7 +1699,7 @@ will take you to the beginning of one of the other 5 books
 	[/KABU!UR'RUK!GATES OF AWAKENING!1.000!DESCRIPTION!]
 		||
 		*Eidos is soon enveloped by the shadow of cyclopean walls. These walls stand in stark contrast to the broken buildings they protect, for they are in pristine condition. No gaps, nor joints divide the surface, giving the impression that the walls were pulled up from the very ground they now stand upon, pinched into position by some godly hand. The surface is enmeshed throughout by twisting bands of shimmering metal, the outlined scales of a gargantuan beast, girding an inner skin of stone.
-		
+
 		The walls, however, are in alliance with a rather unlikely bedfellow. The sole opening in them is guarded by a makeshift gate that seals the entry portal to the city. The gate is as dissimilar to the walls as a Sentry is to a Warbeast. Like a buralp patch on a silk dress.*
 		(A#Go back to the Wasteland){A:0,KABU!WASTELAND!CRATER'S EDGE!10.X000!DESCRIPTION!}
 		(B#Call out){B:0,KABU!UR'RUK!GATES OF AWAKENING!1.001!DESCRIPTION!}
@@ -1715,7 +1715,7 @@ w/ army in tow
 	[/KABU!UR'RUK!GATES OF AWAKENING!10.000!DESCRIPTION!]
 		||
 		*Eidos and her legions come upon the entrance to the city. While the city was barely visible from a distance, its cyclopean walls offer no hints of what might lie within. The high city walls themselves are in pristine condition, carved from forbidding granite stone and enmeshed throughout by twisting bands of shimmering metal. The interlocking stone plates are as scales of a gargantuan beast, girding an inner skin of steel.
-		
+
 		The walls, however, stand in stark contrast to the makeshift gate sealing the entry portal to the city. This gate, though sturdy, is foreign to the structure and is of much more humble artifice.*
 		(A#Go back to the Wasteland){A:0,KABU!WASTELAND!CRATER'S EDGE!10.X000!DESCRIPTION!}
 		(B#Call out){B:0,KABU!UR'RUK!GATES OF AWAKENING!10.001!DESCRIPTION!}
@@ -1731,9 +1731,9 @@ w/ army in tow
 	[/KABU!UR'RUK!GATES OF AWAKENING!10.002!DESCRIPTION!]
 		||
 		*Eidos directs her will towards the weakened gate; and envisioning her followers descent upon these folk, silently commands them to tear asunder the meager defenses.
-		
+
 		The dream becomes manifest as her mere thought drives the undead legions upon the city. They rush towards the gate and begin to scale it with a simian grace, heedless of the blows raining down upon them by weapons of stone and glass. The guards at the top are flung from their makeshift battlements to their definitive end. They become the envy of their fellows once Eidos' vanguard rips open gates, granting access to the rest of the slavering masses of draugnir and Neverborn.
-		
+
 		Eidos likewise enters, following in the wake of their destruction.*
 		(A#...){A:0,KABU!UR'RUK!HALL OF VANARGAND!3.000!DESCRIPTION!}
 	[KABU!UR'RUK!GATES OF AWAKENING!10.002!DESCRIPTION!/]
@@ -1743,7 +1743,7 @@ Killed everyone
 	[/KABU!UR'RUK!GATES OF AWAKENING!20.000!DESCRIPTION!]
 		||
 		*Eidos and her legions have returned to the slaughter house that once was the city of Ur'Ruk. Whatever hopes and dreams might have been entertained by these folk are now less than memory, as their remains are peck apart by the swirling desert birds.
-		
+
 		There is nothing beyond the desolation already wrought by the hand of Eidos. She turns her gaze to the Stilled Sand Crater and looks beyond it. The path she walks now can lead to but one place. Following in the footsteps of Rikharr she leads her army into the crater.*
 		(A#...){A:0,KABU!WASTELAND!CRATER'S EDGE!10.X000!DESCRIPTION!}
 	[KABU!UR'RUK!GATES OF AWAKENING!20.000!DESCRIPTION!/]
@@ -1787,11 +1787,11 @@ GREENHOUSE
 		*The stone cracks like eggshells as Eidos walks through the ruined streets of Ur'Ruk. Up ahead, she sees a building of curious make. Columns built up from loose bricks and stones have been carefully piled into low supports without the use of mortar. Between them, large panes of clear crystal have been dragged from the shattered structures and placed in between these mounds to form a crude, though functional greenhouse.*
 		(A#...){A:0,KABU!UR'RUK!GREENHOUSE!0.001!DESCRIPTION!}
 	[KABU!UR'RUK!GREENHOUSE!0.000!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!GREENHOUSE!0.001!DESCRIPTION!]
 		||
 		*Eidos walks into the confines of the structure and is nearly overwhelmed with beautiful sight and refreshing smell of the environs. In contrast to the dusty, lifeless cityscape, this place is as an oasis in the desert.
-		
+
 		The trickling sound of flowing water and the defiant green of leafing plants leave doubt as to whether this be a phantasm of a treacherous mind. Yet, as the pungent stench of night soil assaults her nose, all questions vanish and the garden cements its place firmly in Eidos' reality.*
 		(A#...){A:0,KABU!UR'RUK!GREENHOUSE!0.002!DESCRIPTION!}
 	[KABU!UR'RUK!GREENHOUSE!0.001!DESCRIPTION!/]
@@ -1817,7 +1817,7 @@ GREENHOUSE
 	[/KABU!UR'RUK!GREENHOUSE!0.X101!DESCRIPTION!]
 		|@:KABU!UR'RUK!GREENHOUSE!0.103!DESCRIPTION!|
 		*The elderly couple occupy their usual haunt on the bench, nestled among a row of ripening fruit trees. There they continue to quietly survey the greenery all about.
-		
+
 		Nakara, however, is nowhere to be seen, and even the tracks left by her nervous pacing have been erased by the bare feet of the bustling Greenhouse laborers.*
 		(A#Talk to the dour old man){A:0,KABU!UR'RUK!GREENHOUSE!9999.X0602!DESCRIPTION!}
 		(B#Talk to the elderly lady singing){B:0,KABU!UR'RUK!GREENHOUSE!9999.X0601!DESCRIPTION!}
@@ -1826,7 +1826,7 @@ GREENHOUSE
 	[/KABU!UR'RUK!GREENHOUSE!0.X102!DESCRIPTION!]
 		|@:KABU!UR'RUK!GREENHOUSE!0.103!DESCRIPTION!|
 		*Sitting on a bench that is nestled among a row of ripening fruit trees is an elderly couple, quietly surveying the greenery all about.
-		
+
 		Not far off is a woman pacing around the perimeter of the Greenhouse, her frantic rhythm and furrowed countenance belying feelings of fear and dread.*
 		(A#Talk to the dour old man){A:0,KABU!UR'RUK!GREENHOUSE!9999.X0602!DESCRIPTION!}
 		(B#Talk to the elderly lady singing){B:0,KABU!UR'RUK!GREENHOUSE!9999.X0601!DESCRIPTION!}
@@ -1852,9 +1852,9 @@ tried to kill people
 	[/KABU!UR'RUK!GREENHOUSE!20.000!DESCRIPTION!]
 		||
 		*As the laborers of the Greenhouse crowd around Eidos in a fear-crazed mob, she strikes out, fertilizing the soil with one of their blood.
-		
+
 		While their garden hoes, picks and spades make for crude weapons, their wielders are sufficient in number and ferocity to knock Eidos over and into the sulfurous earth. They proceed to bind her with lengths of twine that cuts painfully into her struggling skin.
-		
+
 		Having been restrained by the denizens of Ur'Ruk, Eidos is carried off to meet her fate...*
 		(A#...){A:0,KABU!UR'RUK!EMERALD FONT!20.000!DESCRIPTION!}
 	[KABU!UR'RUK!GREENHOUSE!20.000!DESCRIPTION!/]
@@ -2076,14 +2076,14 @@ KALEKO
 		(E#"Stop that racket!"){E:1,KABU!UR'RUK!GREENHOUSE!0.500!KALEKO!}
 		(F#"And the gremlins will fall, at His mighty call..."){F:1,KABU!UR'RUK!GREENHOUSE!0.600!KALEKO!}
 	[KABU!UR'RUK!GREENHOUSE!0.000!KALEKO!/]
-	
+
 	[/KABU!UR'RUK!GREENHOUSE!0.100!KALEKO!]
 		||
 		*"It's just an ol' ditty about wanderers out in the desert - much easier pickin's than the Wasteland, if ya ask me, but that misguided Pakahron sure does make me miss the ol' Jenowin."*
 		(A#What did Pakahron do?"){A:1,KABU!UR'RUK!GREENHOUSE!0.X101!KALEKO!}
 		(B#"Is it really that old?"){B:1,KABU!UR'RUK!GREENHOUSE!0.X201!KALEKO!}
 		(E#"Maybe it would sound better sung by someone with talent."){E:1,KABU!UR'RUK!GREENHOUSE!0.X501!KALEKO!}
-	[KABU!UR'RUK!GREENHOUSE!0.100!KALEKO!/]	
+	[KABU!UR'RUK!GREENHOUSE!0.100!KALEKO!/]
 
 	[/KABU!UR'RUK!GREENHOUSE!0.1000!KALEKO!]
 		||
@@ -2175,7 +2175,7 @@ KALEKO
 
 	[/KABU!UR'RUK!GREENHOUSE!0.X301!KALEKO!]
 		|@:KABU!UR'RUK!GREENHOUSE!0.X894!KALEKO!|
-		*"'Cause we're homeward bound, from the void-scorched ground where the phantoms have their rule. 
+		*"'Cause we're homeward bound, from the void-scorched ground where the phantoms have their rule.
 		And we are ever in run, from the three-faced one, as we search for Biracul!'
 		My, I do love that song!"*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!9999.X9999!KALEKO!}
@@ -2225,7 +2225,7 @@ NAKARA
 >>>Does Gapa know you don't like Hazanna?<<<
 	[/KABU!UR'RUK!GREENHOUSE!0.X000!NAKARA!]
 		|^16060:KABU!UR'RUK!GREENHOUSE!0.010!NAKARA!|
-		*"Oh, hello there. I mean, hello my sister!"* 
+		*"Oh, hello there. I mean, hello my sister!"*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.001!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!0.X000!NAKARA!/]
 
@@ -2236,13 +2236,13 @@ NAKARA
 	[KABU!UR'RUK!GREENHOUSE!0.001!NAKARA!/]
 
 	[/KABU!UR'RUK!GREENHOUSE!0.002!NAKARA!]
-		||	
-		*"Please forgive me, I shouldn't have made you feel like an outsider! I hope you'll find safety and comfort here!"* 
+		||
+		*"Please forgive me, I shouldn't have made you feel like an outsider! I hope you'll find safety and comfort here!"*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.003!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!0.002!NAKARA!/]
 
 	[/KABU!UR'RUK!GREENHOUSE!0.003!NAKARA!]
-		||	
+		||
 		*"Is there anything I can do to soothe your suffering, sister?"*
 		(A#"You seem somewhat nervous."){A:1,KABU!UR'RUK!GREENHOUSE!0.100!NAKARA!}
 		(B#"What secrets has this ruined city revealed?"){B:1,KABU!UR'RUK!GREENHOUSE!0.200!NAKARA!}
@@ -2271,7 +2271,7 @@ NAKARA
 
 	[/KABU!UR'RUK!GREENHOUSE!0.1000!NAKARA!]
 		||
-		*"Our exile has been so painful for all of us and I still bear the scars of our hardships."* 
+		*"Our exile has been so painful for all of us and I still bear the scars of our hardships."*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.1001!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!0.1000!NAKARA!/]
 
@@ -2331,7 +2331,7 @@ NAKARA
 
 	[/KABU!UR'RUK!GREENHOUSE!0.400!NAKARA!]
 		||
-		*"Hazanna is imposing and severe, and I admit that I fear her, but she seeks to guide us to place of peace."* 
+		*"Hazanna is imposing and severe, and I admit that I fear her, but she seeks to guide us to place of peace."*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.4000!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!0.400!NAKARA!/]
 
@@ -2357,16 +2357,16 @@ NAKARA
 
 	[/KABU!UR'RUK!GREENHOUSE!0.5000!NAKARA!]
 		||
-		*"Our exile has been so painful for all of us and honestly, I still bear the scars of our hardships."* 
+		*"Our exile has been so painful for all of us and honestly, I still bear the scars of our hardships."*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.5001!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!0.5000!NAKARA!/]
-	
+
 	[/KABU!UR'RUK!GREENHOUSE!0.5001!NAKARA!]
 		||
 		*"I really thought that Ormenos, uh... I mean... the Vile One! I thought he'd be our savior. But now I see that we can only count on each other and not on any outsiders."*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.5002!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!0.5001!NAKARA!/]
-	
+
 	[/KABU!UR'RUK!GREENHOUSE!0.5002!NAKARA!]
 		||
 		*"Though Hazanna has shown me the way, this fear is the scar I bear for my wrong-thought."*
@@ -2420,19 +2420,19 @@ NAKARA
 
 	[/KABU!UR'RUK!GREENHOUSE!0.201!NAKARA!]
 		||
-		*"His name is unclean and unspoken by our folk - mere utterance of it invites the Jinns into our weak minds! I spoke the Vile One's name in weakness!"* 
+		*"His name is unclean and unspoken by our folk - mere utterance of it invites the Jinns into our weak minds! I spoke the Vile One's name in weakness!"*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.2010!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!0.201!NAKARA!/]
 
 	[/KABU!UR'RUK!GREENHOUSE!0.2010!NAKARA!]
 		||
-		*"If you succumb to the Jinn's embrace, you'll become as the pariah, Radan. Many of the others blame him and shun him from our fellowship and family."* 
+		*"If you succumb to the Jinn's embrace, you'll become as the pariah, Radan. Many of the others blame him and shun him from our fellowship and family."*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.2011!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!0.2010!NAKARA!/]
 
 	[/KABU!UR'RUK!GREENHOUSE!0.2011!NAKARA!]
 		||
-		*"But I have pity for him, because all of us have been changed by our hardships - even Hazanna has been changed!"* 
+		*"But I have pity for him, because all of us have been changed by our hardships - even Hazanna has been changed!"*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.2012!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!0.2011!NAKARA!/]
 
@@ -2456,7 +2456,7 @@ NAKARA
 
 	[/KABU!UR'RUK!GREENHOUSE!0.501!NAKARA!]
 		||
-		*"Perhaps it's as you say. Perhaps there's no hope for any of us any more. We were all damned when..."* 
+		*"Perhaps it's as you say. Perhaps there's no hope for any of us any more. We were all damned when..."*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.X5010!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!0.501!NAKARA!/]
 
@@ -2516,13 +2516,13 @@ NAKARA
 
 	[/KABU!UR'RUK!GREENHOUSE!2.011!NAKARA!]
 		||
-		*"Gapa came to me recently and told me that you're spreading dissension among the Unseen against Hazanna."* 
+		*"Gapa came to me recently and told me that you're spreading dissension among the Unseen against Hazanna."*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!2.012!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!2.011!NAKARA!/]
 
 	[/KABU!UR'RUK!GREENHOUSE!2.012!NAKARA!]
 		||
-		*"You must be careful! Because if she told me, she's surely telling others!"* 
+		*"You must be careful! Because if she told me, she's surely telling others!"*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!9990.X16062!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!2.012!NAKARA!/]
 
@@ -2570,7 +2570,7 @@ virgin entrance
 	[/KABU!UR'RUK!HALL OF VANARGAND!1.000!DESCRIPTION!]
 		||
 		*The makeshift gate closing behind her, Eidos now finds herself in a space that dwarfs its entrance by comparison. A domed ceiling arcs overhead, its fading blue color giving the impression of a fabricated sky, complete with clouds and birds in flight. Dully shining crystalline sconces adorn the walls, and work hard to chase away the shadows.
-		
+
 		Some stubborn darkness yet remains, however, and countless statues now stare at her from their shadowy alcoves. Irreparably scarred from their war with time, all of the carvings are now faceless and most seem little more than amorphous stone pillars. A number of sharp edges hint at the angular and idealized forms they were born with, but whatever artistry or feeling they may have once been imbued with has long since been devoured by the city's ruin.*
 		(A#...){A:0,KABU!UR'RUK!HALL OF VANARGAND!1.X001!DESCRIPTION!}
 	[KABU!UR'RUK!HALL OF VANARGAND!1.000!DESCRIPTION!/]
@@ -2578,9 +2578,9 @@ virgin entrance
 	[/KABU!UR'RUK!HALL OF VANARGAND!1.X001!DESCRIPTION!]
 		|@:KABU!UR'RUK!HALL OF VANARGAND!0.X000!DESCRIPTION!|
 		*Nearly invisible at first, she soon detects the first signs of life, for standing along the edges of the hall, in imitation of the statues behind them, is a cadre of men. Their crudely cobbled cudgels impart the sense that they are guardians, though their bearing belies their inexperience. Likewise mirroring the stones they seek to mimic is the deathly pallor of their skin – a pallor with which she is now most personally acquainted.
-		
+
 		A granite table stands as the centerpiece of the hall - though it appears to be entirely ceremonial, as there are none sitting at it save a stately lady gazing down upon Eidos from on high. At her side, a lone attendant kneels.
-		
+
 		The leader beckons Eidos, firmly and matronly, without bothering to rise from her chair.*
 		(A#...){A:0,KABU!UR'RUK!HALL OF VANARGAND!9999.X0600!DESCRIPTION!}
 	[KABU!UR'RUK!HALL OF VANARGAND!1.X001!DESCRIPTION!/]
@@ -2589,7 +2589,7 @@ spoke with Hazanna
 	[/KABU!UR'RUK!HALL OF VANARGAND!2.X000!DESCRIPTION!]
 		|@:KABU!UR'RUK!HALL OF VANARGAND!0.X000!DESCRIPTION!|
 		*Eidos is in the main hall of Ur'Ruk. At one end of the hall is a makeshift gate, at the other is an adjacent room with a curious green structure visible inside. To her left appears to be another exit toward the streets of the city.
-		
+
 		The stately leader of the Ur'Rukians remains seated at her table, busy with work. None sit but her, though there is an attendant kneeling nearby.*
 		(A#Leave the Hall){A:0,KABU!UR'RUK!HALL OF VANARGAND!2.X100!DESCRIPTION!}
 		(B#Address Hazanna){B:0,KABU!UR'RUK!HALL OF VANARGAND!9999.X0600!DESCRIPTION!}
@@ -2608,7 +2608,7 @@ spoke with Hazanna + denied entry
 	[/KABU!UR'RUK!HALL OF VANARGAND!2.500!DESCRIPTION!]
 		||
 		*Before Eidos can react, the guards converge upon her from behind and cast a net, entangling her entirely. They act with utmost speed and stealth in the perfect unison of a well-oiled machine.
-		
+
 		This is the inevitable fate of the nail that sticks out: it is hammered down to conform or removed entirely and replaced with one more suitable. Perhaps this is the only way to survive in the Wastes.*
 		(A#...){A:0,KABU!UR'RUK!HALL OF VANARGAND!20.000!DESCRIPTION!}
 	[KABU!UR'RUK!HALL OF VANARGAND!2.500!DESCRIPTION!/]
@@ -2639,7 +2639,7 @@ attacked w/ draugnir army
 		*Yet, suddenly, Eidos feels a terrible magnetism pulling her towards the blood-red tower further inside the complex. All the Glyphs of the Graylands seem to fill her womb as though they were her unborn children. She sees the face of a clock spinning in reverse with images of Kabu racing into the past, condensing into a single point...*
 		(A#...){A:0,KABU!UR'RUK!HALL OF VANARGAND!3.004!DESCRIPTION!}
 	[KABU!UR'RUK!HALL OF VANARGAND!3.003!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!HALL OF VANARGAND!3.004!DESCRIPTION!]
 		||
 		*And then, the utterly seductive pull dissolves, fading into nothing but a memory. Perhaps this place was significant to her in another life, but now all that is left now is death and a greater thirst for it.*
@@ -2670,7 +2670,7 @@ HAZANNA
 	[KABU!UR'RUK!HALL OF VANARGAND!0.001!HAZANNA!/]
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.002!HAZANNA!]
-		||	
+		||
 		*"If you stay, you will assimilate. Or you will depart immediately and be one with Wasteland. Which do you choose?"*
 		(A#"I wish to know more about your people."){A:1,KABU!UR'RUK!HALL OF VANARGAND!0.100!HAZANNA!}
 		(B#"I won't make a decision in haste."){B:1,KABU!UR'RUK!HALL OF VANARGAND!0.200!HAZANNA!}
@@ -2709,13 +2709,13 @@ HAZANNA
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.200!HAZANNA!]
 		||
-		*"You seek knowledge before action and think it wisdom."* 
+		*"You seek knowledge before action and think it wisdom."*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.2000!HAZANNA!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.200!HAZANNA!/]
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.2000!HAZANNA!]
 		||
-		*"You are mistaken."* 
+		*"You are mistaken."*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.2001!HAZANNA!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.2000!HAZANNA!/]
 
@@ -2735,7 +2735,7 @@ HAZANNA
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.300!HAZANNA!]
 		||
-		*"You are without an apparent will it seems. Perhaps it's because you are one who wishes no harm..."* 
+		*"You are without an apparent will it seems. Perhaps it's because you are one who wishes no harm..."*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.3000!HAZANNA!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.300!HAZANNA!/]
 
@@ -2788,7 +2788,7 @@ HAZANNA
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.500!HAZANNA!]
 		||
-		*"So, one of the Tormentors has wandered into our midst."* 
+		*"So, one of the Tormentors has wandered into our midst."*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.5000!HAZANNA!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.500!HAZANNA!/]
 
@@ -2800,7 +2800,7 @@ HAZANNA
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.5001!HAZANNA!]
 		||
-		*"As for you, I think a just fate would be for you to be among those of like-temperament..."* 
+		*"As for you, I think a just fate would be for you to be among those of like-temperament..."*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.X5002!HAZANNA!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.5001!HAZANNA!/]
 
@@ -2827,7 +2827,7 @@ HAZANNA
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.101!HAZANNA!]
 		||
-		*"Mother Aizos accepts your submission, sister!"* 
+		*"Mother Aizos accepts your submission, sister!"*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.1010!HAZANNA!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.101!HAZANNA!/]
 
@@ -3070,7 +3070,7 @@ KAHIN
 		(A#"But surely, there must be some truth to your past."){A:1,KABU!UR'RUK!HALL OF VANARGAND!9990.X16063-1!KAHIN!}
 		(B#"So what is the truth behind the illusion?"){B:1,KABU!UR'RUK!HALL OF VANARGAND!0.201!KAHIN!}
 		(C#"That may be."){C:1,KABU!UR'RUK!HALL OF VANARGAND!9990.X16063-3!KAHIN!}
-	[KABU!UR'RUK!HALL OF VANARGAND!0.2001!KAHIN!/]	
+	[KABU!UR'RUK!HALL OF VANARGAND!0.2001!KAHIN!/]
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.300!KAHIN!]
 		||
@@ -3104,7 +3104,7 @@ KAHIN
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.3004!KAHIN!]
 		||
-		*"The magi of Kabu removed our connection to the link and blinded their Truesight to our minds. Yet still, we live on as we always will!"* 
+		*"The magi of Kabu removed our connection to the link and blinded their Truesight to our minds. Yet still, we live on as we always will!"*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.3005!KAHIN!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.3004!KAHIN!/]
 
@@ -3269,7 +3269,7 @@ KAHIN
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.1013!KAHIN!]
 		||
-		*"Perhaps the Form will become known to you... or perhaps you'll be purified by death."* 
+		*"Perhaps the Form will become known to you... or perhaps you'll be purified by death."*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.X1014!KAHIN!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.1013!KAHIN!/]
 
@@ -3293,7 +3293,7 @@ KAHIN
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.2011!KAHIN!]
 		||
-		*"She lives in totality through that which we share. But we bear the aches and pains for her as she bears death for us!"* 
+		*"She lives in totality through that which we share. But we bear the aches and pains for her as she bears death for us!"*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.X2012!KAHIN!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.2011!KAHIN!/]
 
@@ -3337,7 +3337,7 @@ KAHIN
 		|@:KABU!UR'RUK!HALL OF VANARGAND!2.000!KAHIN!|
 		*"And all is as it should be!"*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!9999.X9999!KAHIN!}
-	[KABU!UR'RUK!HALL OF VANARGAND!0.X3014!KAHIN!/]	
+	[KABU!UR'RUK!HALL OF VANARGAND!0.X3014!KAHIN!/]
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.401!KAHIN!]
 		||
@@ -3397,7 +3397,7 @@ KAHIN
 		|@:KABU!UR'RUK!HALL OF VANARGAND!2.000!KAHIN!|
 		*"Regardless, all is as it should be!"*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!9999.X9999!KAHIN!}
-	[KABU!UR'RUK!HALL OF VANARGAND!0.X5014!KAHIN!/]	
+	[KABU!UR'RUK!HALL OF VANARGAND!0.X5014!KAHIN!/]
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.601!KAHIN!]
 		||
@@ -3473,9 +3473,9 @@ virgin entrance
 	[/KABU!UR'RUK!LIVING QUARTERS!1.X002!DESCRIPTION!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!0.X000!DESCRIPTION!|
 		*Not too far along the path, Eidos spies an area where much of the rubble has been cleared away to give rise to ramshackle living structures, cobbled together from gnarled pipes and weathered cloth.
-		
+
 		Eidos enters and scans the area. Only the exceedingly old and the uselessly young seem to be present at the moment. Of greater note, though, is that no walls exist to neatly divide the living spaces. Indeed, the Ur'Rukians seem to have a communal living arrangement in the extreme and likely lack an understanding of the concept of personal space and privacy...
-		
+
 		A suspicion that is confirmed when two boys with vibrant green hair start tugging at Eidos' garments inquisitively.*
 		(A#...){A:0,KABU!UR'RUK!LIVING QUARTERS!9999.X0604!DESCRIPTION!}
 	[KABU!UR'RUK!LIVING QUARTERS!1.X002!DESCRIPTION!/]
@@ -3537,7 +3537,7 @@ spoke to the twins
 	[/KABU!UR'RUK!LIVING QUARTERS!2.X100!DESCRIPTION!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!2.X101!DESCRIPTION!|
 		*The man hands the statue to Eidos for her to take a look.
-		
+
 		The effigy is carved of polished black granite. While it is clear that at one time this item was once an object of great beauty, age has worn away many of its finer details. Nonetheless, its most significant details yet shine through: it is a voluptuous female figure of distended belly, bearing six faces and her body is covered in its entirety with circles.*
 		(A#...){A:0,KABU!UR'RUK!LIVING QUARTERS!9999.X0608!DESCRIPTION!}
 	[KABU!UR'RUK!LIVING QUARTERS!2.X100!DESCRIPTION!/]
@@ -3556,7 +3556,7 @@ spoke to the twins
 	[/KABU!UR'RUK!LIVING QUARTERS!2.X201!DESCRIPTION!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!2.X101!DESCRIPTION!|
 		*The man hands the tome to Eidos for her to examine.
-		
+
 		The leather is cracked and worn, but it seems to be some kind of travel journal. The tome has folds and straps to protect and cover the yellowing pages, yet it is small enough to carry with relative ease. Upon opening it, Eidos sees pages written in a familiar, yet indecipherable, gibberish. An attempts to coax its secrets from the unknown script would be as productive as a debate with a draugnir.*
 		(A#...){A:0,KABU!UR'RUK!LIVING QUARTERS!9999.X0608!DESCRIPTION!}
 	[KABU!UR'RUK!LIVING QUARTERS!2.X201!DESCRIPTION!/]
@@ -3564,7 +3564,7 @@ spoke to the twins
 	[/KABU!UR'RUK!LIVING QUARTERS!2.X202!DESCRIPTION!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!2.X101!DESCRIPTION!|
 		*The man hands the tome to Eidos for her to examine.
-		
+
 		The leather is cracked and worn but it seems to be some kind of travel journal. It has folds and straps to protect and cover the pages, yet it is small enough to carry with relative ease. Upon opening the tome, Eidos sees it is written by a traveler named Tourma.*
 		(A#...){A:0,KABU!UR'RUK!LIVING QUARTERS!9990.X16050!DESCRIPTION!}
 	[KABU!UR'RUK!LIVING QUARTERS!2.X202!DESCRIPTION!/]
@@ -3593,7 +3593,7 @@ ARKASH & BIRARKUL
 		*"What are you?"*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!9999.X0603!BIRARKUL!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.X000!BIRARKUL!/]
-	
+
 	[/KABU!UR'RUK!LIVING QUARTERS!0.X000!ARKASH!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!0.X001!ARKASH!|
 		*"Yeah, what are you?"*
@@ -3685,7 +3685,7 @@ race twins
 
 
 
-MAGDA	
+MAGDA
 	[/KABU!UR'RUK!LIVING QUARTERS!0.X000!MAGDA!]
 		||
 		*"Greetin's, sister. Would ya like me to read yer scars?"*
@@ -3776,37 +3776,37 @@ MAGDA
 		*"Well, not disturbin'. Perhaps I find it... hopeful. It may e'en be that yer touched by the Goddess herself - flesh crafted in her image and all."*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.X101!MAGDA!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.101!MAGDA!/]
-	
+
 	[/KABU!UR'RUK!LIVING QUARTERS!0.X101!MAGDA!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!1.000!MAGDA!|
 		*"But e'en the greatest of her gifts wither in time. Ne'er ferget that. The flesh is all we have and e'en it's but the breath of the mother."*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!9999.X9999!MAGDA!}
-	[KABU!UR'RUK!LIVING QUARTERS!0.X101!MAGDA!/]	
-	
+	[KABU!UR'RUK!LIVING QUARTERS!0.X101!MAGDA!/]
+
 	[/KABU!UR'RUK!LIVING QUARTERS!0.201!MAGDA!]
 		||
 		*"Let me think on it... I s'pose that a blank hand could mean. That ya have no future..."*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.2010!MAGDA!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.201!MAGDA!/]
-	
+
 	[/KABU!UR'RUK!LIVING QUARTERS!0.2010!MAGDA!]
 		||
 		*"But that's impossible. Surely it must mean that yers is the life of return. That yer end is yer beginnin' is yer end and so on."*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.X2010!MAGDA!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.2010!MAGDA!/]
-	
+
 	[/KABU!UR'RUK!LIVING QUARTERS!0.X2010!MAGDA!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!1.000!MAGDA!|
 		*"But in ya, the spiral is twisted into a circle. So ya have no future, because ya'll ne'er find yer end."*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!9999.X9999!MAGDA!}
-	[KABU!UR'RUK!LIVING QUARTERS!0.X2010!MAGDA!/]	
-	
+	[KABU!UR'RUK!LIVING QUARTERS!0.X2010!MAGDA!/]
+
 	[/KABU!UR'RUK!LIVING QUARTERS!0.301!MAGDA!]
 		||
 		*"But that's impossible! Surely, it must mean that yers is the life of return. That yer end is yer beginnin' is yer end and so on."*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.X2010!MAGDA!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.301!MAGDA!/]
-	
+
 	[/KABU!UR'RUK!LIVING QUARTERS!0.401!MAGDA!]
 		||
 		*"Ah, now I see. Yer lackin' in scars because yer closed. Ya'll not open yerself to change."*
@@ -3836,7 +3836,7 @@ MAGDA
 		*"Ha! I'd never hate ya, child. Perhaps I find it... hopeful. It may e'en be that yer touched by the Goddess herself - flesh crafted in her image and all."*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.X601!MAGDA!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.601!MAGDA!/]
-	
+
 	[/KABU!UR'RUK!LIVING QUARTERS!0.X601!MAGDA!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!1.000!MAGDA!|
 		*"But e'en the greatest of her gifts wither in time. Ne'er ferget that. The flesh is all we have and e'en it's but the breath of the mother."*
@@ -3975,7 +3975,7 @@ WHABYN
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.4001!WHABYN!]
 		||
-		*"Tha' fool was lookin' fer so much whi' tha' he e'en walk'ed thru the Sal' Fores', the fool!"* 
+		*"Tha' fool was lookin' fer so much whi' tha' he e'en walk'ed thru the Sal' Fores', the fool!"*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.4002!WHABYN!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.4001!WHABYN!/]
 
@@ -4214,8 +4214,8 @@ GAPA
 	[KABU!UR'RUK!LIVING QUARTERS!0.2000!GAPA!/]
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.300!GAPA!]
-		||	
-		*"Then you'll learn how to face the many trials of the Falseflesh with courage and strength!"* 
+		||
+		*"Then you'll learn how to face the many trials of the Falseflesh with courage and strength!"*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.X3000!GAPA!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.300!GAPA!/]
 
@@ -4326,7 +4326,7 @@ GAPA
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.101!GAPA!]
 		||
-		*"Oh?! We must ever be on the watch for those who would lead us away from the path of Aizos, now mustn't we!"* 
+		*"Oh?! We must ever be on the watch for those who would lead us away from the path of Aizos, now mustn't we!"*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.1010!GAPA!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.101!GAPA!/]
 
@@ -4367,7 +4367,7 @@ GAPA
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.2020!GAPA!]
 		||
-		*"Nakara has ever been stalked by the shadow of the past - perhaps she too is beginning to succumb to the despair that has taken so many."* 
+		*"Nakara has ever been stalked by the shadow of the past - perhaps she too is beginning to succumb to the despair that has taken so many."*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.X2021!GAPA!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.2020!GAPA!/]
 
@@ -4410,7 +4410,7 @@ GAPA
 	[KABU!UR'RUK!LIVING QUARTERS!0.X900!GAPA!/]
 
 
->>>Do you know that NAKARA doesn't like Hazanna?<<<	
+>>>Do you know that NAKARA doesn't like Hazanna?<<<
 	[/KABU!UR'RUK!LIVING QUARTERS!1.X000!GAPA!]
 		|^16061:KABU!UR'RUK!LIVING QUARTERS!1.000!GAPA!|
 		*"Aizos guide you in your suffering, sister."*
@@ -4490,7 +4490,7 @@ GAPA
 		*"Fear not, outsider; Hazanna protects her own!"*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!2.X1010!GAPA!}
 	[KABU!UR'RUK!LIVING QUARTERS!2.101!GAPA!/]
-	
+
 	[/KABU!UR'RUK!LIVING QUARTERS!2.X1010!GAPA!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!3.X000!GAPA!|
 		*"May Aizos suffer with you."*
@@ -4521,7 +4521,7 @@ GAPA
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!9999.X9999!GAPA!}
 	[KABU!UR'RUK!LIVING QUARTERS!2.X501!GAPA!/]
 
-	
+
 	[/KABU!UR'RUK!LIVING QUARTERS!3.X000!GAPA!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!3.500!GAPA!|
 		*"I'm not certain if Hazanna will hear your pleas, but I'm certain Aizos will."*
@@ -4552,7 +4552,7 @@ PORTAL OF WISDOM
 		*Eidos comes to the foot of the cloud-scraping edifice, a veritable geyser of blood scabbed into solidity. From this vantage point, she notes that the domed location of the living quarters seems to have been fashioned just outside of the range of this structure's sweeping shadow.*
 		(A#...){A:0,KABU!UR'RUK!PORTAL OF WISDOM!0.001!DESCRIPTION!}
 	[KABU!UR'RUK!PORTAL OF WISDOM!0.X000!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!0.001!DESCRIPTION!]
 		||
 		*Running her fingers across the grainy surface of the megalith, Eidos detects neither seams nor joints, and sees neither supports nor windows. A single inconsistency exists in the sea of bloody homogeneity, a circular slab of reflective obsidian, and the brilliant white Glyph engraved upon its surface.*
@@ -4582,13 +4582,13 @@ PORTAL OF WISDOM
 		*The sky flashes black and the ruined remains of the Ur'Rukian city begin to fall upwards, crumbling, disintegrating, returning to the nothing whence they came. Eidos is alone with the Red Tower in this abyssal darkness.*
 		(A#...){A:0,KABU!UR'RUK!PORTAL OF WISDOM!0.102!DESCRIPTION!}
 	[KABU!UR'RUK!PORTAL OF WISDOM!0.X101!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!0.1010!DESCRIPTION!]
 		||
 		*The sky flashes black and the ruined remains of the Ur'Rukian city begin to fall upwards, crumbling, disintegrating, returning to the nothing whence they came. Dysmas lets out a scream silenced by the upward pull's annihilating grip on all things but Eidos and her tower.*
 		(A#...){A:0,KABU!UR'RUK!PORTAL OF WISDOM!0.1011!DESCRIPTION!}
 	[KABU!UR'RUK!PORTAL OF WISDOM!0.1010!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!0.1011!DESCRIPTION!]
 		||
 		*By the end of it all, she is alone with only the Red Tower as her companion in this abyssal darkness.*
@@ -4620,7 +4620,7 @@ PORTAL OF WISDOM
 		*The burden is too heavy. She jerks her hand free from the building and falls to her knees, fingers now clawing at her temples, trying to remove a memory she cannot seem to recall. But as soon as the transient epiphany vanishes completely, she is able to recompose herself. Eidos stands up, dusting her knees off, and begins to make her way towards the Stone Circle.*
 		(A#Go back to the Stone Circle){A:0,KABU!UR'RUK!STONE CIRCLE!6.X000!DESCRIPTION!}
 	[KABU!UR'RUK!PORTAL OF WISDOM!0.X202!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!0.203!DESCRIPTION!]
 		||
 		*The burden is too heavy. She jerks her hand free from the building and falls to her knees, fingers now clawing at her temples, trying to remove a memory she cannot seem to recall. But as soon as the transient epiphany vanishes completely, she is able to recompose herself. Eidos stands up, dusting her knees off, and begins to make her way towards the Stone Circle, leaving Dysmas to stare quizzically and in silence.*
@@ -4634,13 +4634,13 @@ PORTAL OF WISDOM
 		*Eidos comes to the foot of the cloud-scraping edifice, a veritable geyser of blood scabbed into solidity. From this vantage point, she notes that the domed location of the living quarters seems to have been fashioned just outside of the range of this structure's sweeping shadow.*
 		(A#...){A:0,KABU!UR'RUK!PORTAL OF WISDOM!1.001!DESCRIPTION!}
 	[KABU!UR'RUK!PORTAL OF WISDOM!1.000!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!1.001!DESCRIPTION!]
 		||
 		*Running her fingers across the grainy surface of the megalith, Eidos detects neither seams nor joints, and sees neither supports nor windows. A single inconsistency exists in the sea of bloody homogeneity, a circular slab of reflective obsidian, and the brilliant white Glyph engraved upon its surface.*
 		(A#...){A:0,KABU!UR'RUK!PORTAL OF WISDOM!1.X002!DESCRIPTION!}
 	[KABU!UR'RUK!PORTAL OF WISDOM!1.001!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!1.X002!DESCRIPTION!]
 		|@:KABU!UR'RUK!PORTAL OF WISDOM!1.003!DESCRIPTION!|
 		*But within the reflection Eidos sees she is not alone. Turning around to better see who the dark, blurry figure might be, Eidos is then met with a familiar, though perhaps unwelcome, face...*
@@ -4654,9 +4654,9 @@ post-Dysmas talk
 		(A#Attempt to enter tower){A:0,KABU!UR'RUK!PORTAL OF WISDOM!0.X005!DESCRIPTION!}
 		(B#Follow Dysmas){B:0,KABU!UR'RUK!EMERALD FONT!10.X000!DESCRIPTION!}
 	[KABU!UR'RUK!PORTAL OF WISDOM!1.003!DESCRIPTION!/]
-	
-	
-tried to kill people	
+
+
+tried to kill people
 	[/KABU!UR'RUK!PORTAL OF WISDOM!20.000!DESCRIPTION!]
 		||
 		*The man named Dysmas is no more. With only the silent tower as witness, Eidos is free to roam as though he had never existed in the first place.*
@@ -4694,14 +4694,14 @@ DYSMAS
 		*"It is as you say, and I'm not so petty as to hold a grudge against a fellow exile - what's more, you and I are both drawn to towers; some psychological need, surely."*
 		(A#"..."){A:0,KABU!UR'RUK!PORTAL OF WISDOM!0.002!DYSMAS!}
 	[KABU!UR'RUK!PORTAL OF WISDOM!0.0014!DYSMAS!/]
-	
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!0.0015!DYSMAS!]
 		||
 		*"Charming, truly... But I'm not so petty as to hold a grudge against a fellow exile - what's more, you and I are both drawn to towers; some psychological need, surely."*
 		(A#"..."){A:1,KABU!UR'RUK!PORTAL OF WISDOM!0.002!DYSMAS!}
 		(E#"I'd rather just kill you and be done with it."){E:1,KABU!UR'RUK!PORTAL OF WISDOM!9992.X0114!DYSMAS!}
 	[KABU!UR'RUK!PORTAL OF WISDOM!0.0015!DYSMAS!/]
-	
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!0.0016!DYSMAS!]
 		||
 		*"Crafty, indeed... But I'm not so petty as to hold a grudge against a fellow exile - what's more, you and I are both drawn to towers; some psychological need, surely."*
@@ -4740,28 +4740,28 @@ DYSMAS
 		*"Follow me and I'll show you what I'm talking about."*
 		(A#"..."){A:0,KABU!UR'RUK!PORTAL OF WISDOM!9999.X9999!DYSMAS!}
 	[KABU!UR'RUK!PORTAL OF WISDOM!0.006!DYSMAS!/]
-	
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!0.060!DYSMAS!]
 		||
 		*"What..? No! Of course not!"*
 		(A#"Okay, if you say so."){A:1,KABU!UR'RUK!PORTAL OF WISDOM!0.002!DYSMAS!}
 		(F#"You sure you weren't implying something?"){F:1,KABU!UR'RUK!PORTAL OF WISDOM!0.061!DYSMAS!}
 	[KABU!UR'RUK!PORTAL OF WISDOM!0.060!DYSMAS!/]
-	
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!0.061!DYSMAS!]
 		||
 		*"Look, I already told you it's not an innuendo!"*
 		(A#"You'd know best, I suppose."){A:1,KABU!UR'RUK!PORTAL OF WISDOM!0.002!DYSMAS!}
 		(F#"Okay, but if it were... what would you be implying?"){F:1,KABU!UR'RUK!PORTAL OF WISDOM!0.062!DYSMAS!}
 	[KABU!UR'RUK!PORTAL OF WISDOM!0.061!DYSMAS!/]
-	
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!0.062!DYSMAS!]
 		||
 		*"Can we stop talking about this?!"*
 		(A#"No need to freak out, bro."){A:1,KABU!UR'RUK!PORTAL OF WISDOM!0.002!DYSMAS!}
 		(F#"Just humor me... what psychological need might we have for long cylindrical objects?"){F:1,KABU!UR'RUK!PORTAL OF WISDOM!0.063!DYSMAS!}
 	[KABU!UR'RUK!PORTAL OF WISDOM!0.062!DYSMAS!/]
-	
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!0.063!DYSMAS!]
 		||
 		*"You know, I was going to lure you to a trap at the bottom of that festering well, but I'd might as well just kill you right here to shut you up."*
@@ -4830,8 +4830,8 @@ STONE CIRCLE
 
 	[/KABU!UR'RUK!STONE CIRCLE!1.002!DESCRIPTION!]
 		||
-		*Within a slight depression at the hill's top, Eidos stares down into a circle of carefully placed stones. Unlike much of the stony rubble strewn throughout the city, these appear to be natural, or at the very least, hewn so long ago that any touch of artifice has been erased. 
-		
+		*Within a slight depression at the hill's top, Eidos stares down into a circle of carefully placed stones. Unlike much of the stony rubble strewn throughout the city, these appear to be natural, or at the very least, hewn so long ago that any touch of artifice has been erased.
+
 		Each nearly the height of three people combined and some ten paces across, they are arranged in what looks to be concentric circles with the bone-white husk of a dead tree at its center. Eidos also sees that she is not alone here: a lone woman is nearby, wandering about lost in thought.*
 		(A#Leave the Stone Circle){A:0,KABU!UR'RUK!STONE CIRCLE!0.001!DESCRIPTION!}
 		(B#Examine the stones){B:0,KABU!UR'RUK!STONE CIRCLE!0.X002!DESCRIPTION!}
@@ -4855,7 +4855,7 @@ STONE CIRCLE
 		*Here in the megalithic Stone Circle, Eidos witnesses the new addition to the ancient tree. Swaying in the wind, Eidos recognizes the three corpses of Samesh and her children newly suspended from its branches. Silence reigns under the cloudless, gray sky until one sound pierces through the utter desolation of the scene: the muffled creak of ropes sliding on the branches as the tree's grim fruit dances in the gentle wind.*
 		(A#Leave the Stone Circle){A:0,KABU!UR'RUK!STONE CIRCLE!0.001!DESCRIPTION!}
 		(B#Examine the stones){B:0,KABU!UR'RUK!STONE CIRCLE!0.X002!DESCRIPTION!}
-	[KABU!UR'RUK!STONE CIRCLE!2.002!DESCRIPTION!/]		
+	[KABU!UR'RUK!STONE CIRCLE!2.002!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!3.000!DESCRIPTION!]
 		||
@@ -4922,7 +4922,7 @@ SAMESH
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.100!SAMESH!]
 		||
-		*"Some respite from parenthood - raising kids can be quite the challenge, ha."* 
+		*"Some respite from parenthood - raising kids can be quite the challenge, ha."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.1000!SAMESH!}
 	[KABU!UR'RUK!STONE CIRCLE!0.100!SAMESH!/]
 
@@ -4989,7 +4989,7 @@ SAMESH
 	[KABU!UR'RUK!STONE CIRCLE!0.500!SAMESH!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.5000!SAMESH!]
-		||		
+		||
 		*"And since this place is generally very quiet - only rowdy during the gatherings - so it's quite peaceful, don't you agree?"*
 		(A#"Where are your children?"){A:1,KABU!UR'RUK!STONE CIRCLE!0.101!SAMESH!}
 		(D#"Tell me of these gatherings."){D:1,KABU!UR'RUK!STONE CIRCLE!0.401!SAMESH!}
@@ -5016,7 +5016,7 @@ SAMESH
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.101!SAMESH!]
 		||
-		*"Off somewhere Biracul only knows where! You'd think they'd be easy to find with their green locks - A 'gift' of Ur'Ruk, I suppose."* 
+		*"Off somewhere Biracul only knows where! You'd think they'd be easy to find with their green locks - A 'gift' of Ur'Ruk, I suppose."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.1010!SAMESH!}
 	[KABU!UR'RUK!STONE CIRCLE!0.101!SAMESH!/]
 
@@ -5064,7 +5064,7 @@ SAMESH
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.501!SAMESH!]
 		||
-		*"I suppose I am... It's my fault that they were born in Ur'Ruk. I just wonder what it is that this place is doing to them. If only a mage could use their Truesight..."* 
+		*"I suppose I am... It's my fault that they were born in Ur'Ruk. I just wonder what it is that this place is doing to them. If only a mage could use their Truesight..."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.X5010!SAMESH!}
 	[KABU!UR'RUK!STONE CIRCLE!0.501!SAMESH!/]
 
@@ -5082,7 +5082,7 @@ SAMESH
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.6010!SAMESH!]
 		||
-		*"I used to believe in such things. I thought our Trueflesh'd live on with Biracul in a place beyond the Graylands."* 
+		*"I used to believe in such things. I thought our Trueflesh'd live on with Biracul in a place beyond the Graylands."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.6011!SAMESH!}
 	[KABU!UR'RUK!STONE CIRCLE!0.6010!SAMESH!/]
 
@@ -5174,7 +5174,7 @@ SAMESH
 		*"Hazanna claims that Aizos is the deity of the Vanquished. That she's the form of the true Form - whatever that is. But these creatures are like... why, they're like children!"*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!1.X2001!SAMESH!}
 	[KABU!UR'RUK!STONE CIRCLE!1.2000!SAMESH!/]
-	
+
 >>>DO YOU KNOW ABOUT NAKARA'S FEELINGS?<<<
 	[/KABU!UR'RUK!STONE CIRCLE!1.X2001!SAMESH!]
 		|^16061:KABU!UR'RUK!STONE CIRCLE!1.2001!SAMESH!|
@@ -5190,11 +5190,11 @@ SAMESH
 		(A#"You're not alone, Samesh; Nakara feels the same."){A:1,KABU!UR'RUK!STONE CIRCLE!9990.X16057!SAMESH!}
 		(B#"I hear nothing."){B:1,KABU!UR'RUK!STONE CIRCLE!9990.X16057!SAMESH!}
 		(C#"You know your situation best."){C:1,KABU!UR'RUK!STONE CIRCLE!9990.X16056-1!SAMESH!}
-	[KABU!UR'RUK!STONE CIRCLE!1.2001!SAMESH!/]	
+	[KABU!UR'RUK!STONE CIRCLE!1.2001!SAMESH!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!1.300!SAMESH!]
 		||
-		*"You think so? And here I figured I was the only one who found Hazanna's teachings to be empty..."* 
+		*"You think so? And here I figured I was the only one who found Hazanna's teachings to be empty..."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!1.3000!SAMESH!}
 	[KABU!UR'RUK!STONE CIRCLE!1.300!SAMESH!/]
 
@@ -5217,7 +5217,7 @@ SAMESH
 		*"You think so? And here I figured I was the only one who found her teachings to be empty..."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!1.4000!SAMESH!}
 	[KABU!UR'RUK!STONE CIRCLE!1.400!SAMESH!/]
-	
+
 	[/KABU!UR'RUK!STONE CIRCLE!1.4000!SAMESH!]
 		||
 		*"All that our folk do now is blame each other for their pain, claiming it strengthens the Form. But I look inside and see only the past. A past my children'll never know."*
@@ -5246,7 +5246,7 @@ SAMESH
 
 	[/KABU!UR'RUK!STONE CIRCLE!1.5001!SAMESH!]
 		||
-		*"But I look inside myself and just see the past."* 
+		*"But I look inside myself and just see the past."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!1.5002!SAMESH!}
 	[KABU!UR'RUK!STONE CIRCLE!1.5001!SAMESH!/]
 
@@ -5275,7 +5275,7 @@ SAMESH
 		(A#"You should be with your children, Samesh, not up here alone."){A:1,KABU!UR'RUK!STONE CIRCLE!9990.X16056-1!SAMESH!}
 		(D#"...Hazanna speaks lies. You need new leadership."){D:1,KABU!UR'RUK!STONE CIRCLE!9990.X16056-4!SAMESH!}
 		(E#"I imagine diseased minds love company."){E:1,KABU!UR'RUK!STONE CIRCLE!9990.X16057!SAMESH!}
-	[KABU!UR'RUK!STONE CIRCLE!1.X5005!SAMESH!/]	
+	[KABU!UR'RUK!STONE CIRCLE!1.X5005!SAMESH!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!1.5005!SAMESH!]
 		||
@@ -5293,13 +5293,13 @@ SAMESH
 
 	[/KABU!UR'RUK!STONE CIRCLE!1.6000!SAMESH!]
 		||
-		*"The only 'rings' we see these days are at the gatherings up here, where our folk blame each other for their pain."* 
+		*"The only 'rings' we see these days are at the gatherings up here, where our folk blame each other for their pain."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!1.6001!SAMESH!}
 	[KABU!UR'RUK!STONE CIRCLE!1.6000!SAMESH!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!1.6001!SAMESH!]
 		||
-		*"Hazanna says it strengthens the Form, but I don't see any strength; just the past... one my children'll never know."* 
+		*"Hazanna says it strengthens the Form, but I don't see any strength; just the past... one my children'll never know."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!1.6002!SAMESH!}
 	[KABU!UR'RUK!STONE CIRCLE!1.6001!SAMESH!/]
 
@@ -5308,7 +5308,7 @@ SAMESH
 		*"Here in this circle, I can feel the voices of the Vanquished calling out to me; I feel the Shining One, too..."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!1.X6003!SAMESH!}
 	[KABU!UR'RUK!STONE CIRCLE!1.6002!SAMESH!/]
-	
+
 >>>DO YOU KNOW ABOUT NAKARA'S FEELINGS?<<<
 	[/KABU!UR'RUK!STONE CIRCLE!1.X6003!SAMESH!]
 		|^16061:KABU!UR'RUK!STONE CIRCLE!1.6003!SAMESH!|
@@ -5384,7 +5384,7 @@ SAMESH
 
 
 
-GATHERING	
+GATHERING
 	[/KABU!UR'RUK!STONE CIRCLE!0.000!HAZANNA!]
 		||
 		*"We gather again at this ancient sight of sin to share our own sins, our hurts and pains. We congregate so as to expose and excise the impurities within ourselves. For just as Aizos suffered at the hands of the Vanquished, we too suffer! And just as She was trapped within the Red Tower long ago, so too are we trapped within our corrupted Falseflesh!"*
@@ -5447,7 +5447,7 @@ GATHERING
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.000!KALEKO!]
 		||
-		*"Hello, brothers and sisters! Kaleko stands before ya, sinner and sinned against..."* 
+		*"Hello, brothers and sisters! Kaleko stands before ya, sinner and sinned against..."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.0000!KALEKO!}
 	[KABU!UR'RUK!STONE CIRCLE!0.000!KALEKO!/]
 
@@ -5465,12 +5465,12 @@ GATHERING
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.003!HAZANNA!]
 		||
-		*"Sister Kaleko, suffering is the condition of the Form. It is through pain we come to know it..."* 
+		*"Sister Kaleko, suffering is the condition of the Form. It is through pain we come to know it..."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.X0030!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.003!HAZANNA!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.X0030!HAZANNA!]
-		|@:KABU!UR'RUK!STONE CIRCLE!0.004!HAZANNA!|	
+		|@:KABU!UR'RUK!STONE CIRCLE!0.004!HAZANNA!|
 		*"Please, for the good of Ur'Ruk, you must name your tormentor."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!9999.X0601!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.X0030!HAZANNA!/]
@@ -5513,7 +5513,7 @@ GATHERING
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.0000!GAPA!]
 		||
-		*"I name brother Arkash! He is my tormentor."* 
+		*"I name brother Arkash! He is my tormentor."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.0001!GAPA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.0000!GAPA!/]
 
@@ -5525,7 +5525,7 @@ GATHERING
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.005!HAZANNA!]
 		||
-		*"Great indeed - immense even! - is the suffering of sister Gapa! For though brother Arkash is named her tormentor, the true cause of her pain is Biracul!"* 
+		*"Great indeed - immense even! - is the suffering of sister Gapa! For though brother Arkash is named her tormentor, the true cause of her pain is Biracul!"*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.0050!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.005!HAZANNA!/]
 
@@ -5537,7 +5537,7 @@ GATHERING
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.0051!HAZANNA!]
 		||
-		*"We must cast the dust of all their kind from our eyes and Selves. We must return to the One Truth, to the Form of Aizos!"* 
+		*"We must cast the dust of all their kind from our eyes and Selves. We must return to the One Truth, to the Form of Aizos!"*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.X0052!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.0051!HAZANNA!/]
 
@@ -5547,7 +5547,7 @@ GATHERING
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!9999.X0610!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.X0052!HAZANNA!/]
 
->>>DID you make KAHIN feel bad?<<<	
+>>>DID you make KAHIN feel bad?<<<
 	[/KABU!UR'RUK!STONE CIRCLE!0.X000!KAHIN!]
 		|^16059:KABU!UR'RUK!STONE CIRCLE!0.0001!KAHIN!|
 		*"Brothers and sisters, Kahin stands before you, sinner and sinned against! And I name sister Gapa as my tormentor!"*
@@ -5575,13 +5575,13 @@ GATHERING
 >>>DID you make KAHIN feel bad?<<<
 	[/KABU!UR'RUK!STONE CIRCLE!0.X006!HAZANNA!]
 		|^16059:KABU!UR'RUK!STONE CIRCLE!0.0062!HAZANNA!|
-		*"Great is the suffering of brother Kahin! He has named sister Gapa as his tormentor and objects to the pain the love of our family can bring us!"* 
+		*"Great is the suffering of brother Kahin! He has named sister Gapa as his tormentor and objects to the pain the love of our family can bring us!"*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.0060!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.X006!HAZANNA!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.0060!HAZANNA!]
 		||
-		*"But know when we inflict these hurts that they work to awaken the Form. The Vanquished themselves immortalized Aizos through her dismemberment. Thus, we must be thankful for such love..."* 
+		*"But know when we inflict these hurts that they work to awaken the Form. The Vanquished themselves immortalized Aizos through her dismemberment. Thus, we must be thankful for such love..."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.X0061!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.0060!HAZANNA!/]
 
@@ -5626,7 +5626,7 @@ GATHERING
 		*"I try to treat him as brother, but he made me feel like I was a stranger in my own land, unprotected, orphaned and alone... made me fear him."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!9999.X0600!MAGDA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.0000!MAGDA!/]
-	
+
 >>>GAPA is told about NAKARA's reservations<<<
 	[/KABU!UR'RUK!STONE CIRCLE!0.X007!HAZANNA!]
 		|^16063:KABU!UR'RUK!STONE CIRCLE!0.X0071!HAZANNA!|
@@ -5669,7 +5669,7 @@ GATHERING
 		*"Great is the suffering of sister Magda! Brother Whabyn is her tormentor, and though he is not here to witness your pain, dearest sister, I am. We are. And so too is Aizos!"*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.0075!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.0074!HAZANNA!/]
-	
+
 	[/KABU!UR'RUK!STONE CIRCLE!0.0075!HAZANNA!]
 		||
 		*"Eidos, I see you have joined us..."*
@@ -5713,7 +5713,7 @@ GATHERING
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.008!HAZANNA!]
 		||
-		*"Great is the suffering of sister Nakara! While her fear has caused much suffering in her brothers and sisters previously, it now causes her to fear the truth of Aizos!"* 
+		*"Great is the suffering of sister Nakara! While her fear has caused much suffering in her brothers and sisters previously, it now causes her to fear the truth of Aizos!"*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.0080!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.008!HAZANNA!/]
 
@@ -5796,13 +5796,13 @@ GATHERING
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.400!HAZANNA!]
 		||
-		*"Great is the suffering of sister Eidos! She is so weak that she must claim to have suffered at the hands of a jinnspawn she has never met!"* 
+		*"Great is the suffering of sister Eidos! She is so weak that she must claim to have suffered at the hands of a jinnspawn she has never met!"*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.4000!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.400!HAZANNA!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.4000!HAZANNA!]
 		||
-		*"Look all of you and pity her! So much does she desire our love that she will lie baldfacedly to the very ones that know the work of the Vile One best!"* 
+		*"Look all of you and pity her! So much does she desire our love that she will lie baldfacedly to the very ones that know the work of the Vile One best!"*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.4001!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.4000!HAZANNA!/]
 
@@ -5820,7 +5820,7 @@ GATHERING
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.600!HAZANNA!]
 		||
-		*"Great is the... suffering... of sister Eidos. She is but newly among us and her Form is still hidden from her."* 
+		*"Great is the... suffering... of sister Eidos. She is but newly among us and her Form is still hidden from her."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.6000!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.600!HAZANNA!/]
 
@@ -5831,7 +5831,7 @@ GATHERING
 	[KABU!UR'RUK!STONE CIRCLE!0.6000!HAZANNA!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.6001!HAZANNA!]
-		||	
+		||
 		*"Now let us depart from here, brothers and sisters. Return to your tasks and do the great work that will set us all."*
 		(A#"All I heard was 'free' and 'madness'... Where do I sign up?!"){A:0,KABU!UR'RUK!STONE CIRCLE!9990.X16058!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.6001!HAZANNA!/]
@@ -5843,10 +5843,10 @@ __________________________________
 THE RED TOWER
 	[/KABU!UR'RUK!THE RED TOWER!0.X000!DESCRIPTION!]
 		||
-		*Whatever Eidos has now entered, it is not of this world. The bizarre, ineffable architecture defies all logical and physical laws, to such an extent that Eidos' mind is becoming overwhelmed with the burden of simply existing in this place. 
-		
+		*Whatever Eidos has now entered, it is not of this world. The bizarre, ineffable architecture defies all logical and physical laws, to such an extent that Eidos' mind is becoming overwhelmed with the burden of simply existing in this place.
+
 		She just cannot endure a second longer and her corporeal form begins to unravel into a fantastic chain of orderly atoms sinking ever-deeper into oblivion. Soon to follow is her ghost, slowly dissolving in the solvent that is this place's atmosphere.
-		
+
 		And then, after an infinite dissolution, she is no more...*
 		(A#End){A:0,END GAME!END GAME!END GAME!}
 	[KABU!UR'RUK!THE RED TOWER!0.X000!DESCRIPTION!/]
@@ -5860,9 +5860,9 @@ THRONE ROOM
 	[/KABU!UR'RUK!THRONE ROOM!0.X000!DESCRIPTION!]
 		|^16012:KABU!UR'RUK!THRONE ROOM!0.000!DESCRIPTION!|
 		*The Glyph-protected portal closes as she passes through it, leaving Eidos standing in a room bathed in eldritch light of some indefinable color. She has entered an enclosed chamber some hundred paces squared, yet nearly the entire space is occupied by a curious apparatus. Five thrones stand arranged around a circular metallic platform, each of them facing inward and toward the others. The metal seal is reminiscent of the one upon which she spawned. The thrones are stained with the charred shadows of humanoid figures, burned onto the smooth metal seats.
-		
+
 		In one of the walls, an artificial aperture peers out into a cavern larger than the city sprawled out above it. A greenish phosphorescence lines the cavern walls, dully glowing like the dying embers of a fire. As she scans the cavern, Eidos notices five spheres of absolute darkness hovering mid-air. Their visual appearance is rather peculiar, almost as if they were not blackened objects, but rather the utter absence of any matter whatsoever. It is thus impossible to see if they are truly convex spheres or simply concave dimples in the fabric of existence.
-		
+
 		Walking toward the aperture, she notices some faded writing scratched into the floor immediately preceding the metallic seal.*
 		(A#Back to dungeon){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!0.X000!DESCRIPTION!}
 		(B#Exam the scribbling){B:0,KABU!UR'RUK!THRONE ROOM!1.X000!DESCRIPTION!}
@@ -5871,13 +5871,13 @@ THRONE ROOM
 	[/KABU!UR'RUK!THRONE ROOM!0.000!DESCRIPTION!]
 		||
 		*The Glyph-protected portal closes as she passes through it, leaving Eidos standing in a room bathed in eldritch light of some indefinable color. She has entered an enclosed chamber some hundred paces squared, yet nearly the entire space is occupied by a curious apparatus. Five thrones stand arranged around a circular metallic platform, each of them facing inward and toward the others. The metal seal is reminiscent of the one upon which she spawned. The thrones are stained with the charred shadows of humanoid figures, burned onto the smooth metal seats.
-		
+
 		In one of the walls, an artificial aperture peers out into a cavern larger than the city sprawled out above it. A greenish phosphorescence lines the cavern walls, dully glowing like the dying embers of a fire. As she scans the cavern, Eidos notices five spheres of absolute darkness hovering mid-air. Their visual appearance is rather peculiar, almost as if they were not blackened objects, but rather the utter absence of any matter whatsoever. It is thus impossible to see if they are truly convex spheres or simply concave dimples in the fabric of existence.
-		
+
 		Walking toward the aperture, she notices some faded writing scratched into the floor immediately preceding the metallic seal.*
 		(A#Examine scribbles){A:0,KABU!UR'RUK!THRONE ROOM!1.X001!DESCRIPTION!}
 	[KABU!UR'RUK!THRONE ROOM!0.000!DESCRIPTION!/]
-	
+
 >>>Learned tongues glyph (12303)<<<
 	[/KABU!UR'RUK!THRONE ROOM!1.X000!DESCRIPTION!]
 		|^12303:KABU!UR'RUK!THRONE ROOM!1.000!DESCRIPTION!|
@@ -5888,34 +5888,34 @@ THRONE ROOM
 	[/KABU!UR'RUK!THRONE ROOM!1.000!DESCRIPTION!]
 		||
 		*Eidos stares at the patterns endlessly spiraling in on themselves. Then, bringing the order of Awareness to their chaotic designs, she reads the words of an obviously trembling hand -
-		
+
 		"ACCOMPLISHED! THE BEGINNING OF THE ONE IS FOUND!
 		GODS WERE THE VANQUISHED IF SUCH A THOUGHT WHEEL HERE TURNS,
 		A COUNTER WHEEL IN ANSWER TO THE TURNINGS OF OUR WORLD.
 		LIES THE EMPYREAN BEYOND THIS CHAMBER?
-		CERTAINTY ELUDES MY GRASP. 
+		CERTAINTY ELUDES MY GRASP.
 		I ALONE HERE STAND, PAST AND FUTURE BEYOND RECKONING.
 		WHATEVER HERE NOW BEFALLS, GLADLY THE SIN I SHALL BEAR.
 		I TORMA HAVE BEEN. FORGET ME NOT."*
 		(A#Go back to the dungeon){A:0,KABU!UR'RUK!DUNGEON OF THE VOID!0.X000!DESCRIPTION!}
 	[KABU!UR'RUK!THRONE ROOM!1.000!DESCRIPTION!/]
-	
+
 >>>Learned tongues glyph (12303)<<<
 	[/KABU!UR'RUK!THRONE ROOM!1.X001!DESCRIPTION!]
 		|^12303:KABU!UR'RUK!THRONE ROOM!1.001!DESCRIPTION!|
 		*Eidos stares at the patterns endlessly spiraling in on themselves in her futile attempt to decode them. Thought to word transmogrified means little when the words are unknown. Written symbols are as Glyphs, powerful when known, impotent otherwise.*
 		(A#...){A:0,KABU!UR'RUK!THRONE ROOM!1.002!DESCRIPTION!}
 	[KABU!UR'RUK!THRONE ROOM!1.X001!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!THRONE ROOM!1.001!DESCRIPTION!]
 		||
 		*Eidos stares at the patterns endlessly spiraling in on themselves. Then, bringing the order of Awareness to their chaotic designs, she reads the words of an obviously trembling hand -
-		
+
 		"ACCOMPLISHED! THE BEGINNING OF THE ONE IS FOUND!
 		GODS WERE THE VANQUISHED IF SUCH A THOUGHT WHEEL HERE TURNS,
 		A COUNTER WHEEL IN ANSWER TO THE TURNINGS OF OUR WORLD.
 		LIES THE EMPYREAN BEYOND THIS CHAMBER?
-		CERTAINTY ELUDES MY GRASP. 
+		CERTAINTY ELUDES MY GRASP.
 		I ALONE HERE STAND, PAST AND FUTURE BEYOND RECKONING.
 		WHATEVER HERE NOW BEFALLS, GLADLY THE SIN I SHALL BEAR.
 		I TORMA HAVE BEEN. FORGET ME NOT."*
@@ -5925,7 +5925,7 @@ THRONE ROOM
 	[/KABU!UR'RUK!THRONE ROOM!1.002!DESCRIPTION!]
 		||
 		*With the solitude and solemnity of the surroundings, Eidos is confronted with her current circumstances. She has absorbed the demon Hel and taken Ark's burden upon her shoulders. But it is only now that she realizes the full extent of this duty. Here she will remain as Ark did before her until some unknown ally comes to perform the same service for her as she did for Ark.
-		
+
 		But Eidos knows this is neither her end nor her beginning, it is somehow both combined. She feels her ghost gently drifting off into the sea of infinity, until she is no longer able to distinguish herself from the surrounding darkness. All that remains is the name...*
 		(A#...){A:0,KABU!UR'RUK!THRONE ROOM!1.003!DESCRIPTION!}
 	[KABU!UR'RUK!THRONE ROOM!1.002!DESCRIPTION!/]
@@ -5944,97 +5944,97 @@ THRONE ROOM
 TECHNICAL STUFF
 __________________________________
 EVENT WRITER
-	
+
 	[/KABU!UR'RUK!ALTAR OF THE VOID!9990.X16013-1!DESCRIPTION!]
 		|16013:KABU!UR'RUK!DUNGEON OF THE VOID!0.X000!DESCRIPTION!|
 		*EVENT WRITER - Seen Ormenos' altar*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!ALTAR OF THE VOID!9990.X16013-1!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!ALTAR OF THE VOID!9990.X16013-2!DESCRIPTION!]
 		|16013:KABU!UR'RUK!THE RED TOWER!0.X000!DESCRIPTION!|
 		*EVENT WRITER - Seen Ormenos' altar*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!ALTAR OF THE VOID!9990.X16013-2!DESCRIPTION!/]	
+	[KABU!UR'RUK!ALTAR OF THE VOID!9990.X16013-2!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!9990.X16008-1!HAZANNA!]
 		|16008:KABU!UR'RUK!HALL OF VANARGAND!0.000!HAZANNA!|
 		*EVENT WRITER - Seen Ur'Ruk*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!HALL OF VANARGAND!9990.X16008-1!HAZANNA!/]
-	
+
 	[/KABU!UR'RUK!HALL OF VANARGAND!9990.X16008-2!DESCRIPTION!]
 		|16008:KABU!UR'RUK!GATES OF AWAKENING!120.000!DESCRIPTION!|
 		*EVENT WRITER - Seen Ur'Ruk*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!HALL OF VANARGAND!9990.X16008-2!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!GATES OF AWAKENING!9990.X16009!DESCRIPTION!]
 		|16009:KABU!UR'RUK!GATES OF AWAKENING!10.002!DESCRIPTION!|
 		*EVENT WRITER - Attacked Ur'Ruk*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!GATES OF AWAKENING!9990.X16009!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!GATES OF AWAKENING!9990.X16010!DESCRIPTION!]
 		|16010:MIND!MINDSCAPE!GRAYLANDS!0000.009!DESCRIPTION!|
 		*EVENT WRITER - Meditated in desert*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!GATES OF AWAKENING!9990.X16010!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!HALL OF VANARGAND!9990.X16011!HAZANNA!]
 		|16011:KABU!UR'RUK!HALL OF VANARGAND!9990.X16008-1!HAZANNA!|
 		*EVENT WRITER - Spoke with Hazanna*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!HALL OF VANARGAND!9990.X16011!HAZANNA!/]
-	
+
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!9990.X16015!ARK!]
 		|16015:KABU!UR'RUK!DUNGEON OF THE VOID!0.000!ARK!|
 		*EVENT WRITER - Spoke w/ Ark*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!9990.X16015!ARK!/]
-	
+
 	[/KABU!UR'RUK!LIVING QUARTERS!9990.X16016!ARKASH!]
 		|16016:KABU!UR'RUK!LIVING QUARTERS!9999.X9999!ARKASH!|
 		*EVENT WRITER - Spoke with Unseen twins*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!LIVING QUARTERS!9990.X16016!ARKASH!/]	
+	[KABU!UR'RUK!LIVING QUARTERS!9990.X16016!ARKASH!/]
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!9990.X16017!DESCRIPTION!]
 		|16017:KABU!UR'RUK!GATES OF AWAKENING!100.000!DESCRIPTION!|
 		*EVENT WRITER - Refused entry*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!HALL OF VANARGAND!9990.X16017!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!HALL OF VANARGAND!9990.X16017!HAZANNA!]
 		|16017:KABU!UR'RUK!HALL OF VANARGAND!9999.X9999!HAZANNA!|
 		*EVENT WRITER - Refused entry*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!HALL OF VANARGAND!9990.X16017!HAZANNA!/]	
-	
+	[KABU!UR'RUK!HALL OF VANARGAND!9990.X16017!HAZANNA!/]
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!9990.X16018!DESCRIPTION!]
 		|16018:KABU!UR'RUK!THE RED TOWER!0.X000!DESCRIPTION!|
 		*EVENT WRITER - Opened tower*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!PORTAL OF WISDOM!9990.X16018!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!GREENHOUSE!9990.X16024!KALEKO!]
 		|16024:KABU!UR'RUK!GREENHOUSE!0.X1011!KALEKO!|
 		*EVENT WRITER - Acquired songs of Kabu tome from Kaleko*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!GREENHOUSE!9990.X16024!KALEKO!/]
-	
+
 	[/KABU!UR'RUK!EMERALD FONT!9990.X16025!RADAN!]
 		|16025:KABU!UR'RUK!EMERALD FONT!0.X000!RADAN!|
 		*EVENT WRITER - Spoke w/ Radan*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!EMERALD FONT!9990.X16025!RADAN!/]
-	
+
 	[/KABU!UR'RUK!LIVING QUARTERS!9990.X16026!ARKASH!]
 		|16026:KABU!UR'RUK!LIVING QUARTERS!0.X002!ARKASH!|
 		*EVENT WRITER - Raced twins*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!LIVING QUARTERS!9990.X16026!ARKASH!/]
-	
+
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!9990.X16028!DESCRIPTION!]
 		|16028:KABU!WASTELAND!FLATLANDS!100.000!DESCRIPTION!|
 		*EVENT WRITER - Awareness Glyph evaporates sealing Hel*
@@ -6045,19 +6045,19 @@ EVENT WRITER
 		|16046:KABU!UR'RUK!LIVING QUARTERS!2.X100!DESCRIPTION!|
 		*EVENT WRITER - LOOKED AT STATUE*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!LIVING QUARTERS!9990.X16046!DESCRIPTION!/]	
-	
+	[KABU!UR'RUK!LIVING QUARTERS!9990.X16046!DESCRIPTION!/]
+
 	[/KABU!UR'RUK!LIVING QUARTERS!9990.X16049!DESCRIPTION!]
 		|16049:KABU!UR'RUK!LIVING QUARTERS!2.X001!DESCRIPTION!|
 		*EVENT WRITER - SPOKE TO WHABYN*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!LIVING QUARTERS!9990.X16049!DESCRIPTION!/]	
-	
+	[KABU!UR'RUK!LIVING QUARTERS!9990.X16049!DESCRIPTION!/]
+
 	[/KABU!UR'RUK!LIVING QUARTERS!9990.X16050!DESCRIPTION!]
 		|16050:KABU!UR'RUK!LIVING QUARTERS!9999.X0608!DESCRIPTION!|
 		*EVENT WRITER - ACQUIRED TORMA UR'RUK TOME*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!LIVING QUARTERS!9990.X16050!DESCRIPTION!/]		
+	[KABU!UR'RUK!LIVING QUARTERS!9990.X16050!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!LIVING QUARTERS!9990.X16060!GAPA!]
 		|16060:KABU!UR'RUK!LIVING QUARTERS!0.X900!GAPA!|
@@ -6070,31 +6070,31 @@ EVENT WRITER
 		*EVENT WRITER - GAPA thinks you dislike Hazanna*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!LIVING QUARTERS!9990.X16060-3!GAPA!/]
-		
+
 	[/KABU!UR'RUK!LIVING QUARTERS!9990.X16060-4!GAPA!]
 		|16060:KABU!UR'RUK!LIVING QUARTERS!0.X401!GAPA!|
 		*EVENT WRITER - GAPA thinks you dislike Hazanna*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!LIVING QUARTERS!9990.X16060-4!GAPA!/]
-	
+
 	[/KABU!UR'RUK!LIVING QUARTERS!9990.X16060-5!GAPA!]
 		|16060:KABU!UR'RUK!LIVING QUARTERS!0.X502!GAPA!|
 		*EVENT WRITER - GAPA thinks you dislike Hazanna*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!LIVING QUARTERS!9990.X16060-5!GAPA!/]	
-	
+	[KABU!UR'RUK!LIVING QUARTERS!9990.X16060-5!GAPA!/]
+
 	[/KABU!UR'RUK!GREENHOUSE!9990.X16061!NAKARA!]
 		|16061:KABU!UR'RUK!GREENHOUSE!0.102!NAKARA!|
 		*EVENT WRITER - NAKARA tells you her reservations about Hazanna*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!GREENHOUSE!9990.X16061!NAKARA!/]
-	
+
 	[/KABU!UR'RUK!GREENHOUSE!9990.X16061-5!NAKARA!]
 		|16061:KABU!UR'RUK!GREENHOUSE!0.501!NAKARA!|
 		*EVENT WRITER - NAKARA tells you her reservations about Hazanna*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!GREENHOUSE!9990.X16061-5!NAKARA!/]	
-	
+	[KABU!UR'RUK!GREENHOUSE!9990.X16061-5!NAKARA!/]
+
 	[/KABU!UR'RUK!GREENHOUSE!9990.X16062!NAKARA!]
 		|16062:KABU!UR'RUK!GREENHOUSE!2.X013!NAKARA!|
 		*EVENT WRITER - You have discovered that GAPA is informing against you*
@@ -6105,78 +6105,62 @@ EVENT WRITER
 		|16063:KABU!UR'RUK!LIVING QUARTERS!0.202!GAPA!|
 		*EVENT WRITER - GAPA is told about NAKARA*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!LIVING QUARTERS!9990.X16063!GAPA!/]	
-	
+	[KABU!UR'RUK!LIVING QUARTERS!9990.X16063!GAPA!/]
+
 	[/KABU!UR'RUK!STONE CIRCLE!9990.X16056-1!SAMESH!]
 		|16056:KABU!UR'RUK!STONE CIRCLE!1.101!SAMESH!|
 		*EVENT WRITER - MADE SAMESH RESOLVE TO KILL HERSELF AND HER CHILDREN.*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!STONE CIRCLE!9990.X16056-1!SAMESH!/]
-	
+
 	[/KABU!UR'RUK!STONE CIRCLE!9990.X16056-4!SAMESH!]
 		|16056:KABU!UR'RUK!STONE CIRCLE!1.401!SAMESH!|
 		*EVENT WRITER - MADE SAMESH RESOLVE TO KILL HERSELF AND HER CHILDREN.*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9990.X16056-4!SAMESH!/]	
+	[KABU!UR'RUK!STONE CIRCLE!9990.X16056-4!SAMESH!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!9990.X16056-6!SAMESH!]
 		|16056:KABU!UR'RUK!STONE CIRCLE!1.601!SAMESH!|
 		*EVENT WRITER - MADE SAMESH RESOLVE TO KILL HERSELF AND HER CHILDREN.*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9990.X16056-6!SAMESH!/]	
-	
+	[KABU!UR'RUK!STONE CIRCLE!9990.X16056-6!SAMESH!/]
+
 	[/KABU!UR'RUK!STONE CIRCLE!9990.X16057!SAMESH!]
 		|16057:KABU!UR'RUK!STONE CIRCLE!1.X201!SAMESH!|
 		*EVENT WRITER - MADE SAMESH DECIDE NOT TO KILL HER CHILDREN.*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9990.X16057!SAMESH!/]		
+	[KABU!UR'RUK!STONE CIRCLE!9990.X16057!SAMESH!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!9990.X16058!HAZANNA!]
 		|16058:KABU!UR'RUK!STONE CIRCLE!9999.X9999!HAZANNA!|
 		*EVENT WRITER - MEETING ADJOURNED.*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!STONE CIRCLE!9990.X16058!HAZANNA!/]
-	
+
 	[/KABU!UR'RUK!HALL OF VANARGAND!9990.X16059-5!KAHIN!]
 		|16059:KABU!UR'RUK!HALL OF VANARGAND!0.501!KAHIN!|
 		*EVENT WRITER - You made KAHIN feel bad.*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!HALL OF VANARGAND!9990.X16059-5!KAHIN!/]	
-	
+	[KABU!UR'RUK!HALL OF VANARGAND!9990.X16059-5!KAHIN!/]
+
 	[/KABU!UR'RUK!HALL OF VANARGAND!9990.X16063-1!KAHIN!]
 		|16056:KABU!UR'RUK!HALL OF VANARGAND!0.101!KAHIN!|
 		*EVENT WRITER - You made KAHIN feel bad.*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!HALL OF VANARGAND!9990.X16063-1!KAHIN!/]	
+	[KABU!UR'RUK!HALL OF VANARGAND!9990.X16063-1!KAHIN!/]
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!9990.X16063-3!KAHIN!]
 		|16059:KABU!UR'RUK!HALL OF VANARGAND!0.301!KAHIN!|
 		*EVENT WRITER - You made KAHIN feel bad.*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!HALL OF VANARGAND!9990.X16063-3!KAHIN!/]
-	
+
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!9990.X16065!DESCRIPTION!]
 		|16065:KABU!UR'RUK!DUNGEON OF THE VOID!102.X010!DESCRIPTION!|
 		*EVENT WRITER - Finished acquiring Hel*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!9990.X16065!DESCRIPTION!/]
 
-
-
-
-__________________________________
-FIGHTING WORDS
-	[/KABU!UR'RUK!DUNGEON OF THE VOID!9992.X1001!ARK!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}
-	[KABU!UR'RUK!DUNGEON OF THE VOID!9992.X1001!ARK!/]
-	
-	[/KABU!UR'RUK!PORTAL OF WISDOM!9992.X0114!DYSMAS!]
-		||
-		**
-		(A#FIGHT){A:0,FIGHT}
-	[KABU!UR'RUK!PORTAL OF WISDOM!9992.X0114!DYSMAS!/]
 
 
 
@@ -6188,36 +6172,36 @@ NPC SWITCHERS
 		*DYSMAS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!EMERALD FONT!9999.X0114!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!9999.X0114!DESCRIPTION!]
 		|#npcSwitch:114|
 		*DYSMAS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!PORTAL OF WISDOM!9999.X0114!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!HALL OF VANARGAND!9999.X0600!DESCRIPTION!]
 		|#npcSwitch:600|
 		*HAZANNA*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!HALL OF VANARGAND!9999.X0600!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!STONE CIRCLE!9999.X0600!DESCRIPTION!]
 		|#npcSwitch:600|
 		*HAZANNA*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9999.X0600!DESCRIPTION!/]	
-	
+	[KABU!UR'RUK!STONE CIRCLE!9999.X0600!DESCRIPTION!/]
+
 	[/KABU!UR'RUK!STONE CIRCLE!9999.X0600!EGIMESH!]
 		|#npcSwitch:600|
 		*EGIMESH to HAZANNA*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9999.X0600!EGIMESH!/]	
-	
+	[KABU!UR'RUK!STONE CIRCLE!9999.X0600!EGIMESH!/]
+
 	[/KABU!UR'RUK!STONE CIRCLE!9999.X0600!GAPA!]
 		|#npcSwitch:600|
 		*GAPA to HAZANNA*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9999.X0600!GAPA!/]	
+	[KABU!UR'RUK!STONE CIRCLE!9999.X0600!GAPA!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!9999.X0600!KAHIN!]
 		|#npcSwitch:600|
@@ -6229,31 +6213,31 @@ NPC SWITCHERS
 		|#npcSwitch:600|
 		*KALEKO to HAZANNA*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9999.X0600!KALEKO!/]		
-	
+	[KABU!UR'RUK!STONE CIRCLE!9999.X0600!KALEKO!/]
+
 	[/KABU!UR'RUK!STONE CIRCLE!9999.X0600!MAGDA!]
 		|#npcSwitch:600|
 		*MAGDA to HAZANNA*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9999.X0600!MAGDA!/]	
+	[KABU!UR'RUK!STONE CIRCLE!9999.X0600!MAGDA!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!9999.X0600!NAKARA!]
 		|#npcSwitch:600|
 		*NAKARA to HAZANNA*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9999.X0600!NAKARA!/]	
-	
+	[KABU!UR'RUK!STONE CIRCLE!9999.X0600!NAKARA!/]
+
 	[/KABU!UR'RUK!GREENHOUSE!9999.X0601!DESCRIPTION!]
 		|#npcSwitch:601|
 		*KALEKO*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!GREENHOUSE!9999.X0601!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!STONE CIRCLE!9999.X0601!HAZANNA!]
 		|#npcSwitch:601|
 		*HAZANNA to KALEKO*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9999.X0601!HAZANNA!/]	
+	[KABU!UR'RUK!STONE CIRCLE!9999.X0601!HAZANNA!/]
 
 	[/KABU!UR'RUK!GREENHOUSE!9999.X0602!DESCRIPTION!]
 		|#npcSwitch:602|
@@ -6265,37 +6249,37 @@ NPC SWITCHERS
 		|#npcSwitch:602|
 		*HAZANNA to EGIMESH*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9999.X0602!HAZANNA!/]	
-	
+	[KABU!UR'RUK!STONE CIRCLE!9999.X0602!HAZANNA!/]
+
 	[/KABU!UR'RUK!LIVING QUARTERS!9999.X0603!BIRARKUL!]
 		|#npcSwitch:603|
 		*ARKASH*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!LIVING QUARTERS!9999.X0603!BIRARKUL!/]
-	
+
 	[/KABU!UR'RUK!LIVING QUARTERS!9999.X0604!ARKASH!]
 		|#npcSwitch:604|
 		*ARKASH TO BIRARKUL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!LIVING QUARTERS!9999.X0604!ARKASH!/]
-	
+
 	[/KABU!UR'RUK!LIVING QUARTERS!9999.X0604!DESCRIPTION!]
 		|#npcSwitch:604|
 		*BIRARKUL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!LIVING QUARTERS!9999.X0604!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!EMERALD FONT!9999.X0605!DESCRIPTION!]
 		|#npcSwitch:605|
 		*RADAN*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!EMERALD FONT!9999.X0605!DESCRIPTION!/]
-		
+
 	[/KABU!UR'RUK!LIVING QUARTERS!9999.X0607!DESCRIPTION!]
 		|#npcSwitch:607|
 		*MAGDA*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!LIVING QUARTERS!9999.X0607!DESCRIPTION!/]	
+	[KABU!UR'RUK!LIVING QUARTERS!9999.X0607!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!9999.X0607!HAZANNA!]
 		|#npcSwitch:607|
@@ -6314,25 +6298,25 @@ NPC SWITCHERS
 		*DESCRIPTION to GAPA*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!LIVING QUARTERS!9999.X0609!DESCRIPTION!/]
-	
+
 	[/KABU!UR'RUK!STONE CIRCLE!9999.X0609!HAZANNA!]
 		|#npcSwitch:609|
 		*HAZANNA to GAPA*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9999.X0609!HAZANNA!/]	
+	[KABU!UR'RUK!STONE CIRCLE!9999.X0609!HAZANNA!/]
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!9999.X0610!DESCRIPTION!]
 		|#npcSwitch:610|
 		*KAHIN*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!HALL OF VANARGAND!9999.X0610!DESCRIPTION!/]	
+	[KABU!UR'RUK!HALL OF VANARGAND!9999.X0610!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!STONE CIRCLE!9999.X0610!HAZANNA!]
 		|#npcSwitch:610|
 		*HAZANNA to KAHIN*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9999.X0610!HAZANNA!/]		
-	
+	[KABU!UR'RUK!STONE CIRCLE!9999.X0610!HAZANNA!/]
+
 	[/KABU!UR'RUK!GREENHOUSE!9999.X0611!DESCRIPTION!]
 		|#npcSwitch:611|
 		*DESCRIPTION to NAKARA*
@@ -6343,25 +6327,25 @@ NPC SWITCHERS
 		|#npcSwitch:611|
 		*HAZANNA to NAKARA*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9999.X0611!HAZANNA!/]		
-	
+	[KABU!UR'RUK!STONE CIRCLE!9999.X0611!HAZANNA!/]
+
 	[/KABU!UR'RUK!STONE CIRCLE!9999.X0612!DESCRIPTION!]
 		|#npcSwitch:612|
 		*DESCRIPTION to SAMESH*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9999.X0612!DESCRIPTION!/]		
-	
+	[KABU!UR'RUK!STONE CIRCLE!9999.X0612!DESCRIPTION!/]
+
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!9999.X1001!DESCRIPTION!]
 		|#npcSwitch:1001|
 		*ARK*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!9999.X1001!DESCRIPTION!/]
-		
+
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!9999.X1001!BIRACUL!]
 		|#npcSwitch:1001|
 		*ARK FROM BIRACUL*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!DUNGEON OF THE VOID!9999.X1001!BIRACUL!/]	
+	[KABU!UR'RUK!DUNGEON OF THE VOID!9999.X1001!BIRACUL!/]
 
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!9999.X0017!VANARGAND!]
 		|#npcSwitch:17|
@@ -6373,14 +6357,14 @@ NPC SWITCHERS
 		|#npcSwitch:17|
 		*BIRACUL FROM ARK*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!DUNGEON OF THE VOID!9999.X0017!ARK!/]	
-	
+	[KABU!UR'RUK!DUNGEON OF THE VOID!9999.X0017!ARK!/]
+
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!9999.X0019!ARK!]
 		|#npcSwitch:19|
 		*VANARGAND FROM ARK*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!DUNGEON OF THE VOID!9999.X0019!ARK!/]	
-		
+	[KABU!UR'RUK!DUNGEON OF THE VOID!9999.X0019!ARK!/]
+
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!9999.X9999!ARK!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM ARK*
@@ -6392,49 +6376,49 @@ NPC SWITCHERS
 		*DESCRIPTION FROM ARKASH*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!LIVING QUARTERS!9999.X9999!ARKASH!/]
-	
+
 	[/KABU!UR'RUK!DUNGEON OF THE VOID!9999.X9999!BIRACUL!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM BIRACUL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!DUNGEON OF THE VOID!9999.X9999!BIRACUL!/]
-		
+
 	[/KABU!UR'RUK!EMERALD FONT!9999.X9999!DYSMAS!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FORM DYSMAS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!EMERALD FONT!9999.X9999!DYSMAS!/]
-	
+
 	[/KABU!UR'RUK!PORTAL OF WISDOM!9999.X9999!DYSMAS!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM DYSMAS*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!PORTAL OF WISDOM!9999.X9999!DYSMAS!/]
-	
+
 	[/KABU!UR'RUK!GREENHOUSE!9999.X9999!EGIMESH!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM EGIMESH*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!GREENHOUSE!9999.X9999!EGIMESH!/]
-	
+
 	[/KABU!UR'RUK!LIVING QUARTERS!9999.X9999!GAPA!]
 		|#npcSwitch:9999|
 		*GAPA to DESCRIPTION*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!LIVING QUARTERS!9999.X9999!GAPA!/]	
-	
+	[KABU!UR'RUK!LIVING QUARTERS!9999.X9999!GAPA!/]
+
 	[/KABU!UR'RUK!HALL OF VANARGAND!9999.X9999!HAZANNA!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM HAZANNA*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!HALL OF VANARGAND!9999.X9999!HAZANNA!/]
-	
+
 	[/KABU!UR'RUK!STONE CIRCLE!9999.X9999!HAZANNA!]
 		|#npcSwitch:9999|
 		*HAZANNA to DESCRIPTION*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!STONE CIRCLE!9999.X9999!HAZANNA!/]
-	
+
 	[/KABU!UR'RUK!HALL OF VANARGAND!9999.X9999!KAHIN!]
 		|#npcSwitch:9999|
 		*KAHIN to DESCRIPTION*
@@ -6451,14 +6435,14 @@ NPC SWITCHERS
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM MAGDA*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!LIVING QUARTERS!9999.X9999!MAGDA!/]	
-		
+	[KABU!UR'RUK!LIVING QUARTERS!9999.X9999!MAGDA!/]
+
 	[/KABU!UR'RUK!GREENHOUSE!9999.X9999!NAKARA!]
 		|#npcSwitch:9999|
 		*NAKARA to DESCRIPTION*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!GREENHOUSE!9999.X9999!NAKARA!/]
-	
+
 	[/KABU!UR'RUK!EMERALD FONT!9999.X9999!RADAN!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM RADAN*
@@ -6469,10 +6453,27 @@ NPC SWITCHERS
 		|#npcSwitch:9999|
 		*SAMESH to DESCRIPTION*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!UR'RUK!STONE CIRCLE!9999.X9999!SAMESH!/]		
-	
+	[KABU!UR'RUK!STONE CIRCLE!9999.X9999!SAMESH!/]
+
 	[/KABU!UR'RUK!LIVING QUARTERS!9999.X9999!WHABYN!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM WHABYN*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!LIVING QUARTERS!9999.X9999!WHABYN!/]]
+
+
+__________________________________
+FIGHTING WORDS
+	[/KABU!UR'RUK!DUNGEON OF THE VOID!9992.X1001!ARK!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!UR'RUK!DUNGEON OF THE VOID!9992.X1001!ARK!/]
+
+	[/KABU!UR'RUK!PORTAL OF WISDOM!9992.X0114!DYSMAS!]
+		||
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!UR'RUK!PORTAL OF WISDOM!9992.X0114!DYSMAS!/]
+
+

@@ -34,7 +34,7 @@ GATE OF THE HEATHEN
 	[/KABU!WILDERNESS!GATE OF THE HEATHEN!10.X000!DESCRIPTION!]
 		|@:KABU!WILDERNESS!GATE OF THE HEATHEN!11.000!DESCRIPTION!|
 		*Emerging from the Wellspring gate, Eidos is greeted by the cool, open air of a mountainside. High peaks rise up all about, hiding the horizon beyond. Yet, the dimming of the twinkling stars in the sky heralds the searing warmth of daybreak.
-		
+
 		Stretching out below her is a road snaking its way down the slopes toward Dazir, home of the mage Khaa. Beside this path, in the gloom of the cliff overhead, is a plateau and a small encampment within. The encampment soon births an elderly man from its sole tent. Bound in a turquoise robe, he glides across the dusty path toward her, seeming to phase into existence like a jittery mirage. A wave of his hand silently signals a greeting upon seeing her, as he continues his approach...*
 		(A#...){A:0,KABU!WILDERNESS!GATE OF THE HEATHEN!9999.X0006!DESCRIPTION!}
 	[KABU!WILDERNESS!GATE OF THE HEATHEN!10.X000!DESCRIPTION!/]
@@ -252,13 +252,13 @@ Virgin entrance
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.0000!DESCRIPTION!]
 		||
 		*To the northwest, the fissure faces a mountain range, its jagged peaks looming oppressively over the flat desert sprawled before it. The mountains have an unnatural feel to them; they do not grow from gradually emerging foothills, but rather, more closely resemble stalagmites slowly deposited from above, wishing to join their heaven-mirrored twins. Behind the nearest peak, the tip of a massive work of rectilinear architecture hints at an imposing structure beyond. Extending forth from the mountain's belly are arching supports bearing aqueducts - one reaching her current location and the other crawling eastward.
-		
+
 		Eidos' eye follows this eastbound aqueduct across the horizon as it leads to a distant settlement. Whatever buildings might lie within, though, are hidden by a high wall - save the shimmering silver spire thrusting into the sky like a silent threat to the gods. The spire disseminates reflected rays across the dry plain, as though it were the very sun's earthly ambassador.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.0001!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.0000!DESCRIPTION!/]
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.0001!DESCRIPTION!]
-		||	
+		||
 		*Past the towering spire, another architectural marvel spans a vast canyon. It appears to be a bridge of some sort. Lacking supports above or beneath, it is as an image frozen in time.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.0002!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.0001!DESCRIPTION!/]
@@ -290,7 +290,7 @@ Famlicus there, but not yet engaged with Pak
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.002!DESCRIPTION!]
 		||
 		*Eidos stands upon the cracked earth of the Jenowin Plain once more. The Sun bears down hard and the cloudless sky does little to intervene. Off in the distance, she can see the northern mountains and the aqueduct that leads from them to the silver tower in the northeast. Across the leviathanic bridge that unites the two sides of the eastern chasm is the third settlement of the region.
-		
+
 		The crimson-clad desert wayfarer is perched in the shade of a towering boulder near the entrance, still as a statue, eyes fixed upon Eidos' every movement, just as the hawk observes the clueless field rat. His utter silence and complete stillness give the illusion of his form phasing in and out of existence.*
 		(A#Walk towards the mountain){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X7210!DESCRIPTION!}
 		(B#Make for the tower){B:0,KABU!WILDERNESS!JENOWIN PLAIN!0.7211!DESCRIPTION!}
@@ -310,7 +310,7 @@ Killed by Pak
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.X004!DESCRIPTION!]
 		|@:KABU!WILDERNESS!JENOWIN PLAIN!0.001!DESCRIPTION!|
 		*Eidos steps out onto the cracked earth of the Jenowin Plain yet again. Her eyes involuntarily search for Tambul, the home of her slayer...
-		
+
 		Though before she can even think of what to do next, the familiar form of a rusty desert wanderer reveals itself. Seemingly stepping out of the ripples of heat that distort the air all around, the crimson-clad stranger approaches Eidos with a slow but steady gait, gliding across the burning sands effortlessly.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!9999.X0006!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.X004!DESCRIPTION!/]
@@ -336,7 +336,7 @@ From Dazir
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.X010!DESCRIPTION!]
 		|^17008:KABU!WILDERNESS!JENOWIN PLAIN!0.010!DESCRIPTION!|
 		*As Eidos walks further on, the sunlight begins to dim. The increasing shade is brought on not by clouds but by the looming ire of an approaching dust storm, bearing in from the southwest. Hours pass, and soon the Sanctuary is hidden from view by the angry whorls of sand.
-		
+
 		Yet, her will is steel and her concentration unwavering. She thus attempts to carve a straight path towards her known but hidden destination through the flesh of the storm...*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.0100!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.X010!DESCRIPTION!/]
@@ -399,7 +399,7 @@ From Dazir
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.X100!DESCRIPTION!]
 		|^12304:KABU!WILDERNESS!JENOWIN PLAIN!0.101!DESCRIPTION!|
 		*She stumbles across the burning span of desert, one labored step after the next. Diminutive dust clouds dance to the rhythm of her footfalls, and eventually all join to form a wispy cape heralding her approach.
-		
+
 		Hours pass before she notices a mirror cloud rising off in the distance. Straining her eyes against the dust and sun, it is difficult to make anything out for certain among the shimmering waves of burning air. Perhaps it is a person moving its way towards her, or perhaps it is merely a mirage born of heat and thirst.*
 		(A#Keep walking forward){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X120!DESCRIPTION!}
 		(B#Wait for the figure to approach){B:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X110!DESCRIPTION!}
@@ -416,7 +416,7 @@ From Dazir
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.X110!DESCRIPTION!]
 		|@:KABU!WILDERNESS!JENOWIN PLAIN!0.X900!DESCRIPTION!|
 		*As the flickering shape draws nearer, Eidos sees that it is clearly no mirage. The figure is dressed in dusty robes, patched and mended so many times that the original fabric is hard to discern. Every stitch of thread, every scrap of cloth is dyed some shade of red. It walks with the aid of a large wooden staff, and a wide-brimmed hat obscures its features.
-		
+
 		About ten strides from Eidos, it raises its head to look upon her.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!9990.X17901!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.X110!DESCRIPTION!/]
@@ -424,7 +424,7 @@ From Dazir
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.X120!DESCRIPTION!]
 		|@:KABU!WILDERNESS!JENOWIN PLAIN!0.X900!DESCRIPTION!|
 		*Eidos strides with renewed vigor across the sand towards the flickering shape. As she draws nearer, she sees it is clearly no mirage. The figure is dressed in dusty robes, patched and mended so many times that the original fabric is hard to discern. Every stitch of thread, every scrap of cloth is dyed some shade of red. It walks with the aid of a large wooden staff, and a wide-brimmed hat obscures its features.
-		
+
 		About ten strides from Eidos, it raises its head to look upon her.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!9990.X17901!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.X120!DESCRIPTION!/]
@@ -436,7 +436,7 @@ From Dazir
 		*MULTICHECKER - this is used exclusively to reset 17000 event*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.X7200!DESCRIPTION!/]
-	
+
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.X72000!DESCRIPTION!]
 		||
 		*MULTICHECKER - this is used exclusively to reset 17000 event*
@@ -518,7 +518,7 @@ Event 20001 - Blew up Moon Tower and Tacriba invasion
 	[/KABU!WILDERNESS!JENOWIN PLAIN!10.X000!DESCRIPTION!]
 		|@:KABU!WILDERNESS!JENOWIN PLAIN!10.002!DESCRIPTION!|
 		*As she emerges from the rock dome, Eidos witnesses smoke pillars rising from the township of Tambul. Crawling westward from the broken township is an amorphous mass of bloodthirsty individuals, headed directly for Dazir.
-		
+
 		So caught up in the surreality of the scene is she that she failed to notice someone standing right next to her. The figure is dressed in dusty robes, patched and mended so many times the original fabric is hard to discern. Every stitch of thread, every scrap of cloth is dyed some shade of red. It clutches in its grip a large wooden staff and hides its features behind a wide-brimmed hat, tinted in the hue of dried blood. A raspy voice pours forth from the shadows beneath the hat.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!9999.X0006!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!10.X000!DESCRIPTION!/]
@@ -526,7 +526,7 @@ Event 20001 - Blew up Moon Tower and Tacriba invasion
 	[/KABU!WILDERNESS!JENOWIN PLAIN!10.X001!DESCRIPTION!]
 		|@:KABU!WILDERNESS!JENOWIN PLAIN!10.002!DESCRIPTION!|
 		*As she emerges from the rock dome, Eidos witnesses smoke pillars rising from the township of Tambul and an amorphous mass of bloodthirsty individuals turned swarm inching northwest towards the neighboring township of Dazir.
-		
+
 		Suddenly, Eidos finally notices someone standing right next to her. The figure is dressed in dusty robes, patched and mended so many times the original fabric is hard to discern. Every stitch of thread, every scrap of cloth is dyed some shade of red. It clutches in its grip a large wooden staff and hides its features behind a wide-brimmed hat, tinted in the hue of dried blood. Famlicus' raspy voice pours forth from the shadows beneath the hat.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!9999.X0006!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!10.X001!DESCRIPTION!/]
@@ -576,9 +576,9 @@ Event 20001 - Blew up Moon Tower and Tacriba invasion
 	[/KABU!WILDERNESS!JENOWIN PLAIN!100.X000!DESCRIPTION!]
 		|^17009:KABU!WILDERNESS!JENOWIN PLAIN!100.000!DESCRIPTION!|
 		*At the midpoint of her journey, Eidos arrives at the base of a massive pillar, serving to bear the stone aqueduct overhead. Looking around, Eidos sees the remains of a wooden scaffold, hastily disassembled.
-		
+
 		Suddenly feeling a pang of thirst, she scans the column for any sign of water leaking from the conduit. However, there is none to be found; not even the sound of water issues forth from the stone waterway above.
-		
+
 		Squinting her eyes against the blazing light permeating the sky, the only thing visible near the top is what looks to be a new addition to the structure. A large network of chains wrapped around the point at which the pillar meets the arch. Within these chains is a number of large, angular glass objects reflecting the Sun's rays with an amber light. However, there is no way to reach them from down here.*
 		(A#Keep walking towards the mountains){A:0,KABU!WILDERNESS!JENOWIN PLAIN!9990.X17009-1!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!100.X000!DESCRIPTION!/]
@@ -586,7 +586,7 @@ Event 20001 - Blew up Moon Tower and Tacriba invasion
 	[/KABU!WILDERNESS!JENOWIN PLAIN!100.000!DESCRIPTION!]
 		||
 		*At the midpoint of her journey, Eidos returns to the base of the massive pillar bearing the stone aqueduct overhead. The remains of a wooden scaffold still litter the ground here and there seems to be no new activity in the area.
-		
+
 		Eidos looks up once more and sees the network of chains still wrapped around the top of the column and beneath the conduit. The large, angular crystals bound by the chains reflect the blazing sun with an amber light. However, there is still no way to reach them from down here.*
 		(A#Keep walking towards the mountains){A:0,KABU!WILDERNESS!JENOWIN PLAIN!100.001!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!100.000!DESCRIPTION!/]
@@ -601,7 +601,7 @@ Event 20001 - Blew up Moon Tower and Tacriba invasion
 	[/KABU!WILDERNESS!JENOWIN PLAIN!101.X000!DESCRIPTION!]
 		|^17009:KABU!WILDERNESS!JENOWIN PLAIN!101.000!DESCRIPTION!|
 		*At the midpoint of her journey, Eidos arrives at the base of a massive pillar, serving to bear the stone aqueduct overhead. Looking around, Eidos sees the remains of a wooden scaffold that was hastily disassembled only recently. Eidos scans the conduit for any sign of damage which would explain the construction.
-		
+
 		Even in the darkness of night, it is easy to determine which new addition to the structure merited the scaffold. A large network of chains has been wrapped around the point at which the pillar meets the arch. Within these chains is a number of large, angular glass objects. They join the nocturnal spectacle of the shining stars with a twinkling amber light of their own. However, there is no way to reach them from down here.*
 		(A#Keep walking towards the Sanctuary){A:0,KABU!WILDERNESS!JENOWIN PLAIN!9990.X17009-2!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!101.X000!DESCRIPTION!/]
@@ -609,7 +609,7 @@ Event 20001 - Blew up Moon Tower and Tacriba invasion
 	[/KABU!WILDERNESS!JENOWIN PLAIN!101.000!DESCRIPTION!]
 		||
 		*At the midpoint of her journey, Eidos returns at the base of the massive pillar bearing the stone aqueduct overhead. The remains of a wooden scaffold still litter the ground here and there seems to be no new activity in this area.
-		
+
 		Eidos looks up and sees the network of chains wrapped around the top of the column and beneath the conduit. The large, angular crystals bound by the chain join the nocturnal spectacle of the shining stars with a twinkling amber light of their own. However, there is still no way to reach them from down here.*
 		(A#Keep walking towards the Sanctuary){A:0,KABU!WILDERNESS!JENOWIN PLAIN!101.001!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!101.000!DESCRIPTION!/]
@@ -1232,7 +1232,7 @@ PAKAHRON INCRIMINATION & RESURRECTION ACQUISITION
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!3.9002!FAMLICUS!]
 		||
-		*"You see, I noticed 'someone' has broken the crystal that would power the portcullis down in the Sanctuary below."* 
+		*"You see, I noticed 'someone' has broken the crystal that would power the portcullis down in the Sanctuary below."*
 		(A#"..."){A:0,KABU!WILDERNESS!JENOWIN PLAIN!3.9003!FAMLICUS!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!3.9002!FAMLICUS!/]
 
@@ -1346,7 +1346,7 @@ MOUNTAIN PASS
 	[/KABU!WILDERNESS!MOUNTAIN PASS!0.000!DESCRIPTION!]
 		||
 		*The road is a perpetual river of dust and stone, winding through the mountains wherever a weakness can be exploited. And, either by nature or design, it has found weaknesses leading both up and down the slope of the mountain.
-		
+
 		Then, the whisper of a thought draws Eidos eyes towards the Glyph of Discipline, staring down at her from the rock face above. Her Sigil of the same name reveals that behind it is the mouth of a cave system, the veins and arteries of this ancient rocky colossus.*
 		(A#Scale the cliff to the Sunless Grotto){A:0,KABU!CANYON!SUNLESS GROTTO!1.X009!DESCRIPTION!}
 		(B#Walk up into the mountains){B:0,KABU!WILDERNESS!MOUNTAIN PASS!0.X001!DESCRIPTION!}
@@ -1363,7 +1363,7 @@ MOUNTAIN PASS
 	[/KABU!WILDERNESS!MOUNTAIN PASS!0.0010!DESCRIPTION!]
 		||
 		*She now stands upon a plateau and discovers a makeshift encampment. Sitting near a diminutive felt tent and the smoldering embers of a camp fire, is an elderly man, wrapped up in a heavy blanket, head covered in a turquoise felt cap.
-		
+
 		Beyond the camp, a cliff stretches upwards, reaching in a vainglorious attempt to join the sky. Eidos can see no means of scaling its sheer face, thus bringing a stone-cold end to her upwards trajectory.*
 		(A#...){A:0,KABU!WILDERNESS!MOUNTAIN PASS!0.00101!DESCRIPTION!}
 	[KABU!WILDERNESS!MOUNTAIN PASS!0.0010!DESCRIPTION!/]
@@ -1380,10 +1380,10 @@ MOUNTAIN PASS
 	[/KABU!WILDERNESS!MOUNTAIN PASS!0.X002!DESCRIPTION!]
 		|^10501:KABU!WILDERNESS!MOUNTAIN PASS!2.000!DESCRIPTION!|
 		*Eidos descends from the Gate of the Heathen and into a plateau with a makeshift encampment. Sitting near a diminutive felt tent and the smoldering embers of a camp fire, is an elderly man, wrapped up in a heavy blanket, head covered in a turquoise felt cap.
-		
+
 		Down the treacherous mountain path, she sees nothing but an unending path of dust and stone.*
 		(A#Return to the gate){A:0,KABU!WILDERNESS!GATE OF THE HEATHEN!0.X000!DESCRIPTION!}
-		(B#Walk back down the mountain pass){B:0,KABU!WILDERNESS!MOUNTAIN PASS!0.X000!DESCRIPTION!}	
+		(B#Walk back down the mountain pass){B:0,KABU!WILDERNESS!MOUNTAIN PASS!0.X000!DESCRIPTION!}
 		(C#Talk to the man){C:0,KABU!WILDERNESS!MOUNTAIN PASS!9999.X0050!DESCRIPTION!}
 	[KABU!WILDERNESS!MOUNTAIN PASS!0.X002!DESCRIPTION!/]
 
@@ -1637,9 +1637,9 @@ from sanc
 	[/KABU!WILDERNESS!TACRIBA!0.001!DESCRIPTION!]
 		||
 		*Eidos scans the ruins now making up her surroundings, witnessing the remains of what once was a bustling town. Though the place appears to have lain deserted for uncounted centuries, the buildings yet stand, all but unscathed by the passage of time.
-		
+
 		One unique feature, likely the one responsible for the town's desertion, mars the central courtyard the town encircles. Jutting up from the ground like teeth in some bestial maw are thick shards of glass, wider than Eidos is tall and twice again her height. As she walks by, these jagged fangs seem to shimmer in the meager light of the environs.
-		
+
 		What light does bathe the abandoned settlement appears to come from a break in the massive stone dome that shelters the place. Though, upon closer inspection the area is far too well illuminated for this to be the case. Turning her attention to the dome itself, Eidos discovers a subtle translucence to it, its stony appearance the result of the sun's rays being scattered, refracted and otherwise disturbed.*
 		(A#Walk through the opening){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X000!DESCRIPTION!}
 		(B#Enter the Sanctuary){B:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
@@ -1648,7 +1648,7 @@ from sanc
 	[/KABU!WILDERNESS!TACRIBA!0.002!DESCRIPTION!]
 		||
 		*Eidos comes once more to the ruins of Tacriba. Abandoned and forgotten, it shares the fate of all who dared exist. The eldritch illumination of the false stone dome still gives a hazy impression that the city itself is but a memory. The ground still pretends to be some monstrous mouth agape in a perpetual howl, baring jagged teeth that dimly shimmer in the meager light.
-		
+
 		Nothing new here in this graveyard for memories.*
 		(A#Go to the Jenowin Plain){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X000!DESCRIPTION!}
 		(B#Enter the Sanctuary){B:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
@@ -1804,7 +1804,7 @@ EVENT WRITERS
 		|17009:KABU!WILDERNESS!JENOWIN PLAIN!100.001!DESCRIPTION!|
 		*EVENT WRITER - Seen aqueduct*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!WILDERNESS!JENOWIN PLAIN!9990.X17009-1!DESCRIPTION!/]	
+	[KABU!WILDERNESS!JENOWIN PLAIN!9990.X17009-1!DESCRIPTION!/]
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!9990.X17009-2!DESCRIPTION!]
 		|17009:KABU!WILDERNESS!JENOWIN PLAIN!101.001!DESCRIPTION!|
@@ -1858,8 +1858,6 @@ EVENT WRITERS
 
 
 ________________________________
-FIGHTING WORDS
-________________________________
 NPC SWITCHERS
 	[/KABU!WILDERNESS!GATE OF THE HEATHEN!9999.X0006!DESCRIPTION!]
 		|#npcSwitch:6|
@@ -1908,3 +1906,8 @@ NPC SWITCHERS
 		*DESCRIPTION*
 		(A#SWITCH){A:0,NO ADDRESS}
 	[KABU!WILDERNESS!JENOWIN PLAIN!9999.X9999!FAMLICUS!/]
+
+
+________________________________
+FIGHTING WORDS
+

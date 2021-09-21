@@ -31,7 +31,7 @@ ceremony
 	[/KAVU!DAZIL!ATRIUM!9.000!DESCRIPTION!]
 		||
 		*ASCENDENCE Ceremony occurs with one of six events the player selects (actual choice of three highest affinities).
-        
+
         DIP:The Builders approach Rik to talk about social change
         TRU:Lazham shows up w/ well wishes and a desire to discuss the Muninn
         NEU:Go back to Manor to rest
@@ -50,7 +50,7 @@ GATES OF DAZIL
 	[/KAVU!DAZIL!GATES OF DAZIL!1.X000!DESCRIPTION!]
 		|^3006:KAVU!DAZIL!GATES OF DAZIL!1.010!DESCRIPTION!|
 		*CALLBACK to the description in the Book of Eidos, except they are open already and only close at nighttime. Also, there are Neverborn sentries guarding the place and stationed all over Kavu as gaurds, cleaners, pack bearers, etc.
-		
+
 		HEAR a commotion at the far end of the Atrium.*
 		(A#...){A:0,KAVU!DAZIL!ATRIUM!1.X000!DESCRIPTION!}
 	[KAVU!DAZIL!GATES OF DAZIL!1.X000!DESCRIPTION!/]
@@ -58,7 +58,7 @@ GATES OF DAZIL
 	[/KAVU!DAZIL!GATES OF DAZIL!1.010!DESCRIPTION!]
 		||
 		*CALLBACK to the description in the Book of Eidos, except they are open already and only close at nighttime.
-		
+
         PEOPLE inquire about Rikos' collapse.
 
 		HEAR a commotion at the far end of the Atrium.*
@@ -76,7 +76,7 @@ KHARR MANOR
 		(A#Explore Dazil){A:0,KAVU!DAZIL!ARBORETUM!1.000!DESCRIPTION!}
 		(B#Go to sleep){B:0,KAVU!DAZIL!KHARR MANOR!9.000!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!1.000!DESCRIPTION!/]
-	
+
 	[/KAVU!DAZIL!KHARR MANOR!9.000!DESCRIPTION!]
 		||
 		*RIKOS enters a dreamless sleep and awakens the next day where he must attend the Ascendance Ceremony.*
@@ -167,7 +167,7 @@ KHARR MANOR
             SUR: Meet Radysar's entourage en route to Tacriva.
             TYR: Receive news of draug attacks from a courier on the road to Tambul with a decree from the High Council that Radysar must deal with Overseeing the operation.
             LOO: Accidentally eat a mushroom {plucked it instead of grabbing the bread that was on the ground because was trying to listen to Ark}. See a vision of Roostor.
-        
+
         CISTERN Artisan comes in with urgent news about his father's funeral rites.*
 		(A#To the Cistern){A:0,KAVU!CISTERN!GATE OF THE HEATHEN!10.000!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!10.600!DESCRIPTION!/]
@@ -206,7 +206,7 @@ ARCHIVES
 	[/KAVU!DAZIL!ARCHIVES!20.200!DESCRIPTION!]
 		||
 		*LAZHAM is here, admiring the Muninn the Archives. When Rik asks guard why he let Lazham in, he says he didn't even know the man was in here! Is about to go remove him, but Rikos calms him down and tells him to be careful. Talks to you about the Muninn and then leaves.
-		
+
 		RIKOS immediately attempts communion w/ the Muninn. Senses Wulfias and Kavu are in danger. Rushes to Tacriva.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!20.200!DESCRIPTION!}
 	[KAVU!DAZIL!ARCHIVES!20.200!DESCRIPTION!/]
@@ -226,7 +226,7 @@ FEAST HALL
 	[/KAVU!DAZIL!FEAST HALL!20.600!DESCRIPTION!]
 		||
 		*EAT, listen to some sobering hymns to Biracul.
-		
+
 		THEN Ark suggests a visit to the Slums, for some real fun.*
 		(A#...){A:0,KAVU!DAZIL!SLUMS!20.600!DESCRIPTION!}
 	[KAVU!DAZIL!FEAST HALL!20.600!DESCRIPTION!/]
@@ -247,7 +247,7 @@ come back from Muninn in Tacriva
             LOO: Ark woke up. Maybe she got tired of waiting for true love's kiss?
 
         TRUSTED servant who was taking care of you mentions that the Festival of Light is tomorrow. Shares more plot development for one random background plot point.
-		
+
 		RIK learns the Muninn sapling has arrived and been installed. Goes to see it immediately.*
 		(A#...){A:0,KAVU!DAZIL!ARCHIVES!20.200!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!20.200!DESCRIPTION!/]
@@ -274,7 +274,7 @@ builders quest
             LOO: Ark woke up. Maybe she got tired of waiting for true love's kiss?
 
         TRUSTED servant who was taking care of you mentions that the Festival of Light is tomorrow. Shares more plot development for one random background plot point.
-		
+
 		DREAMLESS sleep revisits Rik.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!30.X000!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!29.100!DESCRIPTION!/]
@@ -292,7 +292,7 @@ neutral path
             LOO: Ark woke up. Maybe she got tired of waiting for true love's kiss?
 
         TRUSTED servant who was taking care of you mentions that the Festival of Light is tomorrow. Shares more plot development for one random background plot point.
-		
+
 		DREAMLESS sleep revisits Rik.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!30.X000!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!29.300!DESCRIPTION!/]
@@ -309,7 +309,7 @@ back from archives
             LOO: Ark woke up. Maybe she got tired of waiting for true love's kiss?
 
         TRUSTED servant who was taking care of you mentions that the Festival of Light is tomorrow. Shares more plot development for one random background plot point.
-		
+
 		DREAMLESS sleep revisits Rik.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!30.X000!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!29.400!DESCRIPTION!/]
@@ -327,18 +327,18 @@ back from the Wasteland
             LOO: Ark woke up. Maybe she got tired of waiting for true love's kiss?
 
         TRUSTED servant who was taking care of you mentions that the Festival of Light is tomorrow. Shares more plot development for one random background plot point.
-		
+
 		DREAMLESS sleep revisits Rik.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!30.X000!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!29.500!DESCRIPTION!/]
-	
+
 back from the Wasteland
     [/KAVU!DAZIL!KHARR MANOR!29.600!DESCRIPTION!]
 		||
 		*BACK from Slums w/ Ark.
 
         BANG.
-		
+
 		DREAMLESS sleep revisits Rik.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!30.X000!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!29.600!DESCRIPTION!/]
@@ -352,13 +352,13 @@ SLUMS
 	[/KAVU!DAZIL!SLUMS!20.100!DESCRIPTION!]
 		||
 		*SETTLE the Builders' issues.
-		
+
 			DIP: Reforms will end branding and increase social mobility for Builders who prove themselves capable
             TRU: Public debate with Builders in attendance; a loss means negotiation, a win means a riot
             TYR: Rik suggests a public discussion, but they begin to riot and violence ensues.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!29.100!DESCRIPTION!}
 	[KAVU!DAZIL!SLUMS!20.100!DESCRIPTION!/]
-	
+
 	[/KAVU!DAZIL!SLUMS!20.600!DESCRIPTION!]
 		||
 		*CHILL w/ Ark, dance, sing, and make merry.*
@@ -377,7 +377,7 @@ ATRIUM
 		||
 		*LOAD all Artisans up on the cloudstone rail system beneath the aqueduct leading to Tacriva.
 			If peacefully resolved Builders situation, they are invited. Otherwise, they remain and attempt a coup.
-		
+
 		GET on the final cloudstone, sit, sleep, and wake up in Tacriva.*
 		(A#...){A:0,KAVU!TACRIVA!COURTYARD!30.000!DESCRIPTION!}
 	[KAVU!DAZIL!ATRIUM!30.000!DESCRIPTION!/]
@@ -396,9 +396,8 @@ KHARR MANOR
 
 
 
-
-________________________________________________________________________
-________________________________________________________________________
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TECHNICAL STUFF
 ________________________________________________________________________
 EVENT WRITERS
 	[/KAVU!DAZIL!ATRIUM!9990.X3007!DESCRIPTION!]
@@ -406,8 +405,6 @@ EVENT WRITERS
 		*EVENT WRITER - Seen Builders' Commotion*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KAVU!DAZIL!ATRIUM!9990.X3007!DESCRIPTION!/]
-
-
 
 
 ________________________________________________________________________

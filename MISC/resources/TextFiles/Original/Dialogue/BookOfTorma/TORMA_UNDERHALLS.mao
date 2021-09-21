@@ -86,7 +86,7 @@ two events
 	[/ENCLAVE!UNDERHALLS!FIRST SPHERE!0.003!DESCRIPTION!]
 		||
 		*The wandering mage's cloudstone arrives, bringing him once more to the aesthetic confluence of two vastly different eras. Likewise is he returned to his duties as a mage of the Order of the Enclave. Yet, temptation to remain truant is not altogether absent, as the desire to use the cloudstone still competes for his attention. This desire's dutiful rival tempers the impulse, compelling him towards the massive doors of the Hall of Reckoning. Never before has he tempted fate so boldly; never before has he so flagrantly disregarded the tasks set out for him by the Choir.
-		
+
 		His newfound freedom of will is at the same time exciting and terrifying, for he knows the consequences will be severe if he continues to court his whims. Life was much simpler when the choice was clear, when there was no choice but to obey.*
 		(A#Enter the Nave and report to the Archons){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
 		(B#Use the cloudstone to ascend to the Second Sphere){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!}
@@ -262,7 +262,7 @@ Virgin run
 	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0016!DESCRIPTION!]
 		||
 		*Though only two paths lead from this area, they lead to the two largest areas of the Enclave. To his left, the halls lead to the Path of Discipline, a fickle route that leads to great wisdom but that few have ever completed. To his right, the Archives, more massive than all the other areas combined. But that is how it should be and he knows it. For what is a scholar without tomes to record thought? And who have greater reason to remember than the magi of the Order? None since the Thiuda have attempted such a bold and lofty venture. The Enclave will recover the lost arts of the Vanquished, not just for themselves, but for the future of humanity itself.
-		
+
 		The mage breathes heavily with excitement, primed to renew his quest for knowledge.*
 		(A#Use the cloudstone){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0017!DESCRIPTION!}
 		(B#Enter the Archives){B:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
@@ -337,7 +337,7 @@ Virgin run
 	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X001!DESCRIPTION!]
 		|^2062:ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0015!DESCRIPTION!|
 		*The cloudstone softly docks at its alcove in the Third Sphere, bringing Ormenos to the Enclave's grand foyer. Colorful beams of light pour in through stained glass windows. These provide a radiant frame to the colossal set of wooden doors exiting the compound. Most windows host the image a rare magi elevated to the rank of Patron, but a few remain yet vacant.
-		
+
 		Having one's image impressed upon a Patron window is the ultimate accolade. All magi of the Order yearn for such a distinction from the very day they ascend from acolyte to full member. Here, Brothers and Sisters of old are immortalized and venerated for their utter devotion to knowledge, and to the Order.*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!9990.X2062!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X001!DESCRIPTION!/]
@@ -473,8 +473,8 @@ two events
 out as torma CG
 	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!30.001!DESCRIPTION!]
 		||
-		*By the time she regains consciousness, Torma finds herself wandering through the ancient halls of an abandoned edifice, now in chaotic disarray. A violent tremor knocks her down into a pile of debris, leaving no doubt as to the cause of this chaos. 
-		
+		*By the time she regains consciousness, Torma finds herself wandering through the ancient halls of an abandoned edifice, now in chaotic disarray. A violent tremor knocks her down into a pile of debris, leaving no doubt as to the cause of this chaos.
+
 		Before her, an intense light washes her vision white as it blazes through an open aperture leading out from these halls. And it is there that she again hears the beautiful ringing of the angelic voice that has summoned her. It demands her presence. It beckons her toward and through the threshold.*
 		(A#Follow the Voice){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X000!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!THIRD SPHERE!30.001!DESCRIPTION!/]
@@ -501,7 +501,8 @@ out as ormenos CG
 
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TECHNICAL STUFF
 ________________________________________________________________________
 EVENT WRITERS
 	[/ENCLAVE!UNDERHALLS!FIRST SPHERE!9990.X2019!DESCRIPTION!]

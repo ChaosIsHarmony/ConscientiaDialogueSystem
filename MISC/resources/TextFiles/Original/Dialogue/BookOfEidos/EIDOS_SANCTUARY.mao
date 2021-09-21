@@ -1,12 +1,12 @@
 ______________________________
 ANTECHAMBER
->>>crystal destroyed (12405)<<<	
+>>>crystal destroyed (12405)<<<
 >>>crystal has been revived (12404)<<<
 >>>mind-edited to resurrect crystal (17004)<<<
 	[/KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!]
 		||
 		*MULTICHECKER*
-		(A#CHECKER){A:0,NO ADDRESS}	
+		(A#CHECKER){A:0,NO ADDRESS}
 	[KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!/]
 
 
@@ -14,13 +14,13 @@ leaving the antechamber
 [/KABU!SANCTUARY!ANTECHAMBER!0.200!DESCRIPTION!]
 		||
 		*Feet guide her to the rising stairs. This stairwell is large, but not so large as the one below. Further differences arise in the square shape and lack of railing. But a kindred trait does it find in that here, too, all light is natural light seeping in through an opening at its zenith.
-		
+
 		She begins her climb. Step summing upon step, an apparently unending ascension skywards up the shaft of a large square tower tries Eidos' patience, stretching it to a hair's breadth. That she makes her way up is clear; that there is any reward in this climb remains a mystery.
-		
+
 		But as she presses on, the passage seems to get ever warmer, and in time, she reaches the top - evidenced by the now-visible portal inviting her to exit the indifferent infinity of stairs.*
 		(A#...){A:0,KABU!WILDERNESS!TACRIBA!0.X000!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.200!DESCRIPTION!/]
-	
+
 >>>Has crystal been revived (12404)<<<
 	[/KABU!SANCTUARY!ANTECHAMBER!0.X2000!DESCRIPTION!]
 		|^12404:KABU!SANCTUARY!ANTECHAMBER!0.2000!DESCRIPTION!|
@@ -28,7 +28,7 @@ leaving the antechamber
 		(A#Climb the stairs and exit the Sanctuary){A:0,KABU!SANCTUARY!ANTECHAMBER!9990.X12010!DESCRIPTION!}
 		(B#Enter the lower levels of the Sanctuary){B:0,KABU!SANCTUARY!HALL OF SENTRIES!2.X000!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.X2000!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.2000!DESCRIPTION!]
 		||
 		*Dissatisfied with her current locus, Eidos seeks to shift her Falseflesh elsewhere.*
@@ -36,56 +36,56 @@ leaving the antechamber
 		(B#Enter the lower levels of the Sanctuary){B:0,KABU!SANCTUARY!HALL OF SENTRIES!2.X000!DESCRIPTION!}
 		(C#Pass through the portcullis aperture){C:0,KABU!SANCTUARY!STAR BRIDGE!0.X000!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.2000!DESCRIPTION!/]
-	
-	
+
+
 Crystal unchanged
 	[/KABU!SANCTUARY!ANTECHAMBER!1.001!DESCRIPTION!]
 		||
 		*Off to her right, light filters into the room through a closed portcullis, obstructing passage through to the bridge beyond. At the far end of the room is a rather ominous set of stairs, winding itself upwards into darkness. The only remaining pathway exiting this chamber is the one deeper into the bowels of the edifice.
-		
+
 		Suspiciously conspicuous is the writing crudely scratched into the floor here - large, bold letters, with shapes somewhat discernible even from this distance.*
 		(A#Leave the Antechamber){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X2000!DESCRIPTION!}
 		(B#Examine the portcullis){B:0,KABU!SANCTUARY!ANTECHAMBER!1.002!DESCRIPTION!}
 		(C#Examine the writing){C:0,KABU!SANCTUARY!ANTECHAMBER!1.X400!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!1.001!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!1.002!DESCRIPTION!]
 		||
 		*The portcullis, large and of metallic construction as it is, promises to resist motion with all the might of gravity - its indefatigable ally. Peering through its checkered apertures, Eidos' eyes overcome the barrier that would thwart her Falseflesh's progress. Beyond it is a lengthy bridge, scaled like a shimmering serpent, slithering across the chasm it overlooks.
-		
+
 		The serpentine bridge seems to terminate at a similar gateway, at the opposite end of the chasm, though no portcullis obstructs passage there. To the left of the portcullis seems to be an apparatus or mechanism by which it is lifted through some trick of magic or artifice - likely related to the inert crystal it houses.*
 		(A#Return attention to the room){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
 		(B#Examine the mechanism){B:0,KABU!SANCTUARY!ANTECHAMBER!1.X003!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!1.002!DESCRIPTION!/]
 
->>>Acquired resurrection (17300)<<<	
+>>>Acquired resurrection (17300)<<<
 	[/KABU!SANCTUARY!ANTECHAMBER!1.X003!DESCRIPTION!]
 		|^17300:KABU!SANCTUARY!ANTECHAMBER!1.003!DESCRIPTION!|
 		*The crystal is as it seemed - devoid of any energy. It was likely used to power the portcullis mechanism, given its proximity to the gate. But dead it is and so it shall remain, as Eidos lacks the means to revive it.*
 		(A#Return attention to the room){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
 		(F#Break crystal){F:2,KABU!SANCTUARY!ANTECHAMBER!1.X005!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!1.X003!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!1.003!DESCRIPTION!]
 		||
-		*The crystal is as it appears - devoid of any energy. It is likely used to power the portcullis mechanism, given its proximity to the gate. But dead it is and so it shall remain, unless... 
-		
+		*The crystal is as it appears - devoid of any energy. It is likely used to power the portcullis mechanism, given its proximity to the gate. But dead it is and so it shall remain, unless...
+
 		Just then, the sparks of Awareness shower down upon the kindling of possibility. The memory of Resurrection reignites, its brand seared into her very Trueflesh. Quickly gaining in clarity, she soon perfectly recalls the way to reach the crystal's mind.*
 		(A#Return attention to the room){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
 		(B#_Use the Glyph of Resurrection_){B:0,KABU!SANCTUARY!ANTECHAMBER!9990.X12404!DESCRIPTION!}
 		(F#Break crystal){F:2,KABU!SANCTUARY!ANTECHAMBER!1.X005!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!1.003!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!1.004!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph of Resurrection is fully formed, completing the reaction. Energy cascades into the crystal, Eidos as its source. She feels her life gradually slipping away, but ever so slightly, as the crystal is sated well before any harm may come to her.
-		
+
 		Replete with its newfound sustenance, the crystal blinds with its sharp, violet radiance. The energy within shocks the mechanism into motion. The portcullis counters gravity's antagonistic effects, levitating itself upwards into a recessed position in the gateway, leaving the way to the bridge unobstructed.*
 		(B#Return attention to the room){B:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
 		(C#Pass through the portcullis aperture){C:0,KABU!SANCTUARY!STAR BRIDGE!0.X000!DESCRIPTION!}
 		(F#Destroy the crystal){F:2,KABU!SANCTUARY!ANTECHAMBER!1.X005!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!1.004!DESCRIPTION!/]
-	
+
 
 >>>Revived portcullis crystal (12404)<<<
 	[/KABU!SANCTUARY!ANTECHAMBER!1.X005!DESCRIPTION!]
@@ -98,19 +98,19 @@ Crystal unchanged
 	[/KABU!SANCTUARY!ANTECHAMBER!1.X0050!DESCRIPTION!]
 		|^12302:KABU!SANCTUARY!ANTECHAMBER!1.0050!DESCRIPTION!|
 		*Collecting a loosened stone from the ground, Eidos maniacally bashes the crystal in its casing. A violent crack signals success as the casing begins to spit shards of crystal in the six directions, expelling with them all the energy contained within. During this sudden exodus of energy, Eidos witnesses the destructive projection of the portcullis out onto the bridge, leaving only a gaping hole in its wake.
-		
+
 		However, this renovation comes with a cost attached. The violent and rapid expansion of energy produces a heat hotter than a wildfire and a force greater than a gale, ultimately painting the walls with the sizzling particles of Eidos' Falseflesh.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!9990.X12405-3!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!1.X0050!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!1.0050!DESCRIPTION!]
 		||
 		*Collecting a loosened stone from the ground, Eidos maniacally bashes the crystal in its casing. A violent crack signals success as the casing begins to spit shards of crystal in the six directions, expelling with them all the energy contained within. During this sudden exodus of energy, Eidos witnesses the destructive projection of the portcullis out onto the bridge, leaving only a gaping hole in its wake.
-		
+
 		The violent and rapid expansion of energy produces a heat hotter than a wildfire and a force greater than a gale, attempting to disassemble Eidos into particulate mist. Luin, however, will not allow it, absorbing the bulk of the impact for her and saving her from a gruesome end.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!9990.X12405-4!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!1.0050!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!1.006!DESCRIPTION!]
 		||
 		*Perhaps such simple and destructive joys justify the permanence of such decisions...*
@@ -124,11 +124,11 @@ Crystal unchanged
 		(A#Leave the Antechamber){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X2000!DESCRIPTION!}
 		(B#Examine the portcullis){B:0,KABU!SANCTUARY!ANTECHAMBER!1.002!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!1.X400!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!1.400!DESCRIPTION!]
 		||
 		*Eidos clearly recognizes the roughly etched characters as belonging to the Script of Vanargand, one of the varied tricks she has learned in her travels through space and time. It reads thus -
-		
+
 		TRAVELER WAYPOINT: TACRIBIAN SETTLEMENT.
 		RAW MATERIALS PROVIDERS UNDER BIRACULIAN ORDER,
 		CURRENT GUARDIANS OF THIS VANQUISHED RUIN.
@@ -150,7 +150,7 @@ Crystal revived
 		(B#Examine the portcullis){B:0,KABU!SANCTUARY!ANTECHAMBER!2.002!DESCRIPTION!}
 		(C#Examine the writing){C:0,KABU!SANCTUARY!ANTECHAMBER!2.X400!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!2.001!DESCRIPTION!/]
-		
+
 	[/KABU!SANCTUARY!ANTECHAMBER!2.002!DESCRIPTION!]
 		||
 		*The crystal retains its energetic radiance, levitating the portcullis and leaving clear the path to the bridge.*
@@ -163,20 +163,20 @@ Crystal revived
 	[/KABU!SANCTUARY!ANTECHAMBER!2.X005!DESCRIPTION!]
 		|^12302:KABU!SANCTUARY!ANTECHAMBER!2.0050!DESCRIPTION!|
 		*Collecting a loosened stone from the ground, Eidos maniacally bashes the crystal in its casing. A violent crack signals success as the casing begins to spit shards of crystal in the six directions, expelling with them all the energy contained within. During this sudden exodus of energy, Eidos witnesses the destructive projection of the portcullis out onto the bridge, leaving only a gaping hole in its wake.
-		
+
 		However, this renovation comes with a cost attached. The violent and rapid expansion of energy produces a heat hotter than a wildfire and a force greater than a gale, ultimately painting the walls with the sizzling particles of Eidos' Falseflesh.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!9990.X12405-3!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!2.X005!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!2.0050!DESCRIPTION!]
 		||
 		*Collecting a loosened stone from the ground, Eidos maniacally bashes the crystal in its casing. A violent crack signals success as the casing begins to spit shards of crystal in the six directions, expelling with them all the energy contained within. During this sudden exodus of energy, Eidos witnesses the destructive projection of the portcullis out onto the bridge, leaving only a gaping hole in its wake.
-		
+
 		The violent and rapid expansion of energy produces a heat hotter than a wildfire and a force greater than a gale, attempting to disassemble Eidos into particulate mist. Luin, however, will not allow it, absorbing the bulk of the impact for her and saving her from a gruesome end.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!9990.X12405-4!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!2.0050!DESCRIPTION!/]
-	
-	
+
+
 >>>Learned tongues glyph (12303)<<<
 	[/KABU!SANCTUARY!ANTECHAMBER!2.X400!DESCRIPTION!]
 		|^12303:KABU!SANCTUARY!ANTECHAMBER!2.004!DESCRIPTION!|
@@ -184,11 +184,11 @@ Crystal revived
 		(A#Leave the Antechamber){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X2000!DESCRIPTION!}
 		(B#Examine the portcullis){B:0,KABU!SANCTUARY!ANTECHAMBER!2.002!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!2.X400!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!2.004!DESCRIPTION!]
 		||
 		*Eidos clearly recognizes the roughly etched characters as belonging to the Script of Vanargand, one of the varied tricks she has learned in her travels through space and time. It reads thus -
-		
+
 		TRAVELER WAYPOINT: TACRIBIAN SETTLEMENT.
 		RAW MATERIALS PROVIDERS UNDER BIRACULIAN ORDER,
 		CURRENT GUARDIANS OF THIS VANQUISHED RUIN.
@@ -210,13 +210,13 @@ Crystal destroyed
 		(B#Examine the portcullis){B:0,KABU!SANCTUARY!ANTECHAMBER!3.002!DESCRIPTION!}
 		(C#Examine the writing){C:0,KABU!SANCTUARY!ANTECHAMBER!3.X400!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!3.X001!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!3.002!DESCRIPTION!]
 		||
 		*The portcullis' position remains unchanged, as do the irreparably shattered shards of the crystal strewn about the floor...*
 		(A#Return attention to the room){A:0,KABU!SANCTUARY!ANTECHAMBER!3.X001!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!3.002!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!3.0010!DESCRIPTION!]
 		||
 		*The portcullis, once guarding this chamber from enemies unknown, has been rent open by a devastating explosion. The writing, once adorning the floor, is lost under the rubble. At one end of the room is a set of stairs leading further down into the bowels of the edifice. At the other end is another set that wends its way upwards.*
@@ -232,11 +232,11 @@ Crystal destroyed
 		(A#Leave the Antechamber){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X2000!DESCRIPTION!}
 		(B#Examine the portcullis){B:0,KABU!SANCTUARY!ANTECHAMBER!3.002!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!3.X400!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!3.004!DESCRIPTION!]
 		||
 		*Eidos clearly recognizes the roughly etched characters as belonging to the Script of Vanargand, one of the varied tricks she has learned in her travels through space and time. It reads thus -
-		
+
 		TRAVELER WAYPOINT: TACRIBIAN SETTLEMENT.
 		RAW MATERIALS PROVIDERS UNDER BIRACULIAN ORDER,
 		CURRENT GUARDIANS OF THIS VANQUISHED RUIN.
@@ -253,53 +253,53 @@ killed by khlutt
 		*Eidos proceeds carefully into the chamber. A platoon of Tacribian warriors stands guard at various locations throughout. The first person to notice Eidos' presence is their commander, an understandably shocked and confused Logira. Channeling all of her attention on the figure standing across the room from her, Logira attempts to cut through the dusty air with her vision. Confusion then turns to revulsion as she confirms Eidos' identity. And choking down a bitter rage, she speaks.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!9999.X0201!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!4.X000!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!4.001!DESCRIPTION!]
 		||
 		*Suddenly, Logira unsheathes her sword. An ocean of uncontrollable anger and sadness washes over her as she begins to strike her comrades down one by one. These luckless warriors stand frozen in place by some unseen force, their faces contorted in utter terror as they are slain by Logira's blade. Within mere moments, the floor is a shimmering crimson pool, filled with viscous proof of the impermanence of the Falseflesh.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!4.X0010!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!4.001!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!4.X0010!DESCRIPTION!]
 		|@:KABU!SANCTUARY!ANTECHAMBER!4.002!DESCRIPTION!|
 		*As the last Tacribian perishes, Logira's puppet-strings are cut loose. Thoroughly exhausted from her struggle, she falls to her knees, and slowly begins gathering the strength to piece together her patchwork speech.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!9999.X0201!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!4.X0010!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!4.002!DESCRIPTION!]
 		||
 		*Without warning, she falls again into the Jinn's embrace and slowly turns her blade on herself, placing the point at her throat and the pommel firmly against the ground. Choking back tears, Logira defiantly croaks out one last Tacribian battle cry with an unfathomable sorrow laced throughout. As the cry's final echoes fade into memory, she impales herself upon her very own sword. The Librarian struggles, clinging to the slippery slope of her waning life for a few brief moments only to recede into the infinite abyss of nothingness, her Falseflesh finally parting ways with her ghost.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!4.X0020!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!4.002!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!4.X0020!DESCRIPTION!]
 		|@:KABU!SANCTUARY!ANTECHAMBER!4.003!DESCRIPTION!|
 		*Eidos looks upon the carnage, the remnants of what once were living, breathing people, now nothing more than butchered meat upon the floor. Overwhelmed, she falls to her knees, staring off into the void beyond this incarnation, wishing to escape. Her attempted flight is interrupted by the shifting of shadows and the sound of displaced rubble. From the shadows now emerges the puppeteer...*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!9999.X0006!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!4.X0020!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!4.003!DESCRIPTION!]
 		||
 		*From shadows he came and to the shadows he now returns, as he slowly ambles into the darkness. The air around Famlicus now appears to distort, causing his form to scatter left and right, layer-by-layer, until no trace remains.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!4.004!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!4.003!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!4.004!DESCRIPTION!]
 		||
 		*The Tacribians now receive their long-awaited vengeance on Dazir, at the cost of dooming all peoples of Kabu. Nothing will ever be the same. Yet Eidos somehow feels a detached calmness. Drawing upon the strength of her Trueflesh, she realizes that all is inconsequential. All is temporary. All is uncontrollable. All possibilities will manifest themselves within the fullness of time. But more than this...*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!4.005!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!4.004!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!4.005!DESCRIPTION!]
 		||
 		*All is, was and ever shall be as it should be.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!4.006!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!4.005!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!4.006!DESCRIPTION!]
 		||
 		*This is not her end. Eidos knows this. She is surer in this truth than in any other. With this epiphany, her ghost begins gently drifting off into the sea of infinity, carried by violent and dispassionate currents. She merges with the chaotic spiral of being, disintegrating and reforming until she is no longer able to distinguish herself from the surrounding Void...
-		
+
 		Even still, the Self knows something else lies beyond this world of illusions.*
 		(A#Dream){A:0,KABU!SANCTUARY!ANTECHAMBER!4.007!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!4.006!DESCRIPTION!/]
@@ -314,7 +314,7 @@ killed by khlutt
 		(E#TYR){E:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
 		(F#LOO){F:0,MIND!THE BOOK OF TORMA!THE BEGINNING!0.000!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!4.007!DESCRIPTION!/]
-	
+
 accepted logira's mission
 	[/KABU!SANCTUARY!ANTECHAMBER!5.000!DESCRIPTION!]
 		||
@@ -322,8 +322,8 @@ accepted logira's mission
 		(A#Absorb the crystal){A:1,KABU!SANCTUARY!ANTECHAMBER!9990.X12418!DESCRIPTION!}
 		(E#Destroy the crystal){E:1,KABU!SANCTUARY!ANTECHAMBER!9990.X12419!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!5.000!DESCRIPTION!/]
-	
-	
+
+
 >>>Absorbed crystal (12418)<<<
 >>>Destroyed crystal (12419)<<<
 	[/KABU!SANCTUARY!ANTECHAMBER!5.X100!DESCRIPTION!]
@@ -331,70 +331,70 @@ accepted logira's mission
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[KABU!SANCTUARY!ANTECHAMBER!5.X100!DESCRIPTION!/]
-	
-	
-	
+
+
+
 	[/KABU!SANCTUARY!ANTECHAMBER!5.200!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		Eidos executes the Techne of Extraction, ingesting the energy contained within the crystal. In an instant, the portcullis loosens and comes crashing to the ground, once more barring the Dazirans' malefactors from entrance.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!5.200!DESCRIPTION!/]
-	
+
 >>>Have Luin armor (12302)<<<
 	[/KABU!SANCTUARY!ANTECHAMBER!5.X300!DESCRIPTION!]
 		|^12302:KABU!SANCTUARY!ANTECHAMBER!5.300!DESCRIPTION!|
 		*Ripping the crystal from its casing, Eidos casts it to the ground, with all the rage and grace of an empty-bottled alcoholic attempting to extract one last drop.
-		
+
 		The energy released from the crystal melts the skin off her flesh and the pressure from the blast crushes her bones to dust. Not even a shred of Eidos remains after the all-consuming explosion.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!5.X300!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!5.300!DESCRIPTION!]
 		||
 		*Ripping the crystal from its casing, Eidos casts it to the ground, with all the rage and grace of an empty-bottled alcoholic attempting to extract one last drop. The energy released from the crystal blasts Eidos into the chamber wall, the impact forcing blood up from her lungs. Although Luin absorbs most of the damage, Eidos still seems to have somewhat fragile innards.
-		
+
 		As the dust begins to settle, she sees that the explosion has rent open the portcullis and that the advancing Tacribian forces will be undeterred by the negligible pile of rubble obstructing it.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!5.301!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!5.300!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!5.301!DESCRIPTION!]
 		||
 		*And undeterred the forces are. The Tacribian warriors are somewhat at a loss, wondering how to deal with the badly damaged, but still breathing Eidos. Nonetheless, with amazing efficiency, the soldiers wordlessly concur before long, and drag her to the Star Bridge. With two swings, they build up enough momentum to hurl her over the side of the bridge, sending her on a one-way trip to the bottom of the Crescent Canyon.*
 		(A#...){A:0,KABU!WASTELAND!CRESCENT CANYON!1.X000!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!5.301!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!5.400!DESCRIPTION!]
 		||
 		*Not sure how you did it, but you broke the game! Congratulations! As a reward: death!*
 		(A#Yay, I love death!){A:0,KABU!SANCTUARY!ANTECHAMBER!9990.X12419!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!5.400!DESCRIPTION!/]
-	
+
 Destroyed crystal post-Tac Invasion
 	[/KABU!SANCTUARY!ANTECHAMBER!6.X000!DESCRIPTION!]
 		|@:KABU!SANCTUARY!ANTECHAMBER!4.001!DESCRIPTION!|
 		*Eidos proceeds carefully into the chamber. A path has been cleared through the rubble directly to the antechamber's exit. But then, someone notices Eidos' presence: an understandably shocked and confused Logira. Channeling all of her attention on the figure standing across the room from her, Logira attempts to cut through the dusty air with her vision. Confusion then turns to revulsion as she confirms Eidos' identity. And choking down a bitter rage, she speaks.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!9999.X0201!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!6.X000!DESCRIPTION!/]
-	
+
 
 Absorbed crystal post-Tac Invasion
 	[/KABU!SANCTUARY!ANTECHAMBER!7.000!DESCRIPTION!]
 		||
 		*With the portcullis closed, the passage to the Dawn Fortress is completely obstructed. The thwarted Tacribians have left two warriors outside the gate to secure the premises should Eidos foolishly re-open it. With the piercing eyes of a pair of desert hawks, they carefully observe her every move.
-		
+
 		However, Eidos, as though under the influence of some spell, cannot resist the desire to fulfill Logira's wish - or at the very least refuses to oppose it. She is pulled towards the exit of the Antechamber; for the Wellspring calls to her. Yet she cannot help but muse on what other wonders may remain undiscovered in the lower levels. However, promises hold great sway; words once uttered cannot be retrieved... The incantation of oath once more begins to compel Eidos toward the completion of Logira's will.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!7.001!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!7.000!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!7.001!DESCRIPTION!]
 		||
 		*Though, ultimately, indecision is woven into the very fabric of her nature...*
 		(A#Climb the stairs and exit the Sanctuary){A:0,KABU!SANCTUARY!ANTECHAMBER!9990.X12010!DESCRIPTION!}
 		(B#Enter the lower levels of the Sanctuary){B:0,KABU!SANCTUARY!HALL OF SENTRIES!2.X000!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!7.001!DESCRIPTION!/]
-	
+
 
 Mind Edited to come resurrect the crystal
 	[/KABU!SANCTUARY!ANTECHAMBER!999.000!DESCRIPTION!]
@@ -402,7 +402,7 @@ Mind Edited to come resurrect the crystal
 		*Eidos, as though waking from a dream, finds that she has come to the antechamber of the Sanctuary, her feet moving steadily toward the sealed portcullis and, in particular, towards the crystal-containing mechanism beside it...*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!999.001!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!999.000!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!999.001!DESCRIPTION!]
 		||
 		*Just then, the sparks of Awareness shower down upon the kindling of possibility. The memory of Resurrection reignites, its brand seared into her very Trueflesh. Quickly gaining in clarity, she soon perfectly recalls the way to reach the crystal's mind.*
@@ -420,7 +420,7 @@ FAMLICUS
 
 >>>Met Famlicus (17901)<<<
 	[/KABU!SANCTUARY!ANTECHAMBER!0.X001!FAMLICUS!]
-		|^17901:KABU!SANCTUARY!ANTECHAMBER!0.002!FAMLICUS!|	
+		|^17901:KABU!SANCTUARY!ANTECHAMBER!0.002!FAMLICUS!|
 		*"But stemming the revival of Conscientia takes precedence; isn't that right, daughter of Viracocha?"*
 		(A#"What have you done?!"){A:1,KABU!SANCTUARY!ANTECHAMBER!0.100!FAMLICUS!}
 		(B#"Who are you?"){B:1,KABU!SANCTUARY!ANTECHAMBER!0.200!FAMLICUS!}
@@ -429,7 +429,7 @@ FAMLICUS
 		(E#"My will is what takes precedence, you spineless hack."){E:1,KABU!SANCTUARY!ANTECHAMBER!0.500!FAMLICUS!}
 		(F#"And the Gremlin King finally rears its ugly face!"){F:1,KABU!SANCTUARY!ANTECHAMBER!0.600!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.X001!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.002!FAMLICUS!]
 		||
 		*"But stemming the revival of Conscientia takes precedence; isn't that right, daughter of Viracocha?"*
@@ -440,19 +440,19 @@ FAMLICUS
 		(E#"My will is what takes precedence, you spineless hack."){E:1,KABU!SANCTUARY!ANTECHAMBER!0.500!FAMLICUS!}
 		(F#"And the Gremlin King finally rears its ugly face!"){F:1,KABU!SANCTUARY!ANTECHAMBER!0.600!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.002!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.100!FAMLICUS!]
 		||
 		*"Why, I have protected humanity from another Great Awakening, dearest Eidos, that's what!"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.1000!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.100!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.1000!FAMLICUS!]
 		||
 		*"But now your role in my little play is over, and you are free to play the fool elsewhere..."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.1001!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.1000!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.1001!FAMLICUS!]
 		||
 		*"We will not meet again."*
@@ -460,87 +460,87 @@ FAMLICUS
 		(B#"What is the Great Awakening?!"){B:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!FAMLICUS!}
 		(E#"You had better pray our paths don't cross again!"){E:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.1001!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.200!FAMLICUS!]
 		||
 		*"Oh, but dearest Eidos, you have no need to know my true name."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.2000!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.200!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.2000!FAMLICUS!]
 		||
 		*"But for now your role in my little play is over, and you are free to play the fool elsewhere..."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.2001!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.2000!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.2001!FAMLICUS!]
-		||		
+		||
 		*"We will not meet again."*
 		(A#"Why did you do this?"){A:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!FAMLICUS!}
 		(B#"What play are you talking about?"){B:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!FAMLICUS!}
 		(C#"..."){C:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.2001!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.2002!FAMLICUS!]
 		||
 		*"...A sinner, Eidos."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.2003!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.2002!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.2003!FAMLICUS!]
 		||
 		*"But a penitent one."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.2004!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.2003!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.2004!FAMLICUS!]
 		||
 		*"For a millennia I have been atoning for these sins - and will continue to do so until the day Conscientia ceases to exist."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.2000!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.2004!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.300!FAMLICUS!]
 		||
 		*"Oh? As silent as Mortis, are you?"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.3000!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.300!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.3000!FAMLICUS!]
 		||
 		*"Well, perhaps that is the best answer: acceptance."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.3001!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.3000!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.3001!FAMLICUS!]
 		||
 		*"But for now your role in my little play is over, and you are free to play the fool elsewhere..."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.3002!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.3001!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.3002!FAMLICUS!]
-		||		
+		||
 		*"We will not meet again."*
 		(C#"As you wish."){C:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.3002!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.400!FAMLICUS!]
 		||
 		*"If you truly understand this, then Vanargand was right to aid in your creation..."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.4000!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.400!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.4000!FAMLICUS!]
 		||
 		*"Though I somehow doubt you could ever comprehend."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.4001!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.4000!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.4001!FAMLICUS!]
 		||
 		*"Your role in my little play is now over, and you are free to play the fool elsewhere..."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.4002!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.4001!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.4002!FAMLICUS!]
 		||
 		*"We will not meet again, Eidos."*
@@ -548,31 +548,31 @@ FAMLICUS
 		(D#"Then I am free to go? Thank you merciful, Famlicus!"){D:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!FAMLICUS!}
 		(E#"You would not survive another meeting, I'm sure..."){E:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.4002!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.500!FAMLICUS!]
 		||
 		*"Poor, deluded Eidos! Can't even tell that she acts not of her own will!"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.5000!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.500!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.5000!FAMLICUS!]
 		||
 		*"Blinded by the light of the truth standing before her!"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.5001!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.5000!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.5001!FAMLICUS!]
 		||
 		*"Clinging to her false bravado like a babe to its mother's apron!"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.5002!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.5001!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.5002!FAMLICUS!]
 		||
 		*"But fear not, child! For your role in my little play is now over, and you are free to play the fool elsewhere..."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.5003!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.5002!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.5003!FAMLICUS!]
 		||
 		*"We will not meet again, Eidos."*
@@ -580,27 +580,27 @@ FAMLICUS
 		(D#"Then I am free to go? Thank you merciful, Famlicus!"){D:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!FAMLICUS!}
 		(E#"You had better pray our paths never cross again!"){E:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.5003!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.600!FAMLICUS!]
 		||
 		*"Your lunacy grows, but perhaps it's for the best; your random actions may have led to this outcome, after all."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.6000!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.600!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.6000!FAMLICUS!]
 		||
 		*"But now your role in my little play is now over, and you are free to play the fool elsewhere..."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.6001!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.6000!FAMLICUS!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.6001!FAMLICUS!]
 		||
 		*"We will not meet again, Eidos."*
 		(F#"By Roostor's Might Comb, today you die!"){F:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!FAMLICUS!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.6001!FAMLICUS!/]
-	
 
-	
+
+
 LOGIRA
 >>>Exiled to the Wasteland after opening star bridge (20006)<<<
 	[/KABU!SANCTUARY!ANTECHAMBER!0.X000!LOGIRA!]
@@ -608,7 +608,7 @@ LOGIRA
 		*"How is it you still live?!"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.001!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.X000!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.001!LOGIRA!]
 		||
 		*"I saw you slain with my very own eyes!"*
@@ -619,7 +619,7 @@ LOGIRA
 		(E#"You'll need more than death to stop me!"){E:1,KABU!SANCTUARY!ANTECHAMBER!0.500!LOGIRA!}
 		(F#"Well, you see, I'm an immortal being that keeps respawning."){F:1,KABU!SANCTUARY!ANTECHAMBER!0.200!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.001!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.002!LOGIRA!]
 		||
 		*"Were you not cast into the Wasteland!?"*
@@ -630,26 +630,26 @@ LOGIRA
 		(E#"You'll need more than death to stop me!"){E:1,KABU!SANCTUARY!ANTECHAMBER!0.500!LOGIRA!}
 		(F#"Well, you see, I'm an immortal being that keeps respawning."){F:1,KABU!SANCTUARY!ANTECHAMBER!0.200!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.002!LOGIRA!/]
-	
-	
+
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.100!LOGIRA!]
 		||
 		*"To what end?"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.1000!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.100!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.1000!LOGIRA!]
 		||
 		*"Khlutt is already halfway to Dazir and none can stop his advance..."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.1001!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.1000!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.1001!LOGIRA!]
 		||
 		*"It is truly the end of Biracul's order."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.1002!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.1001!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.1002!LOGIRA!]
 		||
 		*"And now the Rubied Jinn who heralded its demise stands arrogantly before me."*
@@ -658,25 +658,25 @@ LOGIRA
 		(E#"Eidos is my only name, fool!"){E:1,KABU!SANCTUARY!ANTECHAMBER!0.101!LOGIRA!}
 		(F#"Rubied Jinn? Is this related to the Jade Monkey?!"){F:1,KABU!SANCTUARY!ANTECHAMBER!0.101!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.1002!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.200!LOGIRA!]
 		||
 		*"I'm not surprised that an ancient evil is immortal..."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.2000!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.200!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.2000!LOGIRA!]
 		||
 		*"Well, you would be pleased to hear that Khlutt is already halfway to Dazir and none can stop his advance..."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.2001!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.2000!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.2001!LOGIRA!]
 		||
 		*"It is truly the end of Biracul's order."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.2002!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.2001!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.2002!LOGIRA!]
 		||
 		*"And now the Rubied Jinn who heralded its demise stands arrogantly before me."*
@@ -685,31 +685,31 @@ LOGIRA
 		(C#"..."){C:1,KABU!SANCTUARY!ANTECHAMBER!0.101!LOGIRA!}
 		(F#"Rubied Jinn? Is this related to the Jade Monkey?!"){F:1,KABU!SANCTUARY!ANTECHAMBER!0.101!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.2002!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.300!LOGIRA!]
 		||
 		*"How ineloquent for a legendary Jinn; I expected more from you, Famlicus."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.3000!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.300!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.3000!LOGIRA!]
 		||
 		*"But what does it matter?"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.3001!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.3000!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.3001!LOGIRA!]
 		||
 		*"Khlutt is already halfway to Dazir and none can stop his advance..."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.3002!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.3001!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.3002!LOGIRA!]
 		||
 		*"It is truly the end of Biracul's order."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.3003!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.3002!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.3003!LOGIRA!]
 		||
 		*"And now the Rubied Jinn who heralded its demise stands arrogantly before me."*
@@ -718,31 +718,31 @@ LOGIRA
 		(D#"Now let's not be too hasty, Logira!"){D:1,KABU!SANCTUARY!ANTECHAMBER!0.101!LOGIRA!}
 		(F#"Rubied Jinn? Is this related to the Jade Monkey?!"){F:1,KABU!SANCTUARY!ANTECHAMBER!0.101!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.3003!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.400!LOGIRA!]
 		||
 		*"Your craftiness is legendary, Famlicus."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.4000!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.400!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.4000!LOGIRA!]
 		||
 		*"But what does it matter?"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.4001!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.4000!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.4001!LOGIRA!]
 		||
 		*"Khlutt is already halfway to Dazir and none can stop his advance..."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.4002!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.4001!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.4002!LOGIRA!]
 		||
 		*"It is truly the end of Biracul's order."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.4003!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.4002!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.4003!LOGIRA!]
 		||
 		*"And now the Rubied Jinn who heralded its demise stands arrogantly before me."*
@@ -751,31 +751,31 @@ LOGIRA
 		(E#"Is there any other way to stand?"){E:1,KABU!SANCTUARY!ANTECHAMBER!0.101!LOGIRA!}
 		(F#"Rubied Jinn? Is this related to the Jade Monkey?!"){F:1,KABU!SANCTUARY!ANTECHAMBER!0.101!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.4003!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.500!LOGIRA!]
 		||
 		*"Yes, I imagine stopping the Rubied Jinn would be beyond our abilities."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.5000!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.500!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.5000!LOGIRA!]
 		||
 		*"But what does it matter?"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.5001!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.5000!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.5001!LOGIRA!]
 		||
 		*"Khlutt is already halfway to Dazir and none can stop his advance..."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.5002!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.5001!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.5002!LOGIRA!]
 		||
 		*"It is truly the end of Biracul's order."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.5003!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.5002!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.5003!LOGIRA!]
 		||
 		*"And now the Rubied Jinn who heralded its demise stands arrogantly before me."*
@@ -784,26 +784,26 @@ LOGIRA
 		(E#"Is there any other way to stand?"){E:1,KABU!SANCTUARY!ANTECHAMBER!0.101!LOGIRA!}
 		(F#"Rubied Jinn? Is this related to the Jade Monkey?!"){F:1,KABU!SANCTUARY!ANTECHAMBER!0.101!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.5003!LOGIRA!/]
-	
-	
+
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.101!LOGIRA!]
 		||
 		*"You do not fool me, Blood Jinn!"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.1010!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.101!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.1010!LOGIRA!]
 		||
 		*"Famlaz, Mifas'cul, Hamlik and myriad other jinncursed pseudonyms all point to the same abomination!"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.1011!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.1010!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.1011!LOGIRA!]
 		||
 		*"Do not think, even for a moment, we are all blind to your history of manipulation and deceit!"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X1012!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.1011!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!0.X1012!LOGIRA!]
 		|@:KABU!SANCTUARY!ANTECHAMBER!1.000!LOGIRA!|
 		*"But why?! What is your purpose, Famlicus?!"*
@@ -814,14 +814,14 @@ LOGIRA
 		(E#"I owe you no explanations."){E:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!LOGIRA!}
 		(F#"Gremlin genocide, of course."){F:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.X1012!LOGIRA!/]
-	
-	
+
+
 	[/KABU!SANCTUARY!ANTECHAMBER!1.000!LOGIRA!]
 		||
 		*"Biracul curse... you!"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!1.001!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!1.000!LOGIRA!/]
-	
+
 	[/KABU!SANCTUARY!ANTECHAMBER!1.001!LOGIRA!]
 		||
 		*"Ark... curse... you..!"*
@@ -832,10 +832,10 @@ LOGIRA
 		(E#"And now you are punished for your weakness."){E:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!LOGIRA!}
 		(F#"By Roostor's comb, this is messed up!"){F:1,KABU!SANCTUARY!ANTECHAMBER!9999.X9999!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!1.001!LOGIRA!/]
-	
-	
-	 
-	
+
+
+
+
 ___________________________________
 ARCHIVES
 >>>tree has been revived (12307)<<<
@@ -845,15 +845,15 @@ ARCHIVES
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[KABU!SANCTUARY!ARCHIVES!0.X000!DESCRIPTION!/]
-	
-	
-	
+
+
+
 	[/KABU!SANCTUARY!ARCHIVES!0.000!DESCRIPTION!]
 		||
 		*Her footfalls echo off into the immense darkness, as though fleeing from some unseen evil. Cracked tiles complain with every step. Deep into the hall, stands a massive tree, its tremendous trunk bursting forth from the floor in defiance of the rigid granite. Though it was no doubt mighty in its prime, splintering bark and leafless branches betray its current frailty. Charred gashes in its roots weakly pulsate with a dying, greenish luminescence while exposing the tree's ancient innards.
-		
+
 		Incredibly, this tree is clearly visible despite the hall's pervading darkness. Dimly it glows, as if caught in the fading rays of twilight. The absence of an obvious source of light suggests that the tree is made visible through some inner power - one as frail and decayed as the withered giant itself.
-		
+
 		Although much of the room's illumination seems to come from the interaction between the tree and her vision, Eidos also senses a faint, green glow oozing in from the depths of the underground Archive - its source yet invisible to her.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!9990.X12003!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.000!DESCRIPTION!/]
@@ -863,19 +863,19 @@ ARCHIVES
 		*Though the tree appears to dominate much of the space, the enormous size of the hall containing it slowly becomes apparent. The vaulted ceiling is unfathomably high, consumed by shadows at its peak. Between each support column, rows of aged, wooden shelves line the hall; they in turn are lined with the cracked and brittle remains of countless tomes. Arranged in concentric circles, rippling outward from the tree, are many long tables, benches and writing desks - no doubt placed here for the reading and copying of texts.*
         (A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.0010!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.001!DESCRIPTION!/]
-    
+
     [/KABU!SANCTUARY!ARCHIVES!0.0010!DESCRIPTION!]
         ||
         *Walking forward, Eidos notes that the majority of the tomes and shelves share the same dusty blanket as the stairs that lead here. Yet evidence that the area has seen more recent use abounds. Certain tables have stacks of books piled upon them and a number of volumes lie open as if abandoned in mid-read.*
         (A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.00100!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.0010!DESCRIPTION!/]
-	
+
     [/KABU!SANCTUARY!ARCHIVES!0.00100!DESCRIPTION!]
         ||
         *Advancing further into the room, she sees that the oozing emerald sheen from before comes from a stone archway leading deeper into the Archives. The unbridled limbs of the forgotten tree have crept their way across the ceiling only to then slither downwards around the doorway, wreathing its perimeter.*
         (A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.001000!DESCRIPTION!}
-    [KABU!SANCTUARY!ARCHIVES!0.00100!DESCRIPTION!/]	
-	
+    [KABU!SANCTUARY!ARCHIVES!0.00100!DESCRIPTION!/]
+
     [/KABU!SANCTUARY!ARCHIVES!0.001000!DESCRIPTION!]
         ||
         *The emerald incandescence illuminates yet another discovery, however, for laying motionless on the dusty floor are two corpses. The one to the left is slumped against a wall, smeared with blood, while the other is lying face down in front of the archway. Next to the bodies is a curious platform, raised perhaps a handspan above the ground and emanating a faint violet haze.*
@@ -883,7 +883,7 @@ ARCHIVES
         (B#Leave the Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!}
 		(C#Step upon the platform){C:0,KABU!SANCTUARY!ARCHIVES!0.600!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.001000!DESCRIPTION!/]
-	
+
     [/KABU!SANCTUARY!ARCHIVES!0.100!DESCRIPTION!]
         ||
         *While the room is vast and its contents numerous, there are three points of obvious interest here. The first is the magnificent tree whose branches spread overhead like the withered hands of a skeletal giant. Further, there are the tomes that litter the tables and shelves all around. Finally, there are the two corpses that lie in deathly companionship to the lifeless tree.*
@@ -900,9 +900,9 @@ ARCHIVES
 		(B#Leave the Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!}
 		(C#Step upon the platform){C:0,KABU!SANCTUARY!ARCHIVES!0.600!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.X1000!DESCRIPTION!/]
-	
-	
-	
+
+
+
 >>>Absorbed Torma I (12420)<<<
 >>>Destroyed Torma I (12421)<<<
 	[/KABU!SANCTUARY!ARCHIVES!0.X1001!DESCRIPTION!]
@@ -910,9 +910,9 @@ ARCHIVES
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[KABU!SANCTUARY!ARCHIVES!0.X1001!DESCRIPTION!/]
-	
-	
-	
+
+
+
 	[/KABU!SANCTUARY!ARCHIVES!0.1001!DESCRIPTION!]
 		||
 		*Eidos has returned to the Sanctuary Archives. Yet the ethereal green haze once illuminating the corridor at the far end of the hall is now conspicuously absent. This sudden loss of illumination reveals the dimmest of glows emanating from behind one of the tree's gnarled roots. Near the bodies, the platform yet remains, ready for her use.*
@@ -920,28 +920,28 @@ ARCHIVES
 		(B#Leave the Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!}
 		(C#Step upon the platform){C:0,KABU!SANCTUARY!ARCHIVES!0.600!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.1001!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.10010!DESCRIPTION!]
 		||
 		*Climbing over the phantasmal roots of the eon-dead tree, Eidos stumbles, crawls and eventually wends her way to the source of the faint glow: a ruby-colored crystal, shining weakly like a dying star.*
 		(B#Absorb the crystal){B:1,KABU!SANCTUARY!ARCHIVES!9990.X12420!DESCRIPTION!}
 		(F#Destroy the crystal){F:1,KABU!SANCTUARY!ARCHIVES!9990.X12421!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.10010!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.10011!DESCRIPTION!]
 		||
 		*Eidos absorbs the crystal's energy and interweaves it with her own Trueflesh. Awareness of the Wayfarer now courses through her, and with it comes the Trick of the Wayfarer.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.10013!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.10011!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.10012!DESCRIPTION!]
 		||
 		*Heaving the fragile container far above her head, Eidos accelerates it skyward, projecting the crystal towards the ceiling above. Upon impact the shell shatters, unleashing a weakened, yet undeniably frightful burst of energy. Scattering shards of the crystal are vaporized instantly as the blast consumes them.
-		
+
 		A more energetic crystal likely would have had devastating effects indeed. All that is certain is that whatever may have been held within the confines of that glassy prison will be never be anything more than an unremembered shred of the past...*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.10013!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.10012!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.10013!DESCRIPTION!]
 		||
 		*Eidos now looks about the Archives, as she must deliberate upon which course of action to take next.*
@@ -949,7 +949,7 @@ ARCHIVES
 		(B#Leave the Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!}
 		(C#Step upon the platform near the bodies){B:0,KABU!SANCTUARY!ARCHIVES!0.600!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.10013!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.1002!DESCRIPTION!]
 		||
 		*Eidos has returned to the Sanctuary Archives. Yet the ethereal green haze once illuminating the corridor at the far end of the hall is now conspicuously absent. However, the platform near the corpses remains ready for use.*
@@ -957,7 +957,7 @@ ARCHIVES
 		(B#Leave the Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!}
 		(C#Step upon the platform){C:0,KABU!SANCTUARY!ARCHIVES!0.600!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.1002!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.1003!DESCRIPTION!]
 		||
 		*Eidos has returned to the Sanctuary Archives. The ethereal green haze once illuminating the corridor at the far end of the hall is now conspicuously absent. The char marks upon the ceiling from the destruction of the ruby crystal, however, remains - a reminder of deeds once done, the scars of her past. Near the bodies, the platform yet remains, ready for her use.*
@@ -965,7 +965,7 @@ ARCHIVES
 		(B#Leave the Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!}
 		(C#Step upon the platform){C:0,KABU!SANCTUARY!ARCHIVES!0.600!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.1003!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.1004!DESCRIPTION!]
 		||
 		*Eidos has returned to the Sanctuary Archives. The ethereal green haze once illuminating the corridor at the far end of the hall has now degraded to little more than a memory of the throbbing luminescence it once was. Near the bodies, the platform yet remains, ready for her use.*
@@ -973,15 +973,15 @@ ARCHIVES
 		(B#Leave the Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!}
 		(C#Step upon the platform){C:0,KABU!SANCTUARY!ARCHIVES!0.600!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.1004!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.101!DESCRIPTION!]
 		||
-		*Eidos first examines the body stretched out before the archway. Fingers reaching to touch it, she discovers that the skin more closely resembles a supple, metallic husk than a leather hide. Whatever these things were, they were decidedly not human. 
+		*Eidos first examines the body stretched out before the archway. Fingers reaching to touch it, she discovers that the skin more closely resembles a supple, metallic husk than a leather hide. Whatever these things were, they were decidedly not human.
 
         Tracing the fallen creature's form with her fingertips, she comes upon a trail of dark, blue fluid. Her eyes follow the curious substance as it leads to the gash that likely ended it. Too neat, too precise, too lonely, nothing about it suggests a struggle. The body is also lightly coated with dust - not as much as the steps leading here, but enough to hint at a lengthy passage of time. Remarkably, though, no visible decay has marred the pale skin.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.102!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.101!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.102!DESCRIPTION!]
 		||
 		*Turning her attention to the body slumped against the left wall, Eidos notices a rather unique feature: the absence of a head. Yet the dissimilarities stop there, for it too is free from decay and likewise possesses a metallic hide. Furthermore, what appeared to be blood smeared upon the wall behind it is, in truth, more of the oily bluish fluid found covering the first body.*
@@ -997,7 +997,7 @@ ARCHIVES
  	[/KABU!SANCTUARY!ARCHIVES!0.104!DESCRIPTION!]
 		||
 		*Beneath the blood of the creature, is part of an image. Wiping the blood and dust aside, she sees the faded traces of a fresco. Though aged and worn in places, it looks to be a stylized representation of the tree looming over her. Flecks of metallic reflections give the impression that it may once have been illuminated in silver, though it is hard to say for certain.
-		
+
 		Images of people seem to have also been traced, and though their relationship with the wooden giant is unclear, at least one individual seems to be walking from the tree bearing some kind of seedling - where to is impossible to determine.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.X1040!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.104!DESCRIPTION!/]
@@ -1006,21 +1006,21 @@ ARCHIVES
  	[/KABU!SANCTUARY!ARCHIVES!0.X1040!DESCRIPTION!]
 		|^12400:KABU!SANCTUARY!ARCHIVES!0.105!DESCRIPTION!|
 		*Curiously, a single human shape adorns the base of the tree, seemingly entangled in its roots. A curvy, feminine form seems to be the tree's macabre source of sustenance. Scanning up towards the branches, it looks as though there are more figures nestled within, though these have been almost entirely eroded away by time.
-		
+
 		Miraculously, one image remains intact, untouched by entropy's avarice. It is a circle, or halo, crowning the top of the tree. Within this curved shape are a great number of overlapping lines etched into the stone. Whatever this symbol is, Eidos does not recognize it.*
         (A#Search the Archive){A:0,KABU!SANCTUARY!ARCHIVES!0.100!DESCRIPTION!}
         (B#Pass through the archway){B:0,KABU!SANCTUARY!ARCHIVES!10.X014!DESCRIPTION!}
 		(C#Return to the Winding Stair){C:0,KABU!SANCTUARY!WINDING STAIR!01.100!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.X1040!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.105!DESCRIPTION!]
 		||
 		*Curiously, a single human shape adorns the base of the tree, seemingly entangled in its roots. A curvy, feminine form seems to be the tree's macabre source of sustenance. Scanning up towards the branches, it looks as though there are more figures nestled within, though these have been almost entirely eroded away by time.
-		
+
 		Miraculously, one image remains intact, untouched by entropy's avarice. It is a circle, or halo, crowning the top of the tree. Within this curved shape are a great number of overlapping lines etched into the stone. A Glyph, one whose meaning now seems innately known. A Glyph, one which resonates with the Sigil she received: the Sigil of Awareness.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.1050!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.105!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.1050!DESCRIPTION!]
 		||
 		*Her mind reads within the flurry of strokes a clear image, the image of a passageway beyond this very wall. Before she realizes it, this notion has become real. The fresco of the tree has disappeared to her eyes, and a darkened corridor stretches beyond to parts unknown.*
@@ -1036,15 +1036,15 @@ ARCHIVES
 		(C#Step upon the platform){C:0,KABU!SANCTUARY!ARCHIVES!0.600!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.X110!DESCRIPTION!/]
 
-	
->>>Unlocked workshop (12402)<<<		
+
+>>>Unlocked workshop (12402)<<<
 	 [/KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!]
         |^12402:KABU!SANCTUARY!ARCHIVES!0.201!DESCRIPTION!|
         *Two exits compete for Eidos' attention: the door back to the Winding Stair and the archway.*
         (A#Pass through the archway){A:0,KABU!SANCTUARY!ARCHIVES!10.X014!DESCRIPTION!}
         (B#Return to the Winding Stair){B:0,KABU!SANCTUARY!WINDING STAIR!01.100!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.201!DESCRIPTION!]
         ||
         *Three exits compete for Eidos' attention: the door back to the Winding Stair, the archway and the secret passage.*
@@ -1056,12 +1056,12 @@ ARCHIVES
 >>>Resurrected the Tree?(12307)<<<
     [/KABU!SANCTUARY!ARCHIVES!0.X300!DESCRIPTION!]
         |^12307:KABU!SANCTUARY!ARCHIVES!1.300!DESCRIPTION!|
-        *Drawing nearer to the tree, she soon observes that some remains of a broken metal fixture in the floor have fused into the bark. It appears that the room was constructed with the plant in mind, but that the growth of the trunk had long since overwhelmed the fixture in its abandonment. 
-		
+        *Drawing nearer to the tree, she soon observes that some remains of a broken metal fixture in the floor have fused into the bark. It appears that the room was constructed with the plant in mind, but that the growth of the trunk had long since overwhelmed the fixture in its abandonment.
+
 		Eidos' eyes are drawn upward as they follow the massive trunk. Its branches stretch out to the vaulted ceiling and beyond as their growth was of sufficient force to crack through the stonework above in places. However, this must have happened ages before the current furnishings, as no fallen rubble litters the floor.*
         (A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.X301!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.X300!DESCRIPTION!/]
-	
+
     [/KABU!SANCTUARY!ARCHIVES!1.300!DESCRIPTION!]
         ||
         *The Muninn Tree radiates faint silver light from blossoms just now beginning to bud. Her connection to the ancient life-form tells her that it may be centuries before it has regained its former glory. But within it, she feels memories have - or had? - reawakened.*
@@ -1075,7 +1075,7 @@ ARCHIVES
 		*Eidos walks forth and places her palm upon one of the bulbous protrusions. She immediately feels the presence of a deep intellect. Speaking with a wordless voice, Eidos is drawn into communion with the mind of the tree. The tree's whispers take her through time, guided by its soothing and affectionate voice. As if picking up a conversation with an old friend, new memories begin to blossom within her mind. The tree weaves tales of ancient travelers, myths of proto-societies and many other stories, passionately told and devoutly remembered.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!9990.X12308!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!1.X301!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!1.302!DESCRIPTION!]
 		||
 		*The Muninn Tree, having selflessly imparted its knowledge unto Eidos, now has nothing left to give.*
@@ -1091,7 +1091,7 @@ ARCHIVES
         (B#Leave the Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!}
         (C#Search through the tomes){C:0,KABU!SANCTUARY!ARCHIVES!0.X2000!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.X301!DESCRIPTION!/]
-	
+
     [/KABU!SANCTUARY!ARCHIVES!0.301!DESCRIPTION!]
         ||
         *The wood seems to have petrified, transforming into a pale gray rock fused with sparkling crystalline fragments. These quartz-like specks dot the tough bark and flesh of the tree, like a colorless, glassy pox. Perhaps more remarkable is that there are unmistakable wounds in the tree, as though it were struck with some kind of weapon or cutting tool. Dimly glowing emerald gashes in both trunk and root indicate how this plant may have been struck into oblivion.*
@@ -1105,15 +1105,15 @@ ARCHIVES
         (B#Leave the Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!}
         (C#Search through the tomes){C:0,KABU!SANCTUARY!ARCHIVES!0.X2000!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.302!DESCRIPTION!/]
-	
+
     [/KABU!SANCTUARY!ARCHIVES!0.303!DESCRIPTION!]
         ||
         *Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		With a mere spark of desire, she has called the Glyph of Resurrection to mind, offering the fruit of her body as nourishment to the slumbering tree. The Glyph then serves to link the two beings and the energy begins to flow steadily from Eidos into the Muninn. The tree's roots drink deeply of Eidos' essence, and she begins to feel its life wax as her own wanes. The sap begins to course anew through the Muninn's ancient pores, and her blood begins to slow. As life is breathed into the withered boughs, her lungs gasp for air. As the ancient Muninn Tree regains its awareness, she feels her own winking out...*
         (A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.303!DESCRIPTION!/]
-	
+
 >>>Glyph of Tongues (12303)<<<
     [/KABU!SANCTUARY!ARCHIVES!0.X2000!DESCRIPTION!]
         |^12303:KABU!SANCTUARY!ARCHIVES!0.X3000!DESCRIPTION!|
@@ -1127,7 +1127,7 @@ ARCHIVES
     [/KABU!SANCTUARY!ARCHIVES!0.X3000!DESCRIPTION!]
         |^12305:KABU!SANCTUARY!ARCHIVES!0.500!DESCRIPTION!|
         *Eidos takes her time, sifting through the volumes on the shelves, on the tables, even upon the floors. Wiping dust from bindings and covers alike, she reads the titles as though it were second nature. In time, one tome among the multitude calls out to her across the emptiness dividing them.
-		
+
 		Following the signal, Eidos finds a tome seemingly connected to the Glyphs, the ancient and unspoken incantations of Technocraft.*
         (A#...){A:0,KABU!SANCTUARY!ARCHIVES!9990.X12305!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.X3000!DESCRIPTION!/]
@@ -1143,27 +1143,27 @@ ARCHIVES
     [/KABU!SANCTUARY!ARCHIVES!0.X400!DESCRIPTION!]
         |^12402:KABU!SANCTUARY!ARCHIVES!0.400!DESCRIPTION!|
 		*Eidos digs through multiple volumes seeing nothing but broken tomes left and right, high and low. She is about to quit her search when she spots a potential candidate: another tome, it shares memories of the past, damning memories.
-		
+
 		This tome implicates Pakahron and Khaa in the murder of an Archmage. It too proposes Pakahron's time spent in the Moon Tower many moons ago led to an ill-fated discovery... The Glyph of Corruption he wrote about in his research hearkened back to a time before the Great Awakening. But its effects have rippled into the present. Death from contagion, panic, filling the Valley of Bones, distrust...
-		
+
 		Merely by viewing the tome, Eidos commits it to the memory of her Trueflesh.*
         (A#Examine the bodies){A:0,KABU!SANCTUARY!ARCHIVES!0.101!DESCRIPTION!}
         (B#Pass through the archway){B:0,KABU!SANCTUARY!ARCHIVES!10.X014!DESCRIPTION!}
         (C#Return to the Winding Stair){C:0,KABU!SANCTUARY!WINDING STAIR!01.100!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.X400!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.400!DESCRIPTION!]
         ||
 		*Eidos digs through multiple volumes seeing nothing but broken tomes left and right, high and low. As she is about to quit her search, she spots a potential candidate: another tome, it shares memories of the past, damning memories.
-		
-		This tome implicates Pakahron and Khaa in the murder of an Archmage. It too proposes Pakahron's time spent in the Moon Tower many moons ago led to an ill-fated discovery... The Glyph of Corruption he wrote about in his research hearkened back to a time before the Great Awakening. But its effects have rippled into the present. Death from contagion, panic, filling the Valley of Bones, distrust... 
-		
+
+		This tome implicates Pakahron and Khaa in the murder of an Archmage. It too proposes Pakahron's time spent in the Moon Tower many moons ago led to an ill-fated discovery... The Glyph of Corruption he wrote about in his research hearkened back to a time before the Great Awakening. But its effects have rippled into the present. Death from contagion, panic, filling the Valley of Bones, distrust...
+
 		Merely by viewing the tome, Eidos commits it to the memory of her Trueflesh.*
 		(A#Enter the Workshop){A:0,KABU!SANCTUARY!WORKSHOP!0.X000!DESCRIPTION!}
         (B#Pass through the archway){B:0,KABU!SANCTUARY!ARCHIVES!10.X014!DESCRIPTION!}
         (C#Return to the Winding Stair){C:0,KABU!SANCTUARY!WINDING STAIR!01.100!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.400!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.500!DESCRIPTION!]
 		||
 		*Eidos has already learned all she can from these volumes. None will offer her insight beyond that which she already possesses, not because she understands too much, but rather because she accepts too little. A shame, in truth, but reality cannot be grasped in a single sitting.*
@@ -1171,39 +1171,39 @@ ARCHIVES
 		(B#Pass through the archway){B:0,KABU!SANCTUARY!ARCHIVES!10.X014!DESCRIPTION!}
 		(C#Return to the Winding Stair){C:0,KABU!SANCTUARY!WINDING STAIR!01.100!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.500!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.600!DESCRIPTION!]
 		||
 		*As soon as she steps upon it, the violet glow strengthens, tracing the curves of the Glyph etched into its surface. A slow rumble and it begins to levitate, taking her skywards, up through the invisible shaft hidden among the ceiling's shadows.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SENTRIES!1.001!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.600!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!0.601!DESCRIPTION!]
 		||
 		*The levitating platform brings her to gentle stop upon the floor of the Archives.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.X000!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.601!DESCRIPTION!/]
-	
-	
+
+
 >>>Got Luin (12300)<<<
 	[/KABU!SANCTUARY!ARCHIVES!1.X000!DESCRIPTION!]
 		|^12300:KABU!SANCTUARY!ARCHIVES!1.000!DESCRIPTION!|
 		*Eidos has returned to the Sanctuary Archives. The eldritch green haze, yet illuminating the corridor at the far end of the hall, leaks into the Archives themselves. Near the bodies, the platform yet remains, ready for her use.
-		
+
 		But the dying behemoth that dominated the scene despite its best years having long-since slip away, that pale-skinned giant that spread its branches like greedy fingers across the ceiling, now stands before her vibrant and energetic, replete with the life force she sacrificed unto it.
-		
+
 		However, something imperceptible to most, yet intuitive to Eidos, is that this is not the Muninn tree revived to the fullest extent of its potential powers. No this awe-inspiring beast could never be sated, not even with all the energy of the universe flooding into its veins. Majestic and imposing enough to cause the arrogant king to prostrate himself before it, the Muninn clearly remains a colossal disappointment to itself.*
 		(A#Search the Archive){A:0,KABU!SANCTUARY!ARCHIVES!0.100!DESCRIPTION!}
 		(B#Leave the Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!}
 		(C#Step upon the platform){C:0,KABU!SANCTUARY!ARCHIVES!0.600!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!1.X000!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!1.000!DESCRIPTION!]
 		||
 		*Eidos has returned to the Sanctuary Archives. Yet the ethereal green haze once illuminating the corridor at the far end of the hall is now conspicuously absent. However, near the bodies, the platform yet remains, ready for her use.
-		
+
 		But the dying behemoth that dominated the scene despite its best years having long-since slip away, that pale-skinned giant that spread its branches like greedy fingers across the ceiling, now stands before her vibrant and energetic, replete with the life force she sacrificed unto it.
-		
+
 		However, something imperceptible to most, yet intuitive to Eidos, is that this is not the Muninn tree revived to the fullest extent of its potential powers. No this awe-inspiring beast could never be sated, not even with all the energy of the universe flooding into its veins. Majestic and imposing enough to cause the arrogant king to prostrate himself before it, the Muninn clearly remains a colossal disappointment to itself.*
 		(A#Search the Archive){A:0,KABU!SANCTUARY!ARCHIVES!0.100!DESCRIPTION!}
 		(B#Leave the Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!}
@@ -1211,7 +1211,7 @@ ARCHIVES
 	[KABU!SANCTUARY!ARCHIVES!1.000!DESCRIPTION!/]
 
 >>>destroyed Luin crystal (12011)<<<
->>>Got Luin (12300)<<<	
+>>>Got Luin (12300)<<<
 	[/KABU!SANCTUARY!ARCHIVES!10.X014!DESCRIPTION!]
 		||
 		*MULTICHECKER*
@@ -1223,22 +1223,22 @@ ARCHIVES
 	[/KABU!SANCTUARY!ARCHIVES!10.0140!DESCRIPTION!]
 		||
 		*With each subsequent step, Eidos gains in proximity to the wash of green illumination. The light has a vivid quality to it; its softly pulsating glow even seems to mimic the periodic breaths of some unnatural beast.
-		
+
 		Eidos inches ever closer until she reaches the mouth at the end of the corridor, pouring out into the next chamber.*
 		(A#...){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.X000!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!10.0140!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!10.0141!DESCRIPTION!]
 		||
 		*As Eidos steps through the charred hall, unmistakable indicators of a recent explosion line the walls. A vibrant green sludge paints the walls, emitting an almost toxic glow, guiding her toward the chaos worked by her will.*
 		(A#Enter the charred room){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.X000!DESCRIPTION!}
 		(B#Return to the corpse-strewn Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X110!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!10.0141!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!ARCHIVES!10.0142!DESCRIPTION!]
 		||
 		*The hallway leading to Luin's Chamber is darkened, now with the crystal's light consumed. Eidos continues further down the passage walking what seems to be an infinite distance, only to arrive right back where she started...
-		
+
 		Suddenly, she hears an echoless giggle, utterly innocent, utterly pure, utterly honest in its desire for violence. Then, silence.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.X110!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!10.0142!DESCRIPTION!/]
@@ -1251,9 +1251,9 @@ AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X000!DESCRIPTION!]
 		||
 		*Eidos opens her eyes.
-		
+
 		Light floods in, burning her vision white hot. Agony crushes perception, forcing teary lids shut anew.
-		
+
 		Defiant, she pries them open, sheer will her only lever.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!000.001!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X000!DESCRIPTION!/]
@@ -1267,9 +1267,9 @@ AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!000.002!DESCRIPTION!]
 		||
 		*Suddenly remembering to breathe, a heaving gasp fills her lungs with the chamber's chill air.
-		
+
 		Then remembering to hear, a rushing noise floods her ears, drowning out all sound but the thunderous march of her heart.
-		
+
 		Swaying as though on violent seas, the room seems to spin.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!000.003!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!000.002!DESCRIPTION!/]
@@ -1285,13 +1285,13 @@ AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.001!DESCRIPTION!]
 		||
 		*The surrounding silence is shattered by a clarion cry. Hers.
-		
+
 		Eyes bulge. Fingers to face. Dragging. Ripping.
-		
+
 		Eidos howls. Fears released, riding on the winds of her wails.
-		
+
 		She screams, lungs seeming to implode. Air surges back in, stunting her terrified cries.
-		
+
 		Silence returns.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!00.0010!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.001!DESCRIPTION!/]
@@ -1299,11 +1299,11 @@ AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.0010!DESCRIPTION!]
 		||
 		*Moments pass. Nothing happens. The world has no reply to her terror.
-		
+
 		Dread soon fades in the absence of threats.
-		
+
 		Her chest expands and contracts at a steady pace, breath now regulated by exhaustion.
-		
+
 		But against all odds, she yet stands.*
 		(A#Look for others){A:1,KABU!SANCTUARY!AWAKENING CHAMBER!00.010!DESCRIPTION!}
 		(B#Try to remember){B:2,KABU!SANCTUARY!AWAKENING CHAMBER!00.020!DESCRIPTION!}
@@ -1313,7 +1313,7 @@ AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.003!DESCRIPTION!]
 		||
 		*Eidos closes her teary eyes to the light, this time of her own volition. She focuses on the darkness within, the nothingness that awaits.
-		
+
 		A flame emerges from the murk of thought, consuming all fear, all uncertainty. Yet this fire is indiscriminate in its consumption; it singes her fingertips as they reach to caress the crackling glow. Though warmth and comfort be its gifts, excess in these are its admonitions.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!00.0030!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.003!DESCRIPTION!/]
@@ -1329,7 +1329,7 @@ AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.005!DESCRIPTION!]
 		||
 		*Taking a panicked step, Eidos slips on the smooth floor. Face to ground, legs to air, her haste inverts head and feet. Yet the pain of the collision focuses her vision and regulates her breathing.
-		
+
 		Though fallen, her resolve remains unshaken.*
 		(D#Examine self){D:2,KABU!SANCTUARY!AWAKENING CHAMBER!00.040!DESCRIPTION!}
 		(E#Check for threats){E:1,KABU!SANCTUARY!AWAKENING CHAMBER!00.050!DESCRIPTION!}
@@ -1350,7 +1350,7 @@ AWAKENING CHAMBER
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.020!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.021!DESCRIPTION!]
-		||	
+		||
 		*Thoughts and words, unforgotten, unremembered, simply another part of her, like limbs and digits, another tool at her disposal. Though she is newly birthed from the ether, she comes fully-formed from her womb.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X2050!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.021!DESCRIPTION!/]
@@ -1365,12 +1365,12 @@ AWAKENING CHAMBER
 		||
 		*Eidos frantically casts her gaze about. Her ill-lit surroundings afford only glimpses of blurred shapes twisting and merging, all framed in halos of scattering light. Slowly, forms sharpen, light focuses, and gradually, distinct images emerge from the stew of colors and shadows. Intently, she scans, ever vigilant, observing no motion save her own, hearing no sound save her own. By all appearances, she is alone and safe.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X2050!DESCRIPTION!}
-	[KABU!SANCTUARY!AWAKENING CHAMBER!00.050!DESCRIPTION!/]	
+	[KABU!SANCTUARY!AWAKENING CHAMBER!00.050!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.060!DESCRIPTION!]
 		||
 		*Eidos' clammy hands cup her eyes, blotting out the mocking rays of ambient light. She begins to cackle maniacally at the darkness she finds lurking beneath the twinned, fleshy domes. Unfazed, the congenial darkness simply stares back in silence, letting the loon have her fun, as a good host might.
-		
+
 		When she tires of this, Eidos lifts one of her hands to peek, where an irritated and slighted solitude greets her gaze. She then hurriedly cures her self-imposed blindness, gracefully rises to her feet, gingerly dusts her clothes off, and finally proceeds to awkwardly pretend nothing unusual has just transpired.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!00.061!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.060!DESCRIPTION!/]
@@ -1390,12 +1390,12 @@ AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.063!DESCRIPTION!]
 		||
 		*Her eyes snap open! With renewed clarity, Eidos notes no little green creatures remain - that is, if they were anything more than a hallucination to begin with. Her body is tossed carelessly in a pile on the floor, and in a most unfashionable disarray to boot! Shaky legs stand her upright as she contemplates how foolish she must have looked running from illusions - fortunate indeed that none were present to witness her shameful actions.
-		
+
 		The impact seems to have shocked some sense back into her - though exactly how much sense remains to be seen...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X2050!DESCRIPTION!}
 		(F#Laugh... AGAIN!!){F:2,KABU!SANCTUARY!AWAKENING CHAMBER!00.064!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.063!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.064!DESCRIPTION!]
 		||
 		*Sure, why not? For is not the very definition of insanity the repetition of actions with the expectation of different outcomes?*
@@ -1418,7 +1418,7 @@ AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.0101!DESCRIPTION!]
 		||
 		*These images span several walls unbroken, except at three points. Two doors, directly opposite one another, interrupt the murals, one painted an immaculate white, the other a murky indigo. A dark glass, embedded chest-high into a wall, likewise stabs a pitch black hole into the continuity of the murals; its unnerving gaze injects shivers into every fiber of her being.
-		
+
 		Yet cold feet soon break the spell, drawing her attention to the floor. The metallic platform she now stands upon seems to sap her body's warmth - showing no signs of stopping.*
 		(A#Approach one of the doors){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.030!DESCRIPTION!}
 		(B#Peer into the glass){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
@@ -1445,7 +1445,7 @@ AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.0110!DESCRIPTION!]
 		||
 		*Eidos instinctively places her hand upon the Sigil. Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph from her Sigil is fully formed, completing the reaction.
-		
+
 		The Farcaster upon which she now stands begins to disassemble her, bit by bit, unraveling the threads of her physicality, distilling what she is into an ever-compressing essence. Soon, only the memory of her destination remains present as what she has become makes the journey toward it.*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!9990.X12007!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.0110!DESCRIPTION!/]
@@ -1493,7 +1493,7 @@ AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.033!DESCRIPTION!]
 		||
 		*Though her eyes see only a mundane symbol of copulating lines birthing the symmetrical patterns of a Glyph, the resonating Sigil she carries with her reveals its meaning - Discipline.
-		
+
 		As soon as this knowledge dawns within her, the mural's impression on her changes. The hooded figures turn their heads toward her, looking upon Eidos with expectant eyes. Suddenly, the door and mural fade from view, revealing before her a chamber shrouded in a smoky veil of deep blue light, its source yet unclear.*
 		(A#Pass through the door){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12004!DESCRIPTION!}
 		(B#Examine the other door){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!}
@@ -1504,7 +1504,7 @@ AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!]
 		|^12411:KABU!SANCTUARY!AWAKENING CHAMBER!1.X040!DESCRIPTION!|
 		*A quick glance reveals that the plain white door has no obvious handle or hinges. Hesitantly, she moves to push it open. Contact made, the milky barrier ripples outward from her fingertips, and yet she feels none of it, just as though she were touching emptiness itself.
-		
+
 		Suddenly, a Glyph born from the overlapping of several lesser shapes etches itself precisely where Eidos had first touched. Its meaning is innate to her - and how could it not be? - for it is the Glyph of Eidos.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.041!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!/]
@@ -1526,7 +1526,7 @@ AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!]
 		|^12900:KABU!SANCTUARY!AWAKENING CHAMBER!0.X052!DESCRIPTION!|
 		*Her eyes catch an anomaly, and immediately gravitate towards it. It came from the chest-high glass, the disturbing one. But now, the twinkle of reflecting light off the dark glass seems benign, inviting even. It draws her ever nearer, each step further erasing her initial apprehension.	Though it looks like a hole pierced in space, the circular pane offers no view of what lies beyond. Peering in, she only sees the dim, visual echo of her own youthful visage.
-		
+
 		Suddenly, her reflection seems to distort, like the smoke of a flame just snuffed. Soon, her warping image is replaced with an unsettling apparition...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X051!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!/]
@@ -1561,7 +1561,7 @@ AWAKENING CHAMBER
 		*Eidos crouches, running her fingers along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals, all culminating in a Glyph at the center. The device speaks to her as a child to its mother, calling for the Sigil Eidos carries to speak its name...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.0610!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X061!DESCRIPTION!/]
-		
+
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.0610!DESCRIPTION!]
 		||
 		*Farcasting.*
@@ -1647,7 +1647,7 @@ been here before
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.033!DESCRIPTION!]
 		||
 		*Though her eyes see only a mundane symbol of copulating lines birthing the symmetrical patterns of a Glyph, the resonating Sigil she carries with her reveals its meaning - Discipline.
-		
+
 		As soon as this knowledge dawns within her, the mural's impression on her changes. Her mind's eye witnesses the hooded figures turning their heads toward her, looking upon Eidos with expectation. Suddenly, the door and mural fade from view, revealing before her a chamber shrouded in a smoky veil of deep blue light.*
 		(A#Pass through the door){A:0,KABU!SANCTUARY!MATHETIA!0.X000!DESCRIPTION!}
 		(B#Examine the other door){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X040!DESCRIPTION!}
@@ -1771,7 +1771,7 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.300!FENRIR!]
 		||
-		*"Known to me this chamber be, within the Sanctuary lying. But now more questions arise..."* 
+		*"Known to me this chamber be, within the Sanctuary lying. But now more questions arise..."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.3000!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.300!FENRIR!/]
 
@@ -1841,14 +1841,14 @@ FENRIR
 		*"But awareness of another's core does not you profit. No, to your own essence know, you must this chamber leave... a task I can aid..."*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.1013!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.1012!FENRIR!/]
-	
+
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.1013!FENRIR!]
 		||
 		*"Though my help freely given be, to accept or not on your instinct alone depends."*
 		(A#"I'll gladly accept your help, Fenrir."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!}
 		(B#"Perhaps another time. I'll find my own way for now."){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-1!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.1013!FENRIR!/]
-	
+
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.201!FENRIR!]
 		||
 		*"Far from the Sanctuary, my home in the Misty Wood I walk. The prey my grasp ever eludes, my snout with its scent ever filled."*
@@ -2456,7 +2456,7 @@ HALL OF SENTRIES
 	[/KABU!SANCTUARY!HALL OF SENTRIES!0.X001!DESCRIPTION!]
 		|^12002:KABU!SANCTUARY!HALL OF SENTRIES!5.000!DESCRIPTION!|
 		*This short and narrow hallway is lined with the graven images of men and women at arms. They are finely carved, with no trace nor marks of the tools that wrought them. Yet, their forms are rough and simplistic, primarily comprised of simple angles and straight lines.
-		
+
 		The ceiling hangs low enough to touch with a short leap, and the corridor's width scarcely exceeds her armspan. A dim light seeps in from the opening at the far end where the hall pours into a vast chamber, though something thwarts the light from completely consuming the doorway.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SENTRIES!0.X002!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SENTRIES!0.X001!DESCRIPTION!/]
@@ -2464,7 +2464,7 @@ HALL OF SENTRIES
 	[/KABU!SANCTUARY!HALL OF SENTRIES!0.X002!DESCRIPTION!]
 		|@:KABU!SANCTUARY!HALL OF SENTRIES!0.X000!DESCRIPTION!|
 		*Eidos walks toward the doorway. As she draws nearer to the opening, the source of the blockage becomes apparent. What once appeared to be simply a void carved from light gains detail. Its weaker shadows emphasize its smooth contours and rugged features. Immobile before her stands a tall, statuesque figure, a spear held at its side. Its expression is cold, and its demeanor dispassionate. As if carved from stone, its features are flawless but for the large gashes rent into its face and abdomen - surely not the signs of an easy occupation. Glistening, blue liquid slowly leaks from its wounds, serving as a natural highlight of the sentry's figure.
-		
+
 		In an alcove, nearly consumed in shadows, a Glyph appears to call to her; it offers an escape.*
 		(A#Approach the figure){A:0,KABU!SANCTUARY!HALL OF SENTRIES!0.X003!DESCRIPTION!}
 		(B#Retreat to the Winding Stair){B:0,KABU!SANCTUARY!WINDING STAIR!0.021!DESCRIPTION!}
@@ -2501,7 +2501,7 @@ HALL OF SENTRIES
 	[/KABU!SANCTUARY!HALL OF SENTRIES!0.0041!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		The Glyph of the Occult lends power to its Hidden Mind Techne casting an invisible veil around Eidos. The brief flash of the Glyph dissipates in her mind's eye and she begins walking as silently as possible towards the doorway - almost skulking like a frightened dog. Nerves balanced on the edge of a knife, she proceeds, until...*
 		(A#Her mind calls out to the dormant sentry){A:0,KABU!SANCTUARY!HALL OF SENTRIES!0.X0040!DESCRIPTION!}
 		(B#She hurries passed the sentry){B:0,KABU!SANCTUARY!HALL OF SENTRIES!0.00410!DESCRIPTION!}
@@ -2524,7 +2524,7 @@ HALL OF SENTRIES
 		*As soon as she steps upon the platform, a violet light seems to carve a Glyph into its center. A slight rumble and it drops into a shadowy shaft, carrying Eidos into the depths little slower than a free fall.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.601!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SENTRIES!1.000!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!HALL OF SENTRIES!1.001!DESCRIPTION!]
 		||
 		*The floating platform speeds up through the shaft, bathing Eidos in stale air as she rushes towards this little journey's terminus. Slowing to a halt, she emerges up from the ground and into a shadowy alcove within a narrow hall.*
@@ -2535,7 +2535,7 @@ HALL OF SENTRIES
 	[/KABU!SANCTUARY!HALL OF SENTRIES!2.X000!DESCRIPTION!]
 		|^12006:KABU!SANCTUARY!HALL OF SENTRIES!9.000!DESCRIPTION!|
 		*This short and narrow hallway is lined with the graven images of men and women at arms. They are finely carved, with no trace nor marks of the tools that wrought them. Yet, their forms are rough and simplistic, comprised of angles and lines but few curves.
-		
+
 		The ceiling is comparably low, such that Eidos could reach up and touch it; the width, scarcely wider than her armspan. At the end of the corridor is a single door and a staircase leading down into the darkness of the depths.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SENTRIES!2.X001!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SENTRIES!2.X000!DESCRIPTION!/]
@@ -2885,11 +2885,11 @@ HALL OF SERVANTS
 		*Walking through the large gateway, Eidos is met with a strange sight. Before her is a descending staircase of concentric steps, fanning out into a large square hall. At first glance, this hall appears to be filled with hundreds of statues, all arranged in perfect rows. However, as Eidos draws nearer, the statues all turn to face her. Heads twist in a half circle following her path down the steps, all staring with expectation.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SERVANTS!0.001!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SERVANTS!0.X000!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!HALL OF SERVANTS!0.001!DESCRIPTION!]
 		||
 		*At the opposite end is a wide corridor, wide enough for several files of statues to pass through at a time. But perhaps most peculiar is that between Eidos and the exit there are two rather ornate sarcophagi - marbled exteriors, with several odd Glyphs engraved upon them.
-		
+
 		As Eidos takes in the surreality of the scene, the door suddenly closes behind her.*
 		(A#Examine sarcophagi){A:0,KABU!SANCTUARY!HALL OF SERVANTS!0.100!DESCRIPTION!}
 		(B#Enter the corridor){B:0,KABU!SANCTUARY!HALL OF SERVANTS!1.000!DESCRIPTION!}
@@ -2900,7 +2900,7 @@ HALL OF SERVANTS
 		*Walking through the large gateway, Eidos is met with a strange, yet familiar sight. Before her is a descending staircase of concentric steps, fanning out into a large square hall - a hall she remembers, the Hall of Servants. The hundreds of living statues, all arranged in perfect rows, again turn to face her as she descends the stairs. Heads twist in a half circle following her path, all staring with expectation.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SERVANTS!0.001!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SERVANTS!0.002!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!HALL OF SERVANTS!0.100!DESCRIPTION!]
 		||
 		*As Eidos approaches the first sarcophagus, the Glyph of Awareness inscribed upon it resonates with her Sigil. The contraption springs to life, blossoming open and revealing its interior to her. A comfortable and inviting satin insulation fills the stony casket - though, of course, more outstanding is that there is an emerald elixir within. Looking more closely still, reflective black crystalline cuboids are suspended within the liquid like some perverse re-imagining of the night sky.*
@@ -2914,7 +2914,7 @@ HALL OF SERVANTS
 		*Turning her back to the first sarcophagus, its lid closes.	Eyes now firmly on the second, she witnesses yet another strange symbol, obviously a Glyph of some sort, though of what, she is as ignorant as it is intricate. All she can discern is that the make of this sarcophagus is distinct from the other.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SERVANTS!0.201!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SERVANTS!0.200!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!HALL OF SERVANTS!0.201!DESCRIPTION!]
 		||
 		*Clearly, the local sarcophagus industry must be booming or, perhaps someone had amassed too great a fortune to spend it on mundane, non-sarcophagus-related accessories.*
@@ -2929,13 +2929,13 @@ Exit sans elixir
 		*Shifting her gait toward the corridor, Eidos intends to exit the chamber. She walks alone down the hallway for about a hundred paces before approaching what appears to be a dead end. Soon, the gradual emergence of the Glyph of Awareness begins to brighten the passage, resonating with the Sigil she now bears. The light fades and a portal to the outside begins to appear as the rocky wall condenses into a single point where the Glyph had shone previously.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SERVANTS!1.001!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SERVANTS!1.000!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!HALL OF SERVANTS!1.001!DESCRIPTION!]
 		||
 		*The passage fills with sunlight and the air begins to warm, even offering up a natural sweetness that was unimaginable in the stagnant dungeon whence she came. In time, Eidos steps through the portal, emerging in a wasted land...*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SERVANTS!9990.X12414-2!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SERVANTS!1.001!DESCRIPTION!/]
-	
+
 
 Exit w/ elixir
 	[/KABU!SANCTUARY!HALL OF SERVANTS!10.000!DESCRIPTION!]
@@ -2943,7 +2943,7 @@ Exit w/ elixir
 		*Eidos imbibes the questionable elixir. Though it is bitter, it lacks the foul-taste appearances might lead one to expect. However, as could reasonably be anticipated from drinking magic fluids of unknown origins, ill-natured effects begin to emerge...*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SERVANTS!10.001!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SERVANTS!10.000!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!HALL OF SERVANTS!10.001!DESCRIPTION!]
 		||
 		*First, Eidos can feel her skin crawl, only to then feel a sudden slowing of her heart. Unsettling, true, but at least the process is painless - in truth, if anything, it more closely resembles floating in a gentle brook.*
@@ -2961,32 +2961,32 @@ Exit w/ elixir
 		*The pulsations continue in a slow and periodic fashion, each pulse bringing back slightly more control over her body than before. Until finally she is able to push herself up off the floor.*
 		(A#Enter the corridor){A:0,KABU!SANCTUARY!HALL OF SERVANTS!10.004!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SERVANTS!10.003!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!HALL OF SERVANTS!10.004!DESCRIPTION!]
 		||
 		*The army of statues now stares at her with even greater resolve, as though ready to perish at her slightest whim. But soon their focus shifts beyond her to the corridor exiting the hall.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SERVANTS!10.005!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SERVANTS!10.004!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!HALL OF SERVANTS!10.005!DESCRIPTION!]
 		||
 		*Shifting her gait toward the corridor, Eidos moves. Wordlessly, the ordered swarm of statues follows, starting when she moves and stopping when she pauses. Together, they march down the hallway for about a hundred paces before approaching what appears to be a dead end. Soon, the gradual emergence of the Glyph of Awareness begins to brighten the passage, resonating with the Sigil she now bears. The light fades and a portal to the outside begins to appear as the rocky wall condenses into a single point where the Glyph had shone previously.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SERVANTS!10.006!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SERVANTS!10.005!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!HALL OF SERVANTS!10.006!DESCRIPTION!]
 		||
 		*The passage fills with sunlight and the air begins to warm, even offering up a natural sweetness that was unimaginable in the stagnant dungeon whence she came. In time, Eidos steps through the portal, emerging in a wasted land...*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SERVANTS!9990.X12414-3!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SERVANTS!10.006!DESCRIPTION!/]
-	
-	
+
+
 Enter from Wasteland
 >>>Seen Hall of Servants (12414)<<<
 	[/KABU!SANCTUARY!HALL OF SERVANTS!100.X000!DESCRIPTION!]
 		|^12414:KABU!SANCTUARY!HALL OF SERVANTS!100.001!DESCRIPTION!|
 		*Walking through the wide corridor, Eidos is met with a gargantuan hall and a strange sight. At first glance, this hall appears to be filled with hundreds of statues, all arranged in perfect rows. However, as Eidos draws nearer, the statues all turn to face her. Heads twist in a half circle following her path, all staring with expectation.
-		
+
 		Across the way, there is an ascending staircase of concentric steps, leading to a closed portal almost as tall as the chamber itself. Yet perhaps the most arresting sight is that of two rather ornate marble sarcophagi, engraved with many exotic Glyphs.*
 		(A#Return to the corridor){A:0,KABU!SANCTUARY!HALL OF SERVANTS!1.000!DESCRIPTION!}
 		(B#Examine sarcophagi){B:0,KABU!SANCTUARY!HALL OF SERVANTS!100.100!DESCRIPTION!}
@@ -2995,12 +2995,12 @@ Enter from Wasteland
 	[/KABU!SANCTUARY!HALL OF SERVANTS!100.001!DESCRIPTION!]
 		||
 		*Walking through the wide corridor, Eidos is met with a familiar sight. The hundreds of statues, all arranged in perfect rows, turn expectantly to face her, heads twisting in a half circle as they follow her path.
-		
+
 		Across the way, there is the ascending staircase of concentric steps that leads to the closed portal almost as tall as the chamber itself. All this she recalls. This and the two rather ornate marble sarcophagi, engraved with many exotic Glyphs.*
 		(A#Return to the corridor){A:0,KABU!SANCTUARY!HALL OF SERVANTS!1.000!DESCRIPTION!}
 		(B#Examine sarcophagi){B:0,KABU!SANCTUARY!HALL OF SERVANTS!100.100!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SERVANTS!100.001!DESCRIPTION!/]
-		
+
 	[/KABU!SANCTUARY!HALL OF SERVANTS!100.100!DESCRIPTION!]
 		||
 		*As Eidos approaches the first sarcophagus, the Glyph of Awareness, inscribed upon it, resonates with Eidos and reveals its interior to her. A comfortable and inviting satin insulation fills the stony casket - though, of course, more outstanding is that there is an emerald elixir within. Looking more closely still, reflective black crystalline cuboids are suspended within the liquid like some perverse re-imagining of the night sky.*
@@ -3008,13 +3008,13 @@ Enter from Wasteland
 		(B#Drink elixir){B:0,KABU!SANCTUARY!HALL OF SERVANTS!9990.X12412!DESCRIPTION!}
 		(C#Enter the corridor){C:0,KABU!SANCTUARY!HALL OF SERVANTS!1.000!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SERVANTS!100.100!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!HALL OF SERVANTS!100.200!DESCRIPTION!]
 		||
 		*Turning her back to the first sarcophagus, its lid closes.	Eyes now firmly on the second, she witnesses yet another strange symbol, obviously a Glyph of some sort, though of what, she is as ignorant as it is intricate. All she can discern is that the make of this sarcophagus is distinct from the other.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SERVANTS!100.201!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SERVANTS!100.200!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!HALL OF SERVANTS!100.201!DESCRIPTION!]
 		||
 		*Clearly, the local sarcophagus industry must be booming or, perhaps someone had amassed too great a fortune to spend it on mundane, non-sarcophagus-related accessories.*
@@ -3040,7 +3040,7 @@ LUIN'S CHAMBER
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.X0000!DESCRIPTION!]
 		|^12001:KABU!SANCTUARY!LUIN'S CHAMBER!0.X009!DESCRIPTION!|
 		*Seeking the source of ethereal light, Eidos enters a tetrahedral chamber. Three sides angled in on each other make up the walls, tapering severely, high above. Reflective panels arranged on a grid cover all four surfaces like the scales of a silver serpent. The chamber itself is small, the width spanning but five paces outward from the center, though the ceiling might well be five times Eidos' height.
-		
+
 		Gaze now set upon the middle of the room, she sees the emerald light pervading the area emanates from a crystal. The shimmering object is suspended midair as though in some invisible, viscous fluid. Beyond it, a familiar dark glass adorns the wall, embedded chest-high at one of the intersections to the myriad reflective tiles.*
 		(A#Peer into the dark glass){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.X001!DESCRIPTION!}
 		(B#Return to the corpse-strewn Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X110!DESCRIPTION!}
@@ -3092,7 +3092,7 @@ LUIN'S CHAMBER
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.909!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		Calling to mind the Glyph of Fenrir, Eidos places hand to crystal and executes her Extraction Techne. A shock travels down her spine, spreading out like ink on fabric. Then a name - 'Luin' - resounds in Eidos' mind and the eldritch glow soon coalesces into an emerald sword - a vision of her new talent, the reward for her current pain...*
 		(A#Release the crystal before Luin's complete assimilation){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.9090!DESCRIPTION!}
 		(F#Peer deeper into the abyss){F:5,KABU!SANCTUARY!LUIN'S CHAMBER!9990.X12302-1!DESCRIPTION!}
@@ -3238,7 +3238,7 @@ LUIN
 		*"Eidos? Be that you? Luin here before you!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.003!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.002!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.003!LUIN!]
 		||
 		*"But, why so late are you in coming?"*
@@ -3271,7 +3271,7 @@ LUIN
 		*"Eidos you must be! Doubt yourself not! The story of your coming have I heard and now it is truth made flesh!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.3000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.300!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.3000!LUIN!]
 		||
 		*"Though a dull waiting I had, bitterness makes the joys of life sweeter!"*
@@ -3279,13 +3279,13 @@ LUIN
 		(C#"It seems your wait is over."){C:1,KABU!SANCTUARY!LUIN'S CHAMBER!0.301!LUIN!}
 		(D#"...But you have more tasks ahead of you, do you not?"){D:1,KABU!SANCTUARY!LUIN'S CHAMBER!0.401!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.3000!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.400!LUIN!]
 		||
 		*"Nothing to forgive! Long was my wait, but here you at last join me!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.4000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.400!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.4000!LUIN!]
 		||
 		*"If friends we become, longer still would I willingly have waited!"*
@@ -3293,13 +3293,13 @@ LUIN
 		(D#"...and now your real work can begin, yes?"){D:1,KABU!SANCTUARY!LUIN'S CHAMBER!0.401!LUIN!}
 		(E#"Friends? No. But I'll accept you as my slave..."){E:1,KABU!SANCTUARY!LUIN'S CHAMBER!0.501!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.4000!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.500!LUIN!]
 		||
 		*"Truth you speak, but told was I the story of your coming!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.5000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.500!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.5000!LUIN!]
 		||
 		*"To wait here was my task, and wait I did!"*
@@ -3344,7 +3344,7 @@ LUIN
 		(C#"He might be right."){C:1,KABU!SANCTUARY!LUIN'S CHAMBER!0.302!LUIN!}
 		(D#"Perhaps, if we don't end up like those corpses outside first..."){D:1,KABU!SANCTUARY!LUIN'S CHAMBER!0.402!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.301!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.401!LUIN!]
 		||
 		*"Work? Not work, I hope!"*
@@ -3384,8 +3384,8 @@ LUIN
 		(D#"Perhaps, if we don't wind up dead like those weaklings outside."){D:1,KABU!SANCTUARY!LUIN'S CHAMBER!0.402!LUIN!}
 		(E#"What possible value could you have to me?"){E:1,KABU!SANCTUARY!LUIN'S CHAMBER!0.502!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.5011!LUIN!/]
-	
-	
+
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.102!LUIN!]
 		||
 		*"Know you not, the will of all children?"*
@@ -3474,7 +3474,7 @@ LUIN
 		(E#"You may be useful, but I still don't trust you."){E:1,KABU!SANCTUARY!LUIN'S CHAMBER!0.503!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.5021!LUIN!/]
 
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.103!LUIN!]
 		||
 		*"Death? This, some have called my sister. But I know not what it means."*
@@ -3492,7 +3492,7 @@ LUIN
 		*"Yet, this reminds me, I was to see how best I might serve you..."*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.700!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.1031!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.203!LUIN!]
 		||
 		*"Truth is with you! For yet another task my Father gave!"*
@@ -3504,7 +3504,7 @@ LUIN
 		*"How best to serve mistress Eidos..."*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.700!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.2030!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.303!LUIN!]
 		||
 		*"As keen as I, so you seem! Yet before leaving, another task my Father gave..."*
@@ -3528,8 +3528,8 @@ LUIN
 		*"As tool was I built, how could I not be useful?"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.4030!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.503!LUIN!/]
-	
-	
+
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.700!LUIN!]
 		||
 		*"Our talk had purpose, kindred Eidos!"*
@@ -3541,8 +3541,8 @@ LUIN
 		*"To learn your thoughts, to know your desires, such that Father's gift suits your will!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.702!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.701!LUIN!/]
-	
-	
+
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.702!LUIN!]
 		||
 		*~ac*
@@ -3553,14 +3553,14 @@ LUIN
 		(E#TYR){E:0,KABU!SANCTUARY!LUIN'S CHAMBER!5.000!LUIN!}
 		(F#LOO){F:0,KABU!SANCTUARY!LUIN'S CHAMBER!6.000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.702!LUIN!/]
-	
-	
+
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!1.000!LUIN!]
 		||
-		*"Of others you seem to care, less so for yourself. You would hurt foes to help friends, and so for you, an unbreakable blade shall I be!"* 
+		*"Of others you seem to care, less so for yourself. You would hurt foes to help friends, and so for you, an unbreakable blade shall I be!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!1.0000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!1.000!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!1.0000!LUIN!]
 		||
 		*"But listen! If one we become, a twisted knot may your mind receive."*
@@ -3574,29 +3574,29 @@ LUIN
 		*"Of the forge of Vanargand, I the ghelblade stand before you!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!1.2000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!1.200!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!1.2000!LUIN!]
 		||
-		*"To wield me, you must learn me, learn my thoughts and contain them..."* 
+		*"To wield me, you must learn me, learn my thoughts and contain them..."*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!1.2001!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!1.2000!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!1.2001!LUIN!]
 		||
 		*"But the crucible must be stronger than the metals it pours... My Trueflesh's searing burn, its absence I do not promise."*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!1.2002!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!1.2001!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!1.2002!LUIN!]
 		||
 		*"Well, what say you, kindred Eidos?"*
 		(A#"I accept your offer, Luin."){A:1,KABU!SANCTUARY!LUIN'S CHAMBER!9990.X12300!LUIN!}
 		(B#"My answer is no."){B:1,KABU!SANCTUARY!LUIN'S CHAMBER!10.301!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!1.2002!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!1.500!LUIN!]
 		||
-		*"No child am I! The Blade of Vanargand am I! All but few fall before my cutting edge!"* 
+		*"No child am I! The Blade of Vanargand am I! All but few fall before my cutting edge!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!1.5000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!1.500!LUIN!/]
 
@@ -3618,13 +3618,13 @@ LUIN
 		*"Eidos, seeker of truth, your unyielding shield I will be!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!2.001!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!2.000!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!2.001!LUIN!]
 		||
 		*"As armor, my form is impenetrable! Your Falseflesh shall bear my protection upon its very skin!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!2.002!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!2.001!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!2.002!LUIN!]
 		||
 		*"But take heed, should our union come to pass, change will visit your mind!"*
@@ -3642,7 +3642,7 @@ LUIN
 
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!2.300!LUIN!]
 		||
-		*"No ordinary armor am I! Of the forge of Vanargand am I! To wield me, you must learn me, learn my thoughts and contain them..."* 
+		*"No ordinary armor am I! Of the forge of Vanargand am I! To wield me, you must learn me, learn my thoughts and contain them..."*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!2.3000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!2.300!LUIN!/]
 
@@ -3682,7 +3682,7 @@ LUIN
 
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!3.400!LUIN!]
 		||
-		*"No ordinary armor am I! Of the forge of Vanargand am I! To wield me, you must learn me, learn my thoughts and contain them..."* 
+		*"No ordinary armor am I! Of the forge of Vanargand am I! To wield me, you must learn me, learn my thoughts and contain them..."*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!3.4000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!3.400!LUIN!/]
 
@@ -3704,13 +3704,13 @@ LUIN
 		*"Fear of death fills your mind, so an unyielding shield I will be!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!4.0000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!4.000!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!4.0000!LUIN!]
 		||
 		*"As armor, my form is impenetrable! Your Falseflesh shall bear my protection upon its very skin!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!4.0001!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!4.0000!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!4.0001!LUIN!]
 		||
 		*"But take heed, should our union come to pass, change will visit your mind!"*
@@ -3721,23 +3721,23 @@ LUIN
 
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!4.300!LUIN!]
 		||
-		*"No ordinary armor am I! Of the forge of Vanargand am I! To wield me, you must learn me, learn my thoughts and contain them..."* 
+		*"No ordinary armor am I! Of the forge of Vanargand am I! To wield me, you must learn me, learn my thoughts and contain them..."*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!4.3000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!4.300!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!4.3000!LUIN!]
 		||
 		*"But the crucible must be stronger than the metals it pours: my soul's searing burn, its absence I do not promise."*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!4.3001!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!4.3000!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!4.3001!LUIN!]
 		||
 		*"Well, what say you?"*
 		(C#"The answer is no."){C:1,KABU!SANCTUARY!LUIN'S CHAMBER!10.301!LUIN!}
 		(D#"Join me Luin, and protect me."){D:1,KABU!SANCTUARY!LUIN'S CHAMBER!9990.X12300!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!4.3001!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!4.500!LUIN!]
 		||
 		*"Destruction is my main purpose, as a true weapon - and it will always please me most! Yet as armor, my form is as durable and as tough. Your Falseflesh shall bear my protection upon its very skin!"*
@@ -3747,10 +3747,10 @@ LUIN
 
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!5.000!LUIN!]
 		||
-		*"To cleave a path for your will is your nature! As your unbreakable blade, I will help to slay those that would thwart your cause!"* 
+		*"To cleave a path for your will is your nature! As your unbreakable blade, I will help to slay those that would thwart your cause!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!5.0000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!5.000!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!5.0000!LUIN!]
 		||
 		*"But take heed, should our union come to pass, change will visit your mind!"*
@@ -3764,19 +3764,19 @@ LUIN
 		*"No child am I! Of the forge of Vanargand, Luin the ghelblade stands before you!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!5.1000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!5.100!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!5.1000!LUIN!]
 		||
-		*"To wield me, you must learn me, learn my thoughts and contain them..."* 
+		*"To wield me, you must learn me, learn my thoughts and contain them..."*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!5.1001!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!5.1000!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!5.1001!LUIN!]
 		||
 		*"But the crucible must be stronger than the metals it pours. My Trueflesh's searing burn, its absence I do not promise."*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!5.1002!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!5.1001!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!5.1002!LUIN!]
 		||
 		*"Well, what say you?"*
@@ -3786,24 +3786,24 @@ LUIN
 
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!5.400!LUIN!]
 		||
-		*"Of the forge of Vanargand, Luin the ghelblade stands before you!"* 
+		*"Of the forge of Vanargand, Luin the ghelblade stands before you!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!5.1000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!5.400!LUIN!/]
-	
+
 
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!6.000!LUIN!]
 		||
 		*"Gremlins, unworthy enemies make! In the name of Roostor, with our union, none shall obstruct you!"*
 		(F#"Finally, you're speaking my language!"){F:1,KABU!SANCTUARY!LUIN'S CHAMBER!6.0000!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!6.000!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!6.0000!LUIN!]
 		||
 		*"My warning, you would not heed. So let the chaos begin!"*
 		(F#"Let's do it, sword boy!"){F:1,KABU!SANCTUARY!LUIN'S CHAMBER!9990.X12300!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!6.0000!LUIN!/]
-	
-	
+
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!10.301!LUIN!]
 		||
 		*"A shame! The Sentry upstairs obstructs your path and my help you could use."*
@@ -3815,13 +3815,13 @@ LUIN
 		*"Yet looks can deceive, your strength and appearance may not be equally dismal..."*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!9990.X12001!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!10.302!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!10.X303!LUIN!]
 		|@:KABU!SANCTUARY!LUIN'S CHAMBER!11.301!LUIN!|
 		*"Should change visit your thoughts, return here and claim me, kindred Eidos!"*
 		(A#"..."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!9999.X9999!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!10.X303!LUIN!/]
-	
+
 
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!11.301!LUIN!]
 		||
@@ -3829,7 +3829,7 @@ LUIN
 		(A#"My answer is still no."){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!11.302!LUIN!}
 		(B#"I accept your company."){B:0,KABU!SANCTUARY!LUIN'S CHAMBER!9990.X12300!LUIN!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!11.301!LUIN!/]
-	
+
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!11.302!LUIN!]
 		||
 		*"Luck is not with me! Task compels me to not slay you and you know this, jester!"*
@@ -3854,7 +3854,7 @@ MATHETIA
 	[/KABU!SANCTUARY!MATHETIA!0.000!DESCRIPTION!]
 		||
 		*Stepping across the threshold, Eidos finds herself in a room wholly unlike the one she just left. The simple geometry of the previous area looks primitive in comparison to the dizzying array of shapes that now confront her. Lines and curves intersect to form intricate, extra-dimensional patterns that lace all surfaces.
-		
+
 		Staring at any given surface gives the impression of standing between two mirrors and looking off into their simulated infinities. But this effect is true from all angles Eidos seems to choose, and perhaps from every possible angle.*
 		(A#...){A:0,KABU!SANCTUARY!MATHETIA!0.0000!DESCRIPTION!}
 	[KABU!SANCTUARY!MATHETIA!0.000!DESCRIPTION!/]
@@ -3868,7 +3868,7 @@ MATHETIA
 	[/KABU!SANCTUARY!MATHETIA!0.0001!DESCRIPTION!]
 		||
 		*Eidos' eyes next fall upon the elliptical table dominating the middle of the room. Unfathomably dark, yet somehow polished to the point of reflection - even from under the thick layers of dust upon it. A number of smooth, lacquered chairs surround the abyssal table, all impeccably aligned with a perfect mirror's symmetry.
-		
+
 		Then she sees it - the blue haze's source. A spherical crystal has been placed upon a simple and unpolished jade stand, near the edge of the table. It is as dissimilar to the room as a shadow is to the light that casts it, a warped and distorted echo introduced by foreign elements into a forbidden plane.*
 		(A#Examine the crystal){A:0,KABU!SANCTUARY!MATHETIA!0.001!DESCRIPTION!}
 		(B#Return to the Awakening Chamber){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X011!DESCRIPTION!}
@@ -3898,9 +3898,9 @@ MATHETIA
 	[/KABU!SANCTUARY!MATHETIA!0.004!DESCRIPTION!]
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		Without knowing why, Eidos calls Fenrir's Glyph to mind. And without knowing how, the shining object in her hand dims as it begins to inject its contents into her Trueflesh, light waning until it vanishes completely.
-		
+
 		The emptied husk of crystal soon slips from her hand, crashing to the ground and cracking into perfectly equal blue slivers. But Eidos is too preoccupied with the surges of conflicting emotions now present within her mind. They seek to disrupt like unrelenting waves crashing against stubborn cliffs...*
 		(A#...){A:0,KABU!SANCTUARY!MATHETIA!0.X005!DESCRIPTION!}
 	[KABU!SANCTUARY!MATHETIA!0.004!DESCRIPTION!/]
@@ -3922,7 +3922,7 @@ MATHETIA
 	[/KABU!SANCTUARY!MATHETIA!9.000!DESCRIPTION!]
 		||
 		*The room is now nearly pitch black, the only light seeping in from the Awakening Chamber door. The table and chairs have been reduced to rubble and ash. What were once illuminated stained-glass windows, now irreparably shattered, reveal the shadowy darkness behind them. The former splendor of the chamber has become nothing but a memory - a fragile one, soon to be forgotten.
-		
+
 		This room is now devoid of any further truths and memory tells her that this chamber holds no more secrets, no more reason to tarry idly among its polygeometric surfaces, infinitely dividing into unseen dimensions like some crazed fractal dream.*
 		(A#Return to the Awakening Chamber){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X011!DESCRIPTION!}
 	[KABU!SANCTUARY!MATHETIA!9.000!DESCRIPTION!/]
@@ -3943,7 +3943,7 @@ MATHETIA
 	[/KABU!SANCTUARY!MATHETIA!9.901!DESCRIPTION!]
 		||
 		*Opening her eyes, only now aware that she had ever even closed them, Eidos observes her surroundings. The room is nearly pitch black, the only light seeping in from the Awakening Chamber door. The table and chairs have been reduced to rubble and ash. What were once illuminated stained-glass windows, now irreparably shattered, reveal the shadowy darkness behind them. The former splendor of the chamber has become nothing but a memory - a fragile one, soon to be forgotten.
-		
+
 		This room is no longer host to any further truths and memory tells her that this chamber holds no more secrets, no more reason to tarry idly among its polygeometric surfaces, infinitely dividing into unseen dimensions like some crazed fractal dream.*
 		(A#Return to the Awakening Chamber){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X011!DESCRIPTION!}
 	[KABU!SANCTUARY!MATHETIA!9.901!DESCRIPTION!/]
@@ -3952,17 +3952,17 @@ MATHETIA
 
 
 _____________________________
-STAR BRIDGE	
+STAR BRIDGE
 	[/KABU!SANCTUARY!STAR BRIDGE!0.X000!DESCRIPTION!]
 		|^12406:KABU!SANCTUARY!STAR BRIDGE!0.500!DESCRIPTION!|
 		*Eidos is on a bridge uniting cliff faces across a canyon. Far below she can make out the dried out bed of what must have once been a great river - the melancholy fate of a force that once carved canyons: to vanish into obscurity.
-		
+
 		Down in the canyon, she spots a gargantuan, gold-plated structure blocking passage to the other side of the canyon floor. On one side of the bridge, in the distance, is the entrance to a cave, and on the opposite end is the Antechamber.*
 		(A#Enter to the Antechamber){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
 		(B#Enter the cave){B:0,KABU!DAWN FORTRESS!CAVERN!0.000!DESCRIPTION!}
 		(F#Attempt to leap off){F:1,KABU!WASTELAND!CRESCENT CANYON!1.X000!DESCRIPTION!}
 	[KABU!SANCTUARY!STAR BRIDGE!0.X000!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!STAR BRIDGE!0.500!DESCRIPTION!]
 		||
 		*Eidos walks out and is immediately confronted with the contorted mess of twisted metal that was the portcullis. Cautiously, ever so cautiously, Eidos crawls her way over the unsteady and knotted portcullis, nearly falling over the side of the bridge a number of times.*
@@ -3972,7 +3972,7 @@ STAR BRIDGE
 	[/KABU!SANCTUARY!STAR BRIDGE!0.501!DESCRIPTION!]
 		||
 		*After great effort, she surmounts the obstacle without incident, finding herself upon a bridge uniting cliff faces across a canyon. Far below she can make out the dried out bed of what must have once been a great river - the melancholy fate of a force that once carved canyons: to vanish into obscurity.
-		
+
 		Down in the canyon, she spots a gargantuan, gold-plated structure blocking passage to the other side of the canyon floor. On one side of the bridge, in the distance, is the entrance to a cave, and on the opposite end is the Antechamber.*
 		(A#Enter to the Antechamber){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
 		(B#Enter the cave){B:0,KABU!DAWN FORTRESS!CAVERN!0.000!DESCRIPTION!}
@@ -3986,56 +3986,56 @@ STAR BRIDGE
 		(A#Enter the Antechamber){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
 		(B#Return towards the cave){B:0,KABU!DAWN FORTRESS!CAVERN!0.000!DESCRIPTION!}
 	[KABU!SANCTUARY!STAR BRIDGE!1.X000!DESCRIPTION!/]
-	
+
 >>>Portcullis exploded (12406)<<<
 	[/KABU!SANCTUARY!STAR BRIDGE!1.X500!DESCRIPTION!]
 		|^12406:KABU!SANCTUARY!STAR BRIDGE!2.000!DESCRIPTION!|
 		*Emerging form the caverns beneath the Dawn Fortress, Eidos arrives at the Star Bridge. Glancing north and skywards, she spots the far-lengthier bridge connecting Tambul and the Dawn Fortress, and gazing down from there, the a massive bone pile beneath it.*
 		(A#...){A:0,KABU!SANCTUARY!STAR BRIDGE!1.501!DESCRIPTION!}
 	[KABU!SANCTUARY!STAR BRIDGE!1.X500!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!STAR BRIDGE!1.501!DESCRIPTION!]
 		||
 		*But far more pressing matters are at hand, as Eidos hears echoes spewing forth from the cavern's maw - the sounds of hurried footsteps. If what Logira said can be trusted, the footfalls belong to those who mean Eidos and the Dazirans no goodwill...*
 		(A#Dash to the Antechamber){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
 	[KABU!SANCTUARY!STAR BRIDGE!1.501!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!STAR BRIDGE!2.000!DESCRIPTION!]
 		||
 		*Emerging form the caverns beneath the Dawn Fortress, Eidos arrives at the Star Bridge. Glancing north and skywards, she spots the far-lengthier bridge connecting Tambul and the Dawn Fortress, and gazing down from there, the a massive bone pile beneath it.*
 		(A#...){A:0,KABU!SANCTUARY!STAR BRIDGE!2.001!DESCRIPTION!}
 	[KABU!SANCTUARY!STAR BRIDGE!2.000!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!STAR BRIDGE!2.001!DESCRIPTION!]
 		||
 		*But far more pressing matters are at hand, as Eidos hears echoes spewing forth from the cavern's maw - the sounds of hurried footsteps. If what Logira said can be trusted, the footfalls belong to those who mean Eidos and the Dazirans no goodwill...*
 		(A#...){A:0,KABU!SANCTUARY!STAR BRIDGE!2.002!DESCRIPTION!}
 	[KABU!SANCTUARY!STAR BRIDGE!2.001!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!STAR BRIDGE!2.002!DESCRIPTION!]
 		||
 		*However, she is now confronted with the brutal reality of the unforgiving, twisted metal obstacle of her own making that lies near the entrance to the Antechamber. Safely surmounting it was no small feat - and that was without the added pressure of pursuers...*
 		(A#...){A:0,KABU!SANCTUARY!STAR BRIDGE!2.003!DESCRIPTION!}
 	[KABU!SANCTUARY!STAR BRIDGE!2.002!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!STAR BRIDGE!2.003!DESCRIPTION!]
 		||
 		*Left with no choice, she begins to quickly scale it once more, hoping that she can make it over before the warriors arrive.*
 		(A#...){A:0,KABU!SANCTUARY!STAR BRIDGE!2.004!DESCRIPTION!}
 	[KABU!SANCTUARY!STAR BRIDGE!2.003!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!STAR BRIDGE!2.004!DESCRIPTION!]
 		||
 		*Her first shaky step sets the unstable structure in motion.*
 		(A#...){A:0,KABU!SANCTUARY!STAR BRIDGE!2.005!DESCRIPTION!}
 	[KABU!SANCTUARY!STAR BRIDGE!2.004!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!STAR BRIDGE!2.005!DESCRIPTION!]
 		||
 		*Now rocking to and fro, she takes her next step. A success! But one followed by the appearance of Tacribian warriors from the mouth of the cave. Spotting her, they rush forward with graceful leaps and obscene speed, like a predator locking on to its prey.*
 		(A#...){A:0,KABU!SANCTUARY!STAR BRIDGE!2.006!DESCRIPTION!}
 	[KABU!SANCTUARY!STAR BRIDGE!2.005!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!STAR BRIDGE!2.006!DESCRIPTION!]
 		||
 		*Her heart rate hastens with each step her malefactors take. Panic strikes as she clambers over the broken gate. She loses her footing and with it her balance. Tumbling to her side, she rolls uncontrollably. Foot over head and head over foot she falls right over the edge of the bridge, beginning her descent into the chasm below...*
@@ -4050,16 +4050,16 @@ THRONE ROOM
 >>>Reckoner shut down (12410)<<<
 	[/KABU!SANCTUARY!THRONE ROOM!0.X000!DESCRIPTION!]
 		|^12410:KABU!SANCTUARY!THRONE ROOM!0.400!DESCRIPTION!|
-		*Eidos walks into a sea of blackness. The echoes of her footfalls betray this chamber's great size, but its features and dimensions are as of yet unknowable. 
-		
+		*Eidos walks into a sea of blackness. The echoes of her footfalls betray this chamber's great size, but its features and dimensions are as of yet unknowable.
+
 		Before long, a pale light begins shining from sconces all about, slowly waxing until the area is thrown into a stark, though colorless relief.*
 		(A#...){A:0,KABU!SANCTUARY!THRONE ROOM!0.0000!DESCRIPTION!}
 	[KABU!SANCTUARY!THRONE ROOM!0.X000!DESCRIPTION!/]
-		
+
 	[/KABU!SANCTUARY!THRONE ROOM!0.0000!DESCRIPTION!]
 		||
 		*Eidos stands in a massive domed chamber, a perfect cross-section of a hemisphere, nearly one hundred paces in diameter. The ceiling is of white stone, with many large panes of black glass embedded into its polished surface.
-		
+
 		The chamber itself is mostly featureless but for a single silver chair standing at its center. Two other passages lead from this room: one clearly blocked by an enormous door, the other a small, round drain, not even large enough to fit a child.*
 		(A#Sit upon the chair){A:0,KABU!SANCTUARY!THRONE ROOM!0.100!DESCRIPTION!}
 		(B#Leave the Throne Room){B:0,KABU!SANCTUARY!THRONE ROOM!0.X001!DESCRIPTION!}
@@ -4113,13 +4113,13 @@ THRONE ROOM
 		*As the voice speaks, images begin to appear in the darkened mirrors. The pane directly in front of her depicts a gargantuan chamber carved from white limestone. It is dominated by a huge black, metal sphere that is suspended over a vibrant, azure lake. The sphere slowly rotates on heavy axles mounted into the walls.*
 		(A#...){A:0,KABU!SANCTUARY!THRONE ROOM!0.201!DESCRIPTION!}
 	[KABU!SANCTUARY!THRONE ROOM!0.200!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!THRONE ROOM!0.201!DESCRIPTION!]
-		||	
+		||
 		*Elsewhere, a different glass displays a view of the Archives, though it must have been at an earlier time, as the two slain guards Eidos encountered previously are alive. Eidos sees a number of other figures walking about this place, reading from its many tomes and volumes. Yet another glass displays the very chamber in which Eidos sits. Here, the small round drain is being bored by individuals who seem to be wielding a concentrated flame from their bare hands.*
 		(A#...){A:0,KABU!SANCTUARY!THRONE ROOM!0.202!DESCRIPTION!}
 	[KABU!SANCTUARY!THRONE ROOM!0.201!DESCRIPTION!/]
-		
+
 	[/KABU!SANCTUARY!THRONE ROOM!0.202!DESCRIPTION!]
 		||
 		*Suddenly, all the images fade away...*
@@ -4131,7 +4131,7 @@ THRONE ROOM
 		*Suddenly flickering to life again, in one glass is an individual lying motionless upon a wooden table in the Workshop, while a ray of light seems to banish the skin from his very body. Another depicts a shadowy figure wielding a glowing emerald blade as it leaps into the Archive and slays the two guards before vanishing from view. A third displays hundreds of faceless creatures marching behind a figure cloaked in blue. They are led through the Throne Room and into the large archway at the other end.*
 		(A#...){A:0,KABU!SANCTUARY!THRONE ROOM!0.X204!DESCRIPTION!}
 	[KABU!SANCTUARY!THRONE ROOM!0.203!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!THRONE ROOM!0.X204!DESCRIPTION!]
 		|@:KABU!SANCTUARY!THRONE ROOM!0.300!DESCRIPTION!|
 		*Finally, the central glass depicts the black metal orb spinning with blinding speed, now shifting tint from black, to brown, to orange, to yellow. Ever-accelerating, the violently whirling sphere finally metamorphoses to a blinding white before a flash of blue light ends the vision.*
@@ -4144,7 +4144,7 @@ THRONE ROOM
 		*The voice fades away. Looking over, Eidos sees that the Glyph's light in the stone column is fading with it. In sympathy, all the lights in the chamber dim.*
 		(A#...){A:0,KABU!SANCTUARY!THRONE ROOM!0.X301!DESCRIPTION!}
 	[KABU!SANCTUARY!THRONE ROOM!0.300!DESCRIPTION!/]
-		
+
 >>>Reckoner opened the hall of servants (12409)<<<
 	[/KABU!SANCTUARY!THRONE ROOM!0.X301!DESCRIPTION!]
 		|^12409:KABU!SANCTUARY!THRONE ROOM!0.302!DESCRIPTION!|
@@ -4157,7 +4157,7 @@ THRONE ROOM
 		*Having successfully completed its final task, the throne dies. Inanimate now as all its mineral brethren, it finally rests in peace...*
 		(A#...){A:0,KABU!SANCTUARY!THRONE ROOM!0.303!DESCRIPTION!}
 	[KABU!SANCTUARY!THRONE ROOM!0.302!DESCRIPTION!/]
-	
+
 	[/KABU!SANCTUARY!THRONE ROOM!0.303!DESCRIPTION!]
 		||
 		*But the effects of this final task are only felt as the massive stone door blocking one of the exits begins to fold in on itself. First in half lengthwise, then widthwise, ever condensing, until it appears to have completely vanished from sight, leaving unobstructed the path it once protected.*
@@ -4171,7 +4171,7 @@ THRONE ROOM
 	[KABU!SANCTUARY!THRONE ROOM!0.400!DESCRIPTION!/]
 
 
-	
+
 RECKONER
 >>>Learned tongues glyph (12303)<<<
 	[/KABU!SANCTUARY!THRONE ROOM!0.X000!RECKONER!]
@@ -4179,7 +4179,7 @@ RECKONER
 		*"Evirh. Otiet ei eol lapaikal. Ne atunnist piirenrakenneteine sisikomprom."*
 		(A#"..."){A:0,KABU!SANCTUARY!THRONE ROOM!0.X001!RECKONER!}
 	[KABU!SANCTUARY!THRONE ROOM!0.X000!RECKONER!/]
-	
+
 	[/KABU!SANCTUARY!THRONE ROOM!0.X001!RECKONER!]
 		|@:KABU!SANCTUARY!THRONE ROOM!1.X000!RECKONER!|
 		*"Atuseim Memri antoimint ei ne tatuen."*
@@ -4198,7 +4198,7 @@ RECKONER
 		(A#End){A:0,KABU!SANCTUARY!THRONE ROOM!9999.X9999!RECKONER!}
 	[KABU!SANCTUARY!THRONE ROOM!0.899!RECKONER!/]
 
->>>Learned tongues glyph (12303)<<<	
+>>>Learned tongues glyph (12303)<<<
 	[/KABU!SANCTUARY!THRONE ROOM!1.X000!RECKONER!]
 		|^12303:KABU!SANCTUARY!THRONE ROOM!1.000!RECKONER!|
 		*"Akmi on es et staminus?"*
@@ -4320,7 +4320,7 @@ WINDING STAIR
 	[/KABU!SANCTUARY!WINDING STAIR!0.001!DESCRIPTION!]
 		||
 		*The air here is dry and stale, unperturbed long enough to stratify by density. The thickest of it clusters at the bottom, eating away all intrusions of light.
-		
+
 		A thin layer of dust coating the stairs suggests that Eidos' newly added footsteps are the first to disrupt the balance in quite some time. Though the steps may not have seen any recent use, they are in a state far from disrepair. Brushing away a swath of the dust with her hand, Eidos sees the floors have been carefully polished, showing no cracks, no threat of crumbling. It is as though they were only recently crafted. Rich marble veins of geometric designs carve their way through this landing, though only humble shapes adorn the individual steps leading to and from it.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!0.002!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!0.001!DESCRIPTION!/]
@@ -4390,7 +4390,7 @@ WINDING STAIR
 	[/KABU!SANCTUARY!WINDING STAIR!01.001!DESCRIPTION!]
 		||
 		*Distracted by these thoughts, she fails to realize her body has come to a halt. To her left an anomaly appears in the otherwise perfectly uniform, albeit rough, surface of the wall. It appears she has arrived at a doorway.
-		
+
 		Peeking inside, she notes that the area is host to a dim light source of its own, thus revealing the silhouettes of the tables and shelves housed within.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!01.002!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!01.001!DESCRIPTION!/]
@@ -4451,7 +4451,7 @@ WINDING STAIR
 	[/KABU!SANCTUARY!WINDING STAIR!04.000!DESCRIPTION!]
 		||
 		*Her descent brings Eidos ever further from the light, and ever deeper into the inky void. In these depths the luminescent limbs of the sun weaken considerably, giving way finally to an unrelenting shadowspace.
-		
+
 		Wading through the darkness, taking one tentative step after the next, she begins to lose sight of the steps beneath her feet, eventually losing sight of the very feet beneath her legs. Walking on a coal-black cloud, wondering if the next step will be her last, she paws at each coming step with great focus.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!04.X001!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!04.000!DESCRIPTION!/]
@@ -4478,11 +4478,11 @@ WINDING STAIR
 		(B#Climb back up the stairwell){B:0,KABU!SANCTUARY!WINDING STAIR!03.100!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!04.100!DESCRIPTION!/]
 
->>>Eidos sees the DKR vision (12407)<<<	
+>>>Eidos sees the DKR vision (12407)<<<
 	[/KABU!SANCTUARY!WINDING STAIR!05.000!DESCRIPTION!]
 		||
 		*Her arms swing back and forth, preparing her body for the jump. Her legs coordinate their squat with the swing. And soon, she leaps. The mark of bravery? Insanity? Or... Awareness?
-		
+
 		Her hands reach out for the landing as she nears it, but it is indeed much too distant, and soon it seems to rise upwards, towards the ceiling and away from her desperate hands.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!05.001!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!05.000!DESCRIPTION!/]
@@ -4576,7 +4576,7 @@ Subsequent times
     [/KABU!SANCTUARY!WORKSHOP!0.X0000!DESCRIPTION!]
         |^12303:KABU!SANCTUARY!WORKSHOP!0.0000!DESCRIPTION!|
         *Eidos stands again in the Workshop. Sconces - casting their dim, yellow light - give the shadows little recourse but to flee. Grinding wheels, sketches, diagrams, tools, scraps of metal and pieces of stone seem to indicate that this place was once used for some kind of craft. There are also inert crystals and shards of glass here and there, but most seem unremarkable.
-		
+
 		Further on, are the familiar wooden tables and among them the crimson crystal. At the opposite end of the workshop is the staircase that descends deeper into the bowels of the building.*
         (A#Examine the items in the room){A:0,KABU!SANCTUARY!WORKSHOP!0.X0001!DESCRIPTION!}
         (B#Descend the staircase){B:0,KABU!SANCTUARY!WINDING STAIR!03.000!DESCRIPTION!}
@@ -4586,7 +4586,7 @@ Subsequent times
     [/KABU!SANCTUARY!WORKSHOP!0.0000!DESCRIPTION!]
         ||
         *Eidos stands again in the Workshop. Sconces - casting their dim, yellow light - give the shadows little recourse but to flee. Grinding wheels, sketches, diagrams, tools, scraps of metal and pieces of stone seem to indicate that this place was once used for some kind of craft. There are also inert crystals and shards of glass here and there, but most seem unremarkable.
-		
+
 		Further on, are the familiar wooden tables and among them the broken remains of the crimson crystal. At the opposite end of the workshop is the staircase that descends deeper into the bowels of the building.*
         (A#Examine the items in the room){A:0,KABU!SANCTUARY!WORKSHOP!0.X0001!DESCRIPTION!}
         (B#Descend the staircase){B:0,KABU!SANCTUARY!WINDING STAIR!03.000!DESCRIPTION!}
@@ -4612,7 +4612,7 @@ Subsequent times
     [/KABU!SANCTUARY!WORKSHOP!0.1000!DESCRIPTION!]
         ||
         *Eidos takes up the crystal in her hands. It vibrates, humming at a nearly audible frequency. Soon, she can parse out a rhythmic pulse echoed by the inner light's motion. She stares into, enraptured; it stares back, dispassionate.
-		
+
 		A sudden shock. A dizzying blur of alien shapes and symbols whirl through her mind's eye. A hundred familiar voices speak thousands of incomprehensible words. Before long, the nature of the sounds seem to change, and Eidos slowly begins to recognize the identity of the speakers: without exception, they all speak with the singular and unmistakable voice of Eidos herself...*
         (A#Absorb crystal){A:0,KABU!SANCTUARY!WORKSHOP!9990.X12303!DESCRIPTION!}
         (F#Destroy the crystal){F:2,KABU!SANCTUARY!WORKSHOP!9990.X12408!DESCRIPTION!}
@@ -4621,7 +4621,7 @@ Subsequent times
     [/KABU!SANCTUARY!WORKSHOP!0.1001!DESCRIPTION!]
         ||
         *Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
-		
+
 		Executing the Techne of Extraction, she begins to draw the crystal's essence from it. At the acceptance of the crystal's energy into her Trueflesh, the meaning of the language becomes clear. Eidos has gained knowledge of a tome, and with it, awareness of the Script of Vanargand.*
 		(A#...){A:0,KABU!SANCTUARY!WORKSHOP!0.10010!DESCRIPTION!}
     [KABU!SANCTUARY!WORKSHOP!0.1001!DESCRIPTION!/]
@@ -4650,7 +4650,7 @@ Subsequent times
     [/KABU!SANCTUARY!WORKSHOP!0.1002!DESCRIPTION!]
         ||
         *The blast carves a satisfying path of destruction as it envelops Eidos in its warm embrace. Though when her body is hurled to and fro in the maelstrom, Luin, true to its word, protects her from harm as best it can. When the firestorm dies down, Eidos gets up and brushes the dust off her body.
-		
+
 		Looking out upon the fruit of her labor, she sees that the items in the room have been annihilated; the farside exit likewise has been blocked by an impenetrable wall of rubble. All that's left for her now is to return whence she came.*
         (A#Return to the Archives){A:0,KABU!SANCTUARY!ARCHIVES!0.X110!DESCRIPTION!}
     [KABU!SANCTUARY!WORKSHOP!0.1002!DESCRIPTION!/]
@@ -4809,7 +4809,7 @@ EVENT WRITERS
 		|12003:KABU!SANCTUARY!ARCHIVES!0.001!DESCRIPTION!|
 		*EVENT WRITER - Saw bodies*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!SANCTUARY!ARCHIVES!9990.X12003!DESCRIPTION!/]	
+	[KABU!SANCTUARY!ARCHIVES!9990.X12003!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12004!DESCRIPTION!]
 		|12004:KABU!SANCTUARY!MATHETIA!0.X000!DESCRIPTION!|
@@ -4863,13 +4863,13 @@ EVENT WRITERS
 		|12301:KABU!SANCTUARY!LUIN'S CHAMBER!0.909!DESCRIPTION!|
 		*EVENT WRITER - Got Luin blade*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!SANCTUARY!LUIN'S CHAMBER!9990.X12301-1!DESCRIPTION!/]	
+	[KABU!SANCTUARY!LUIN'S CHAMBER!9990.X12301-1!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!9990.X12301-2!DESCRIPTION!]
 		|12301:KABU!SANCTUARY!LUIN'S CHAMBER!11.006!DESCRIPTION!|
 		*EVENT WRITER - Got Luin blade*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!SANCTUARY!LUIN'S CHAMBER!9990.X12301-2!DESCRIPTION!/]	
+	[KABU!SANCTUARY!LUIN'S CHAMBER!9990.X12301-2!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!9990.X12302-2!DESCRIPTION!]
 		|12302:KABU!SANCTUARY!LUIN'S CHAMBER!11.009!DESCRIPTION!|
@@ -4995,7 +4995,7 @@ EVENT WRITERS
 		|12409:KABU!SANCTUARY!THRONE ROOM!1.501!RECKONER!|
 		*EVENT WRITER - Reckoner opens the hall of servants*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!SANCTUARY!THRONE ROOM!9990.X12409!RECKONER!/]	
+	[KABU!SANCTUARY!THRONE ROOM!9990.X12409!RECKONER!/]
 
 	[/KABU!SANCTUARY!THRONE ROOM!9990.X12410-1!RECKONER!]
 		|12410:KABU!SANCTUARY!THRONE ROOM!0.899!RECKONER!|
@@ -5031,13 +5031,13 @@ EVENT WRITERS
 		|12414:KABU!SANCTUARY!HALL OF SERVANTS!9990.X12415!DESCRIPTION!|
 		*EVENT WRITER - Seen Hall of Servants*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!SANCTUARY!HALL OF SERVANTS!9990.X12414-3!DESCRIPTION!/]	
+	[KABU!SANCTUARY!HALL OF SERVANTS!9990.X12414-3!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!HALL OF SERVANTS!9990.X12415!DESCRIPTION!]
 		|12415:KABU!WASTELAND!GATE OF AWARENESS!0.X000!DESCRIPTION!|
 		*EVENT WRITER - KABU!SANCTUARY!HALL OF SERVANTS!10.000!DESCRIPTION!*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!SANCTUARY!HALL OF SERVANTS!9990.X12415!DESCRIPTION!/]	
+	[KABU!SANCTUARY!HALL OF SERVANTS!9990.X12415!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!MATHETIA!9990.X12416!DESCRIPTION!]
 		|12416:KABU!SANCTUARY!MATHETIA!0.004!DESCRIPTION!|
@@ -5103,7 +5103,7 @@ EVENT WRITERS
 		|12307:KABU!SANCTUARY!ARCHIVES!0.303!DESCRIPTION!|
 		*EVENT WRITER - Resurrected the tree*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!SANCTUARY!ARCHIVES!9990.X12307!DESCRIPTION!/]	
+	[KABU!SANCTUARY!ARCHIVES!9990.X12307!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!ARCHIVES!9990.X12308!DESCRIPTION!]
 		|12308:KABU!SANCTUARY!ARCHIVES!1.302!DESCRIPTION!|
@@ -5116,7 +5116,7 @@ EVENT WRITERS
 		*EVENT WRITER - Seen murals on indigo door*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12422-1!DESCRIPTION!/]
-    
+
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12422-2!DESCRIPTION!]
 		|12422:KABU!SANCTUARY!AWAKENING CHAMBER!1.0310!DESCRIPTION!|
 		*EVENT WRITER - Seen murals on indigo door*
@@ -5146,20 +5146,6 @@ EVENT WRITERS
 		*EVENT WRITER - Revived portcullis crystal*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!SANCTUARY!ANTECHAMBER!9990.X17900-3!DESCRIPTION!/]
-
-
-
-
-________________________________
-FIGHTING WORDS
-	[/KABU!SANCTUARY!HALL OF SENTRIES!9992.X0049!SENTRY!]
-		|@:KABU!SANCTUARY!HALL OF SENTRIES!1.X000!SENTRY!|
-		**
-		(A#FIGHT){A:0,FIGHT}
-	[KABU!SANCTUARY!HALL OF SENTRIES!9992.X0049!SENTRY!/]
-
-
-
 
 
 ____________________________________
@@ -5253,3 +5239,17 @@ NPC SWITCHERS
 		*DESCRIPTION FROM SENTRY*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!SANCTUARY!HALL OF SENTRIES!9999.X9999!SENTRY!/]
+
+
+
+________________________________
+FIGHTING WORDS
+	[/KABU!SANCTUARY!HALL OF SENTRIES!9992.X0049!SENTRY!]
+		|@:KABU!SANCTUARY!HALL OF SENTRIES!1.X000!SENTRY!|
+		**
+		(A#FIGHT){A:0,FIGHT}
+	[KABU!SANCTUARY!HALL OF SENTRIES!9992.X0049!SENTRY!/]
+
+
+
+
