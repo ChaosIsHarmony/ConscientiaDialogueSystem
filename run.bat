@@ -1,3 +1,3 @@
 #!/bin/bash
-java -classpath .\bin cds.Main
+java -classpath libs/gson-2.8.8.jar;.\bin cds.Main
 pause

@@ -1,8 +1,12 @@
 {
+    "config_strategy": "conscientia",
+    "parser_strategy": "json",
+    "renderer_strategy": "console",
+    "dialogue_processor_strategy": "conscientia",
     "text": {
         "base": "TextFiles",
         "json": {
-            "base": "JSON",
+            "base": "Json",
             "dialogue": {
                 "base": "Dialogue",
                 "book_of_biracul": {

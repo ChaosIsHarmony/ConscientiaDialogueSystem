@@ -9,12 +9,11 @@ import java.nio.file.Paths;
 
 
 public class DesktopFileIO implements IFileIO {
-	
+
 	public JsonObject readJsonFileToJsonObject(String filename) throws FileNotFoundException {
 		try {
 			JsonParser parser = new JsonParser();
 			Object obj = parser.parse(new FileReader(filename));
-			System.out.println(obj);
 			JsonObject jsonObject = (JsonObject) obj;
 			return jsonObject;
 		} catch (Exception e) {
@@ -32,11 +31,11 @@ public class DesktopFileIO implements IFileIO {
 			return null;
 		}
 	}
-	
-	public void writeStringToFile(String data, String filepath) { 
+
+	public void writeStringToFile(String data, String filepath) {
 		// TODO implement writing
 	}
-	
-	
-	
+
+
+
 }
