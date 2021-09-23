@@ -3,44 +3,109 @@
     "parser_strategy": "json",
     "renderer_strategy": "console",
     "dialogue_processor_strategy": "conscientia",
+    "save_files": {
+        "base": "SaveFiles",
+        "filenames": [
+            "consc1"
+        ]
+    },
     "text": {
         "base": "TextFiles",
-        "json": {
-            "base": "Json",
-            "dialogue": {
-                "base": "Dialogue",
-                "book_of_biracul": {
+        "dialogue": {
+            "base": "Dialogue",
+            "books": [
+                {
                     "base": "BookOfBiracul",
-                    "empyrean": "BIRACUL_THE_EMPYREAN"
+                    "files": [
+                        "BIRACUL_THE_EMPYREAN"
+                    ]
                 },
-                "book_of_eidos": {
+                {
                     "base": "BookOfEidos",
-                    "canyon": "EIDOS_CANYON",
-                    "dawn_fortress": "EIDOS_DAWN_FORTRESS",
-                    "dazir": "EIDOS_DAZIR",
-                    "sanctuary": "EIDOS_SANCTUARY",
-                    "tambul": "EIDOS_TAMBUL",
-                    "urruk": "EIDOS_URRUK",
-                    "wasteland": "EIDOS_WASTELAND",
-                    "wellspring": "EIDOS_WELLSPRING",
-                    "wilderness": "EIDOS_WILDERNESS"
+                    "files": [
+                        "EIDOS_CANYON",
+                        "EIDOS_DAWN_FORTRESS",
+                        "EIDOS_DAZIR",
+                        "EIDOS_SANCTUARY",
+                        "EIDOS_TAMBUL",
+                        "EIDOS_URRUK",
+                        "EIDOS_WASTELAND",
+                        "EIDOS_WELLSPRING",
+                        "EIDOS_WILDERNESS"
+                    ]
+                },
+                {
+                    "base": "BookOfRikharr",
+                    "files": [
+                        "RIKHARR_CISTERN",
+                        "RIKHARR_DAZIL",
+                        "RIKHARR_JENOWIN_PLAIN",
+                        "RIKHARR_TACRIVA",
+                        "RIKHARR_TAMBUL",
+                        "RIKHARR_WASTELAND"
+                    ]
+                },
+                {
+                    "base": "BookOfThetian",
+                    "files": [
+                        "THETIAN_VALONHEIM"
+                    ]
+                },
+                {
+                    "base": "BookOfTorma",
+                    "files": [
+                       "TORMA_ARCHIVES",
+                       "TORMA_HALLS_OF_THE_ADEPTI",
+                       "TORMA_THE_NAVE",
+                       "TORMA_THE_PATH_OF_DISCIPLINE",
+                       "TORMA_THE_THRESHOLD",
+                       "TORMA_THE_VAULT",
+                       "TORMA_THE_UNDERHALLS"
+                    ]
+                },
+                {
+                    "base": "BookOfWulfias",
+                    "files": [
+                       "WULFIAS_SLUMS"
+                    ]
+                },
+                {
+                    "base": "Mindscape",
+                    "files": [
+                       "MIND_INTERSTICE",
+                       "MIND_MINDSCAPE",
+                       "MIND_NETHER_EDGE",
+                       "MIND_PALACE_OF_MEMORY",
+                       "MIND_THE_BOOKS"
+                    ]
                 }
-            },
-            "misc": {
-                "base": "Misc"
-            },
-            "multichecker": {
-                "base": "Multicheckers"
-            },
-            "non_dialogue_text": {
-                "base": "NonDialogueText"
-            },
-            "structural": {
-                "base": "Structural"
-            },
-            "templates": {
-                "base": "Templates"
-            }
+            ]
+        },
+        "misc": {
+            "base": "Misc"
+        },
+        "multichecker": {
+            "base": "Multicheckers"
+        },
+        "non_dialogue_text": {
+            "base": "NonDialogueText"
+        },
+        "structural": {
+            "base": "Structural"
+        },
+        "templates": {
+            "base": "Templates",
+            "files": [
+
+            ]
         }
+    },
+    "start": {
+        "biracul": "MIND!THE BOOK OF BIRACUL!THE BEGINNING!",
+        "eidos": "MIND!THE BOOK OF EIDOS!THE BEGINNING!",
+        "rikharr": "MIND!THE BOOK OF RIKHARR!THE BEGINNING!",
+        "thetian": "MIND!THE BOOK OF THETIAN!THE BEGINNING!",
+        "torma": "MIND!THE BOOK OF TORMA!THE BEGINNING!",
+        "wulfias": "MIND!THE BOOK OF WULFIAS!THE BEGINNING!"
     }
 }

@@ -123,6 +123,7 @@ def convert_events(eventsMao: List[str]) -> str:
     return eventsJson
 
 
+
 def escape_special_chars(text: str) -> str:
     '''
     Replaces special characters with properly formatted JSON versions.

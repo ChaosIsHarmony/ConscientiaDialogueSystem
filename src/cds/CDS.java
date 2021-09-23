@@ -5,9 +5,12 @@ import cds.entities.GameData;
 
 public class CDS {
 
+	ConfigManager configManager;
 	GameData gameData;
 
-	public CDS(ConfigManager configManager) {
+	public CDS(ConfigManager configManager, GameData gameData) {
+		this.configManager = configManager;
+		this.gameData = gameData;
 	}
 
 	public void update() {

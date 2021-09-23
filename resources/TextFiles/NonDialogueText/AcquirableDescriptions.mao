@@ -1,4 +1,4 @@
-_________GLYPHS_________
+__GLYPHS__
 [/1]
 	*GLYPH OF FENRIR
 	
@@ -178,7 +178,7 @@ _________GLYPHS_________
 
 
 
-_________TOMES_________
+__TOMES__
 [/50]
 	*THE ART OF COMBAT
 	
@@ -1264,7 +1264,7 @@ FLESH OUT???
 
 
 
-_____________MINDSCAPE NPCs_________
+__MIND NPCs__
 [/100]
 	*FENRIR*
 	@Fenrir@

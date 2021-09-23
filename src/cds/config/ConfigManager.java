@@ -1,3 +1,17 @@
+/*
+ * ConfigManager.java
+ *
+ * Responsible for managing system-specific & game-specific configurations.
+ * Made to be easily extensible with different strategies for:
+ * 	- IO
+ * 	- Rendering
+ * 	- GameConfig
+ * 	- DialogueProcessors
+ *
+ * Class Responsibilities:
+ *	- Load/Store all strategies for use in-game
+ *
+ */
 package cds.config;
 
 import cds.io.IFileIO;
@@ -15,16 +29,16 @@ public class ConfigManager {
 	IConfig config;
 	IRenderer renderer;
 	IDialogueProcessor dialogueProcessor;
-	final String CONFIG_FILENAME = "resources\\config.json";
 
-	public ConfigManager() {
-		fileio = FileIOManager.createFileIO();
-		loadConfiguration();
+	public ConfigManager(String fileioType, String configFilepath) {
+		fileio = FileIOManager.createFileIO(fileioType);
+		loadConfiguration(configFilepath);
 	}
 
-	private void loadConfiguration() {
+	private void loadConfiguration(String configFilepath) {
 		try {
-			JsonObject configData = fileio.readJsonFileToJsonObject(CONFIG_FILENAME);
+			// load config file
+			JsonObject configData = fileio.readJsonFileToJsonObject(configFilepath);
 
 			// load all configurable strategies
 			config = determineConfigStrategy(configData);
