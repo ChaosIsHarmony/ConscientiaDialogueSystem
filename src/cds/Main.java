@@ -11,7 +11,7 @@ public class Main {
 		ConfigManager configManager = new ConfigManager(fileioType, configFilepath);
 
 		// TODO: Query for which saved game to load, or load new game
-		GameData gameData = new GameData();
+		GameData gameData = new GameData(configManager);
 
 
 		// Start game

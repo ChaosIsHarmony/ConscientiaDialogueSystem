@@ -1,27 +1,29 @@
-currentLocation:???,
+{CURRENT LOCATION}
+|current_location:, Player's current location
+{CURRENT LOCATION}
 
 {CURRENT NPC}
-9999
+|current_npc:9999, Current speaker
 {CURRENT NPC}
 
-{MINDSCAPE}
-|KABU!SANCTUARY!AWAKENING CHAMBER!:9999,
-{MINDSCAPE}
+{MINDSCAPE LOCATION}
+|location_before_entering:KABU!SANCTUARY!AWAKENING CHAMBER!, Player's location before entering the mindscape
+{MINDSCAPE LOCATION}
 
-{ACQUIRABLE}
-{ACQUIRABLE}
+{MINDSCAPE NPC}
+|current_mindscape_npc:9999, Current speaker in the mindscape
+{MINDSCAPE NPC}
+
+{VOLATILE ACQUIRABLE}
+|volatile_acquirables:[], List of all acquirables obtained this playthrough (only volatile)
+{VOLATILE ACQUIRABLE}
 
 {AWARENESS}
-0
+|awareness:0, Player's level of awareness
 {AWARENESS}
 
 {PERSONALITY}
-A:0,
-B:0,
-C:0,
-D:0,
-E:0,
-F:0,
+|personality_affinity:[0,0,0,0,0,0], Player's personality affinities
 {PERSONALITY}
 
 {TRIGGERED EVENTS}
@@ -191,7 +193,7 @@ enclave
 |2103:false, Wrote torma's final words (per)
 |2104:false, Coming from FoD to SC
 |2105:false, Saw the truth of the Scriptorium (per)
-|2016:false, Been to Seat of the True Archon
+|2106:false, Been to Seat of the True Archon
 
 kavu
 |3000:false, Rik vision of Biracul
@@ -589,22 +591,22 @@ wasteland + urruk
 |16027:false, Ormenos beat you in the Wasteland (per)
 |16028:false, Awareness Glyph evaporates sealing Hel
 |16029:false, Collected Salt Forest Tome (per)
-|16030:false, 
-|16031:false, 
-|16032:false, 
-|16033:false, 
-|16034:false, 
-|16035:false, 
-|16036:false, 
-|16037:false, 
-|16038:false, 
-|16039:false, 
-|16040:false, 
-|16041:false, 
-|16042:false, 
-|16043:false, 
-|16044:false, 
-|16045:false, 
+|16030:false,
+|16031:false,
+|16032:false,
+|16033:false,
+|16034:false,
+|16035:false,
+|16036:false,
+|16037:false,
+|16038:false,
+|16039:false,
+|16040:false,
+|16041:false,
+|16042:false,
+|16043:false,
+|16044:false,
+|16045:false,
 |16046:false, Chose to look at the statuette
 |16047:false, Destroyed Salt Forest crystal
 |16048:false, Came from Salt Forest to Stilled Sand Crater

@@ -67,59 +67,68 @@ def escape_special_chars(text: str) -> str:
 
 
 
-def convert_glyphs_block_to_json(block: List[str]) -> str:
+def convert_acq_block_to_json(block: List[str]) -> str:
     # parse id
     id_start = block[0].find('/')+1
     id_end = block[0].find(']')
     id_num = block[0][id_start:id_end]
-    glyphJson = "\"" + id_num + "\": {"
+    acqJson = "\"" + id_num + "\": {"
+
     # parse title
     title_start = block[1].find('*')+1
-    title_end = block[4].find('*')
-    title = block[1][title_start:] + block[3][block[3].find('\t')+1:] + block[4][block[4].find('\t')+1:title_end]
+    title = block[1][title_start]
+    ind = 2
+    while '*' not in block[ind]:
+        title += block[ind][block[ind].find('\t')+1:]
+        ind += 1
+    title += block[ind][:block[ind].find('*')]
     title = escape_special_chars(title)
-    glyphJson += "\"title\": \"" + title + "\","
+    acqJson += "\"title\": \"" + title + "\","
+
     # parse subtitle
-    subtitle_start = block[5].find('@')+1
-    subtitle_end = block[5].find('@', subtitle_start)
-    subtitle = block[5][subtitle_start:subtitle_end]
-    glyphJson += "\"subtitle\": \"" + subtitle + "\","
+    SUBTITLE = ind + 1
+    subtitle_start = block[SUBTITLE].find('@')+1
+    subtitle_end = block[SUBTITLE].find('@', subtitle_start)
+    subtitle = block[SUBTITLE][subtitle_start:subtitle_end]
+    acqJson += "\"subtitle\": \"" + subtitle + "\","
+
     # parse img
-    img_start = block[6].find('$')+1
-    img_end = block[6].find('$', img_start)
-    img = block[6][img_start:img_end]
-    glyphJson += "\"img\": \"" + img + "\","
+    IMG = ind + 2
+    img_start = block[IMG].find('$')+1
+    img_end = block[IMG].find('$', img_start)
+    img = block[IMG][img_start:img_end]
+    acqJson += "\"img\": \"" + img + "\","
+
     # parse description
-    desc_start = block[7].find('#')+1
-    desc_end = block[-2].find('#')
-    desc = block[7][desc_start:]
-    ind = 8
+    DESC = ind + 3
+    desc_start = block[DESC].find('#')+1
+    desc = block[DESC][desc_start:]
+    ind = DESC + 1
     while '#' not in block[ind]:
         desc += block[ind]
         ind += 1
-    desc += block[-2][:desc_end]
+    desc += block[ind][:block[ind].find('#')]
     desc = escape_special_chars(desc)
-    glyphJson += "\"description\": \"" + desc + "\""
-    glyphJson += "}, "
+    acqJson += "\"description\": \"" + desc + "\""
+    acqJson += "}, "
 
-    return glyphJson
+    return acqJson
 
 
 
-def convert_glyphs(glyphsMao: List[str]) -> str:
+def convert_acqs(acqsMao: List[str]) -> str:
     # aggregate into address-specific, self-contained blocks
-    glyphsBlocks = parse_blocks(glyphsMao)
+    acqsBlocks = parse_blocks(acqsMao)
     # convert to JSON
-    glyphsJson = "{"
-    for glyphsBlock in glyphsBlocks:
-        glyphsJson += convert_glyphs_block_to_json(glyphsBlock)
-    glyphsJson = glyphsJson[:-2] + "}" # trim trailing comma
+    acqsJson = "{"
+    for acqsBlock in acqsBlocks:
+        acqsJson += convert_acq_block_to_json(acqsBlock)
+    acqsJson = acqsJson[:-2] + "}" # trim trailing comma
 
-    print(glyphsJson[750:775])
     # check for accuracy
-    check_for_accuracy(glyphsJson)
+    #  check_for_accuracy(acqsJson)
 
-    return glyphsJson
+    return acqsJson
 
 
 
@@ -138,8 +147,18 @@ def convert_file(filepath: str) -> None:
 
     glyphsMao, tomesMao, mindNpcsMao = parse_sections(contents)
 
-    glyphsJson = convert_glyphs(glyphsMao)
+    glyphsJson = convert_acqs(glyphsMao)
+    tomesJson = convert_acqs(tomesMao)
+    mindNpcsJson = convert_acqs(mindNpcsMao)
 
+    jsonStr = "{\"glyphs\": " + glyphsJson + ", \"tomes\": " + tomesJson + ", \"mindNpcs\": " + mindNpcsJson + "}"
+
+    # check for accuracy
+    #  check_for_accuracy(jsonStr)
+
+    jsonFilepath = filepath[:filepath.find('.')] + ".json"
+    with open(jsonFilepath, 'w') as f:
+        json.dump(jsonStr, f)
 
 
 if __name__ == "__main__":
