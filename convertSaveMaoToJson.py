@@ -46,6 +46,23 @@ def escape_special_chars(text: str) -> str:
 
 
 
+def parse_triggered_events(triggeredEvents: List[str]) -> str:
+    triggeredEventsJson = "\"triggered_events\": ["
+    for event in triggeredEvents:
+        if '|' not in event:
+            continue
+
+        eventJson = "{"
+        event_id = event[event.find('|')+1:event.find(':')]
+        desc = event[event.find(',')+2:event.find('\n')]
+        eventJson += "\"" + event_id +"\": { \"value\": false, \"description\": \"" + desc +"\"}}, "
+        triggeredEventsJson += eventJson
+
+    triggeredEventsJson = triggeredEventsJson[:-2] + "]"
+
+    return triggeredEventsJson
+
+
 
 def parse_sections(contents: List[str]) -> List[List[str]]:
     sections = []
@@ -78,7 +95,7 @@ def convert_file(filepath: str) -> None:
     currentNpcJson = "\"current_npc\": { \"id\": 9999, \"description\": \"Current interlocutor\"}, "
 
     # parse current mindscape location
-    mindscapeCurrentLocationJson = "\"location_before_entering\": { \"address\": \"\", \"description\": \"" + sections[0][1][sections[0][1].find(',')+2:sections[0][1].find('\n')] + "\"}, "
+    mindscapeCurrentLocationJson = "\"location_before_entering\": { \"address\": \"\", \"description\": \"" + sections[2][1][sections[0][1].find(',')+2:sections[2][1].find('\n')] + "\"}, "
 
     # parse current mindscape npc
     mindscapeCurrentNpcJson = "\"mindscape_current_npc\": { \"id\": 9999, \"description\": \"Current mindscape interlocutor\"}, "
@@ -91,15 +108,21 @@ def convert_file(filepath: str) -> None:
 
     # parse personality affinities
     personalityAffinitiesJson = "\"personality_affinities\": { \"affinities\": [0,0,0,0,0,0], \"description\": \"Player's personality affinity values\" }, "
+
     # parse triggered events
+    triggeredEventsJson = parse_triggered_events(sections[7])
 
     # combine it all
-    jsonStr = "{" + currentLocationJson + currentNpcJson + mindscapeCurrentLocationJson + mindscapeCurrentNpcJson + volatileAcquirablesJson + awarenessJson + personalityAffinitiesJson + "}"
+    jsonStr = "{" + currentLocationJson + currentNpcJson + mindscapeCurrentLocationJson + mindscapeCurrentNpcJson + volatileAcquirablesJson + awarenessJson + personalityAffinitiesJson + triggeredEventsJson + "}"
 
     # check for accuracy
     check_for_accuracy(jsonStr)
 
     # dump to file
+    jsonFilepath = filepath[:filepath.find('.')] + ".json"
+    with open(jsonFilepath, 'w') as f:
+        json.dump(jsonStr, f)
+
 
 
 
