@@ -9,18 +9,20 @@ public class GameData {
 	private Area currentArea;
 
 	// New Game Constructor
-	public GameData(ConfigManager configManager) {
+	public GameData(ConfigManager configManager, String startingBook) {
 		this.configManager = configManager;
-		createNewSaveFile();
+		createNewSaveFile(startingBook);
 	}
 
 	// Saved Game Constructor
-	public GameData(ConfigManager configManager, String saveFilepath) {
+	public GameData(ConfigManager configManager, String startingBook, String saveFilepath) {
 		this.configManager = configManager;
 		this.saveFilepath = saveFilepath;
 	}
 
-	private void createNewSaveFile() {
+	private void createNewSaveFile(String startingBook) {
+		// create new save file
+		saveFilepath = configManager.getConfig().addNewSaveFile(startingBook);
 
 	}
 

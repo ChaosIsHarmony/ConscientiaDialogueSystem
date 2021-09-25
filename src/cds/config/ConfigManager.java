@@ -56,7 +56,7 @@ public class ConfigManager {
 		String configStrategy = configData.get("config_strategy").getAsString();
 
 		if (configStrategy.equals("conscientia"))
-			return new ConscientiaConfig();
+			return new ConscientiaConfig(this);
 		else
 			return null;
 	}

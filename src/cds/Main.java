@@ -1,6 +1,7 @@
 package cds;
 
 import cds.config.ConfigManager;
+import cds.entities.GameData;
 
 public class Main {
 
@@ -11,7 +12,8 @@ public class Main {
 		ConfigManager configManager = new ConfigManager(fileioType, configFilepath);
 
 		// TODO: Query for which saved game to load, or load new game
-		GameData gameData = new GameData(configManager);
+		String startingBook = "eidos";
+		GameData gameData = new GameData(configManager, startingBook);
 
 
 		// Start game

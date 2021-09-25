@@ -5,9 +5,8 @@
     "dialogue_processor_strategy": "conscientia",
     "save_files": {
         "base": "SaveFiles",
-        "filenames": [
-            "consc1"
-        ]
+        "n_files": 0,
+        "filenames": []
     },
     "text": {
         "base": "TextFiles",
@@ -96,7 +95,9 @@
         "templates": {
             "base": "Templates",
             "files": [
-
+                "NpcsSaveTemplate",
+                "PlayerSaveTemplate",
+                "UniSaveTemplate"
             ]
         }
     },
