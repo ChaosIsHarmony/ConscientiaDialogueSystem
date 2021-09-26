@@ -95,7 +95,7 @@ def convert_file(filepath: str) -> None:
     currentNpcJson = "\"current_npc\": { \"id\": 9999, \"description\": \"Current interlocutor\"}, "
 
     # parse current mindscape location
-    mindscapeCurrentLocationJson = "\"location_before_entering\": { \"address\": \"\", \"description\": \"" + sections[2][1][sections[0][1].find(',')+2:sections[2][1].find('\n')] + "\"}, "
+    mindscapeCurrentLocationJson = "\"location_before_entering\": { \"address\": \"\", \"description\": \"" + sections[2][1][sections[2][1].find(',')+2:sections[2][1].find('\n')] + "\"}, "
 
     # parse current mindscape npc
     mindscapeCurrentNpcJson = "\"mindscape_current_npc\": { \"id\": 9999, \"description\": \"Current mindscape interlocutor\"}, "

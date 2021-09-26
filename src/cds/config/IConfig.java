@@ -6,5 +6,5 @@ public interface IConfig {
 
 	void loadData(JsonObject configData);
 
-	String addNewSaveFile();
+	String addNewSaveFile(String startingBook);
 }

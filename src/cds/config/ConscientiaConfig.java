@@ -44,6 +44,7 @@ public class ConscientiaConfig implements IConfig {
 	Map<String, String> nonDialogueTextFiles = new HashMap<>();
 	Map<String, String> structuralFiles = new HashMap<>();
 	Map<String, String> templateFiles = new HashMap<>();
+	Map<String, String> startingAddresses = new HashMap<>();
 
 	public ConscientiaConfig(ConfigManager configManager) {
 		this.configManager = configManager;
@@ -56,6 +57,7 @@ public class ConscientiaConfig implements IConfig {
 		parseNonDialogueTextFiles(configData);
 		parseStructuralFiles(configData);
 		parseTemplateFiles(configData);
+		parseStartingAddresses(configData);
 	}
 
 	private void parseSaveFiles(JsonObject configData) {
@@ -113,6 +115,16 @@ public class ConscientiaConfig implements IConfig {
 		}
 	}
 
+
+	private void parseStartingAddresses(JsonObject configData) {
+			 JsonObject startingAddressesJson = (JsonObject) configData.get("start");
+
+			 for (String book : startingAddressesJson.keySet()) {
+				 String startingAddress = startingAddressesJson.get(book).getAsString();
+				 startingAddresses.put(book, startingAddress);
+			 }
+	}
+
 	private String buildFilePath(String dir, String filename) {
 		String basePath = "resources\\" + dir + "\\";
 		String filepath = basePath + filename + ".json";
@@ -121,6 +133,7 @@ public class ConscientiaConfig implements IConfig {
 
 
 	public String addNewSaveFile(String startingBook) {
+		// create the save file's filepath
 		String newSaveFilepath = "";
 		if (nSaveFiles == 0) newSaveFilepath = baseSaveFilepath + "\\" + "consc0.json";
 		else {
@@ -128,17 +141,20 @@ public class ConscientiaConfig implements IConfig {
 			nSaveFiles++;
 		}
 
-		String defaultSaveContents;
+		// copy default string to new save file
 		try {
-			defaultSaveContents = configManager.getFileIO().readFileToString(templateFiles.get("PlayerSaveTemplate"));
-			configManager.getFileIO().writeStringToFile(defaultSaveContents, newSaveFilepath);
+			// copy default save file contents
+			JsonObject defaultSaveContents = configManager.getFileIO().readJsonFileToJsonObject(templateFiles.get("PlayerSaveTemplate"));
+
+			// set the starting address to the one corresponding to the starting book
+			((JsonObject) defaultSaveContents.get("current_location")).addProperty("address", startingAddresses.get(startingBook));
+
+			// write to new file
+			configManager.getFileIO().writeStringToFile(defaultSaveContents.toString(), newSaveFilepath);
 		} catch (Exception e) {
 			System.err.println("ConscientiaConfig:addNewSaveFile: failed to load default save file: " + templateFiles.get("PlayerSaveTemplate"));
 		}
 
-		// TODO: set the starting address to the one corresponding to the starting book
-		// configData.get("start").get(startingBook); <- should get the appropriate address
-
-		return newSaveFilepath;
+			return newSaveFilepath;
 	}
 }

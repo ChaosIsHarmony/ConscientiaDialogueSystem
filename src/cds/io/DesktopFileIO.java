@@ -15,9 +15,7 @@ public class DesktopFileIO implements IFileIO {
 
 	public JsonObject readJsonFileToJsonObject(String filename) throws FileNotFoundException {
 		try {
-			JsonParser parser = new JsonParser();
-			Object obj = parser.parse(new FileReader(filename));
-			JsonObject jsonObject = (JsonObject) obj;
+			JsonObject jsonObject = JsonParser.parseReader(new FileReader(filename)).getAsJsonObject();
 			return jsonObject;
 		} catch (IOException e) {
 			System.err.println("DesktopFileIO:readJsonFileToJsonObject: Could not open file: " + filename + " | " + e.getMessage());
