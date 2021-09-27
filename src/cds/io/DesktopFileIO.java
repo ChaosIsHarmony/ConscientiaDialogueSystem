@@ -19,6 +19,7 @@ public class DesktopFileIO implements IFileIO {
 			return jsonObject;
 		} catch (IOException e) {
 			System.err.println("DesktopFileIO:readJsonFileToJsonObject: Could not open file: " + filename + " | " + e.getMessage());
+			e.printStackTrace();
 			return null;
 		}
 	}
@@ -29,6 +30,7 @@ public class DesktopFileIO implements IFileIO {
 			return fileData;
 		} catch (IOException e) {
 			System.err.println("DesktopFileIO:readFileToString: Could not open file: " + filepath + " | " + e.getMessage());
+			e.printStackTrace();
 			return null;
 		}
 	}
@@ -40,7 +42,7 @@ public class DesktopFileIO implements IFileIO {
 			Files.createFile(path);
 			Files.writeString(path, data, StandardOpenOption.WRITE);
 		} catch (IOException e) {
-			System.err.println("DesktopFileIO:writeStringToFile: Could not create file: " + filepath);
+			System.err.println("DesktopFileIO:writeStringToFile: Could not create file: " + filepath + " | " + e.getMessage());
 			e.printStackTrace();
 		}
 	}

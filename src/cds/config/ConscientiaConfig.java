@@ -147,7 +147,7 @@ public class ConscientiaConfig implements IConfig {
 			JsonObject defaultSaveContents = configManager.getFileIO().readJsonFileToJsonObject(templateFiles.get("PlayerSaveTemplate"));
 
 			// set the starting address to the one corresponding to the starting book
-			((JsonObject) defaultSaveContents.get("current_location")).addProperty("address", startingAddresses.get(startingBook));
+			((JsonObject) defaultSaveContents.get("current_location")).addProperty("value", startingAddresses.get(startingBook));
 
 			// write to new file
 			configManager.getFileIO().writeStringToFile(defaultSaveContents.toString(), newSaveFilepath);
