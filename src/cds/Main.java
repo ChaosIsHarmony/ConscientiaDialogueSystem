@@ -1,7 +1,7 @@
 package cds;
 
 import cds.config.ConfigManager;
-import cds.entities.GameData;
+import cds.gameData.GameDataManager;
 
 public class Main {
 
@@ -13,10 +13,10 @@ public class Main {
 		// Setup
 		ConfigManager configManager = new ConfigManager(fileioType, configFilepath);
 		// TODO: Query for which saved game to load, or load new game
-		GameData gameData = new GameData(configManager, startingBook);
+		GameDataManager gameDataManager = new GameDataManager(configManager, startingBook);
 
 		// Start game
-		CDS cds = new CDS(configManager, gameData);
+		CDS cds = new CDS(configManager, gameDataManager);
 	}
 
 }

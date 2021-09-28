@@ -29,6 +29,7 @@ public class ConfigManager {
 	IConfig config;
 	IRenderer renderer;
 	IDialogueProcessor dialogueProcessor;
+	String configStrategy;
 
 	public ConfigManager(String fileioType, String configFilepath) {
 		fileio = FileIOManager.createFileIO(fileioType);
@@ -55,33 +56,44 @@ public class ConfigManager {
 	private IConfig determineConfigStrategy(JsonObject configData) {
 		String configStrategy = configData.get("config_strategy").getAsString();
 
-		if (configStrategy.equals("conscientia"))
-			return new ConscientiaConfig(this);
-		else
-			return null;
+		switch (configStrategy) {
+			case "conscientia":
+				this.configStrategy = configStrategy;
+				return new ConscientiaConfig(this);
+			default:
+				System.err.println("ConfigManager:determineConfigStrategy: Illegal strategy: " + configStrategy);
+				return null;
+		}
 	}
 
 	private IRenderer determineRendererStrategy(JsonObject configData) {
 		String rendererStrategy = configData.get("renderer_strategy").getAsString();
 
-		if (rendererStrategy.equals("console"))
-			return new ConsoleRenderer();
-		else
-			return null;
+		switch (rendererStrategy) {
+			case "console":
+				return new ConsoleRenderer();
+			default:
+				System.err.println("ConfigManager:determineRendererStrategy: Illegal strategy: " + rendererStrategy);
+				return null;
+		}
 	}
 
 	private IDialogueProcessor determineDialogueProcessorStrategy(JsonObject configData) {
 		String dialogueProcessorStrategy = configData.get("dialogue_processor_strategy").getAsString();
 
-		if (dialogueProcessorStrategy.equals("conscientia"))
-			return new ConscientiaDialogueProcessor();
-		else
-			return null;
+		switch (dialogueProcessorStrategy) {
+			case "conscientia":
+				return new ConscientiaDialogueProcessor();
+			default:
+				System.err.println("ConfigManager:determineDialogueProcessorStrategy: Illegal strategy: " + dialogueProcessorStrategy);
+				return null;
+		}
 	}
 
 	public IConfig getConfig() { return config; }
 	public IFileIO getFileIO() { return fileio; }
 	public IRenderer getRenderer() { return renderer; }
 	public IDialogueProcessor getDialogueProcessor() { return dialogueProcessor; }
+	public String getConfigStrategy() { return configStrategy; }
 
 }

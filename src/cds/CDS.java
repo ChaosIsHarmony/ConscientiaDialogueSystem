@@ -1,16 +1,16 @@
 package cds;
 
 import cds.config.ConfigManager;
-import cds.entities.GameData;
+import cds.gameData.GameDataManager;
 
 public class CDS {
 
 	ConfigManager configManager;
-	GameData gameData;
+	GameDataManager gameDataManager;
 
-	public CDS(ConfigManager configManager, GameData gameData) {
+	public CDS(ConfigManager configManager, GameDataManager gameDataManager) {
 		this.configManager = configManager;
-		this.gameData = gameData;
+		this.gameDataManager = gameDataManager;
 	}
 
 	public void update() {

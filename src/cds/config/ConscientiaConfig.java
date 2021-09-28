@@ -71,7 +71,7 @@ public class ConscientiaConfig implements IConfig {
 		String dirPath = saveFilesJson.get("base").getAsString();
 		saveFiles = new ArrayList<>();
 		for (JsonElement filenameJson : filenamesJson.getAsJsonArray()) {
-			String filename = (String) filenameJson.getAsString();
+			String filename = filenameJson.getAsString();
 			String path = buildFilePath(dirPath, filename);
 			saveFiles.add(path);
 		}
@@ -90,7 +90,7 @@ public class ConscientiaConfig implements IConfig {
 			JsonArray areaFilesJson = ((JsonObject) bookJson).get("files").getAsJsonArray();
 			ArrayList<String> filenames = new ArrayList<>();
 			for (JsonElement filenameJson : areaFilesJson) {
-				String filename = (String) filenameJson.getAsString();
+				String filename = filenameJson.getAsString();
 				String path = buildFilePath(bookDirPath, filename);
 				filenames.add(path);
 			}
@@ -108,7 +108,7 @@ public class ConscientiaConfig implements IConfig {
 		JsonObject templateFilesJson = (JsonObject) textJson.get("templates");
 
 		String dirPath = textJson.get("base").getAsString() + "\\" + templateFilesJson.get("base").getAsString();
-		for (JsonElement filenameJson : (JsonArray) templateFilesJson.get("files").getAsJsonArray()) {
+		for (JsonElement filenameJson : templateFilesJson.get("files").getAsJsonArray()) {
 			String filename = filenameJson.getAsString();
 			String filepath = buildFilePath(dirPath, filename);
 			templateFiles.put(filename, filepath);
@@ -133,9 +133,10 @@ public class ConscientiaConfig implements IConfig {
 
 
 	public String addNewSaveFile(String startingBook) {
+		// TODO: also make a new NPCSave file
 		// create the save file's filepath
 		String newSaveFilepath = "";
-		if (nSaveFiles == 0) newSaveFilepath = baseSaveFilepath + "\\" + "consc0.json";
+		if (nSaveFiles == 0) newSaveFilepath = baseSaveFilepath + "\\" + "playerSave0.json";
 		else {
 			newSaveFilepath = baseSaveFilepath + "\\" + "consc" + nSaveFiles + ".json";
 			nSaveFiles++;
