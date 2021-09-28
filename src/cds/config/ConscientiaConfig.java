@@ -25,6 +25,8 @@
  */
 package cds.config;
 
+import cds.utils.Constants;
+
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
@@ -36,6 +38,7 @@ public class ConscientiaConfig implements IConfig {
 	ConfigManager configManager;
 
 	String baseSaveFilepath;
+	String uniSaveFilepath;
 	ArrayList<String> saveFiles;
 	int nSaveFiles;
 
@@ -75,6 +78,11 @@ public class ConscientiaConfig implements IConfig {
 			String path = buildFilePath(dirPath, filename);
 			saveFiles.add(path);
 		}
+
+		// parse universal save filepath
+		uniSaveFilepath = buildFilePath(dirPath, saveFilesJson.get("uni_save").getAsString());
+
+		// save for when saving game states
 		baseSaveFilepath = "resources" + "\\" + dirPath;
 	}
 
@@ -83,6 +91,7 @@ public class ConscientiaConfig implements IConfig {
 		JsonObject dialogueFilesJson = (JsonObject) textJson.get("dialogue");
 		JsonArray bookFilesJson = (JsonArray) dialogueFilesJson.get("books");
 
+		// first parse by book, then by area
 		String dirPath = textJson.get("base").getAsString() + "\\" + dialogueFilesJson.get("base").getAsString() + "\\";
 		for (JsonElement bookJson : bookFilesJson) {
 			String book = ((JsonObject) bookJson).get("base").getAsString();
@@ -115,7 +124,8 @@ public class ConscientiaConfig implements IConfig {
 		}
 	}
 
-
+	// parses the starting address for each book
+	// used when creating a new save file
 	private void parseStartingAddresses(JsonObject configData) {
 			 JsonObject startingAddressesJson = (JsonObject) configData.get("start");
 
@@ -132,30 +142,35 @@ public class ConscientiaConfig implements IConfig {
 	}
 
 
-	public String addNewSaveFile(String startingBook) {
-		// TODO: also make a new NPCSave file
-		// create the save file's filepath
-		String newSaveFilepath = "";
-		if (nSaveFiles == 0) newSaveFilepath = baseSaveFilepath + "\\" + "playerSave0.json";
-		else {
-			newSaveFilepath = baseSaveFilepath + "\\" + "consc" + nSaveFiles + ".json";
+	public String[] addNewSaveGame(String startingBook) {
+		// create the new player and npc save file's filepath
+		String[] newSaveFilepaths = new String[Constants.N_ACTIVE_SAVE_FILE_TYPES];
+		newSaveFilepaths[Constants.UNI_SAVE] = uniSaveFilepath;
+		if (nSaveFiles == 0) {
+			newSaveFilepaths[Constants.PLAYER_SAVE] = baseSaveFilepath + "\\" + "playerSave0.json";
+			newSaveFilepaths[Constants.NPC_SAVE] = baseSaveFilepath + "\\" + "npcsSave0.json";
+		} else {
+			newSaveFilepaths[Constants.PLAYER_SAVE] = baseSaveFilepath + "\\" + "playerSave" + nSaveFiles + ".json";
+			newSaveFilepaths[Constants.NPC_SAVE] = baseSaveFilepath + "\\" + "npcsSave" + nSaveFiles + ".json";
 			nSaveFiles++;
 		}
 
 		// copy default string to new save file
 		try {
 			// copy default save file contents
-			JsonObject defaultSaveContents = configManager.getFileIO().readJsonFileToJsonObject(templateFiles.get("PlayerSaveTemplate"));
+			JsonObject defaultPlayerSaveContents = configManager.getFileIO().readJsonFileToJsonObject(templateFiles.get("PlayerSaveTemplate"));
+			JsonObject defaultNpcsSaveContents = configManager.getFileIO().readJsonFileToJsonObject(templateFiles.get("NpcsSaveTemplate"));
 
 			// set the starting address to the one corresponding to the starting book
-			((JsonObject) defaultSaveContents.get("current_location")).addProperty("value", startingAddresses.get(startingBook));
+			((JsonObject) defaultPlayerSaveContents.get("current_location")).addProperty("value", startingAddresses.get(startingBook));
 
 			// write to new file
-			configManager.getFileIO().writeStringToFile(defaultSaveContents.toString(), newSaveFilepath);
+			configManager.getFileIO().writeStringToFile(defaultPlayerSaveContents.toString(), newSaveFilepaths[Constants.PLAYER_SAVE]);
+			configManager.getFileIO().writeStringToFile(defaultNpcsSaveContents.toString(), newSaveFilepaths[Constants.NPC_SAVE]);
 		} catch (Exception e) {
-			System.err.println("ConscientiaConfig:addNewSaveFile: failed to load default save file: " + templateFiles.get("PlayerSaveTemplate"));
+			System.err.println("ConscientiaConfig:addNewSaveFile: failed to load default save files: " + e.getMessage());
 		}
 
-			return newSaveFilepath;
+		return newSaveFilepaths;
 	}
 }

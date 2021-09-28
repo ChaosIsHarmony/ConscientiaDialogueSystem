@@ -2,10 +2,12 @@ package cds.gameData;
 
 import cds.config.ConfigManager;
 import cds.entities.Dialogue;
+import cds.entities.ConscientiaNpc;
+import cds.utils.Constants;
 import cds.utils.JsonValue;
 
 import java.io.FileNotFoundException;
-import java.util.HashMap;
+import java.util.*;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
@@ -17,9 +19,14 @@ public class ConscientiaGameData implements IGameData {
 
 	GameDataManager gameDataManager;
 
-	private String saveFilepath;
+	private String[] saveFilepaths;
+	// Uni Save
+	private HashMap<String, HashSet<Integer>> uniSaveData;
+	// Player Save
 	private HashMap<String, JsonValue<?>> playerSaveVariables;
 	private HashMap<String, Boolean> triggeredEvents;
+	// Npc Save
+	private HashMap<String, ConscientiaNpc> npcsData;
 
 
 	public ConscientiaGameData(GameDataManager gameDataManager, String startingBook, String saveFilepath) {
@@ -27,30 +34,46 @@ public class ConscientiaGameData implements IGameData {
 
 		// new game
 		if (saveFilepath == null) {
-			JsonObject saveData = createNewSaveFile(startingBook);
-			if (saveData != null)	parseSaveData(saveData);
-			else System.err.println("ConscientiaGameData:<Constructor>: Could not load game data from new save file: " + saveFilepath);
+			JsonObject[] saveData = createNewSaveFiles(startingBook);
+			if (saveData != null)	{
+				parseUniSaveData(saveData[Constants.UNI_SAVE]);
+				parsePlayerSaveData(saveData[Constants.PLAYER_SAVE]);
+				parseNpcSaveData(saveData[Constants.NPC_SAVE]);
+			} else System.err.println("ConscientiaGameData:<Constructor>: Could not load game data from new save file: " + saveFilepath);
 		}
-		// TODO: load from saveFilepath
+		// TODO: else - load from saveFilepath
 	}
 
-	private JsonObject createNewSaveFile(String startingBook) {
-		// create new save file
-		saveFilepath = gameDataManager.configManager.getConfig().addNewSaveFile(startingBook);
+	private JsonObject[] createNewSaveFiles(String startingBook) {
+		// create new save files
+		saveFilepaths = gameDataManager.configManager.getConfig().addNewSaveGame(startingBook);
 
-		// load data from save file
-		JsonObject saveData = null;
+		// load data from save files
+		JsonObject[] saveData = new JsonObject[Constants.N_ACTIVE_SAVE_FILE_TYPES];
 		try {
-			saveData = gameDataManager.configManager.getFileIO().readJsonFileToJsonObject(saveFilepath);
+			saveData[Constants.UNI_SAVE] = gameDataManager.configManager.getFileIO().readJsonFileToJsonObject(saveFilepaths[Constants.UNI_SAVE]);
+			saveData[Constants.PLAYER_SAVE] = gameDataManager.configManager.getFileIO().readJsonFileToJsonObject(saveFilepaths[Constants.PLAYER_SAVE]);
+			saveData[Constants.NPC_SAVE] = gameDataManager.configManager.getFileIO().readJsonFileToJsonObject(saveFilepaths[Constants.NPC_SAVE]);
 		} catch (FileNotFoundException e) {
-			System.err.println("ConscientiaGameData:createNewSaveFile: Could not load new save file: " + saveFilepath + " | " + e.getMessage());
+			System.err.println("ConscientiaGameData:createNewSaveFile: Could not load new save files: " + e.getMessage());
 			e.printStackTrace();
+			saveData = null;
 		}
 
 		return saveData;
 	}
 
-	private void parseSaveData(JsonObject saveData) {
+	private void parseUniSaveData(JsonObject saveData) {
+		HashSet<Integer> persistentAcquirables = new HashSet<>();
+		for (JsonElement acq : saveData.get("persistent_acquirables").getAsJsonArray())
+			persistentAcquirables.add(acq.getAsInt());
+
+		HashSet<Integer> persistentEvents = new HashSet<>();
+		for (JsonElement event : saveData.get("persistent_events").getAsJsonArray())
+			persistentEvents.add(event.getAsInt());
+	}
+
+	private void parsePlayerSaveData(JsonObject saveData) {
 		loadSavedVariables(saveData);
 		loadTriggeredEvents(saveData);
 	}
@@ -101,7 +124,15 @@ public class ConscientiaGameData implements IGameData {
 		}
 	}
 
+	private void parseNpcSaveData(JsonObject saveData) {
 
+		for (String key : saveData.keySet())
+			System.out.println(((JsonObject) saveData.get(key)).get("id"));
+
+	}
+
+
+	// ACCESSORS & MUTATORS
 	public void saveCurrentState() {
 		// TODO: save the current state of the game
 		// This will entail rewriting all changed variables and triggeredEvents

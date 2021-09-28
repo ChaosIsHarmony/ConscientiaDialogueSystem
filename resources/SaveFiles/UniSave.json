@@ -1,4 +1,4 @@
 {
-	"persistent_acquirables": [],
-	"persistent_events": []
+	"persistent_acquirables": [1,2,3,4],
+	"persistent_events": [5,6,7,8,9]
 }
