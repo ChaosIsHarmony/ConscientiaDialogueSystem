@@ -65,11 +65,11 @@ public class ConscientiaGameData implements IGameData {
 
 	private void parseUniSaveData(JsonObject saveData) {
 		HashSet<Integer> persistentAcquirables = new HashSet<>();
-		for (JsonElement acq : saveData.get("persistent_acquirables").getAsJsonArray())
+		for (JsonElement acq : saveData.get(Constants.UNI_PERSISTENT_ACQ).getAsJsonArray())
 			persistentAcquirables.add(acq.getAsInt());
 
 		HashSet<Integer> persistentEvents = new HashSet<>();
-		for (JsonElement event : saveData.get("persistent_events").getAsJsonArray())
+		for (JsonElement event : saveData.get(Constants.UNI_PERSISTENT_EVENTS).getAsJsonArray())
 			persistentEvents.add(event.getAsInt());
 	}
 
@@ -84,7 +84,7 @@ public class ConscientiaGameData implements IGameData {
 		// parse all non-triggered event variables
 		// must determine type: String, Integer, or Integer[]
 		for (String savedVar : saveData.keySet()){
-			if (!savedVar.equals("triggered_events")) {
+			if (!savedVar.equals(Constants.PLAYER_TRIGGERED_EVENTS)) {
 				JsonElement jsonValue = saveData.get(savedVar).getAsJsonObject().get("value");
 
 				if (jsonValue.isJsonArray())
@@ -110,7 +110,7 @@ public class ConscientiaGameData implements IGameData {
 	private void loadTriggeredEvents(JsonObject saveData) {
 		triggeredEvents = new HashMap<>();
 
-		for (JsonElement event : (JsonArray) saveData.get("triggered_events")) {
+		for (JsonElement event : (JsonArray) saveData.get(Constants.PLAYER_TRIGGERED_EVENTS)) {
 			JsonObject eventsJson = event.getAsJsonObject();
 			String[] keys = new String[eventsJson.keySet().size()];
 			eventsJson.keySet().toArray(keys);
@@ -125,10 +125,10 @@ public class ConscientiaGameData implements IGameData {
 	}
 
 	private void parseNpcSaveData(JsonObject saveData) {
+		npcsData = new HashMap<>();
 
 		for (String key : saveData.keySet())
-			System.out.println(((JsonObject) saveData.get(key)).get("id"));
-
+			npcsData.put(key, new ConscientiaNpc(key, (JsonObject) saveData.get(key)));
 	}
 
 
@@ -136,8 +136,12 @@ public class ConscientiaGameData implements IGameData {
 	public void saveCurrentState() {
 		// TODO: save the current state of the game
 		// This will entail rewriting all changed variables and triggeredEvents
-	};
-	public void setVariableValue(String varName, JsonValue<?> varValue) { playerSaveVariables.put(varName, varValue); }
-	public JsonValue<?> getVariableValue(String varName) { return playerSaveVariables.get(varName); }
+	}
+
+	public void setPlayerValue(String varName, JsonValue<?> varValue) { playerSaveVariables.put(varName, varValue); }
+	public JsonValue<?> getPlayerValue(String varName) { return playerSaveVariables.get(varName); }
+
+	public void setNpcValue(String varName, ConscientiaNpc varValue) { npcsData.put(varName, varValue); }
+	public ConscientiaNpc getNpcValue(String varName) { return npcsData.get(varName); }
 
 }

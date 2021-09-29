@@ -1,6 +1,7 @@
 package cds.gameData;
 
 import cds.config.ConfigManager;
+import cds.entities.ConscientiaNpc;
 import cds.utils.JsonValue;
 
 public class GameDataManager {
@@ -31,9 +32,12 @@ public class GameDataManager {
 	}
 
 	public void saveCurrentState() { gameData.saveCurrentState(); };
-	public void setVariableValue(String varName, JsonValue<?> varValue) { gameData.setVariableValue(varName, varValue); }
-	public JsonValue<?> getVariableValue(String varName) { return gameData.getVariableValue(varName); }
 
+	public void setPlayerValue(String varName, JsonValue<?> varValue) { gameData.setPlayerValue(varName, varValue); }
+	public JsonValue<?> getPlayerValue(String varName) { return gameData.getPlayerValue(varName); }
+
+	public void setNpcValue(String varName, ConscientiaNpc varValue) { gameData.setNpcValue(varName, varValue); }
+	public ConscientiaNpc getNpcValue(String varName) { return gameData.getNpcValue(varName); }
 
 
 }

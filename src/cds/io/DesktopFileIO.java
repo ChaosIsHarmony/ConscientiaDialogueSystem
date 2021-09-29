@@ -13,12 +13,12 @@ import java.nio.file.StandardOpenOption;
 
 public class DesktopFileIO implements IFileIO {
 
-	public JsonObject readJsonFileToJsonObject(String filename) throws FileNotFoundException {
+	public JsonObject readJsonFileToJsonObject(String filepath) throws FileNotFoundException {
 		try {
-			JsonObject jsonObject = JsonParser.parseReader(new FileReader(filename)).getAsJsonObject();
+			JsonObject jsonObject = JsonParser.parseReader(new FileReader(filepath)).getAsJsonObject();
 			return jsonObject;
 		} catch (IOException e) {
-			System.err.println("DesktopFileIO:readJsonFileToJsonObject: Could not open file: " + filename + " | " + e.getMessage());
+			System.err.println("DesktopFileIO:readJsonFileToJsonObject: Could not open file: " + filepath + " | " + e.getMessage());
 			e.printStackTrace();
 			return null;
 		}

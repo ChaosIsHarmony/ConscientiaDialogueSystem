@@ -143,8 +143,18 @@ public class ConscientiaConfig implements IConfig {
 
 
 	public String[] addNewSaveGame(String startingBook) {
-		// create the new player and npc save file's filepath
 		String[] newSaveFilepaths = new String[Constants.N_ACTIVE_SAVE_FILE_TYPES];
+
+		// create the new player and npc save file's filepath
+		buildNewSaveFilepaths(newSaveFilepaths);
+
+		// copy default string to new save file
+		createNewFiles(startingBook, newSaveFilepaths);
+
+		return newSaveFilepaths;
+	}
+
+	private void buildNewSaveFilepaths(String[] newSaveFilepaths) {
 		newSaveFilepaths[Constants.UNI_SAVE] = uniSaveFilepath;
 		if (nSaveFiles == 0) {
 			newSaveFilepaths[Constants.PLAYER_SAVE] = baseSaveFilepath + "\\" + "playerSave0.json";
@@ -154,8 +164,9 @@ public class ConscientiaConfig implements IConfig {
 			newSaveFilepaths[Constants.NPC_SAVE] = baseSaveFilepath + "\\" + "npcsSave" + nSaveFiles + ".json";
 			nSaveFiles++;
 		}
+	}
 
-		// copy default string to new save file
+	private void createNewFiles(String startingBook, String[] newSaveFilepaths) {
 		try {
 			// copy default save file contents
 			JsonObject defaultPlayerSaveContents = configManager.getFileIO().readJsonFileToJsonObject(templateFiles.get("PlayerSaveTemplate"));
@@ -170,7 +181,5 @@ public class ConscientiaConfig implements IConfig {
 		} catch (Exception e) {
 			System.err.println("ConscientiaConfig:addNewSaveFile: failed to load default save files: " + e.getMessage());
 		}
-
-		return newSaveFilepaths;
 	}
 }

@@ -83,7 +83,7 @@ public class ConfigManager {
 
 		switch (dialogueProcessorStrategy) {
 			case "conscientia":
-				return new ConscientiaDialogueProcessor();
+				return new ConscientiaDialogueProcessor(this);
 			default:
 				System.err.println("ConfigManager:determineDialogueProcessorStrategy: Illegal strategy: " + dialogueProcessorStrategy);
 				return null;
