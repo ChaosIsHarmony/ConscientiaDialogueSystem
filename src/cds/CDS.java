@@ -6,12 +6,15 @@ import cds.entities.Dialogue;
 import cds.entities.Response;
 import cds.gameData.GameDataManager;
 import cds.utils.Constants;
+import cds.utils.JsonValue;
 
 public class CDS {
 
 	ConfigManager configManager;
 	GameDataManager gameDataManager;
 	boolean gameLoopActive;
+	Dialogue currentDialogue;
+	String nextAddress;
 
 	// states
 	private final int LOADING_DIALOGUE = 0;
@@ -21,6 +24,14 @@ public class CDS {
 	public CDS(ConfigManager configManager, GameDataManager gameDataManager) {
 		this.configManager = configManager;
 		this.gameDataManager = gameDataManager;
+
+		// determine initial dialogue address
+		String currentNpcName = (String) gameDataManager.getPlayerValue(Constants.PLAYER_CURRENT_NPC).getValue();
+		ConscientiaNpc initialNpc = gameDataManager.getNpcValue(currentNpcName);
+		String currentLocation = (String) gameDataManager.getPlayerValue(Constants.PLAYER_CURRENT_LOCATION).getValue();
+		nextAddress = initialNpc.getAddress(currentLocation);
+
+		// start game loop
 		gameLoopActive = true;
 		while (gameLoopActive) update();
 	}
@@ -29,17 +40,35 @@ public class CDS {
 	public void update() {
 		switch (gameState) {
 			case LOADING_DIALOGUE:
+				// handle events before getting dialogue
+				configManager.getDialogueProcessor().handleEvents(nextAddress);
+
 				// load relevant dialogue and choices
-				Dialogue currentDialogue = configManager.getDialogueProcessor().getDialogue(gameDataManager);
+				currentDialogue = configManager.getDialogueProcessor().getDialogue();
 
 				// display dialogue and choices
-				System.out.println("CDS:update: " + currentDialogue.getNpcText());
+				configManager.getRenderer().show(currentDialogue.getNpcText());
+				int ind = 0;
+				for (Response response : currentDialogue.getResponses())
+					configManager.getRenderer().show((ind++) + ": " + response.getText());
 
 				// switch to waiting for player input
 				gameState = WAITING_FOR_INPUT;
 				break;
 			case WAITING_FOR_INPUT:
-				gameState = -1;
+				int responseInd = configManager.getInputHandler().selectResponse();
+
+				configManager.getRenderer().show("CHOSEN RESPONSE: " + currentDialogue.getResponses().get(responseInd).getText());
+
+				// Add to player affinity
+				String personality = currentDialogue.getResponses().get(responseInd).getPersonality();
+				int affinityPoints = currentDialogue.getResponses().get(responseInd).getAffinityPoints();
+				int currentAffinity = (Integer) gameDataManager.getPlayerValue(personality).getValue();
+				gameDataManager.setPlayerValue(personality, new JsonValue<Integer>(currentAffinity + affinityPoints));
+
+				// Move to next address
+				nextAddress = currentDialogue.getResponses().get(responseInd).getDestinationAddress();
+				gameState = LOADING_DIALOGUE;
 				break;
 			default:
 				gameLoopActive = false;

@@ -25,6 +25,7 @@
  */
 package cds.config;
 
+import cds.entities.Personality;
 import cds.utils.Constants;
 
 import com.google.gson.JsonArray;
@@ -48,6 +49,7 @@ public class ConscientiaConfig implements IConfig {
 	Map<String, String> structuralFiles = new HashMap<>();
 	Map<String, String> templateFiles = new HashMap<>();
 	Map<String, String> startingAddresses = new HashMap<>();
+	Map<String, Personality> personalities = new HashMap<>();
 
 	public ConscientiaConfig(ConfigManager configManager) {
 		this.configManager = configManager;
@@ -61,6 +63,7 @@ public class ConscientiaConfig implements IConfig {
 		parseStructuralFiles(configData);
 		parseTemplateFiles(configData);
 		parseStartingAddresses(configData);
+		parsePersonalities(configData);
 	}
 
 	private void parseSaveFiles(JsonObject configData) {
@@ -135,6 +138,12 @@ public class ConscientiaConfig implements IConfig {
 			 }
 	}
 
+	private void parsePersonalities(JsonObject configData) {
+		JsonObject personalitiesJson = (JsonObject) configData.get("personalities");
+		for (String key : personalitiesJson.keySet())
+			personalities.put(key, new Personality(key, personalitiesJson.get(key).getAsString()));
+	}
+
 	private String buildFilePath(String dir, String filename) {
 		String basePath = "resources\\" + dir + "\\";
 		String filepath = basePath + filename + ".json";
@@ -163,6 +172,7 @@ public class ConscientiaConfig implements IConfig {
 			newSaveFilepaths[Constants.PLAYER_SAVE] = baseSaveFilepath + "\\" + "playerSave" + nSaveFiles + ".json";
 			newSaveFilepaths[Constants.NPC_SAVE] = baseSaveFilepath + "\\" + "npcsSave" + nSaveFiles + ".json";
 			nSaveFiles++;
+			System.out.println("ConscientiaConfig: buildNewSaveFilepaths: nSaveFiles incremented, but config.json not saved, and thus keeps loading as nSaveFiles == 0");
 		}
 	}
 
@@ -192,6 +202,7 @@ public class ConscientiaConfig implements IConfig {
 		int regionStartInd = areaEndInd+1;
 		int regionEndInd = location.indexOf('!', regionStartInd);
 
+
 		String area = location.substring(areaStartInd, areaEndInd);
 		String region = location.substring(regionStartInd, regionEndInd);
 		String[] splitRegion = region.split("\\s+");
@@ -200,9 +211,13 @@ public class ConscientiaConfig implements IConfig {
 		String book;
 
 		// find relevant directory
+		System.out.println("ConscientiaConfig:getDialogueFileFilepath: Unimplemented Section - find relevant directory for book by address.");
 		switch (area) {
 			case "MIND":
 				book = Constants.MIND;
+				break;
+			case "KABU":
+				book = Constants.EIDOS;
 				break;
 			default:
 				book = "";

@@ -2,6 +2,7 @@
     "config_strategy": "conscientia",
     "parser_strategy": "json",
     "renderer_strategy": "console",
+    "input_strategy": "console",
     "dialogue_processor_strategy": "conscientia",
     "save_files": {
         "base": "SaveFiles",
@@ -108,5 +109,13 @@
         "thetian": "MIND!THE BOOK OF THETIAN!THE BEGINNING!",
         "torma": "MIND!THE BOOK OF TORMA!THE BEGINNING!",
         "wulfias": "MIND!THE BOOK OF WULFIAS!THE BEGINNING!"
+    },
+    "personalities": {
+        "A": "DIPLOMAT",
+        "B": "TRUTHSEEKER",
+        "C": "FENCE-SITTER",
+        "D": "OPPORTUNIST",
+        "E": "TYRANT",
+        "F": "LOON"
     }
 }

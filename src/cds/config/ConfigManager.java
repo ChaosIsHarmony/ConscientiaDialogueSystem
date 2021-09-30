@@ -16,6 +16,8 @@ package cds.config;
 
 import cds.io.IFileIO;
 import cds.io.FileIOManager;
+import cds.io.IInputHandler;
+import cds.io.ConsoleInputHandler;
 import cds.renderers.IRenderer;
 import cds.renderers.ConsoleRenderer;
 import cds.dialogueProcessors.IDialogueProcessor;
@@ -28,6 +30,7 @@ public class ConfigManager {
 	IFileIO fileio;
 	IConfig config;
 	IRenderer renderer;
+	IInputHandler inputHandler;
 	IDialogueProcessor dialogueProcessor;
 	String configStrategy;
 
@@ -44,12 +47,13 @@ public class ConfigManager {
 			// load all configurable strategies
 			config = determineConfigStrategy(configData);
 			renderer = determineRendererStrategy(configData);
+			inputHandler = determineInputHandlerStrategy(configData);
 			dialogueProcessor = determineDialogueProcessorStrategy(configData);
 
 			// load gamebook-specific data
 			config.loadData(configData);
 		} catch (Exception e) {
-			System.err.println("ConfigManager:loadConfiguration: Could not load config file" + e.getMessage());
+			System.err.println("ConfigManager:loadConfiguration: Could not load config file " + e.getMessage());
 		}
 	}
 
@@ -78,6 +82,18 @@ public class ConfigManager {
 		}
 	}
 
+	private IInputHandler determineInputHandlerStrategy(JsonObject configData) {
+		String inputHandlerStrategy = configData.get("input_strategy").getAsString();
+
+		switch (inputHandlerStrategy) {
+			case "console":
+				return new ConsoleInputHandler();
+			default:
+				System.err.println("ConfigManager:determineInputHandlerStrategy: Illegal strategy: " + inputHandlerStrategy);
+				return null;
+		}
+	}
+
 	private IDialogueProcessor determineDialogueProcessorStrategy(JsonObject configData) {
 		String dialogueProcessorStrategy = configData.get("dialogue_processor_strategy").getAsString();
 
@@ -93,6 +109,7 @@ public class ConfigManager {
 	public IConfig getConfig() { return config; }
 	public IFileIO getFileIO() { return fileio; }
 	public IRenderer getRenderer() { return renderer; }
+	public IInputHandler getInputHandler() { return inputHandler; }
 	public IDialogueProcessor getDialogueProcessor() { return dialogueProcessor; }
 	public String getConfigStrategy() { return configStrategy; }
 

@@ -14,6 +14,7 @@ public class Main {
 		ConfigManager configManager = new ConfigManager(fileioType, configFilepath);
 		// TODO: Query for which saved game to load, or load new game
 		GameDataManager gameDataManager = new GameDataManager(configManager, startingBook);
+		configManager.getDialogueProcessor().setupProcessor(gameDataManager);
 
 		// Start game
 		CDS cds = new CDS(configManager, gameDataManager);

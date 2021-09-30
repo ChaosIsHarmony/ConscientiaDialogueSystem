@@ -136,6 +136,7 @@ public class ConscientiaGameData implements IGameData {
 	public void saveCurrentState() {
 		// TODO: save the current state of the game
 		// This will entail rewriting all changed variables and triggeredEvents
+		System.out.println("ConscientiaGameData: saveCurrentState: Unimplemented Method.");
 	}
 
 	public void setPlayerValue(String varName, JsonValue<?> varValue) { playerSaveVariables.put(varName, varValue); }

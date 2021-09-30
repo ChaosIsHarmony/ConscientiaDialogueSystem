@@ -25,6 +25,9 @@ public class Constants {
 	public static final String PLAYER_TRIGGERED_EVENTS = "triggered_events";
 	public static final String DIALOGUE_TEXT = "dialogue_text";
 	public static final String DIALOGUE_RESPONSES = "responses";
+	public static final String RESPONSE_TEXT = "response_text";
+	public static final String RESPONSE_POINTS = "points";
+	public static final String RESPONSE_DESTINATION_ADDRESS = "dest_add";
 
 	// NPC JSON TAGS
 	public static final String NPC_ID = "id";

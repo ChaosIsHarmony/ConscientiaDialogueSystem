@@ -5,5 +5,7 @@ import cds.gameData.GameDataManager;
 
 public interface IDialogueProcessor {
 
-	Dialogue getDialogue(GameDataManager gameDataManager);
+	void setupProcessor(GameDataManager gameDataManager);
+	void handleEvents(String nextAddress);
+	Dialogue getDialogue();
 }

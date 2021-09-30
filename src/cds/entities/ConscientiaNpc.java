@@ -55,4 +55,16 @@ public class ConscientiaNpc {
 		final ConscientiaNpc that = (ConscientiaNpc) obj;
 		return this.id == that.id;
 	}
+
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result =
+			(prime * result)
+				+ ((name == null) ? 0 : name.hashCode())
+				+ ((imgFilepath == null) ? 0 : imgFilepath.hashCode())
+				+ ((addresses == null) ? 0 : addresses.hashCode());
+		return result;
+	}
 }

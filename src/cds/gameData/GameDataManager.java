@@ -38,6 +38,4 @@ public class GameDataManager {
 
 	public void setNpcValue(String varName, ConscientiaNpc varValue) { gameData.setNpcValue(varName, varValue); }
 	public ConscientiaNpc getNpcValue(String varName) { return gameData.getNpcValue(varName); }
-
-
 }
