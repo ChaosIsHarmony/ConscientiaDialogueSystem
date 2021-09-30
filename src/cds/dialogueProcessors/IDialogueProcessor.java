@@ -1,8 +1,9 @@
 package cds.dialogueProcessors;
 
-import cds.entities.ConscientiaNpc;
+import cds.entities.Dialogue;
+import cds.gameData.GameDataManager;
 
 public interface IDialogueProcessor {
 
-	String getDialogue(String currentLocation, ConscientiaNpc currentNpc);
+	Dialogue getDialogue(GameDataManager gameDataManager);
 }

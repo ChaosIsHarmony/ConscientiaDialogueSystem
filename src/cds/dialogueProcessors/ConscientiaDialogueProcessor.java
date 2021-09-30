@@ -2,6 +2,11 @@ package cds.dialogueProcessors;
 
 import cds.config.ConfigManager;
 import cds.entities.ConscientiaNpc;
+import cds.entities.Dialogue;
+import cds.gameData.GameDataManager;
+import cds.utils.Constants;
+
+import java.io.IOException;
 
 import com.google.gson.JsonObject;
 
@@ -9,44 +14,40 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 
 	private ConfigManager configManager;
 
-	private String mostRecentLocation;
-	private ConscientiaNpc mostRecentNpc;
-
 	public ConscientiaDialogueProcessor(ConfigManager configManager) {
 		this.configManager = configManager;
-		mostRecentLocation = "";
-		mostRecentNpc = new ConscientiaNpc();
 	}
 
-	public String getDialogue(String newAddress, ConscientiaNpc currentNpc) {
-		String currentLocation = parseCurrentLocation(newAddress);
+	public Dialogue getDialogue(GameDataManager gameDataManager) {
+		Dialogue dialogue = null;
 
-		System.out.println(newAddress);
-		System.out.println(currentLocation);
-		System.out.println(currentNpc.getName());
+		// extract npc and text info
+		String currentNpcName = (String) gameDataManager.getPlayerValue(Constants.PLAYER_CURRENT_NPC).getValue();
+		ConscientiaNpc currentNpc = gameDataManager.getNpcValue(currentNpcName);
+		String currentLocation = (String) gameDataManager.getPlayerValue(Constants.PLAYER_CURRENT_LOCATION).getValue();
+		String currentAddress = currentNpc.getAddress(currentLocation);
 
-		// make sure NPC is current
-		if (mostRecentNpc != currentNpc) {
+		// check updated event info
 
+		// load dialogue for given npc by location
+		String filepath = configManager.getConfig().getDialogueFileFilepath(currentLocation);
+		JsonObject fileContentsJson = null;
+		try {
+			fileContentsJson = configManager.getFileIO().readJsonFileToJsonObject(filepath);
+		} catch (IOException e) {
+			System.err.println("ConscientiaDialogueProcessor:getDialogue: Failed to load dialogue file: " + currentAddress + " | " + currentLocation + " | " + filepath + " | ");
+			e.printStackTrace();
 		}
 
+		if (fileContentsJson != null) {
+			JsonObject dialogueContentsJson = (JsonObject) fileContentsJson.get("dialogue");
+			JsonObject currentDialogueJson = (JsonObject) dialogueContentsJson.get(currentAddress);
 
-		// make sure Area is current
-		if (!currentLocation.equals(mostRecentLocation))	switchLocations(currentLocation);
+			dialogue = new Dialogue(currentDialogueJson);
+		}
 
-		return "";
+		return dialogue;
 	}
 
-
-	private String parseCurrentLocation(String address) {
-		int endInd = address.indexOf("!")+1;
-		endInd = address.indexOf("!", endInd)+1;
-		endInd = address.indexOf("!", endInd)+1;
-		return address.substring(0, endInd);
-	}
-
-	private void switchLocations(String currentLocation) {
-		String newAreaDialogueFilepath = "";
-		// JsonObject areaDialogueJson = configManager.getFileIO().readJsonFileToJsonObject(newAreaDialogueFilepath);
-	}
+	// update event info
 }

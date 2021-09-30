@@ -182,4 +182,40 @@ public class ConscientiaConfig implements IConfig {
 			System.err.println("ConscientiaConfig:addNewSaveFile: failed to load default save files: " + e.getMessage());
 		}
 	}
+
+
+	// ACCESSORS
+	public String getDialogueFileFilepath(String location) {
+		// parse out area & region to determine directories on file path
+		int areaStartInd = 0;
+		int areaEndInd = location.indexOf('!');
+		int regionStartInd = areaEndInd+1;
+		int regionEndInd = location.indexOf('!', regionStartInd);
+
+		String area = location.substring(areaStartInd, areaEndInd);
+		String region = location.substring(regionStartInd, regionEndInd);
+		String[] splitRegion = region.split("\\s+");
+		if (splitRegion.length > 1)
+			region = splitRegion[0] + "_" + splitRegion[1];
+		String book;
+
+		// find relevant directory
+		switch (area) {
+			case "MIND":
+				book = Constants.MIND;
+				break;
+			default:
+				book = "";
+				break;
+		}
+
+		// find & return relevant filepath
+		for (String filepath : dialogueFiles.get(book))
+			if (filepath.contains(region))
+				return filepath;
+
+		// TODO: handle error for address not found
+		return null;
+	}
+
 }

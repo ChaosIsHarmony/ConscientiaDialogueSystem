@@ -290,14 +290,15 @@ def convert_file(filepath: str) -> None:
     json_filepath = filepath[:filepath.index("/Original")] + "/JSON/" + filepath[filepath.index("/Dialogue"):filepath.index(".")] + ".json"
     print(json_filepath)
     with open(json_filepath, 'w') as f:
-      json.dump(fileJson, f)
+      f.write(fileJson)
+      #json.dump(fileJson, f)
 
 
 
 
 if __name__ == "__main__":
-    filepaths = glob.glob(os.getcwd() + "/resources/TextFiles/Original/Dialogue/*/*.mao")
-
+    filepaths = glob.glob(os.getcwd() + "/../resources/TextFiles/Original/Dialogue/*.mao")
+    
     for filepath in filepaths:
         print(filepath)
         convert_file(filepath)

@@ -17,66 +17,66 @@
                 {
                     "base": "BookOfBiracul",
                     "files": [
-                        "BIRACUL_THE_EMPYREAN"
+                        "THE_EMPYREAN"
                     ]
                 },
                 {
                     "base": "BookOfEidos",
                     "files": [
-                        "EIDOS_CANYON",
-                        "EIDOS_DAWN_FORTRESS",
-                        "EIDOS_DAZIR",
-                        "EIDOS_SANCTUARY",
-                        "EIDOS_TAMBUL",
-                        "EIDOS_URRUK",
-                        "EIDOS_WASTELAND",
-                        "EIDOS_WELLSPRING",
-                        "EIDOS_WILDERNESS"
+                        "CANYON",
+                        "DAWN_FORTRESS",
+                        "DAZIR",
+                        "SANCTUARY",
+                        "TAMBUL",
+                        "URRUK",
+                        "WASTELAND",
+                        "WELLSPRING",
+                        "WILDERNESS"
                     ]
                 },
                 {
                     "base": "BookOfRikharr",
                     "files": [
-                        "RIKHARR_CISTERN",
-                        "RIKHARR_DAZIL",
-                        "RIKHARR_JENOWIN_PLAIN",
-                        "RIKHARR_TACRIVA",
-                        "RIKHARR_TAMBUL",
-                        "RIKHARR_WASTELAND"
+                        "CISTERN",
+                        "DAZIL",
+                        "JENOWIN_PLAIN",
+                        "TACRIVA",
+                        "TAMBUL",
+                        "WASTELAND"
                     ]
                 },
                 {
                     "base": "BookOfThetian",
                     "files": [
-                        "THETIAN_VALONHEIM"
+                        "VALONHEIM"
                     ]
                 },
                 {
                     "base": "BookOfTorma",
                     "files": [
-                       "TORMA_ARCHIVES",
-                       "TORMA_HALLS_OF_THE_ADEPTI",
-                       "TORMA_THE_NAVE",
-                       "TORMA_THE_PATH_OF_DISCIPLINE",
-                       "TORMA_THE_THRESHOLD",
-                       "TORMA_THE_VAULT",
-                       "TORMA_THE_UNDERHALLS"
+                       "ARCHIVES",
+                       "HALLS_OF_THE_ADEPTI",
+                       "THE_NAVE",
+                       "THE_PATH_OF_DISCIPLINE",
+                       "THE_THRESHOLD",
+                       "THE_VAULT",
+                       "THE_UNDERHALLS"
                     ]
                 },
                 {
                     "base": "BookOfWulfias",
                     "files": [
-                       "WULFIAS_SLUMS"
+                       "SLUMS"
                     ]
                 },
                 {
                     "base": "Mindscape",
                     "files": [
-                       "MIND_INTERSTICE",
-                       "MIND_MINDSCAPE",
-                       "MIND_NETHER_EDGE",
-                       "MIND_PALACE_OF_MEMORY",
-                       "MIND_THE_BOOKS"
+                       "INTERSTICE",
+                       "MINDSCAPE",
+                       "NETHER_EDGE",
+                       "PALACE_OF_MEMORY",
+                       "THE_BOOKS"
                     ]
                 }
             ]

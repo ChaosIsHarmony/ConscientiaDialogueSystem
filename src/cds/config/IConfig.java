@@ -7,4 +7,6 @@ public interface IConfig {
 	void loadData(JsonObject configData);
 
 	String[] addNewSaveGame(String startingBook);
+
+	String getDialogueFileFilepath(String location);
 }

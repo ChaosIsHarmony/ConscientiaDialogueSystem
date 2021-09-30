@@ -12,42 +12,38 @@ public class CDS {
 	ConfigManager configManager;
 	GameDataManager gameDataManager;
 	boolean gameLoopActive;
-	boolean loadingDialogue;
+
+	// states
+	private final int LOADING_DIALOGUE = 0;
+	private final int WAITING_FOR_INPUT = 1;
+	private int gameState = LOADING_DIALOGUE;
 
 	public CDS(ConfigManager configManager, GameDataManager gameDataManager) {
 		this.configManager = configManager;
 		this.gameDataManager = gameDataManager;
 		gameLoopActive = true;
-		loadingDialogue = true;
 		while (gameLoopActive) update();
 	}
 
+
 	public void update() {
-		if (loadingDialogue) {
-			// check updated event info
+		switch (gameState) {
+			case LOADING_DIALOGUE:
+				// load relevant dialogue and choices
+				Dialogue currentDialogue = configManager.getDialogueProcessor().getDialogue(gameDataManager);
 
-			// load relevant dialogue
-			Dialogue currentDialogue = loadDialogue();
+				// display dialogue and choices
+				System.out.println("CDS:update: " + currentDialogue.getNpcText());
 
-			// System.out.println(dialogue);
-			// load relevant choices
-
-			// display dialogue and choices
-
-			// update event info
-
-			loadingDialogue = false;
-		}
-
-		// Wait for player input
-	}
-
-	private Dialogue loadDialogue() {
-			String currentNpcName = (String) gameDataManager.getPlayerValue(Constants.PLAYER_CURRENT_NPC).getValue();
-			ConscientiaNpc currentNpc = gameDataManager.getNpcValue(currentNpcName);
-			String currentLocation = (String) gameDataManager.getPlayerValue(Constants.PLAYER_CURRENT_LOCATION).getValue();
-			String currentAddress = currentNpc.getAddress(currentLocation);
-			String dialogue = configManager.getDialogueProcessor().getDialogue(currentAddress, currentNpc);
-			return null;
+				// switch to waiting for player input
+				gameState = WAITING_FOR_INPUT;
+				break;
+			case WAITING_FOR_INPUT:
+				gameState = -1;
+				break;
+			default:
+				gameLoopActive = false;
+				break;
+			}
 	}
 }
