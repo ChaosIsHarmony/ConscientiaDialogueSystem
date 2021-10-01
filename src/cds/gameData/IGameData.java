@@ -15,4 +15,7 @@ public interface IGameData {
 
 	void setNpcValue(String varName, ConscientiaNpc varValue);
 	ConscientiaNpc getNpcValue(String varName);
+
+	void setTriggeredEvent(int eventNum);
+	Boolean getTriggeredEvent(int eventNum);
 }

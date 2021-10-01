@@ -58,17 +58,21 @@ public class CDS {
 			case WAITING_FOR_INPUT:
 				int responseInd = configManager.getInputHandler().selectResponse();
 
-				configManager.getRenderer().show("CHOSEN RESPONSE: " + currentDialogue.getResponses().get(responseInd).getText());
+				if (responseInd < currentDialogue.getResponses().size()) {
+					configManager.getRenderer().show("CHOSEN RESPONSE: " + currentDialogue.getResponses().get(responseInd).getText());
 
-				// Add to player affinity
-				String personality = currentDialogue.getResponses().get(responseInd).getPersonality();
-				int affinityPoints = currentDialogue.getResponses().get(responseInd).getAffinityPoints();
-				int currentAffinity = (Integer) gameDataManager.getPlayerValue(personality).getValue();
-				gameDataManager.setPlayerValue(personality, new JsonValue<Integer>(currentAffinity + affinityPoints));
+					// Add to player affinity
+					String personality = currentDialogue.getResponses().get(responseInd).getPersonality();
+					int affinityPoints = currentDialogue.getResponses().get(responseInd).getAffinityPoints();
+					int currentAffinity = (Integer) gameDataManager.getPlayerValue(personality).getValue();
+					gameDataManager.setPlayerValue(personality, new JsonValue<Integer>(currentAffinity + affinityPoints));
 
-				// Move to next address
-				nextAddress = currentDialogue.getResponses().get(responseInd).getDestinationAddress();
-				gameState = LOADING_DIALOGUE;
+					// Move to next address
+					nextAddress = currentDialogue.getResponses().get(responseInd).getDestinationAddress();
+					gameState = LOADING_DIALOGUE;
+				} else {
+					configManager.getRenderer().show("Invalid Selection.");
+				}
 				break;
 			default:
 				gameLoopActive = false;

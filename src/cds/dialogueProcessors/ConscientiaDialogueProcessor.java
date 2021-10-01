@@ -14,7 +14,10 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 
 	private ConfigManager configManager;
 	private GameDataManager gameDataManager;
-	private JsonObject currentLocationDialogueJson;
+	private JsonObject dialogueJson;
+	private JsonObject eventsJson;
+	private JsonObject npcSwitchersJson;
+	private JsonObject fightingWordsJson;
 	private String currentLocation;
 	private String currentAddress;
 	private ConscientiaNpc currentNpc;
@@ -39,18 +42,35 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		currentAddress = newAddress;
 		String newLocation = parseLocation(newAddress);
 
-		// check updated event info
+		// check if address is an event address
+		if (currentAddress.contains("X")) {
+			System.out.println("Has X: " + currentAddress);
+			if (eventsJson.keySet().contains(currentAddress)) {
+				String destinationAddress = setTriggeredEvent((JsonObject) eventsJson.get(currentAddress));
+				handleEvents(destinationAddress);
+			} else if (fightingWordsJson.keySet().contains(currentAddress)) {
 
-		// check if location or npc have changed
-		if (changedLocations(newLocation))	{
-			gameDataManager.saveCurrentState();
-			switchLocations(newLocation);
+			} else if (npcSwitchersJson.keySet().contains(currentAddress)) {
+				// TODO: handle error of not finding (maybe will be in cues? or somewhere else?)
+				System.out.println("ConscientiaDialogueProcessor: handleEvents: Unimplemented Section - checking for X-addresses [cues, others(?)].");
+			}
 		}
-		if (!currentNpc.equals(newNpc)) {
-			// TODO: upon changing npc, look up npc's current address for this location
-			// currentAddress = newNpc.getAddress(newLocation);
-			System.out.println("ConscientiaDialogueProcessor: handleEvents: Unimplemented Section - checking for NPC change.");
-			currentNpc = newNpc;
+		// handle normal address
+		else {
+
+			// check if location has changed
+			if (changedLocations(newLocation))	{
+				gameDataManager.saveCurrentState();
+				switchLocations(newLocation);
+			}
+
+			// check if npc has changed
+			if (!currentNpc.equals(newNpc)) {
+				// TODO: upon changing npc, look up npc's current address for this location
+				// currentAddress = newNpc.getAddress(newLocation);
+				System.out.println("ConscientiaDialogueProcessor: handleEvents: Unimplemented Section - checking for NPC change.");
+				currentNpc = newNpc;
+			}
 		}
 	}
 
@@ -58,10 +78,9 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		Dialogue dialogue = null;
 
 		// load dialogue for given npc by location
-		if (currentLocationDialogueJson != null) {
-			JsonObject currentDialogueJson = (JsonObject) currentLocationDialogueJson.get(currentAddress);
-
-			dialogue = new Dialogue(currentDialogueJson);
+		if (dialogueJson != null) {
+			JsonObject dialogueBlockJson = (JsonObject) dialogueJson.get(currentAddress);
+			dialogue = new Dialogue(dialogueBlockJson);
 		}
 
 		return dialogue;
@@ -81,7 +100,11 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		try {
 			JsonObject fileContentsJson = configManager.getFileIO().readJsonFileToJsonObject(filepath);
 			currentLocation = newLocation;
-			currentLocationDialogueJson = (JsonObject) fileContentsJson.get("dialogue");
+			// set the relevant sections of the dialogue file
+			dialogueJson = (JsonObject) fileContentsJson.get(Constants.DIALOGUE_DIALOGUE);
+			eventsJson = (JsonObject) fileContentsJson.get(Constants.DIALOGUE_EVENTS);
+			npcSwitchersJson = (JsonObject) fileContentsJson.get(Constants.DIALOGUE_NPC_SWITCHERS);
+			fightingWordsJson = (JsonObject) fileContentsJson.get(Constants.DIALOGUE_FIGHTING_WORDS);
 		} catch (IOException e) {
 			System.err.println("ConscientiaDialogueProcessor:switchLocations: Failed to load dialogue file: " + currentLocation + " | " + filepath);
 			e.printStackTrace();
@@ -95,5 +118,9 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		return address.substring(0, endInd);
 	}
 
-	// update event info
+	private String setTriggeredEvent(JsonObject eventBlock) {
+		int eventNum = eventBlock.get(Constants.EVENTS_EVENT_NUMBER).getAsInt();
+		gameDataManager.setTriggeredEvent(eventNum);
+		return eventBlock.get(Constants.EVENTS_DESTINATION_ADDRESS).getAsString();
+	}
 }

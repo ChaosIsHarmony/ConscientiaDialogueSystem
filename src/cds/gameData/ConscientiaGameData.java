@@ -145,4 +145,9 @@ public class ConscientiaGameData implements IGameData {
 	public void setNpcValue(String varName, ConscientiaNpc varValue) { npcsData.put(varName, varValue); }
 	public ConscientiaNpc getNpcValue(String varName) { return npcsData.get(varName); }
 
+	// event numbers are parsed as Strings because they are json keys,
+	// but when stored as part of dialogue actions, they are ints
+	public void setTriggeredEvent(int eventNum) { triggeredEvents.put(""+eventNum, true); }
+	public Boolean getTriggeredEvent(int eventNum) { return triggeredEvents.get(""+eventNum); }
+
 }
