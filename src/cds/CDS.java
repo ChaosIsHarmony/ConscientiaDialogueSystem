@@ -16,7 +16,7 @@ public class CDS {
 	Dialogue currentDialogue;
 	String nextAddress;
 
-	// states
+	// states for fsm
 	private final int LOADING_DIALOGUE = 0;
 	private final int WAITING_FOR_INPUT = 1;
 	private int gameState = LOADING_DIALOGUE;
@@ -58,6 +58,7 @@ public class CDS {
 			case WAITING_FOR_INPUT:
 				int responseInd = configManager.getInputHandler().selectResponse();
 
+				// ensure valid input
 				if (responseInd < currentDialogue.getResponses().size()) {
 					configManager.getRenderer().show("CHOSEN RESPONSE: " + currentDialogue.getResponses().get(responseInd).getText());
 
