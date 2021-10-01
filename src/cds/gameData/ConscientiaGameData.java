@@ -142,8 +142,15 @@ public class ConscientiaGameData implements IGameData {
 	public void setPlayerValue(String varName, JsonValue<?> varValue) { playerSaveVariables.put(varName, varValue); }
 	public JsonValue<?> getPlayerValue(String varName) { return playerSaveVariables.get(varName); }
 
-	public void setNpcValue(String varName, ConscientiaNpc varValue) { npcsData.put(varName, varValue); }
-	public ConscientiaNpc getNpcValue(String varName) { return npcsData.get(varName); }
+	public void setNpc(ConscientiaNpc varValue) { npcsData.put(varValue.getName(), varValue); }
+	public ConscientiaNpc getNpcByName(String varName) { return npcsData.get(varName); }
+	public ConscientiaNpc getNpcById(int varId) {
+		for (String npcName : npcsData.keySet())
+			if (npcsData.get(npcName).getId() == varId)	return npcsData.get(npcName);
+		// TODO: handle npc not found error
+		System.out.println("ConscientiaGameData:getNpcById: Unimplemented Section - Handle NPC not found error.");
+		return null;
+	}
 
 	// event numbers are parsed as Strings because they are json keys,
 	// but when stored as part of dialogue actions, they are ints

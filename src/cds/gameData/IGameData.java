@@ -13,8 +13,9 @@ public interface IGameData {
 	void setPlayerValue(String varName, JsonValue<?> varValue);
 	JsonValue<?> getPlayerValue(String varName);
 
-	void setNpcValue(String varName, ConscientiaNpc varValue);
-	ConscientiaNpc getNpcValue(String varName);
+	void setNpc(ConscientiaNpc varValue);
+	ConscientiaNpc getNpcByName(String varName);
+	ConscientiaNpc getNpcById(int varId);
 
 	void setTriggeredEvent(int eventNum);
 	Boolean getTriggeredEvent(int eventNum);

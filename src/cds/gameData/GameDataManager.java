@@ -36,8 +36,9 @@ public class GameDataManager {
 	public void setPlayerValue(String varName, JsonValue<?> varValue) { gameData.setPlayerValue(varName, varValue); }
 	public JsonValue<?> getPlayerValue(String varName) { return gameData.getPlayerValue(varName); }
 
-	public void setNpcValue(String varName, ConscientiaNpc varValue) { gameData.setNpcValue(varName, varValue); }
-	public ConscientiaNpc getNpcValue(String varName) { return gameData.getNpcValue(varName); }
+	public void setNpc(ConscientiaNpc varValue) { gameData.setNpc(varValue); }
+	public ConscientiaNpc getNpcByName(String varName) { return gameData.getNpcByName(varName); }
+	public ConscientiaNpc getNpcById(int varId) { return gameData.getNpcById(varId); }
 
 	public void setTriggeredEvent(int eventNum) { gameData.setTriggeredEvent(eventNum); }
 	public Boolean getTriggeredEvent(int eventNum) { return gameData.getTriggeredEvent(eventNum); }

@@ -27,7 +27,7 @@ public class CDS {
 
 		// determine initial dialogue address
 		String currentNpcName = (String) gameDataManager.getPlayerValue(Constants.PLAYER_CURRENT_NPC).getValue();
-		ConscientiaNpc initialNpc = gameDataManager.getNpcValue(currentNpcName);
+		ConscientiaNpc initialNpc = gameDataManager.getNpcByName(currentNpcName);
 		String currentLocation = (String) gameDataManager.getPlayerValue(Constants.PLAYER_CURRENT_LOCATION).getValue();
 		nextAddress = initialNpc.getAddress(currentLocation);
 
