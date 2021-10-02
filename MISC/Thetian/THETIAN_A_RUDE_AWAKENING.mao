@@ -1,0 +1,499 @@
+	
+________________________________________________________________________
+2. A RUDE AWAKENING
+________________________________________________________________________
+
+Starting options:
+
+With flora, in the study
+With flora, in the chambers
+Without flora, in the study
+Without flora, in the foyer
+
+    [/JER!A RUDE AWAKENING!THE MASTER'S CHAMBERS!221.X000!DESCRIPTION!]
+        ||
+        *I awoke to see the sun streaming into my room. It was morning. I could hear knocking at the front door. Getting up, I walked down the stairs to the foyer.*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE FOYER!221.X001!DESCRIPTION!}       
+    [JER!A RUDE AWAKENING!THE MASTER'S CHAMBERS!221.X000!DESCRIPTION!/]
+	
+    [/JER!A RUDE AWAKENING!THE STUDY!222.X000!DESCRIPTION!]
+        ||
+        *I awoke to see bands of sunlight shinging through the boards in the study window. It was morning. I could hear knocking at the front door. Getting up, I walked down the stairs to the foyer.*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE FOYER!220.X001!DESCRIPTION!}       
+    [JER!A RUDE AWAKENING!THE STUDY!222.X000!DESCRIPTION!/]	
+	
+    [/JER!A RUDE AWAKENING!THE FOYER!223.X000!DESCRIPTION!]
+        ||
+        *I awoke to see the sun streaming in. It was morning. Before I could do anything, there was a knock upon the front door. *
+        (A#...){A:0,JER!A RUDE AWAKENING!THE FOYER!9999.X2101!DESCRIPTION!}       
+    [JER!A RUDE AWAKENING!THE FOYER!223.X000!DESCRIPTION!/]		
+
+//Multichecker to determine who will visit Thetian. This is determined by his reaction to Flora's visit.//	
+    [/JER!A RUDE AWAKENING!THE FOYER!220.X001!DESCRIPTION!]
+		||
+		*MULTICHECKER*
+		(A#CHECKER){A:0,NO ADDRESS}       
+    [JER!A RUDE AWAKENING!THE FOYER!220.X001!DESCRIPTION!/]
+	
+	
+	
+	
+    [/JER!A RUDE AWAKENING!THE FOYER!221.X100!DESCRIPTION!]
+        |@:JER!A RUDE AWAKENING!THE FOYER!221.X002!DESCRIPTION!|
+        *As I walked down the stairs, I saw that Flora had already resumed her duties. She was receiving my visitor, whose garb was unmistable: the Bishop. I dismissed Flora and adressed my guest.*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE FOYER!9999.X2101!DESCRIPTION!}       
+    [JER!A RUDE AWAKENING!THE FOYER!221.X100!DESCRIPTION!/]
+
+    [/JER!A RUDE AWAKENING!THE FOYER!222.X0010!DESCRIPTION!]
+        |@:JER!A RUDE AWAKENING!THE FOYER!222.X002!DESCRIPTION!|
+        *I alighted from the stairs and approached the front door. Looking through the spyglass, I saw a visitor whose garb was unmistable: the Bishop. I unbarred the door and opened it.*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE FOYER!9999.X2102!DESCRIPTION!}       
+    [JER!A RUDE AWAKENING!THE FOYER!222.X0010!DESCRIPTION!/]	
+	
+    [/JER!A RUDE AWAKENING!THE FOYER!222.X500!DESCRIPTION!]
+        |@:JER!A RUDE AWAKENING!THE FOYER!222.X002!DESCRIPTION!|
+        *I alighted from the stairs and approached the front door. Looking through the spyglass, I saw that it was a woman. I remembered her from my youth but I could not recall her name. I unbarred the door and opened it.*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE FOYER!9999.X2102!DESCRIPTION!}       
+    [JER!A RUDE AWAKENING!THE FOYER!222.X500!DESCRIPTION!/]
+		
+
+
+
+    [/JER!A RUDE AWAKENING!THE FOYER!220.X000!BISHOP!]
+        ||
+        *"Welcome home Thetian! Valonheim needs you and your family's proud blood once again. Will you come to the Basillica with me?*
+        (A#"Yes, I will go."){A:0,JER!A RUDE AWAKENING!THE FOYER!9990.X1110!BISHOP!}  
+        (B#"No, I won't go."){B:0,JER!A RUDE AWAKENING!THE FOYER!9990.X1111!BISHOP!} 		
+    [JER!A RUDE AWAKENING!THE FOYER!220.X000!BISHOP!/]
+
+    [/JER!A RUDE AWAKENING!THE FOYER!220.X1110!BISHOP!]
+        ||
+        *"Excellent! Let us go!*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE FOYER!9999.X9999!BISHOP!}  		
+    [JER!A RUDE AWAKENING!THE FOYER!220.X1110!BISHOP!/]	
+
+    [/JER!A RUDE AWAKENING!THE FOYER!220.X1111!BISHOP!]
+        ||
+        *"Bah! A pox on you!*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE FOYER!9999.X9999!BISHOP!}  		
+    [JER!A RUDE AWAKENING!THE FOYER!220.X1111!BISHOP!/]
+	
+    [/JER!A RUDE AWAKENING!THE FOYER!221.X000!ALANNA!]
+        ||
+        *"Welcome home Thetian! Valonheim needs you and your family's proud blood once again. Will you come to the meeting with me?*
+        (A#"Yes, I will go."){A:0,JER!A RUDE AWAKENING!THE FOYER!9990.X1112!ALANNA!}  
+        (B#"No, I won't go."){B:0,JER!A RUDE AWAKENING!THE FOYER!9990.X1113!ALANNA!} 		
+    [JER!A RUDE AWAKENING!THE FOYER!221.X000!ALANNA!/]
+
+    [/JER!A RUDE AWAKENING!THE FOYER!221.X1110!ALANNA!]
+        ||
+        *"Excellent! Let us go!*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE FOYER!9999.X9999!ALANNA!}  		
+    [JER!A RUDE AWAKENING!THE FOYER!221.X1110!ALANNA!/]	
+	
+    [/JER!A RUDE AWAKENING!THE FOYER!221.X1111!ALANNA!]
+        ||
+        *"Bah! A pox on you!*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE FOYER!9999.X9999!ALANNA!}  		
+    [JER!A RUDE AWAKENING!THE FOYER!221.X1111!ALANNA!/]	
+
+//Multichecker to determine if you will go with the Bishop, hang out with flora sans book, or hang out with flora with book//	
+    [/JER!A RUDE AWAKENING!THE FOYER!221.X002!DESCRIPTION!]
+		||
+		*MULTICHECKER*
+		(A#CHECKER){A:0,NO ADDRESS}       
+    [JER!A RUDE AWAKENING!THE FOYER!221.X002!DESCRIPTION!/]
+	
+	
+
+	
+    [/JER!A RUDE AWAKENING!THE FOYER!221.X033!DESCRIPTION!]
+        ||
+        *My visitor walked away. I was alone again*
+        (A#...){A:0,JER!A FAMILY SECRET!THE FOYER!230.X0010!DESCRIPTION!}	
+    [JER!A RUDE AWAKENING!THE FOYER!221.X033!DESCRIPTION!/]
+
+
+________________________________________________________________________
+BISHOP PATH
+	
+    [/JER!A RUDE AWAKENING!THE FOYER!221.002!DESCRIPTION!]
+        ||
+        *I followed the Bishop from the manor.*
+        (A#...){A:0,JER!A RUDE AWAKENING!VALONHEIM TOWN SQUARE!221.X000!DESCRIPTION!}      
+    [JER!A RUDE AWAKENING!THE FOYER!221.002!DESCRIPTION!/]	
+	
+    [/JER!A RUDE AWAKENING!VALONHEIM TOWN SQUARE!221.X000!DESCRIPTION!]
+        ||
+        *I followed the Bishop through the town.*
+        (A#...){A:0,JER!A RUDE AWAKENING!NAVE!221.X000!DESCRIPTION!}      
+    [JER!A RUDE AWAKENING!VALONHEIM TOWN SQUARE!221.X000!DESCRIPTION!/]		
+	
+
+A woman chasing her husband for being out in the rain.
+	
+	
+    [/JER!A RUDE AWAKENING!NAVE!221.X000!DESCRIPTION!]
+        |@:JER!A RUDE AWAKENING!NAVE!221.X001!DESCRIPTION!|
+        *I stood in the nave with the Bishop.*
+        (A#...){A:0,JER!A RUDE AWAKENING!NAVE!9999.X2101!DESCRIPTION!}       
+    [JER!A RUDE AWAKENING!NAVE!221.X000!DESCRIPTION!/]
+	
+    [/JER!A RUDE AWAKENING!NAVE!221.X000!BISHOP!]
+        ||
+        *"Look at this wonderful church. But it hides secrets. Your family has a great past and your people are in need of you. Come into the crypt and I will tell you about it."*
+        (A#...){A:0,JER!A RUDE AWAKENING!NAVE!9999.X9999!BISHOP!}       
+    [JER!A RUDE AWAKENING!NAVE!221.X000!BISHOP!/]	
+	
+    [/JER!A RUDE AWAKENING!NAVE!221.X001!DESCRIPTION!]
+        ||
+        *He took me down to the crypt.*
+        (A#...){A:0,JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X002!DESCRIPTION!}       
+    [JER!A RUDE AWAKENING!NAVE!221.X001!DESCRIPTION!/]
+	
+    [/JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X002!DESCRIPTION!]
+        |@:JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X003!DESCRIPTION!|
+        *There were graves everywhere.*
+        (A#...){A:0,JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X2101!DESCRIPTION!}       
+    [JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X002!DESCRIPTION!/]
+
+    [/JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X000!BISHOP!]
+        |@:JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!BISHOP!|
+        *"The mystics are going to destroy us and Rodrick is shirking his responcibiliy, thinking they pose no threat because of his modern ideas. Will you help restore tradition? Think about it for a while. I'll be back."*
+        (A#...){A:0,JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!} 	
+    [JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X000!BISHOP!/]	
+	
+    [/JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X003!DESCRIPTION!]
+        ||
+        *I had a chance to investigate the graves now that he was gone.*
+        (A#Do nothing.){A:0,JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X014!DESCRIPTION!}
+        (B#Snoop around.){B:0,JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1118!DESCRIPTION!}		
+    [JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X003!DESCRIPTION!/]
+	
+    [/JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X014!DESCRIPTION!]
+        |@:JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!DESCRIPTION!|
+        *Then the Bishop came back.*
+        (A#...){A:0,JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X2101!DESCRIPTION!}		
+    [JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X014!DESCRIPTION!/]
+
+    [/JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X024!DESCRIPTION!]
+        |@:JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!DESCRIPTION!|
+        *I found a headless corpse. Then the Bishop came back.*
+        (A#...){A:0,JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X2101!DESCRIPTION!}		
+    [JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X024!DESCRIPTION!/]	
+	
+    [/JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!BISHOP!]
+		||
+		*MULTICHECKER*
+		(A#CHECKER){A:0,NO ADDRESS}   	
+    [JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!BISHOP!/]
+
+    [/JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X310!BISHOP!]
+        ||
+        *"So what do you think?"*
+        (A#Yes.){A:0,JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1119!BISHOP!}   
+        (B#No.){B:0,JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!BISHOP!}   	
+    [JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X310!BISHOP!/]	
+	
+    [/JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X320!BISHOP!]
+        ||
+        *"...You were snooping around. Get out!"*
+        (A#...){A:0,JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!}   	
+    [JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X320!BISHOP!/]
+	
+    [/JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!BISHOP!]
+        ||
+        *"You make me sad."*
+        (A#...){A:0,JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!}   	
+    [JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!BISHOP!/]	
+
+    [/JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X019!BISHOP!]
+        ||
+        *"Good. There are two threats: Rodrick and the Mystics. Perhaps you can convince him to take measures against them."*
+        (A#I will pay Rodrick a visit.){A:0,JER!A RUDE AWAKENING!BASILLICA CRYPT!0.X1119!BISHOP!}		
+    [JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X019!BISHOP!/]
+
+    [/JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X200!BISHOP!]
+        ||
+        *"Good. Go see Rodrick then."*
+        (A#...){A:0,JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!}	
+    [JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X200!BISHOP!/]
+	
+    [/JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!DESCRIPTION!]
+		||
+		*MULTICHECKER*
+		(A#CHECKER){A:0,NO ADDRESS}   	
+    [JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!DESCRIPTION!/]
+
+    [/JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!DESCRIPTION!]
+        ||
+        *I left for Rodrick's Mansion.*
+        (A#...){A:0,JER!THROUGH THE SILVER GATES!VALONHEIM TOWN SQUARE!310.X000!DESCRIPTION!}		
+    [JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!DESCRIPTION!/]
+	
+    [/JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X039!DESCRIPTION!]
+        ||
+        *The Bishop kicked me out.*
+        (A#...){A:0,JER!LOOSE ENDS!VALONHEIM TOWN SQUARE!200.X000!DESCRIPTION!}		
+    [JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X039!DESCRIPTION!/]	
+
+
+________________________________________________________________________
+CULT PATH	
+    [/JER!A RUDE AWAKENING!THE FOYER!222.002!DESCRIPTION!]
+        ||
+        *I followed Alanna.*
+        (A#...){A:0,JER!A RUDE AWAKENING!VALONHEIM TOWN SQUARE!222.X000!DESCRIPTION!}      
+    [JER!A RUDE AWAKENING!THE FOYER!222.002!DESCRIPTION!/]
+
+    [/JER!A RUDE AWAKENING!VALONHEIM TOWN SQUARE!222.X000!DESCRIPTION!]
+        ||
+        *I followed Alanna through the town.*
+        (A#...){A:0,JER!A RUDE AWAKENING!MEETING HALL!222.X000!DESCRIPTION!}      
+    [JER!A RUDE AWAKENING!VALONHEIM TOWN SQUARE!222.X000!DESCRIPTION!/]
+
+	
+    [/JER!A RUDE AWAKENING!MEETING HALL!222.X000!DESCRIPTION!]
+        |@:JER!A RUDE AWAKENING!MEETING HALL!222.X001!DESCRIPTION!|
+        *I stood in the meeting hall with Alanna.*
+        (A#...){A:0,JER!A RUDE AWAKENING!MEETING HALL!9999.X2102!DESCRIPTION!}       
+    [JER!A RUDE AWAKENING!MEETING HALL!222.X000!DESCRIPTION!/]
+	
+    [/JER!A RUDE AWAKENING!MEETING HALL!222.X000!ALANNA!]
+        ||
+        *"Look at this township. It is decaying all around us. But in you runs the blood of the true Jerans. Come into the inner and I will tell you about it."*
+        (A#...){A:0,JER!A RUDE AWAKENING!MEETING HALL!9999.X9999!ALANNA!}       
+    [JER!A RUDE AWAKENING!MEETING HALL!222.X000!ALANNA!/]	
+	
+    [/JER!A RUDE AWAKENING!MEETING HALL!222.X001!DESCRIPTION!]
+        ||
+        *She took me down to a secret room.*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE CIRCLE!222.X002!DESCRIPTION!}       
+    [JER!A RUDE AWAKENING!MEETING HALL!222.X001!DESCRIPTION!/]
+	
+    [/JER!A RUDE AWAKENING!THE CIRCLE!222.X002!DESCRIPTION!]
+        |@:JER!A RUDE AWAKENING!THE CIRCLE!222.X003!DESCRIPTION!|
+        *There was a man in robes there.*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE CIRCLE!9999.X2001!DESCRIPTION!}       
+    [JER!A RUDE AWAKENING!THE CIRCLE!222.X002!DESCRIPTION!/]
+
+    [/JER!A RUDE AWAKENING!THE CIRCLE!222.X000!VITRIOX!]
+        |@:JER!A RUDE AWAKENING!THE CIRCLE!222.X005!VITRIOX!|
+        *"The mystics are going to destroy us and Rodrick is shirking his responcibiliy, thinking they pose no threat because of his modern ideas. The church is also not to be trusted. I propose a kind of ethnic essentialism. We are Jeran. That is the code we should follow. Not the foriegn religion of Biracul but the religion of our forefathers. Will you help restore REAL tradition? Think about it for a while. I'll be back."*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!} 	
+    [JER!A RUDE AWAKENING!THE CIRCLE!222.X000!VITRIOX!/]	
+	
+    [/JER!A RUDE AWAKENING!THE CIRCLE!222.X003!DESCRIPTION!]
+        ||
+        *I had a chance to investigate the room now that he was gone.*
+        (A#Do nothing.){A:0,JER!A RUDE AWAKENING!THE CIRCLE!222.X014!DESCRIPTION!}
+        (B#Snoop around.){B:0,JER!A RUDE AWAKENING!THE CIRCLE!9990.X1118!DESCRIPTION!}		
+    [JER!A RUDE AWAKENING!THE CIRCLE!222.X003!DESCRIPTION!/]
+	
+    [/JER!A RUDE AWAKENING!THE CIRCLE!222.X014!DESCRIPTION!]
+        |@:JER!A RUDE AWAKENING!THE CIRCLE!222.X005!DESCRIPTION!|
+        *Then VITRIOX came back.*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE CIRCLE!9999.X2101!DESCRIPTION!}		
+    [JER!A RUDE AWAKENING!THE CIRCLE!222.X014!DESCRIPTION!/]
+
+    [/JER!A RUDE AWAKENING!THE CIRCLE!222.X024!DESCRIPTION!]
+        |@:JER!A RUDE AWAKENING!THE CIRCLE!222.X005!DESCRIPTION!|
+        *I found a headless corpse. Then VITRIOX came back.*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE CIRCLE!9999.X2101!DESCRIPTION!}		
+    [JER!A RUDE AWAKENING!THE CIRCLE!222.X024!DESCRIPTION!/]	
+	
+    [/JER!A RUDE AWAKENING!THE CIRCLE!222.X005!VITRIOX!]
+		||
+		*MULTICHECKER*
+		(A#CHECKER){A:0,NO ADDRESS}   	
+    [JER!A RUDE AWAKENING!THE CIRCLE!222.X005!VITRIOX!/]
+
+    [/JER!A RUDE AWAKENING!THE CIRCLE!222.X310!VITRIOX!]
+        ||
+        *"So what do you think?"*
+        (A#Yes.){A:0,JER!A RUDE AWAKENING!THE CIRCLE!9990.X1120!VITRIOX!}   
+        (B#No.){B:0,JER!A RUDE AWAKENING!THE CIRCLE!222.X029!VITRIOX!}   	
+    [JER!A RUDE AWAKENING!THE CIRCLE!222.X310!VITRIOX!/]	
+	
+    [/JER!A RUDE AWAKENING!THE CIRCLE!222.X320!VITRIOX!]
+        ||
+        *"...You were snooping around. Get out!"*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!}   	
+    [JER!A RUDE AWAKENING!THE CIRCLE!222.X320!VITRIOX!/]
+	
+    [/JER!A RUDE AWAKENING!THE CIRCLE!222.X029!VITRIOX!]
+        ||
+        *"You make me sad."*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!}   	
+    [JER!A RUDE AWAKENING!THE CIRCLE!222.X029!VITRIOX!/]	
+
+    [/JER!A RUDE AWAKENING!THE CIRCLE!222.X019!VITRIOX!]
+        ||
+        *"Good. There are two threats: Rodrick and the Mystics. Perhaps you can convince him to take measures against them."*
+        (A#I will pay Rodrick a visit.){A:0,JER!A RUDE AWAKENING!THE CIRCLE!9990.X1120!VITRIOX!}		
+    [JER!A RUDE AWAKENING!THE CIRCLE!222.X019!VITRIOX!/]
+
+    [/JER!A RUDE AWAKENING!THE CIRCLE!222.X200!VITRIOX!]
+        ||
+        *"Good. Go see Rodrick then."*
+        (A#...){A:0,JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!}	
+    [JER!A RUDE AWAKENING!THE CIRCLE!222.X200!VITRIOX!/]
+	
+    [/JER!A RUDE AWAKENING!THE CIRCLE!222.X005!DESCRIPTION!]
+		||
+		*MULTICHECKER*
+		(A#CHECKER){A:0,NO ADDRESS}   	
+    [JER!A RUDE AWAKENING!THE CIRCLE!222.X005!DESCRIPTION!/]
+
+    [/JER!A RUDE AWAKENING!THE CIRCLE!222.X029!DESCRIPTION!]
+        ||
+        *I left for Rodrick's Mansion.*
+        (A#...){A:0,JER!THROUGH THE SILVER GATES!VALONHEIM TOWN SQUARE!310.X000!DESCRIPTION!}		
+    [JER!A RUDE AWAKENING!THE CIRCLE!222.X029!DESCRIPTION!/]
+	
+    [/JER!A RUDE AWAKENING!THE CIRCLE!222.X039!DESCRIPTION!]
+        ||
+        *VITRIOX kicked me out.*
+        (A#...){A:0,JER!LOOSE ENDS!VALONHEIM TOWN SQUARE!200.X000!DESCRIPTION!}		
+    [JER!A RUDE AWAKENING!THE CIRCLE!222.X039!DESCRIPTION!/]	
+
+	
+________________________________________________________________________
+EVENT WRITERS
+
+	[/JER!A RUDE AWAKENING!THE FOYER!9990.X1110!BISHOP!]
+		|1110:JER!A RUDE AWAKENING!THE FOYER!220.X1110!BISHOP!|
+		*EVENT WRITER - Agreed to go to the Basillica*
+		(A#WRITER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!THE FOYER!9990.X1110!BISHOP!/]
+	
+	[/JER!A RUDE AWAKENING!THE FOYER!9990.X1111!BISHOP!]
+		|1111:JER!A RUDE AWAKENING!THE FOYER!220.X1111!BISHOP!|
+		*EVENT WRITER - Will not go to the Basillica*
+		(A#WRITER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!THE FOYER!9990.X1111!BISHOP!/]
+
+	[/JER!A RUDE AWAKENING!THE FOYER!9990.X1112!ALANNA!]
+		|1112:JER!A RUDE AWAKENING!THE FOYER!120.X1112!ALANNA!|
+		*EVENT WRITER - Agreed to go to the meeting*
+		(A#WRITER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!THE FOYER!9990.X1112!ALANNA!/]
+
+	[/JER!A RUDE AWAKENING!THE FOYER!9990.X1113!ALANNA!]
+		|1113:JER!A RUDE AWAKENING!THE FOYER!120.X1113!ALANNA!|
+		*EVENT WRITER - Will not go to the meeting*
+		(A#WRITER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!THE FOYER!9990.X1113!ALANNA!/]	
+
+	[/JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.XEVENT1!DESCRIPTION!]
+		|EVENT1:JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X019!BISHOP!|
+		*EVENT WRITER - Accept the Bishop's mission*
+		(A#WRITER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.XEVENT1!DESCRIPTION!/]
+
+	[/JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.XEVENT2!DESCRIPTION!]
+		|EVENT2:JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!BISHOP!|
+		*EVENT WRITER - Refuse the Bishop's mission*
+		(A#WRITER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.XEVENT2!DESCRIPTION!/]
+
+	[/JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1118!DESCRIPTION!]
+		|1118:JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X024!DESCRIPTION!|
+		*EVENT WRITER - Snooped around and found the headless corpse.*
+		(A#WRITER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1118!DESCRIPTION!/]
+
+	[/JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1119!BISHOP!]
+		|1119:JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X200!BISHOP!|
+		*EVENT WRITER - Go see Rodrick*
+		(A#WRITER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1119!BISHOP!/]
+	
+	[/JER!A RUDE AWAKENING!THE CIRCLE!9990.X1120!VITRIOX!]
+		|1120:JER!A RUDE AWAKENING!THE CIRCLE!222.X200!VITRIOX!|
+		*EVENT WRITER - Go see Rodrick for cult*
+		(A#WRITER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!THE CIRCLE!9990.X1120!VITRIOX!/]	
+	
+________________________________________________________________________
+NPC SWITCHERS
+
+
+	[/JER!A RUDE AWAKENING!THE FOYER!9999.X2101!DESCRIPTION!]
+		|#npcSwitch:2101|
+		*BISHOP*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!THE FOYER!9999.X2101!DESCRIPTION!/]	
+	
+	[/JER!A RUDE AWAKENING!THE FOYER!9999.X2102!DESCRIPTION!]
+		|#npcSwitch:2102|
+		*ALANNA*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!THE FOYER!9999.X2102!DESCRIPTION!/]
+	
+	[/JER!A RUDE AWAKENING!MEETING HALL!9999.X2102!DESCRIPTION!]
+		|#npcSwitch:2102|
+		*ALANNA*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!MEETING HALL!9999.X2102!DESCRIPTION!/]	
+	
+	[/JER!A RUDE AWAKENING!THE CIRCLE!9999.X2001!DESCRIPTION!]
+		|#npcSwitch:2001|
+		*VITRIOX*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!THE CIRCLE!9999.X2001!DESCRIPTION!/]	
+
+	[/JER!A RUDE AWAKENING!THE FOYER!9999.X9999!ALANNA!]
+		|#npcSwitch:9999|
+		*ALANNA to DESCRIPTION*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!THE FOYER!9999.X9999!ALANNA!/]
+
+	[/JER!A RUDE AWAKENING!MEETING HALL!9999.X9999!ALANNA!]
+		|#npcSwitch:9999|
+		*ALANNA to DESCRIPTION*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!MEETING HALL!9999.X9999!ALANNA!/]
+	
+	[/JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!]
+		|#npcSwitch:9999|
+		*VITRIOX to DESCRIPTION*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!/]	
+	
+	[/JER!A RUDE AWAKENING!THE FOYER!9999.X9999!BISHOP!]
+		|#npcSwitch:9999|
+		*BISHOP to DESCRIPTION*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!THE FOYER!9999.X9999!BISHOP!/]
+
+	[/JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X2101!DESCRIPTION!]
+		|#npcSwitch:2101|
+		*BISHOP*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X2101!DESCRIPTION!/]
+
+	[/JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!]
+		|#npcSwitch:9999|
+		*BISHOP to DESCRIPTION*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!/]
+	
+	[/JER!A RUDE AWAKENING!NAVE!9999.X2101!DESCRIPTION!]
+		|#npcSwitch:2101|
+		*BISHOP*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!NAVE!9999.X2101!DESCRIPTION!/]
+
+	[/JER!A RUDE AWAKENING!NAVE!9999.X9999!BISHOP!]
+		|#npcSwitch:9999|
+		*BISHOP to DESCRIPTION*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[JER!A RUDE AWAKENING!NAVE!9999.X9999!BISHOP!/]	
+
+________________________________________________________________________
+EVENT WRITERS
+________________________________________________________________________
+NPC SWITCHERS
+________________________________________________________________________
+FIGHTING WORDS

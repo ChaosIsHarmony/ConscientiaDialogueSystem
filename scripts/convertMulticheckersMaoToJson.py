@@ -20,6 +20,10 @@ def parse_case(block: List[str], start_ind) -> Tuple[str, int]:
     string = "\"" + str(start_ind) + "\": {}, "
     ind = start_ind + 1
     
+    for line in block:
+        if "{" in line:
+            print(line)
+    
     return string, ind
 
 
@@ -78,7 +82,7 @@ def convert_to_json(checkerStr: Dict[str, List[str]]) -> None:
     #print(jsonStr)
     
     # check for accuracy
-    check_for_accuracy(jsonStr)
+    #check_for_accuracy(jsonStr)
 
     
 def unreachable():
