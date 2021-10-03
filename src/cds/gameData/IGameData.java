@@ -20,6 +20,6 @@ public interface IGameData {
 	ConscientiaNpc getNpcByName(String varName);
 	ConscientiaNpc getNpcById(int varId);
 
-	void setTriggeredEvent(int eventNum);
+	void setTriggeredEvent(int eventNum, boolean value);
 	Boolean getTriggeredEvent(int eventNum);
 }

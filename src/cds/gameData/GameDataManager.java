@@ -45,7 +45,7 @@ public class GameDataManager {
 	public ConscientiaNpc getNpcByName(String varName) { return gameData.getNpcByName(varName); }
 	public ConscientiaNpc getNpcById(int varId) { return gameData.getNpcById(varId); }
 
-	public void setTriggeredEvent(int eventNum) { gameData.setTriggeredEvent(eventNum); }
+	public void setTriggeredEvent(int eventNum, boolean value) { gameData.setTriggeredEvent(eventNum, value); }
 	public Boolean getTriggeredEvent(int eventNum) { return gameData.getTriggeredEvent(eventNum); }
 
 }

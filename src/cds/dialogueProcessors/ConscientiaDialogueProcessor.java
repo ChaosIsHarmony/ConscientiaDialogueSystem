@@ -3,6 +3,7 @@ package cds.dialogueProcessors;
 import cds.config.ConfigManager;
 import cds.entities.ConscientiaNpc;
 import cds.entities.Dialogue;
+import cds.entities.MulticheckerBlock;
 import cds.gameData.GameDataManager;
 import cds.utils.Constants;
 
@@ -41,20 +42,34 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		// check if address is an event address
 		if (newAddress.contains("X")) {
 			System.out.println("Has X: " + newAddress);
+			// trigger an event
 			if (eventsJson.keySet().contains(newAddress)) {
 				String destinationAddress = setTriggeredEvent((JsonObject) eventsJson.get(newAddress));
 				gameDataManager.saveCurrentState();
 				handleEvents(destinationAddress);
-			} else if (fightingWordsJson.keySet().contains(newAddress)) {
+			}
+			// fight
+			else if (fightingWordsJson.keySet().contains(newAddress)) {
 				System.out.println("ConscientiaDialogueProcessor:handleEvents: Unimplemented Section - FIGHTING WORDS.");
 				gameDataManager.saveCurrentState();
-			} else if (npcSwitchersJson.keySet().contains(newAddress)) {
+			}
+			// switch npcs
+			else if (npcSwitchersJson.keySet().contains(newAddress)) {
 				String destinationAddress = switchNpcs(npcSwitchersJson.get(newAddress).getAsInt(), newLocation);
 				gameDataManager.saveCurrentState();
 				handleEvents(destinationAddress);
-			} else {
+			}
+			// use multichecker
+			else if (gameDataManager.getMultichecker().keySet().contains(newAddress)) {
+				MulticheckerBlock mb = gameDataManager.getMultichecker().get(newAddress);
+				System.out.println("MULTI: " + mb.getDestinationAddress(gameDataManager));
+			}
+			// event checker, at-forcer, affinity checker, cues
+			else {
+				JsonObject dialogueBlockJson = (JsonObject) dialogueJson.get(newAddress);
+				System.out.println(dialogueBlockJson.get("action"));
 				// TODO: handle error of not finding (maybe will be in cues? or somewhere else?)
-				System.out.println("ConscientiaDialogueProcessor:handleEvents: Unimplemented Section - checking for X-addresses [multichecker, affinity checker, cues, others(?)].");
+				System.out.println("ConscientiaDialogueProcessor:handleEvents: Unimplemented Section - checking for X-addresses [at-forcers, affinity checker, cues, others(?)].");
 				currentAddress = newAddress;// will switch when I figure out what to do here
 			}
 		}
@@ -83,7 +98,6 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 
 		return newDialogue;
 	}
-
 
 	private boolean changedLocations(String newLocation) {
 		// find index of 2nd ! and compare the values
@@ -120,7 +134,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 
 	private String setTriggeredEvent(JsonObject eventBlock) {
 		int eventNum = eventBlock.get(Constants.EVENTS_EVENT_NUMBER).getAsInt();
-		gameDataManager.setTriggeredEvent(eventNum);
+		gameDataManager.setTriggeredEvent(eventNum, true);
 		return eventBlock.get(Constants.EVENTS_DESTINATION_ADDRESS).getAsString();
 	}
 

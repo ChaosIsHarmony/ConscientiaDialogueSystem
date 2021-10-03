@@ -182,7 +182,7 @@ public class ConscientiaGameData implements IGameData {
 
 	// event numbers are parsed as Strings because they are json keys,
 	// but when stored as part of dialogue actions, they are ints
-	public void setTriggeredEvent(int eventNum) { triggeredEvents.put(""+eventNum, true); }
+	public void setTriggeredEvent(int eventNum, boolean value) { triggeredEvents.put(""+eventNum, value); }
 	public Boolean getTriggeredEvent(int eventNum) { return triggeredEvents.get(""+eventNum); }
 
 }
