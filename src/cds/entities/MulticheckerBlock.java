@@ -98,6 +98,11 @@ public class MulticheckerBlock {
 				else if (event.contains("#")) {
 					return resetEvent(gameDataManager, event);
 				}
+				// is a default address
+				else if (event.contains("-"))
+				{
+					return true;
+				}
 				// check normally
 				else {
 					int eventNum = Integer.parseInt(event);

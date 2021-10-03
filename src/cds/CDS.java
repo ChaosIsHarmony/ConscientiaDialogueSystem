@@ -41,10 +41,10 @@ public class CDS {
 		switch (gameState) {
 			case LOADING_DIALOGUE:
 				// handle events before getting dialogue
-				configManager.getDialogueProcessor().handleEvents(nextAddress);
+				String address = configManager.getDialogueProcessor().handleEvents(nextAddress);
 
 				// load relevant dialogue and choices
-				currentDialogue = configManager.getDialogueProcessor().getDialogue();
+				currentDialogue = configManager.getDialogueProcessor().getDialogue(address);
 
 				// display dialogue and choices
 				configManager.getRenderer().show(currentDialogue.getNpcText());

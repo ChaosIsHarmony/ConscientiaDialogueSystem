@@ -29,7 +29,7 @@ public class ConscientiaGameData implements IGameData {
 	// Npc Save
 	private HashMap<String, ConscientiaNpc> npcsData;
 	// Multicheckers
-	private HashMap<String, MulticheckerBlock> multicheckers;
+	private HashMap<String, MulticheckerBlock> multichecker;
 
 
 	public ConscientiaGameData(GameDataManager gameDataManager, String startingBook, String saveFilepath) {
@@ -141,31 +141,31 @@ public class ConscientiaGameData implements IGameData {
 	}
 
 	private void parseMultichecker() {
-		multicheckers = new HashMap<>();
+		multichecker = new HashMap<>();
 		String filepath = gameDataManager.configManager.getConfig().getMulticheckerFilepath();
 
-		JsonObject multicheckersJson = null;
+		JsonObject multicheckerJson = null;
 		try {
-			multicheckersJson = gameDataManager.configManager.getFileIO().readJsonFileToJsonObject(filepath);
+			multicheckerJson = gameDataManager.configManager.getFileIO().readJsonFileToJsonObject(filepath);
 		} catch (FileNotFoundException e) {
 			System.err.println("ConscientiaGameData:parseMultichecker: Could not load multichecker file: " + e.getMessage());
 			e.printStackTrace();
 		}
 
-		for (String address : multicheckersJson.keySet()) {
-			MulticheckerBlock mb = new MulticheckerBlock(address, multicheckersJson.get(address).getAsJsonObject());
+		for (String address : multicheckerJson.keySet()) {
+			MulticheckerBlock mb = new MulticheckerBlock(address, multicheckerJson.get(address).getAsJsonObject());
+			multichecker.put(address, mb);
 		}
 	}
 
 
 	// ACCESSORS & MUTATORS
 	public void saveCurrentState() {
-		// TODO: save the current state of the game
 		// This will entail rewriting all changed variables and triggeredEvents
 		System.out.println("ConscientiaGameData: saveCurrentState: Unimplemented Method.");
 	}
 
-	public HashMap<String, MulticheckerBlock> getMultichecker() { return multicheckers; }
+	public HashMap<String, MulticheckerBlock> getMultichecker() { return multichecker; }
 
 	public void setPlayerValue(String varName, JsonValue<?> varValue) { playerSaveVariables.put(varName, varValue); }
 	public JsonValue<?> getPlayerValue(String varName) { return playerSaveVariables.get(varName); }
@@ -175,7 +175,6 @@ public class ConscientiaGameData implements IGameData {
 	public ConscientiaNpc getNpcById(int varId) {
 		for (String npcName : npcsData.keySet())
 			if (npcsData.get(npcName).getId() == varId)	return npcsData.get(npcName);
-		// TODO: handle npc not found error
 		System.out.println("ConscientiaGameData:getNpcById: Unimplemented Section - Handle NPC not found error.");
 		return null;
 	}
