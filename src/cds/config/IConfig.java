@@ -9,4 +9,5 @@ public interface IConfig {
 	String[] addNewSaveGame(String startingBook);
 
 	String getDialogueFileFilepath(String location);
+	String getMulticheckerFilepath();
 }

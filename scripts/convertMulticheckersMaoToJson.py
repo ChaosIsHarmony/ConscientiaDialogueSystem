@@ -16,32 +16,69 @@ def check_for_accuracy(json_str: str) -> None:
 
 
 
-def parse_case(block: List[str], start_ind) -> Tuple[str, int]:
-    string = "\"" + str(start_ind) + "\": {}, "
-    ind = start_ind + 1
+def parse_events(event_str: str) -> str:
+    parsed_event_str = ""
     
-    for line in block:
-        if "{" in line:
-            print(line)
+    if '^' in event_str:
+        parsed_event_str += "\"and\": ["
+        start_ind = 0
+        while start_ind < len(event_str)-1:
+            start_ind = event_str.find('^', start_ind) + 1
+            end_ind = event_str.find('^', start_ind)
+            parsed_event_str += "\"" + event_str[start_ind:end_ind] + "\","
+            start_ind = end_ind
+        parsed_event_str = parsed_event_str[:-1] + "]"
+    elif '$' in event_str:
+        parsed_event_str += "\"or\": ["
+        start_ind = 0
+        while start_ind < len(event_str)-1:
+            start_ind = event_str.find('$', start_ind) + 1
+            end_ind = event_str.find('$', start_ind)
+            parsed_event_str += "\"" + event_str[start_ind:end_ind] + "\","
+            start_ind = end_ind
+        parsed_event_str = parsed_event_str[:-1] + "]"        
+    else:
+        parsed_event_str += "\"simple\": [\"" + event_str + "\"]"
     
-    return string, ind
+    return parsed_event_str
+
+
+
+def parse_case(block: List[str], start_ind: int, rank: int) -> Tuple[str, int]:
+    conditionStr = "\"" + str(rank) + "\": {"
+    ind = start_ind
+    
+    event_start = block[ind+1].find('|')+1
+    event_end = block[ind+1].find(':')
+    events = parse_events(block[ind+1][event_start:event_end]) + ", "
+    dest_add_start = event_end+1
+    dest_add_end = block[ind+1].find(',')
+    dest_add = "\"dest_add\": \"" + block[ind+1][dest_add_start:dest_add_end] + "\", "
+    description = "\"description\": \"" + block[ind][block[ind].find("//")+2:].strip() + "\""
+    
+    conditionStr += events + dest_add + description + "}, "
+    
+    ind += 2
+    
+    return conditionStr, ind
 
 
 def jsonifyBlocks(blocks: Dict[str, List[str]]) -> str:
-    blockJson = "{"
+    blocksJson = ""
     for address in blocks.keys():
         #print(address)
-        blockJson += "\"" + address + "\": {"
+        blockJson = "\"" + address + "\": {"
         ind = 0
+        rank = 0
         while ind < len(blocks[address]):
-            case, ind = parse_case(blocks[address], ind)
+            case, ind = parse_case(blocks[address], ind, rank)
             blockJson += case
+            rank += 1
             
         blockJson = blockJson[:-2] + "}, "
-        
-    blockJson = blockJson[:-2] + "}, "
+        blocksJson += blockJson
     
-    return blockJson
+    return blocksJson
 
 
 
@@ -70,65 +107,21 @@ def convert_to_json(checkerStr: Dict[str, List[str]]) -> None:
 
     jsonStr = "{"
     for name in names:
-        jsonStr += "\"" + name + "\": "
         blocks = parse_blocks(checkerStr[name])
         if len(blocks) > 1:
             jsonStr += jsonifyBlocks(blocks)
-        else:
-            jsonStr += "{}, "
         
     jsonStr = jsonStr[:-2] + "}"
-    
-    #print(jsonStr)
+        
+    print(jsonStr[:50])
     
     # check for accuracy
-    #check_for_accuracy(jsonStr)
+    check_for_accuracy(jsonStr)
 
-    
-def unreachable():
-    while true:
-        ind = 0
-        while ind < len(checkerStr[name]):
-            line = checkerStr[name][ind]
-            if '{' in line:
-                entry = {}
-                address = line[line.find('{')+1:line.find('}')]
-                ind += 1
-                
-                print("\n\nADDRESS: " + address)
-                while address not in checkerStr[name][ind]:
-                    line = checkerStr[name][ind]
-                    if '//' in line:
-                        description = line[line.find('//')+2:]
-                        while '//' in checkerStr[name][ind+1]:
-                            ind += 1
-                            line = checkerStr[name][ind]
-                            description += line[line.find('//')+2:]
-                        entry["description"] = description
-                        print("Description: " + entry["description"])
-                    elif '|' in line:
-                        event = line[line.find('|')+1:line.find(':')]
-                        dest_add = line[line.find(':')+1:line.find(',')]
-                        if '$' in event:
-                            print("OR: " + event + dest_add)
-                        elif '^' in event:
-                            print("AND: " + event + dest_add)
-                        else:
-                            print("SIMPLE: " + event + dest_add)
-                    elif '{' in line:
-                        print("Subline: " + line)
-                    else:
-                        print("WTF")
-                    ind += 1
-            ind += 1
-    
-    jsonStr += "}"
-    
-    
     # dump to file
     jsonFilepath = os.getcwd() + "/../resources/TextFiles/Multicheckers/Multichecker.json"
-    #with open(jsonFilepath, 'w') as f:
-        #f.write(jsonStr)
+    with open(jsonFilepath, 'w') as f:
+        f.write(jsonStr)
 
 
 

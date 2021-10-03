@@ -54,7 +54,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 				handleEvents(destinationAddress);
 			} else {
 				// TODO: handle error of not finding (maybe will be in cues? or somewhere else?)
-				System.out.println("ConscientiaDialogueProcessor:handleEvents: Unimplemented Section - checking for X-addresses [multichecker, cues, others(?)].");
+				System.out.println("ConscientiaDialogueProcessor:handleEvents: Unimplemented Section - checking for X-addresses [multichecker, affinity checker, cues, others(?)].");
 				currentAddress = newAddress;// will switch when I figure out what to do here
 			}
 		}

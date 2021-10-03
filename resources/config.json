@@ -85,14 +85,17 @@
         "misc": {
             "base": "Misc"
         },
-        "multichecker": {
-            "base": "Multicheckers"
-        },
         "non_dialogue_text": {
             "base": "NonDialogueText"
         },
         "structural": {
-            "base": "Structural"
+            "base": "Structural",
+            "files": [
+                "Cues",
+                "Maps",
+                "Multicheckers",
+                "NpcListByLocation"
+            ]
         },
         "templates": {
             "base": "Templates",

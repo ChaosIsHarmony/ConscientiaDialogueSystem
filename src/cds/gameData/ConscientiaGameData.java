@@ -3,6 +3,7 @@ package cds.gameData;
 import cds.config.ConfigManager;
 import cds.entities.Dialogue;
 import cds.entities.ConscientiaNpc;
+import cds.entities.MulticheckerBlock;
 import cds.utils.Constants;
 import cds.utils.JsonValue;
 
@@ -27,21 +28,29 @@ public class ConscientiaGameData implements IGameData {
 	private HashMap<String, Boolean> triggeredEvents;
 	// Npc Save
 	private HashMap<String, ConscientiaNpc> npcsData;
+	// Multicheckers
+	private HashMap<String, MulticheckerBlock> multicheckers;
 
 
 	public ConscientiaGameData(GameDataManager gameDataManager, String startingBook, String saveFilepath) {
 		this.gameDataManager = gameDataManager;
+		JsonObject[] saveData = null;
 
 		// new game
 		if (saveFilepath == null) {
-			JsonObject[] saveData = createNewSaveFiles(startingBook);
-			if (saveData != null)	{
-				parseUniSaveData(saveData[Constants.UNI_SAVE]);
-				parsePlayerSaveData(saveData[Constants.PLAYER_SAVE]);
-				parseNpcSaveData(saveData[Constants.NPC_SAVE]);
-			} else System.err.println("ConscientiaGameData:<Constructor>: Could not load game data from new save file: " + saveFilepath);
+			saveData = createNewSaveFiles(startingBook);
+		} else {
+			// TODO: else - load from saveFilepath
 		}
-		// TODO: else - load from saveFilepath
+
+		// parse save files
+		if (saveData != null)	{
+			parseUniSaveData(saveData[Constants.UNI_SAVE]);
+			parsePlayerSaveData(saveData[Constants.PLAYER_SAVE]);
+			parseNpcSaveData(saveData[Constants.NPC_SAVE]);
+			parseMultichecker();
+		} else System.err.println("ConscientiaGameData:<Constructor>: Could not load game data from save file: " + saveFilepath);
+
 	}
 
 	private JsonObject[] createNewSaveFiles(String startingBook) {
@@ -131,6 +140,23 @@ public class ConscientiaGameData implements IGameData {
 			npcsData.put(key, new ConscientiaNpc(key, (JsonObject) saveData.get(key)));
 	}
 
+	private void parseMultichecker() {
+		multicheckers = new HashMap<>();
+		String filepath = gameDataManager.configManager.getConfig().getMulticheckerFilepath();
+
+		JsonObject multicheckersJson = null;
+		try {
+			multicheckersJson = gameDataManager.configManager.getFileIO().readJsonFileToJsonObject(filepath);
+		} catch (FileNotFoundException e) {
+			System.err.println("ConscientiaGameData:parseMultichecker: Could not load multichecker file: " + e.getMessage());
+			e.printStackTrace();
+		}
+
+		for (String address : multicheckersJson.keySet()) {
+			MulticheckerBlock mb = new MulticheckerBlock(address, multicheckersJson.get(address).getAsJsonObject());
+		}
+	}
+
 
 	// ACCESSORS & MUTATORS
 	public void saveCurrentState() {
@@ -138,6 +164,8 @@ public class ConscientiaGameData implements IGameData {
 		// This will entail rewriting all changed variables and triggeredEvents
 		System.out.println("ConscientiaGameData: saveCurrentState: Unimplemented Method.");
 	}
+
+	public HashMap<String, MulticheckerBlock> getMultichecker() { return multicheckers; }
 
 	public void setPlayerValue(String varName, JsonValue<?> varValue) { playerSaveVariables.put(varName, varValue); }
 	public JsonValue<?> getPlayerValue(String varName) { return playerSaveVariables.get(varName); }
