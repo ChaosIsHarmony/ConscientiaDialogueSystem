@@ -1,3 +1,6 @@
+/*
+ * Possible improvement: Load all of these from a config file?
+ */
 package cds.utils;
 
 public class Constants {
@@ -33,6 +36,9 @@ public class Constants {
 	public static final String ACTION_TYPE_EVENT_CHECKER_SYMBOL = "^";
 	public static final int ACTION_TYPE_DIALOGUE_ADDRESS_FORCER = 1;
 	public static final String ACTION_TYPE_DIALOGUE_ADDRESS_FORCER_SYMBOL = "@";
+	public static final int ACTION_TYPE_AFFINITY_CHECKER = 2;
+	public static final String ACTION_TYPE_AFFINITY_CHECKER_SYMBOL = "*";
+
 
 	public static final String DIALOGUE_DIALOGUE = "dialogue";
 	public static final String DIALOGUE_EVENTS = "events";

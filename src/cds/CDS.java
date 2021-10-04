@@ -41,7 +41,7 @@ public class CDS {
 		switch (gameState) {
 			case LOADING_DIALOGUE:
 				// handle events before getting dialogue
-				String address = configManager.getDialogueProcessor().handleEvents(nextAddress);
+				String address = configManager.getDialogueProcessor().preprocessNewAddress(nextAddress);
 
 				// load relevant dialogue and choices
 				currentDialogue = configManager.getDialogueProcessor().getDialogue(address);

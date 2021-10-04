@@ -4,6 +4,7 @@ import cds.config.ConfigManager;
 import cds.entities.Dialogue;
 import cds.entities.ConscientiaNpc;
 import cds.entities.MulticheckerBlock;
+import cds.entities.Personality;
 import cds.utils.Constants;
 import cds.utils.JsonValue;
 
@@ -166,6 +167,14 @@ public class ConscientiaGameData implements IGameData {
 	}
 
 	public HashMap<String, MulticheckerBlock> getMultichecker() { return multichecker; }
+
+	public Personality[] getTopAffinities(int range) {
+		Personality[] topAffinities = new Personality[range];
+
+		// Determine which affinities are the strongest
+
+		return topAffinities;
+	}
 
 	public void setPlayerValue(String varName, JsonValue<?> varValue) { playerSaveVariables.put(varName, varValue); }
 	public JsonValue<?> getPlayerValue(String varName) { return playerSaveVariables.get(varName); }

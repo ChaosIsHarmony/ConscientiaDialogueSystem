@@ -36,95 +36,125 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		currentNpc = new ConscientiaNpc();
 	}
 
-	public String handleEvents(String newAddress) {
+	public String preprocessNewAddress(String newAddress) {
 		boolean updateNpcAddress = true;
 		boolean updateCurrentAddress = true;
 		String newLocation = parseLocation(newAddress);
 		currentNpc = parseNewNpc(newAddress);
+		System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: NewAdd Beg. - " + newAddress);
+		System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: NewLoc - " + newLocation);
+		System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: CurrNPC Beg. - " + currentNpc.getName());
 
 		// check if location has changed
 		if (changedLocations(newLocation))	{
-			System.out.println("ConscientiaDialogueProcessor:handleEvents: Changed location.");
+			System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: Changed location.");
 			gameDataManager.saveCurrentState();
 			switchLocations(newLocation);
 			updateNpcAddress = false;
-			return handleEvents(newAddress);
+			return preprocessNewAddress(newAddress);
 		}
 
 		// check if address is an event address
-		if (newAddress.contains("X")) {
+		if (isolateNumber(newAddress).contains(".X")) {
+			String referenceAddress = new String(newAddress);
+			newAddress = handleEvents(newAddress, newLocation);
+
+			// if address didn't change, then it involves an action
+			if (newAddress.equals(referenceAddress))	newAddress = handleAction(newAddress, newLocation);
+			else																			updateCurrentAddress = false;
+
 			updateNpcAddress = false;
-			// trigger an event
-			if (eventsJson.keySet().contains(newAddress)) {
-				System.out.println("ConscientiaDialogueProcessor:handleEvents: Triggered Event.");
-				String destinationAddress = setTriggeredEvent((JsonObject) eventsJson.get(newAddress));
-				gameDataManager.saveCurrentState();
-				updateCurrentAddress = false;
-				return handleEvents(destinationAddress);
-			}
-			// fight
-			else if (fightingWordsJson.keySet().contains(newAddress)) {
-				System.out.println("ConscientiaDialogueProcessor:handleEvents: Fighting.");
-				System.out.println("ConscientiaDialogueProcessor:handleEvents: Unimplemented Section - FIGHTING WORDS.");
-				gameDataManager.saveCurrentState();
-				updateCurrentAddress = false;
-			}
-			// switch npcs
-			else if (npcSwitchersJson.keySet().contains(newAddress)) {
-				System.out.println("ConscientiaDialogueProcessor:handleEvents: Switch NPC.");
-				String destinationAddress = switchNpcs(npcSwitchersJson.get(newAddress).getAsInt(), newLocation);
-				gameDataManager.saveCurrentState();
-				updateCurrentAddress = false;
-				return handleEvents(destinationAddress);
-			}
-			// use multichecker
-			else if (gameDataManager.getMultichecker().keySet().contains(newAddress)) {
-				System.out.println("ConscientiaDialogueProcessor:handleEvents: Multichecker.");
-				MulticheckerBlock mb = gameDataManager.getMultichecker().get(newAddress);
-				updateCurrentAddress = false;
-				return handleEvents(mb.getDestinationAddress(gameDataManager));
-			}
-			// event checker, at-forcer, affinity checker, cues
-			else {
-				JsonObject dialogueBlockJson = (JsonObject) dialogueJson.get(newAddress);
-				JsonObject actionJson = (JsonObject) dialogueBlockJson.get(Constants.DIALOGUE_ACTION);
-
-				String actionSymbol = actionJson.get(Constants.ACTION_TYPE).getAsString();
-				// @-forcer
-				if (actionSymbol.equals(Constants.ACTION_TYPE_DIALOGUE_ADDRESS_FORCER_SYMBOL)) {
-					System.out.println("ConscientiaDialogueProcessor:handleEvents: @-Forcer.");
-					String targetAddress = actionJson.get(Constants.ACTION_TARGET_ADDRESS).getAsString();
-					currentNpc.setAddress(newLocation, targetAddress);
-				}
-				// event checker
-				else if (actionSymbol.equals(Constants.ACTION_TYPE_EVENT_CHECKER_SYMBOL)) {
-					System.out.println("ConscientiaDialogueProcessor:handleEvents: Check Event.");
-					int eventNum = actionJson.get(Constants.ACTION_EVENT).getAsInt();
-					if (gameDataManager.getTriggeredEvent(eventNum)) {
-						System.out.println("ConscientiaDialogueProcessor:handleEvents: Event True: " + eventNum);
-						String destinationAddress = actionJson.get(Constants.ACTION_DESTINATION_ADDRESS).getAsString();
-						updateCurrentAddress = false;
-						return handleEvents(destinationAddress);
-					}
-				} else {
-					System.out.println("ConscientiaDialogueProcessor:handleEvents: ????.");
-					System.out.println("ConscientiaDialogueProcessor:handleEvents: Unimplemented Section - checking for X-addresses [affinity checker, cues, others(?)].");
-				}
-			}
 		}
-
 
 		// change npc's last address for the given location if necessary
 		if (updateNpcAddress) {
-			System.out.println("ConscientiaDialogueProcessor:handleEvents: Changed last NPC address.");
+			System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: Changed last NPC address.");
 			currentNpc.setAddress(currentLocation, newAddress);
 		}
 		// update currentAddress
 		if (updateCurrentAddress) {
 			currentAddress = newAddress;
 		}
-		System.out.println("ConscientiaDialogueProcessor:handleEvents: " + currentNpc.getName());
-		System.out.println("ConscientiaDialogueProcessor:handleEvents: " + newAddress);
+		System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: CurrNPC name - " + currentNpc.getName());
+		System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: CurrNPC add - " + currentNpc.getAddress(newLocation));
+		System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: CurrAdd - " + currentAddress);
+		System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: NewAdd - " + newAddress);
+
+		return newAddress;
+	}
+
+	private String isolateNumber(String newAddress) {
+		int startInd = getExclamationIndex(newAddress, 3);
+		int endInd = getExclamationIndex(newAddress, 4)-1;
+		return newAddress.substring(startInd, endInd);
+	}
+
+	private String handleEvents(String newAddress, String newLocation) {
+		// trigger an event
+		if (eventsJson.keySet().contains(newAddress)) {
+			System.out.println("ConscientiaDialogueProcessor:handleEvents: Triggered Event.");
+			String destinationAddress = setTriggeredEvent((JsonObject) eventsJson.get(newAddress));
+			gameDataManager.saveCurrentState();
+			return preprocessNewAddress(destinationAddress);
+		}
+		// fight
+		else if (fightingWordsJson.keySet().contains(newAddress)) {
+			System.out.println("ConscientiaDialogueProcessor:handleEvents: Fighting.");
+			System.out.println("ConscientiaDialogueProcessor:handleEvents: Unimplemented Section - FIGHTING WORDS.");
+			gameDataManager.saveCurrentState();
+			return newAddress;
+		}
+		// switch npcs
+		else if (npcSwitchersJson.keySet().contains(newAddress)) {
+			System.out.println("ConscientiaDialogueProcessor:handleEvents: Switch NPC.");
+			String destinationAddress = switchNpcs(npcSwitchersJson.get(newAddress).getAsInt(), newLocation);
+			gameDataManager.saveCurrentState();
+			return preprocessNewAddress(destinationAddress);
+		}
+		// use multichecker
+		else if (gameDataManager.getMultichecker().keySet().contains(newAddress)) {
+			System.out.println("ConscientiaDialogueProcessor:handleEvents: Multichecker.");
+			MulticheckerBlock mb = gameDataManager.getMultichecker().get(newAddress);
+			return preprocessNewAddress(mb.getDestinationAddress(gameDataManager));
+		}
+		// affinity checker, cues
+		else {
+			System.out.println("ConscientiaDialogueProcessor:handleEvents: ????.");
+			System.out.println("ConscientiaDialogueProcessor:handleEvents: Unimplemented Section - checking for X-addresses [affinity checker, cues, others(?)].");
+			return newAddress;
+		}
+	}
+
+	private String handleAction(String newAddress, String newLocation) {
+		JsonObject dialogueBlockJson = (JsonObject) dialogueJson.get(newAddress);
+		JsonObject actionJson = (JsonObject) dialogueBlockJson.get(Constants.DIALOGUE_ACTION);
+		String actionSymbol = actionJson.get(Constants.ACTION_TYPE).getAsString();
+
+		// @-forcer
+		if (actionSymbol.equals(Constants.ACTION_TYPE_DIALOGUE_ADDRESS_FORCER_SYMBOL)) {
+			System.out.println("ConscientiaDialogueProcessor:handleAction: @-Forcer.");
+			String targetAddress = actionJson.get(Constants.ACTION_TARGET_ADDRESS).getAsString();
+			currentNpc.setAddress(newLocation, targetAddress);
+			return newAddress;
+		}
+		// event checker
+		else if (actionSymbol.equals(Constants.ACTION_TYPE_EVENT_CHECKER_SYMBOL)) {
+			System.out.println("ConscientiaDialogueProcessor:handleAction: Check Event.");
+			int eventNum = actionJson.get(Constants.ACTION_EVENT).getAsInt();
+			if (gameDataManager.getTriggeredEvent(eventNum)) {
+				System.out.println("ConscientiaDialogueProcessor:handleAction: Event True: " + eventNum);
+				String destinationAddress = actionJson.get(Constants.ACTION_DESTINATION_ADDRESS).getAsString();
+				return preprocessNewAddress(destinationAddress);
+			}
+		}
+		// affinity checker
+		else if (actionSymbol.equals(Constants.ACTION_TYPE_AFFINITY_CHECKER_SYMBOL)) {
+			System.out.println("ConscientiaDialogueProcessor:handleAction: Check Event.");
+			// get current highest affinity
+			// get address with that affinity
+			String destinationAddress = "";
+			return preprocessNewAddress(destinationAddress);
+		}
 
 		return newAddress;
 	}

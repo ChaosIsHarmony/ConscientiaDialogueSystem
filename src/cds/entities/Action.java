@@ -18,8 +18,12 @@ public class Action {
 			eventNum = actionBlock.get(Constants.ACTION_EVENT).getAsInt();
 			actionAddress = actionBlock.get(Constants.ACTION_DESTINATION_ADDRESS).getAsString();
 		}
+		// affinity checker
+		else if (typeStr.equals(Constants.ACTION_TYPE_AFFINITY_CHECKER)) {
+			type = Constants.ACTION_TYPE_AFFINITY_CHECKER;
+		}
 		// address forcer
-		else {
+	  else {
 			type = Constants.ACTION_TYPE_DIALOGUE_ADDRESS_FORCER;
 			actionAddress = actionBlock.get(Constants.ACTION_TARGET_ADDRESS).getAsString();
 		}

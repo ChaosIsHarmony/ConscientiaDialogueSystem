@@ -3,6 +3,7 @@ package cds.gameData;
 import cds.config.ConfigManager;
 import cds.entities.ConscientiaNpc;
 import cds.entities.MulticheckerBlock;
+import cds.entities.Personality;
 import cds.utils.JsonValue;
 
 import java.util.HashMap;
@@ -37,6 +38,8 @@ public class GameDataManager {
 	public void saveCurrentState() { gameData.saveCurrentState(); };
 
 	public HashMap<String, MulticheckerBlock> getMultichecker() { return gameData.getMultichecker(); }
+
+	public Personality[] getTopAffinities(int range) { return gameData.getTopAffinities(range); }
 
 	public void setPlayerValue(String varName, JsonValue<?> varValue) { gameData.setPlayerValue(varName, varValue); }
 	public JsonValue<?> getPlayerValue(String varName) { return gameData.getPlayerValue(varName); }
