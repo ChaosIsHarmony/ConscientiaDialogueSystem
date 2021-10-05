@@ -170,10 +170,47 @@ public class ConscientiaGameData implements IGameData {
 
 	public Personality[] getTopAffinities(int range) {
 		Personality[] topAffinities = new Personality[range];
+		Personality[] affinities = new Personality[Constants.N_PERSONALITIES];
+		affinities[0] =	new Personality(
+				Constants.PERSONALITY_SYMBOL_DIP, Constants.PERSONALITY_LABEL_DIP,
+				(Integer) playerSaveVariables.get(Constants.PERSONALITY_SYMBOL_DIP).getValue());
+		affinities[1] =	new Personality(
+				Constants.PERSONALITY_SYMBOL_TRU, Constants.PERSONALITY_LABEL_TRU,
+				(Integer) playerSaveVariables.get(Constants.PERSONALITY_SYMBOL_TRU).getValue());
+		affinities[2] =	new Personality(
+				Constants.PERSONALITY_SYMBOL_EQU, Constants.PERSONALITY_LABEL_EQU,
+				(Integer) playerSaveVariables.get(Constants.PERSONALITY_SYMBOL_EQU).getValue());
+		affinities[3] =	new Personality(
+				Constants.PERSONALITY_SYMBOL_SCH, Constants.PERSONALITY_LABEL_SCH,
+				(Integer) playerSaveVariables.get(Constants.PERSONALITY_SYMBOL_SCH).getValue());
+		affinities[4] = new Personality(
+				Constants.PERSONALITY_SYMBOL_TYR, Constants.PERSONALITY_LABEL_TYR,
+				(Integer) playerSaveVariables.get(Constants.PERSONALITY_SYMBOL_TYR).getValue());
+		affinities[5] = new Personality(
+				Constants.PERSONALITY_SYMBOL_LOO, Constants.PERSONALITY_LABEL_LOO,
+				(Integer) playerSaveVariables.get(Constants.PERSONALITY_SYMBOL_LOO).getValue());
+		// sort
+		sort(affinities);
 
 		// Determine which affinities are the strongest
+		for (int i = 0; i < range; i++)
+			topAffinities[i] = affinities[i];
 
 		return topAffinities;
+	}
+
+	// basic selection sort because the list is always so short
+	private void sort(Personality[] affinities) {
+		for (int i = 0; i < affinities.length; i++) {
+			int highest = i;
+			for (int j = i+1; j < affinities.length; j++) {
+				if (affinities[j].getAffinity() > affinities[highest].getAffinity()) highest = j;
+			}
+			// swap
+			Personality tmp = affinities[i];
+			affinities[i] = affinities[highest];
+			affinities[highest] = tmp;
+		}
 	}
 
 	public void setPlayerValue(String varName, JsonValue<?> varValue) { playerSaveVariables.put(varName, varValue); }

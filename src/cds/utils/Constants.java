@@ -60,4 +60,20 @@ public class Constants {
 	public static final String NPC_IMG = "img";
 	public static final String NPC_WEAKNESSES = "weaknesses";
 	public static final String NPC_ADDRESSES = "addresses";
+
+	// PERSONALITIES
+	public static final int N_PERSONALITIES = 6;
+	public static final String PERSONALITY_SYMBOL_DIP = "A";
+	public static final String PERSONALITY_SYMBOL_TRU = "B";
+	public static final String PERSONALITY_SYMBOL_EQU = "C";
+	public static final String PERSONALITY_SYMBOL_SCH = "D";
+	public static final String PERSONALITY_SYMBOL_TYR = "E";
+	public static final String PERSONALITY_SYMBOL_LOO = "F";
+	public static final String PERSONALITY_LABEL_DIP = "Diplomat";
+	public static final String PERSONALITY_LABEL_TRU = "Truthseeker";
+	public static final String PERSONALITY_LABEL_EQU = "Equivocator";
+	public static final String PERSONALITY_LABEL_SCH = "Schemer";
+	public static final String PERSONALITY_LABEL_TYR = "Tyrant";
+	public static final String PERSONALITY_LABEL_LOO = "Loon";
+
 }

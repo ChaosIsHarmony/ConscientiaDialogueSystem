@@ -149,7 +149,7 @@ public class ConscientiaConfig implements IConfig {
 	private void parsePersonalities(JsonObject configData) {
 		JsonObject personalitiesJson = (JsonObject) configData.get("personalities");
 		for (String key : personalitiesJson.keySet())
-			personalities.put(key, new Personality(key, personalitiesJson.get(key).getAsString()));
+			personalities.put(key, new Personality(key, personalitiesJson.get(key).getAsString(), 0));
 	}
 
 

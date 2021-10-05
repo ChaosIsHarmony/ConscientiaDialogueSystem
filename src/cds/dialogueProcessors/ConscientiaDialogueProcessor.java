@@ -4,6 +4,7 @@ import cds.config.ConfigManager;
 import cds.entities.ConscientiaNpc;
 import cds.entities.Dialogue;
 import cds.entities.MulticheckerBlock;
+import cds.entities.Personality;
 import cds.gameData.GameDataManager;
 import cds.utils.Constants;
 
@@ -117,10 +118,10 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 			MulticheckerBlock mb = gameDataManager.getMultichecker().get(newAddress);
 			return preprocessNewAddress(mb.getDestinationAddress(gameDataManager));
 		}
-		// affinity checker, cues
+		// cues
 		else {
 			System.out.println("ConscientiaDialogueProcessor:handleEvents: ????.");
-			System.out.println("ConscientiaDialogueProcessor:handleEvents: Unimplemented Section - checking for X-addresses [affinity checker, cues, others(?)].");
+			System.out.println("ConscientiaDialogueProcessor:handleEvents: Unimplemented Section - checking for X-addresses [cues, others(?)].");
 			return newAddress;
 		}
 	}
@@ -149,10 +150,16 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		}
 		// affinity checker
 		else if (actionSymbol.equals(Constants.ACTION_TYPE_AFFINITY_CHECKER_SYMBOL)) {
-			System.out.println("ConscientiaDialogueProcessor:handleAction: Check Event.");
+			System.out.println("ConscientiaDialogueProcessor:handleAction: Check Affinity.");
 			// get current highest affinity
+			Personality topAffinity = gameDataManager.getTopAffinities(1)[0];
+			JsonObject responsesJson = (JsonObject) dialogueBlockJson.get(Constants.DIALOGUE_RESPONSES);
+
 			// get address with that affinity
-			String destinationAddress = "";
+			String destinationAddress =
+				((JsonObject) responsesJson.get(topAffinity.getKey()))
+					.get(Constants.RESPONSE_DESTINATION_ADDRESS)
+					.getAsString();
 			return preprocessNewAddress(destinationAddress);
 		}
 
