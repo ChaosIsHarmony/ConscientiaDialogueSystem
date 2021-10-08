@@ -4,24 +4,6 @@
  * Responsible for managing game-specific files.
  * One specific strategy that implements the IConfig interface for use with the dialogue system.
  * Other games may require different files to keep track of, which would require a different strategy.
- *
- * Class Responsibilities:
- *	- Load/Store all filepaths for relevant game files
- *		- SaveFiles
- *		- DialogueFiles
- *		- MulticheckerFiles
- *		- NonDialogueTextFiles
- *			- Combat
- *			- Acquirables
- *			- Credits
- *		- StructuralFiles
- *			- NPCs by Location/Num
- *			- Cues
- *			- Maps
- *		- Templates
- *			- SaveFile
- *			- NPC stats
- *
  */
 package cds.config;
 
@@ -31,6 +13,7 @@ import cds.utils.Constants;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
+import com.google.gson.JsonPrimitive;
 
 import java.util.*;
 
@@ -40,8 +23,6 @@ public class ConscientiaConfig implements IConfig {
 
 	String baseSaveFilepath;
 	String uniSaveFilepath;
-	ArrayList<String> saveFiles;
-	int nSaveFiles;
 
 	Map<String, ArrayList<String>> dialogueFiles = new HashMap<>();
 	Map<String, String> nonDialogueTextFiles = new HashMap<>();
@@ -66,21 +47,9 @@ public class ConscientiaConfig implements IConfig {
 
 	private void parseSaveFiles(JsonObject configData) {
 		JsonObject saveFilesJson = (JsonObject) configData.get("save_files");
-		JsonArray filenamesJson = (JsonArray) saveFilesJson.get("filenames");
-
-		// parse number of saved files
-		nSaveFiles = saveFilesJson.get("n_files").getAsInt();
-
-		// parse filenames
-		String dirPath = saveFilesJson.get("base").getAsString();
-		saveFiles = new ArrayList<>();
-		for (JsonElement filenameJson : filenamesJson.getAsJsonArray()) {
-			String filename = filenameJson.getAsString();
-			String path = buildFilePath(dirPath, filename);
-			saveFiles.add(path);
-		}
 
 		// parse universal save filepath
+		String dirPath = saveFilesJson.get("base").getAsString();
 		uniSaveFilepath = buildFilePath(dirPath, saveFilesJson.get("uni_save").getAsString());
 
 		// save for when saving game states
@@ -138,12 +107,12 @@ public class ConscientiaConfig implements IConfig {
 	// parses the starting address for each book
 	// used when creating a new save file
 	private void parseStartingAddresses(JsonObject configData) {
-			 JsonObject startingAddressesJson = (JsonObject) configData.get("start");
+		JsonObject startingAddressesJson = (JsonObject) configData.get("start");
 
-			 for (String book : startingAddressesJson.keySet()) {
-				 String startingAddress = startingAddressesJson.get(book).getAsString();
-				 startingAddresses.put(book, startingAddress);
-			 }
+		for (String book : startingAddressesJson.keySet()) {
+			String startingAddress = startingAddressesJson.get(book).getAsString();
+			startingAddresses.put(book, startingAddress);
+		}
 	}
 
 	private void parsePersonalities(JsonObject configData) {
@@ -201,7 +170,10 @@ public class ConscientiaConfig implements IConfig {
 		String[] newSaveFilepaths = new String[Constants.N_ACTIVE_SAVE_FILE_TYPES];
 
 		// create the new player and npc save file's filepath
-		buildNewSaveFilepaths(newSaveFilepaths);
+		JsonObject uniSaveData = getUniSaveJsonObject();
+		int nSaveFiles = uniSaveData.get(Constants.UNI_N_SAVE_FILES).getAsInt();
+		buildNewSaveFilepaths(newSaveFilepaths, nSaveFiles);
+		setAndSaveNumberOfSaveFiles(uniSaveData, nSaveFiles+1);
 
 		// copy default string to new save file
 		createNewFiles(startingBook, newSaveFilepaths);
@@ -209,6 +181,16 @@ public class ConscientiaConfig implements IConfig {
 		return newSaveFilepaths;
 	}
 
+	public String[] loadOldSaveGame(String[] saveFilepaths) {
+		String[] oldSaveFilepaths = new String[Constants.N_ACTIVE_SAVE_FILE_TYPES];
+
+		// create the new player and npc save file's filepath
+		oldSaveFilepaths[Constants.UNI_SAVE] = uniSaveFilepath;
+		oldSaveFilepaths[Constants.PLAYER_SAVE] = baseSaveFilepath + "\\" + saveFilepaths[0];
+		oldSaveFilepaths[Constants.NPC_SAVE] = baseSaveFilepath + "\\" + saveFilepaths[1];
+
+		return oldSaveFilepaths;
+	}
 
 	// HELPER METHODS
 	private String buildFilePath(String dir, String filename) {
@@ -217,17 +199,11 @@ public class ConscientiaConfig implements IConfig {
 		return filepath;
 	}
 
-	private void buildNewSaveFilepaths(String[] newSaveFilepaths) {
+	private void buildNewSaveFilepaths(String[] newSaveFilepaths, int nSaveFiles) {
 		newSaveFilepaths[Constants.UNI_SAVE] = uniSaveFilepath;
-		if (nSaveFiles == 0) {
-			newSaveFilepaths[Constants.PLAYER_SAVE] = baseSaveFilepath + "\\" + "playerSave0.json";
-			newSaveFilepaths[Constants.NPC_SAVE] = baseSaveFilepath + "\\" + "npcsSave0.json";
-		} else {
-			newSaveFilepaths[Constants.PLAYER_SAVE] = baseSaveFilepath + "\\" + "playerSave" + nSaveFiles + ".json";
-			newSaveFilepaths[Constants.NPC_SAVE] = baseSaveFilepath + "\\" + "npcsSave" + nSaveFiles + ".json";
-			nSaveFiles++;
-			System.out.println("ConscientiaConfig: buildNewSaveFilepaths: nSaveFiles incremented, but config.json not saved, and thus keeps loading as nSaveFiles == 0");
-		}
+		newSaveFilepaths[Constants.PLAYER_SAVE] = baseSaveFilepath + "\\" + "playerSave" + nSaveFiles + ".json";
+		newSaveFilepaths[Constants.NPC_SAVE] = baseSaveFilepath + "\\" + "npcsSave" + nSaveFiles + ".json";
+		System.out.println("ConscientiaConfig: buildNewSaveFilepaths: nSaveFiles incremented, but config.json not saved, and thus keeps loading as nSaveFiles == 0");
 	}
 
 	private void createNewFiles(String startingBook, String[] newSaveFilepaths) {
@@ -240,10 +216,25 @@ public class ConscientiaConfig implements IConfig {
 			((JsonObject) defaultPlayerSaveContents.get("current_location")).addProperty("value", startingAddresses.get(startingBook));
 
 			// write to new file
-			configManager.getFileIO().writeStringToFile(defaultPlayerSaveContents.toString(), newSaveFilepaths[Constants.PLAYER_SAVE]);
-			configManager.getFileIO().writeStringToFile(defaultNpcsSaveContents.toString(), newSaveFilepaths[Constants.NPC_SAVE]);
+			configManager.getFileIO().writeObjectToFile(defaultPlayerSaveContents, newSaveFilepaths[Constants.PLAYER_SAVE]);
+			configManager.getFileIO().writeObjectToFile(defaultNpcsSaveContents, newSaveFilepaths[Constants.NPC_SAVE]);
 		} catch (Exception e) {
 			System.err.println("ConscientiaConfig:addNewSaveFile: failed to load default save files: " + e.getMessage());
 		}
+	}
+
+	private JsonObject getUniSaveJsonObject() {
+		try {
+			return configManager.getFileIO().readJsonFileToJsonObject(uniSaveFilepath);
+		} catch (Exception e) {
+			System.err.println("ConscientiaConfig:getUniSaveJsonObject: failed to load unisave file: " + e.getMessage());
+		}
+
+		return null;
+	}
+
+	private void setAndSaveNumberOfSaveFiles(JsonObject uniSaveData, int nSaveFiles) {
+		uniSaveData.add(Constants.UNI_N_SAVE_FILES, new JsonPrimitive (nSaveFiles));
+		configManager.getFileIO().writeObjectToFile(uniSaveData, uniSaveFilepath);
 	}
 }

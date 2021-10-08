@@ -23,25 +23,25 @@ public class ConscientiaGameData implements IGameData {
 
 	private String[] saveFilepaths;
 	// Uni Save
-	private HashMap<String, HashSet<Integer>> uniSaveData;
+	private HashMap<String, Object> uniSaveData;
 	// Player Save
 	private HashMap<String, JsonValue<?>> playerSaveVariables;
-	private HashMap<String, Boolean> triggeredEvents;
+	private HashMap<String, TriggeredEvent> triggeredEvents;
 	// Npc Save
 	private HashMap<String, ConscientiaNpc> npcsData;
 	// Multicheckers
 	private HashMap<String, MulticheckerBlock> multichecker;
 
 
-	public ConscientiaGameData(GameDataManager gameDataManager, String startingBook, String saveFilepath) {
+	public ConscientiaGameData(GameDataManager gameDataManager, String startingBook, String[] saveFilepathsToLoad) {
 		this.gameDataManager = gameDataManager;
 		JsonObject[] saveData = null;
 
 		// new game
-		if (saveFilepath == null) {
+		if (saveFilepathsToLoad == null) {
 			saveData = createNewSaveFiles(startingBook);
 		} else {
-			// TODO: else - load from saveFilepath
+			saveData = loadOldSaveFiles(saveFilepathsToLoad);
 		}
 
 		// parse save files
@@ -50,14 +50,25 @@ public class ConscientiaGameData implements IGameData {
 			parsePlayerSaveData(saveData[Constants.PLAYER_SAVE]);
 			parseNpcSaveData(saveData[Constants.NPC_SAVE]);
 			parseMultichecker();
-		} else System.err.println("ConscientiaGameData:<Constructor>: Could not load game data from save file: " + saveFilepath);
+		} else System.err.println("ConscientiaGameData:<Constructor>: Could not load game data from save file: " + saveData);
 
 	}
 
 	private JsonObject[] createNewSaveFiles(String startingBook) {
 		// create new save files
 		saveFilepaths = gameDataManager.configManager.getConfig().addNewSaveGame(startingBook);
+		// load saved data
+		return loadSavedData();
+	}
 
+	private JsonObject[] loadOldSaveFiles(String[] saveFilepathsToLoad) {
+		// create new save files
+		saveFilepaths = gameDataManager.configManager.getConfig().loadOldSaveGame(saveFilepathsToLoad);
+		// load saved data
+		return loadSavedData();
+	}
+
+	private JsonObject[] loadSavedData() {
 		// load data from save files
 		JsonObject[] saveData = new JsonObject[Constants.N_ACTIVE_SAVE_FILE_TYPES];
 		try {
@@ -65,7 +76,7 @@ public class ConscientiaGameData implements IGameData {
 			saveData[Constants.PLAYER_SAVE] = gameDataManager.configManager.getFileIO().readJsonFileToJsonObject(saveFilepaths[Constants.PLAYER_SAVE]);
 			saveData[Constants.NPC_SAVE] = gameDataManager.configManager.getFileIO().readJsonFileToJsonObject(saveFilepaths[Constants.NPC_SAVE]);
 		} catch (FileNotFoundException e) {
-			System.err.println("ConscientiaGameData:createNewSaveFile: Could not load new save files: " + e.getMessage());
+			System.err.println("ConscientiaGameData:loadSavedData: Could not load save files: " + e.getMessage());
 			e.printStackTrace();
 			saveData = null;
 		}
@@ -74,6 +85,9 @@ public class ConscientiaGameData implements IGameData {
 	}
 
 	private void parseUniSaveData(JsonObject saveData) {
+		uniSaveData = new	HashMap<>();
+
+		Integer nSaveFiles = saveData.get(Constants.UNI_N_SAVE_FILES).getAsInt();
 		HashSet<Integer> persistentAcquirables = new HashSet<>();
 		for (JsonElement acq : saveData.get(Constants.UNI_PERSISTENT_ACQ).getAsJsonArray())
 			persistentAcquirables.add(acq.getAsInt());
@@ -81,6 +95,10 @@ public class ConscientiaGameData implements IGameData {
 		HashSet<Integer> persistentEvents = new HashSet<>();
 		for (JsonElement event : saveData.get(Constants.UNI_PERSISTENT_EVENTS).getAsJsonArray())
 			persistentEvents.add(event.getAsInt());
+
+		uniSaveData.put(Constants.UNI_N_SAVE_FILES, nSaveFiles);
+		uniSaveData.put(Constants.UNI_PERSISTENT_ACQ, persistentAcquirables);
+		uniSaveData.put(Constants.UNI_PERSISTENT_EVENTS, persistentEvents);
 	}
 
 	private void parsePlayerSaveData(JsonObject saveData) {
@@ -124,13 +142,12 @@ public class ConscientiaGameData implements IGameData {
 			JsonObject eventsJson = event.getAsJsonObject();
 			String[] keys = new String[eventsJson.keySet().size()];
 			eventsJson.keySet().toArray(keys);
-			String event_num = keys[0];	// there's only one key, but as it's in a set, it cannot be
-																	// accessed directly via index; hence the conversion
+			for (String event_num : keys) {
+				JsonObject eventContentJson = (JsonObject) eventsJson.get(event_num);
+				Boolean event_val = eventContentJson.get("value").getAsBoolean();
 
-			JsonObject eventContentJson = (JsonObject) eventsJson.get(event_num);
-			Boolean event_val = eventContentJson.get("value").getAsBoolean();
-
-			triggeredEvents.put(event_num, event_val);
+				triggeredEvents.put(event_num, new TriggeredEvent(event_val));
+			}
 		}
 	}
 
@@ -162,8 +179,23 @@ public class ConscientiaGameData implements IGameData {
 
 	// ACCESSORS & MUTATORS
 	public void saveCurrentState() {
-		// This will entail rewriting all changed variables and triggeredEvents
-		System.out.println("ConscientiaGameData: saveCurrentState: Unimplemented Method.");
+		// save all player variables
+		HashMap<String, Object> playerData = new HashMap<>();
+
+		for (String key : playerSaveVariables.keySet())
+			playerData.put(key, playerSaveVariables.get(key));
+
+		Object[] trigArr = new Object[1];
+		trigArr[0] = triggeredEvents;
+		playerData.put(Constants.PLAYER_TRIGGERED_EVENTS, trigArr);
+
+		gameDataManager.configManager.getFileIO().writeObjectToFile(playerData, saveFilepaths[Constants.PLAYER_SAVE]);
+
+		// save all npc variables
+		gameDataManager.configManager.getFileIO().writeObjectToFile(npcsData, saveFilepaths[Constants.NPC_SAVE]);
+
+		// save all unisave variables
+		gameDataManager.configManager.getFileIO().writeObjectToFile(uniSaveData, saveFilepaths[Constants.UNI_SAVE]);
 	}
 
 	public HashMap<String, MulticheckerBlock> getMultichecker() { return multichecker; }
@@ -227,7 +259,18 @@ public class ConscientiaGameData implements IGameData {
 
 	// event numbers are parsed as Strings because they are json keys,
 	// but when stored as part of dialogue actions, they are ints
-	public void setTriggeredEvent(int eventNum, boolean value) { triggeredEvents.put(""+eventNum, value); }
-	public Boolean getTriggeredEvent(int eventNum) { return triggeredEvents.get(""+eventNum); }
+	public void setTriggeredEvent(int eventNum, boolean value) { triggeredEvents.put(""+eventNum, new TriggeredEvent(value)); }
+	public Boolean getTriggeredEvent(int eventNum) {
+		return triggeredEvents.get(""+eventNum).value; }
 
+
+
+	// HELPER METHODS/CLASSES
+	private class TriggeredEvent {
+		public Boolean value;
+
+		public TriggeredEvent(Boolean value) {
+			this.value = value;
+		}
+	}
 }

@@ -7,6 +7,7 @@ import cds.entities.MulticheckerBlock;
 import cds.entities.Personality;
 import cds.gameData.GameDataManager;
 import cds.utils.Constants;
+import cds.utils.JsonValue;
 
 import java.io.IOException;
 
@@ -82,12 +83,6 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: NewAdd - " + newAddress);
 
 		return newAddress;
-	}
-
-	private String isolateNumber(String newAddress) {
-		int startInd = getExclamationIndex(newAddress, 3);
-		int endInd = getExclamationIndex(newAddress, 4)-1;
-		return newAddress.substring(startInd, endInd);
 	}
 
 	private String handleEvents(String newAddress, String newLocation) {
@@ -179,6 +174,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		return newDialogue;
 	}
 
+	// HELPER METHODS
 	private boolean changedLocations(String newLocation) {
 		// find index of 2nd ! and compare the values
 		int endCurrent = getExclamationIndex(currentLocation, 2);
@@ -201,6 +197,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 			fightingWordsJson = (JsonObject) fileContentsJson.get(Constants.DIALOGUE_FIGHTING_WORDS);
 			// update currentLocation
 			currentLocation = newLocation;
+			gameDataManager.setPlayerValue(Constants.PLAYER_CURRENT_LOCATION, new JsonValue<>(currentLocation));
 		} catch (IOException e) {
 			System.err.println("ConscientiaDialogueProcessor:switchLocations: Failed to load dialogue file: " + currentLocation + " | " + filepath);
 			e.printStackTrace();
@@ -223,6 +220,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		ConscientiaNpc newNpc = gameDataManager.getNpcById(newNpcId);
 		// switch current npc to new npc
 		currentNpc = newNpc;
+		gameDataManager.setPlayerValue(Constants.PLAYER_CURRENT_NPC, new JsonValue<>(currentNpc.getName()));
 		// find relevant dialogue address for new npc
 		return currentNpc.getAddress(newLocation);
 	}
@@ -242,5 +240,11 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 			count++;
 		}
 		return ind;
+	}
+
+	private String isolateNumber(String newAddress) {
+		int startInd = getExclamationIndex(newAddress, 3);
+		int endInd = getExclamationIndex(newAddress, 4)-1;
+		return newAddress.substring(startInd, endInd);
 	}
 }

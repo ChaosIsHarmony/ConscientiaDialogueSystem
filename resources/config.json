@@ -6,9 +6,7 @@
     "dialogue_processor_strategy": "conscientia",
     "save_files": {
         "base": "SaveFiles",
-		"uni_save": "UniSave",
-        "n_files": 0,
-        "filenames": []
+		    "uni_save": "uniSave"
     },
     "text": {
         "base": "TextFiles",

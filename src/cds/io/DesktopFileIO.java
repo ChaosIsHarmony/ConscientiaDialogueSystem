@@ -36,13 +36,42 @@ public class DesktopFileIO implements IFileIO {
 	}
 
 	public void writeStringToFile(String data, String filepath) {
+		Path path = Paths.get(filepath);
+
 		try {
-			Path path = Paths.get(filepath);
-			System.out.println(path);
 			Files.createFile(path);
-			Files.writeString(path, data, StandardOpenOption.WRITE);
 		} catch (IOException e) {
 			System.err.println("DesktopFileIO:writeStringToFile: Could not create file: " + filepath + " | " + e.getMessage());
+			e.printStackTrace();
+		}
+
+		try {
+			Files.writeString(path, data, StandardOpenOption.TRUNCATE_EXISTING);
+		} catch (IOException e) {
+			System.err.println("DesktopFileIO:writeStringToFile: Could not write to file: " + filepath + " | " + e.getMessage());
+			e.printStackTrace();
+		}
+	}
+
+	public void writeObjectToFile(Object obj, String filepath) {
+		Path path = Paths.get(filepath);
+
+		try {
+			Files.createFile(path);
+			System.out.println("DesktopFileIO:writeStringToFile: Successfuly wrote to file: " + filepath);
+		} catch (IOException e) {
+			System.err.println("DesktopFileIO:writeObjectToFile: Could not create file: " + filepath + " | " + e.getMessage());
+			e.printStackTrace();
+		}
+
+		Gson gson = new GsonBuilder().disableHtmlEscaping().create();;
+		String data = gson.toJson(obj);
+
+		try {
+			Files.writeString(path, data, StandardOpenOption.TRUNCATE_EXISTING);
+			System.out.println("DesktopFileIO:writeObjectToFile: Successfuly wrote to file: " + filepath);
+		} catch (IOException e) {
+			System.err.println("DesktopFileIO:writeObjectToFile: Could not write to file: " + filepath + " | " + e.getMessage());
 			e.printStackTrace();
 		}
 	}

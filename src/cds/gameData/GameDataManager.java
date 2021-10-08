@@ -13,22 +13,15 @@ public class GameDataManager {
 	protected ConfigManager configManager;
 	private IGameData gameData;
 
-	// New Game Constructor
-	public GameDataManager(ConfigManager configManager, String startingBook) {
+	public GameDataManager(ConfigManager configManager, String startingBook, String[] savedGameFilepaths) {
 		this.configManager = configManager;
-		this.gameData = loadGameData(startingBook, null);
+		this.gameData = loadGameData(startingBook, savedGameFilepaths);
 	}
 
-	// Saved Game Constructor
-	public GameDataManager(ConfigManager configManager, String startingBook, String saveFilepath) {
-		this.configManager = configManager;
-		this.gameData = loadGameData(startingBook, saveFilepath);
-	}
-
-	private IGameData loadGameData(String startingBook, String saveFilepath) {
+	private IGameData loadGameData(String startingBook, String[] savedGameFilepaths) {
 		switch (configManager.getConfigStrategy()) {
 			case "conscientia":
-				return new ConscientiaGameData(this, startingBook, saveFilepath);
+				return new ConscientiaGameData(this, startingBook, savedGameFilepaths);
 			default:
 				System.err.println("GameDataManager:loadGameData: Illegal strategy: " + configManager.getConfigStrategy());
 				return null;

@@ -21,6 +21,7 @@ public class Constants {
 	public static final int N_ACTIVE_SAVE_FILE_TYPES = 3; // total number of types of save file
 
 	// SAVE JSON TAGS
+	public static final String UNI_N_SAVE_FILES = "n_save_files";
 	public static final String UNI_PERSISTENT_ACQ = "persistent_acquirables";
 	public static final String UNI_PERSISTENT_EVENTS = "persistent_events";
 
@@ -57,7 +58,7 @@ public class Constants {
 
 	// NPC JSON TAGS
 	public static final String NPC_ID = "id";
-	public static final String NPC_IMG = "img";
+	public static final String NPC_IMG = "imgFilepath";
 	public static final String NPC_WEAKNESSES = "weaknesses";
 	public static final String NPC_ADDRESSES = "addresses";
 
