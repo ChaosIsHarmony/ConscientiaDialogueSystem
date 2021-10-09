@@ -174,7 +174,11 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		return newDialogue;
 	}
 
-	// HELPER METHODS
+	/*
+	 * --------------
+	 * HELPER METHODS
+	 * --------------
+	 */
 	private boolean changedLocations(String newLocation) {
 		// find index of 2nd ! and compare the values
 		int endCurrent = getExclamationIndex(currentLocation, 2);

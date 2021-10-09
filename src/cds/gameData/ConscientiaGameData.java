@@ -56,14 +56,35 @@ public class ConscientiaGameData implements IGameData {
 
 	private JsonObject[] createNewSaveFiles(String startingBook) {
 		// create new save files
-		saveFilepaths = gameDataManager.configManager.getConfig().addNewSaveGame(startingBook);
+		saveFilepaths = new String[Constants.N_ACTIVE_SAVE_FILE_TYPES];
+
+		// create the new player and npc save file's filepath
+		String uniSaveFilepath = gameDataManager.configManager.getConfig().getUniSaveFilepath();
+		String baseSaveFilepath = gameDataManager.configManager.getConfig().getBaseSaveFilepath();
+		JsonObject uniSaveData = getUniSaveJsonObject(uniSaveFilepath);
+		int nSaveFiles = uniSaveData.get(Constants.UNI_N_SAVE_FILES).getAsInt();
+		saveFilepaths[Constants.UNI_SAVE] = uniSaveFilepath;
+		buildNewSaveFilepaths(baseSaveFilepath, saveFilepaths, nSaveFiles);
+		setAndSaveNumberOfSaveFiles(uniSaveFilepath, uniSaveData, nSaveFiles+1);
+
+		// copy default string to new save file
+		createNewFiles(startingBook, saveFilepaths);
+
 		// load saved data
 		return loadSavedData();
 	}
 
-	private JsonObject[] loadOldSaveFiles(String[] saveFilepathsToLoad) {
+	private JsonObject[] loadOldSaveFiles(String[] playerNpcSaveFilepaths) {
 		// create new save files
-		saveFilepaths = gameDataManager.configManager.getConfig().loadOldSaveGame(saveFilepathsToLoad);
+		saveFilepaths = new String[Constants.N_ACTIVE_SAVE_FILE_TYPES];
+
+		// create the new player and npc save file's filepath
+		String uniSaveFilepath = gameDataManager.configManager.getConfig().getUniSaveFilepath();
+		String baseSaveFilepath = gameDataManager.configManager.getConfig().getBaseSaveFilepath();
+		saveFilepaths[Constants.UNI_SAVE] = uniSaveFilepath;
+		saveFilepaths[Constants.PLAYER_SAVE] = baseSaveFilepath + "\\" + playerNpcSaveFilepaths[0];
+		saveFilepaths[Constants.NPC_SAVE] = baseSaveFilepath + "\\" + playerNpcSaveFilepaths[1];
+
 		// load saved data
 		return loadSavedData();
 	}
@@ -177,7 +198,11 @@ public class ConscientiaGameData implements IGameData {
 	}
 
 
-	// ACCESSORS & MUTATORS
+	/*
+	 * --------------------
+	 * ACCESSORS & MUTATORS
+	 * --------------------
+	 */
 	public void saveCurrentState() {
 		// save all player variables
 		HashMap<String, Object> playerData = new HashMap<>();
@@ -263,14 +288,56 @@ public class ConscientiaGameData implements IGameData {
 	public Boolean getTriggeredEvent(int eventNum) {
 		return triggeredEvents.get(""+eventNum).value; }
 
-
-
-	// HELPER METHODS/CLASSES
+	/*
+	 * ----------------------
+	 * HELPER METHODS/CLASSES
+	 * ----------------------
+	 */
 	private class TriggeredEvent {
 		public Boolean value;
 
 		public TriggeredEvent(Boolean value) {
 			this.value = value;
+		}
+	}
+
+	private JsonObject getUniSaveJsonObject(String uniSaveFilepath) {
+		try {
+			return gameDataManager.configManager.getFileIO().readJsonFileToJsonObject(uniSaveFilepath);
+		} catch (Exception e) {
+			System.err.println("ConscientiaGameData:getUniSaveJsonObject: failed to load unisave file: " + e.getMessage());
+		}
+
+		return null;
+	}
+
+	private void setAndSaveNumberOfSaveFiles(String uniSaveFilepath, JsonObject uniSaveData, int nSaveFiles) {
+		uniSaveData.add(Constants.UNI_N_SAVE_FILES, new JsonPrimitive (nSaveFiles));
+		gameDataManager.configManager.getFileIO().writeObjectToFile(uniSaveData, uniSaveFilepath);
+	}
+
+	private void buildNewSaveFilepaths(String baseSaveFilepath, String[] newSaveFilepaths, int nSaveFiles) {
+		newSaveFilepaths[Constants.PLAYER_SAVE] = baseSaveFilepath + "\\" + "playerSave" + nSaveFiles + ".json";
+		newSaveFilepaths[Constants.NPC_SAVE] = baseSaveFilepath + "\\" + "npcsSave" + nSaveFiles + ".json";
+	}
+
+	private void createNewFiles(String startingBook, String[] newSaveFilepaths) {
+		try {
+			// copy default save file contents
+			String playerSaveTemplateFilepath = gameDataManager.configManager.getConfig().getTemplateFilepath(Constants.PLAYER_SAVE_TEMPLATE);
+			String npcSaveTemplateFilepath = gameDataManager.configManager.getConfig().getTemplateFilepath(Constants.NPC_SAVE_TEMPLATE);
+			JsonObject defaultPlayerSaveContents = gameDataManager.configManager.getFileIO().readJsonFileToJsonObject(playerSaveTemplateFilepath);
+			JsonObject defaultNpcsSaveContents = gameDataManager.configManager.getFileIO().readJsonFileToJsonObject(npcSaveTemplateFilepath);
+
+			// set the starting address to the one corresponding to the starting book
+			String startingAddress = gameDataManager.configManager.getConfig().getStartingAddress(startingBook);
+			((JsonObject) defaultPlayerSaveContents.get(Constants.PLAYER_CURRENT_LOCATION)).addProperty(Constants.TAG_VALUE, startingAddress);
+
+			// write to new file
+			gameDataManager.configManager.getFileIO().writeObjectToFile(defaultPlayerSaveContents, newSaveFilepaths[Constants.PLAYER_SAVE]);
+			gameDataManager.configManager.getFileIO().writeObjectToFile(defaultNpcsSaveContents, newSaveFilepaths[Constants.NPC_SAVE]);
+		} catch (Exception e) {
+			System.err.println("ConscientiaConfig:addNewSaveFile: failed to load default save files: " + e.getMessage());
 		}
 	}
 }

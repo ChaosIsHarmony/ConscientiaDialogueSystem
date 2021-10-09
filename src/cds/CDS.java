@@ -36,7 +36,6 @@ public class CDS {
 		while (gameLoopActive) update();
 	}
 
-
 	public void update() {
 		switch (gameState) {
 			case LOADING_DIALOGUE:

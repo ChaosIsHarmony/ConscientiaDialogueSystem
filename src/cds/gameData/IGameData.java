@@ -9,7 +9,6 @@ import cds.utils.JsonValue;
 import java.util.HashMap;
 
 public interface IGameData {
-
 	void saveCurrentState();
 
 	HashMap<String, MulticheckerBlock> getMultichecker();

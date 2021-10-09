@@ -15,19 +15,10 @@ public class GameDataManager {
 
 	public GameDataManager(ConfigManager configManager, String startingBook, String[] savedGameFilepaths) {
 		this.configManager = configManager;
-		this.gameData = loadGameData(startingBook, savedGameFilepaths);
+		gameData = new ConscientiaGameData(this, startingBook, savedGameFilepaths);
 	}
 
-	private IGameData loadGameData(String startingBook, String[] savedGameFilepaths) {
-		switch (configManager.getConfigStrategy()) {
-			case "conscientia":
-				return new ConscientiaGameData(this, startingBook, savedGameFilepaths);
-			default:
-				System.err.println("GameDataManager:loadGameData: Illegal strategy: " + configManager.getConfigStrategy());
-				return null;
-		}
-	}
-
+	// ACCESSORS/MUTATORS
 	public void saveCurrentState() { gameData.saveCurrentState(); };
 
 	public HashMap<String, MulticheckerBlock> getMultichecker() { return gameData.getMultichecker(); }

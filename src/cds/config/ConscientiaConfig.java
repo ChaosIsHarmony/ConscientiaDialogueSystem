@@ -1,10 +1,3 @@
-/*
- * ConscientiaConfig.java
- *
- * Responsible for managing game-specific files.
- * One specific strategy that implements the IConfig interface for use with the dialogue system.
- * Other games may require different files to keep track of, which would require a different strategy.
- */
 package cds.config;
 
 import cds.entities.Personality;
@@ -31,8 +24,9 @@ public class ConscientiaConfig implements IConfig {
 	Map<String, String> startingAddresses = new HashMap<>();
 	Map<String, Personality> personalities = new HashMap<>();
 
-	public ConscientiaConfig(ConfigManager configManager) {
+	public ConscientiaConfig(ConfigManager configManager, JsonObject configData) {
 		this.configManager = configManager;
+		loadData(configData);
 	}
 
 	public void loadData(JsonObject configData) {
@@ -46,27 +40,27 @@ public class ConscientiaConfig implements IConfig {
 	}
 
 	private void parseSaveFiles(JsonObject configData) {
-		JsonObject saveFilesJson = (JsonObject) configData.get("save_files");
+		JsonObject saveFilesJson = (JsonObject) configData.get(Constants.SAVE_FILES);
 
 		// parse universal save filepath
-		String dirPath = saveFilesJson.get("base").getAsString();
-		uniSaveFilepath = buildFilePath(dirPath, saveFilesJson.get("uni_save").getAsString());
+		String dirPath = saveFilesJson.get(Constants.BASE_DIR).getAsString();
+		uniSaveFilepath = buildFilePath(dirPath, saveFilesJson.get(Constants.UNI_SAVE_FILE).getAsString());
 
 		// save for when saving game states
 		baseSaveFilepath = "resources" + "\\" + dirPath;
 	}
 
 	private void parseDialogueFiles(JsonObject configData) {
-		JsonObject textJson = (JsonObject) configData.get("text");
-		JsonObject dialogueFilesJson = (JsonObject) textJson.get("dialogue");
-		JsonArray bookFilesJson = (JsonArray) dialogueFilesJson.get("books");
+		JsonObject textJson = (JsonObject) configData.get(Constants.TEXT_FILES);
+		JsonObject dialogueFilesJson = (JsonObject) textJson.get(Constants.DIALOGUE_FILES);
+		JsonArray bookFilesJson = (JsonArray) dialogueFilesJson.get(Constants.BOOK_FILES);
 
 		// first parse by book, then by area
-		String dirPath = textJson.get("base").getAsString() + "\\" + dialogueFilesJson.get("base").getAsString() + "\\";
+		String dirPath = textJson.get(Constants.BASE_DIR).getAsString() + "\\" + dialogueFilesJson.get(Constants.BASE_DIR).getAsString() + "\\";
 		for (JsonElement bookJson : bookFilesJson) {
-			String book = ((JsonObject) bookJson).get("base").getAsString();
+			String book = ((JsonObject) bookJson).get(Constants.BASE_DIR).getAsString();
 			String bookDirPath = dirPath + book;
-			JsonArray areaFilesJson = ((JsonObject) bookJson).get("files").getAsJsonArray();
+			JsonArray areaFilesJson = ((JsonObject) bookJson).get(Constants.FILE_LIST).getAsJsonArray();
 			ArrayList<String> filenames = new ArrayList<>();
 			for (JsonElement filenameJson : areaFilesJson) {
 				String filename = filenameJson.getAsString();
@@ -80,11 +74,11 @@ public class ConscientiaConfig implements IConfig {
 	private void parseNonDialogueTextFiles(JsonObject configData) {}
 
 	private void parseStructuralFiles(JsonObject configData) {
-		JsonObject textJson = (JsonObject) configData.get("text");
-		JsonObject structuralJson = (JsonObject) textJson.get("structural");
-		JsonArray filesJson = (JsonArray) structuralJson.get("files");
+		JsonObject textJson = (JsonObject) configData.get(Constants.TEXT_FILES);
+		JsonObject structuralJson = (JsonObject) textJson.get(Constants.STRUCTURAL_FILES);
+		JsonArray filesJson = (JsonArray) structuralJson.get(Constants.FILE_LIST);
 
-		String dirPath = textJson.get("base").getAsString() + "\\" + structuralJson.get("base").getAsString();
+		String dirPath = textJson.get(Constants.BASE_DIR).getAsString() + "\\" + structuralJson.get(Constants.BASE_DIR).getAsString();
 		for (JsonElement filenameJson : filesJson) {
 			String filename = filenameJson.getAsString();
 			String filepath = buildFilePath(dirPath, filename);
@@ -93,11 +87,11 @@ public class ConscientiaConfig implements IConfig {
 	}
 
 	private void parseTemplateFiles(JsonObject configData) {
-		JsonObject textJson = (JsonObject) configData.get("text");
-		JsonObject templateFilesJson = (JsonObject) textJson.get("templates");
+		JsonObject textJson = (JsonObject) configData.get(Constants.TEXT_FILES);
+		JsonObject templateFilesJson = (JsonObject) textJson.get(Constants.TEMPLATE_FILES);
 
-		String dirPath = textJson.get("base").getAsString() + "\\" + templateFilesJson.get("base").getAsString();
-		for (JsonElement filenameJson : templateFilesJson.get("files").getAsJsonArray()) {
+		String dirPath = textJson.get(Constants.BASE_DIR).getAsString() + "\\" + templateFilesJson.get(Constants.BASE_DIR).getAsString();
+		for (JsonElement filenameJson : templateFilesJson.get(Constants.FILE_LIST).getAsJsonArray()) {
 			String filename = filenameJson.getAsString();
 			String filepath = buildFilePath(dirPath, filename);
 			templateFiles.put(filename, filepath);
@@ -107,7 +101,7 @@ public class ConscientiaConfig implements IConfig {
 	// parses the starting address for each book
 	// used when creating a new save file
 	private void parseStartingAddresses(JsonObject configData) {
-		JsonObject startingAddressesJson = (JsonObject) configData.get("start");
+		JsonObject startingAddressesJson = (JsonObject) configData.get(Constants.START_ADDRESSES);
 
 		for (String book : startingAddressesJson.keySet()) {
 			String startingAddress = startingAddressesJson.get(book).getAsString();
@@ -115,15 +109,20 @@ public class ConscientiaConfig implements IConfig {
 		}
 	}
 
+	// parses the unique personalities and their labels for each book
 	private void parsePersonalities(JsonObject configData) {
-		JsonObject personalitiesJson = (JsonObject) configData.get("personalities");
+		JsonObject personalitiesJson = (JsonObject) configData.get(Constants.PERSONALITIES_LIST);
+
 		for (String key : personalitiesJson.keySet())
 			personalities.put(key, new Personality(key, personalitiesJson.get(key).getAsString(), 0));
 	}
 
 
-
-	// ACCESSORS
+	/*
+	 * --------------------
+	 * ACCESSORS & MUTATORS
+	 * --------------------
+	 */
 	public String getDialogueFileFilepath(String location) {
 		// parse out area & region to determine directories on file path
 		int areaStartInd = 0;
@@ -134,107 +133,63 @@ public class ConscientiaConfig implements IConfig {
 
 		String area = location.substring(areaStartInd, areaEndInd);
 		String region = location.substring(regionStartInd, regionEndInd);
+		// given the filenames' formatting vs. the formatting in the dialogue files
+		// it's necessary to add in the underscore
 		String[] splitRegion = region.split("\\s+");
 		if (splitRegion.length > 1)
 			region = splitRegion[0] + "_" + splitRegion[1];
-		String book;
-
-		// find relevant directory
-		System.out.println("ConscientiaConfig:getDialogueFileFilepath: Unimplemented Section - find relevant directory for book by address.");
-		switch (area) {
-			case "MIND":
-				book = Constants.MIND;
-				break;
-			case "KABU":
-				book = Constants.EIDOS;
-				break;
-			default:
-				book = "";
-				break;
-		}
+		String book = getBook(area);
 
 		// find & return relevant filepath
 		for (String filepath : dialogueFiles.get(book))
 			if (filepath.contains(region))
 				return filepath;
 
-		// TODO: handle error for address not found
+		// found no matches
+		System.err.println("ConscientiaConfig:getDialogueFileFilepath: Could not find filepath for specified location - " + location);
 		return null;
 	}
 
 	public String getMulticheckerFilepath() {
-		return structuralFiles.get("Multicheckers");
+		return structuralFiles.get(Constants.MULTICHECKERS_FILE);
 	}
 
-	public String[] addNewSaveGame(String startingBook) {
-		String[] newSaveFilepaths = new String[Constants.N_ACTIVE_SAVE_FILE_TYPES];
+	public String getTemplateFilepath(String filename) { return templateFiles.get(filename); }
 
-		// create the new player and npc save file's filepath
-		JsonObject uniSaveData = getUniSaveJsonObject();
-		int nSaveFiles = uniSaveData.get(Constants.UNI_N_SAVE_FILES).getAsInt();
-		buildNewSaveFilepaths(newSaveFilepaths, nSaveFiles);
-		setAndSaveNumberOfSaveFiles(uniSaveData, nSaveFiles+1);
+	public String getUniSaveFilepath() { return uniSaveFilepath; }
+	public String getBaseSaveFilepath() { return baseSaveFilepath; }
 
-		// copy default string to new save file
-		createNewFiles(startingBook, newSaveFilepaths);
+	public String getStartingAddress(String startingBook) { return startingAddresses.get(startingBook); }
 
-		return newSaveFilepaths;
-	}
-
-	public String[] loadOldSaveGame(String[] saveFilepaths) {
-		String[] oldSaveFilepaths = new String[Constants.N_ACTIVE_SAVE_FILE_TYPES];
-
-		// create the new player and npc save file's filepath
-		oldSaveFilepaths[Constants.UNI_SAVE] = uniSaveFilepath;
-		oldSaveFilepaths[Constants.PLAYER_SAVE] = baseSaveFilepath + "\\" + saveFilepaths[0];
-		oldSaveFilepaths[Constants.NPC_SAVE] = baseSaveFilepath + "\\" + saveFilepaths[1];
-
-		return oldSaveFilepaths;
-	}
-
-	// HELPER METHODS
+	/*
+	 * --------------
+	 * HELPER METHODS
+	 * --------------
+	 */
 	private String buildFilePath(String dir, String filename) {
 		String basePath = "resources\\" + dir + "\\";
 		String filepath = basePath + filename + ".json";
 		return filepath;
 	}
 
-	private void buildNewSaveFilepaths(String[] newSaveFilepaths, int nSaveFiles) {
-		newSaveFilepaths[Constants.UNI_SAVE] = uniSaveFilepath;
-		newSaveFilepaths[Constants.PLAYER_SAVE] = baseSaveFilepath + "\\" + "playerSave" + nSaveFiles + ".json";
-		newSaveFilepaths[Constants.NPC_SAVE] = baseSaveFilepath + "\\" + "npcsSave" + nSaveFiles + ".json";
-		System.out.println("ConscientiaConfig: buildNewSaveFilepaths: nSaveFiles incremented, but config.json not saved, and thus keeps loading as nSaveFiles == 0");
-	}
-
-	private void createNewFiles(String startingBook, String[] newSaveFilepaths) {
-		try {
-			// copy default save file contents
-			JsonObject defaultPlayerSaveContents = configManager.getFileIO().readJsonFileToJsonObject(templateFiles.get("PlayerSaveTemplate"));
-			JsonObject defaultNpcsSaveContents = configManager.getFileIO().readJsonFileToJsonObject(templateFiles.get("NpcsSaveTemplate"));
-
-			// set the starting address to the one corresponding to the starting book
-			((JsonObject) defaultPlayerSaveContents.get("current_location")).addProperty("value", startingAddresses.get(startingBook));
-
-			// write to new file
-			configManager.getFileIO().writeObjectToFile(defaultPlayerSaveContents, newSaveFilepaths[Constants.PLAYER_SAVE]);
-			configManager.getFileIO().writeObjectToFile(defaultNpcsSaveContents, newSaveFilepaths[Constants.NPC_SAVE]);
-		} catch (Exception e) {
-			System.err.println("ConscientiaConfig:addNewSaveFile: failed to load default save files: " + e.getMessage());
+	private String getBook(String area) {
+		switch (area) {
+			case Constants.AREA_ENCLAVE:
+				return Constants.TORMA;
+			case Constants.AREA_JER:
+				return Constants.THETIAN;
+			case Constants.AREA_KABU:
+				return Constants.EIDOS;
+			case Constants.AREA_KAVU:
+				return Constants.RIKHARR;
+			case Constants.AREA_MIND:
+				return Constants.MIND;
+			case Constants.AREA_THIUDA:
+				return Constants.WULFIAS;
+			case Constants.AREA_TURROK:
+				return Constants.BIRACUL;
+			default:
+				return "";
 		}
-	}
-
-	private JsonObject getUniSaveJsonObject() {
-		try {
-			return configManager.getFileIO().readJsonFileToJsonObject(uniSaveFilepath);
-		} catch (Exception e) {
-			System.err.println("ConscientiaConfig:getUniSaveJsonObject: failed to load unisave file: " + e.getMessage());
-		}
-
-		return null;
-	}
-
-	private void setAndSaveNumberOfSaveFiles(JsonObject uniSaveData, int nSaveFiles) {
-		uniSaveData.add(Constants.UNI_N_SAVE_FILES, new JsonPrimitive (nSaveFiles));
-		configManager.getFileIO().writeObjectToFile(uniSaveData, uniSaveFilepath);
 	}
 }

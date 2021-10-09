@@ -1,18 +1,13 @@
 {
-    "config_strategy": "conscientia",
-    "parser_strategy": "json",
-    "renderer_strategy": "console",
-    "input_strategy": "console",
-    "dialogue_processor_strategy": "conscientia",
     "save_files": {
         "base": "SaveFiles",
 		    "uni_save": "uniSave"
     },
-    "text": {
+    "text_files": {
         "base": "TextFiles",
-        "dialogue": {
+        "dialogue_files": {
             "base": "Dialogue",
-            "books": [
+            "book_files": [
                 {
                     "base": "BookOfBiracul",
                     "files": [
@@ -80,13 +75,11 @@
                 }
             ]
         },
-        "misc": {
-            "base": "Misc"
+        "non_dialogue_text_files": {
+            "base": "NonDialogueText",
+            "files": []
         },
-        "non_dialogue_text": {
-            "base": "NonDialogueText"
-        },
-        "structural": {
+        "structural_files": {
             "base": "Structural",
             "files": [
                 "Cues",
@@ -95,7 +88,7 @@
                 "NpcListByLocation"
             ]
         },
-        "templates": {
+        "template_files": {
             "base": "Templates",
             "files": [
                 "NpcsSaveTemplate",
@@ -103,7 +96,7 @@
             ]
         }
     },
-    "start": {
+    "start_addresses": {
         "biracul": "MIND!THE BOOK OF BIRACUL!THE BEGINNING!",
         "eidos": "MIND!THE BOOK OF EIDOS!THE BEGINNING!",
         "rikharr": "MIND!THE BOOK OF RIKHARR!THE BEGINNING!",
@@ -114,7 +107,7 @@
     "personalities": {
         "A": "DIPLOMAT",
         "B": "TRUTHSEEKER",
-        "C": "FENCE-SITTER",
+        "C": "EQUIVOCATOR",
         "D": "OPPORTUNIST",
         "E": "TYRANT",
         "F": "LOON"

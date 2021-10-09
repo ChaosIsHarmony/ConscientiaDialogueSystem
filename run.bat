@@ -1,3 +1,3 @@
 #!/bin/bash
-java -classpath libs/gson-2.8.8.jar;bin cds.Main desktop "resources\\config.json"
+java -classpath libs/gson-2.8.8.jar;bin cds.Main "resources\\config.json"
 pause
