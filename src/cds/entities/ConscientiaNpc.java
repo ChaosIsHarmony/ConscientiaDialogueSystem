@@ -46,7 +46,9 @@ public class ConscientiaNpc {
 	public String getImgFilepath() { return imgFilepath; }
 	public boolean isWeakTo(int attackType) { return weaknesses.contains(attackType); }
 	public String getAddress(String location) { return addresses.get(location); }
-	public String setAddress(String location, String address) { return addresses.put(location, address); }
+	public String setAddress(String location, String address) {
+		return addresses.put(location, address);
+	}
 
 	@Override
 	public String toString() {

@@ -77,14 +77,19 @@
         },
         "non_dialogue_text_files": {
             "base": "NonDialogueText",
-            "files": []
+            "files": [
+                "AcquirableDescriptions",
+                "BookOfBiracul",
+                "CombatDescriptions",
+                "Credits"
+            ]
         },
         "structural_files": {
             "base": "Structural",
             "files": [
                 "Cues",
                 "Maps",
-                "Multicheckers",
+                "Multichecker",
                 "NpcListByLocation"
             ]
         },

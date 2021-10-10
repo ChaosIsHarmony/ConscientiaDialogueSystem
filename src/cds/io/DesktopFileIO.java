@@ -13,6 +13,13 @@ import java.nio.file.StandardOpenOption;
 
 public class DesktopFileIO implements IFileIO {
 
+	public DesktopFileIO() {}
+
+	/*
+	 * ------------
+	 * READ METHODS
+	 * ------------
+	 */
 	public JsonObject readJsonFileToJsonObject(String filepath) throws FileNotFoundException {
 		try {
 			JsonObject jsonObject = JsonParser.parseReader(new FileReader(filepath)).getAsJsonObject();
@@ -35,6 +42,11 @@ public class DesktopFileIO implements IFileIO {
 		}
 	}
 
+	/*
+	 * -------------
+	 * WRITE METHODS
+	 * -------------
+	 */
 	public void writeStringToFile(String data, String filepath) {
 		Path path = Paths.get(filepath);
 
@@ -58,18 +70,17 @@ public class DesktopFileIO implements IFileIO {
 
 		try {
 			Files.createFile(path);
-			System.out.println("DesktopFileIO:writeStringToFile: Successfuly wrote to file: " + filepath);
 		} catch (IOException e) {
 			System.err.println("DesktopFileIO:writeObjectToFile: Could not create file: " + filepath + " | " + e.getMessage());
 			e.printStackTrace();
 		}
 
+		// this disableHtmlEscaping is essential, or else some characters will be encoded with numbers
 		Gson gson = new GsonBuilder().disableHtmlEscaping().create();;
 		String data = gson.toJson(obj);
 
 		try {
 			Files.writeString(path, data, StandardOpenOption.TRUNCATE_EXISTING);
-			System.out.println("DesktopFileIO:writeObjectToFile: Successfuly wrote to file: " + filepath);
 		} catch (IOException e) {
 			System.err.println("DesktopFileIO:writeObjectToFile: Could not write to file: " + filepath + " | " + e.getMessage());
 			e.printStackTrace();

@@ -137,7 +137,8 @@ public class MulticheckerBlock {
 
 	public String getDestinationAddress(GameDataManager gameDataManager) {
 		for (MulticheckerCase multicheckerCase : multicheckerCases)
-			if (multicheckerCase.getVerity(gameDataManager)) return multicheckerCase.getDestinationAddress();
+			if (multicheckerCase.getVerity(gameDataManager))
+				return multicheckerCase.getDestinationAddress();
 
 		// Failed
 		System.err.println("MulticheckerBlock:getDestinationAddress: Triggered event cases are not exhaustive for " + address);

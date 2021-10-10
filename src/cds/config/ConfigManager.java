@@ -1,14 +1,3 @@
-/*
- * ConfigManager.java
- *
- * Responsible for managing system-specific & game-specific configurations.
- * Made to be easily extensible with different strategies for:
- * 	- IO
- * 	- Rendering
- * 	- GameConfig
- * 	- DialogueProcessors
- *
- */
 package cds.config;
 
 import cds.io.IFileIO;
@@ -24,15 +13,14 @@ import com.google.gson.JsonObject;
 
 public class ConfigManager {
 
-	IFileIO fileio;
 	IConfig config;
-	IRenderer renderer;
-	IInputHandler inputHandler;
 	IDialogueProcessor dialogueProcessor;
-	String configStrategy;
+	IFileIO fileio;
+	IInputHandler inputHandler;
+	IRenderer renderer;
 
 	public ConfigManager(String configFilepath) {
-		fileio = new DesktopFileIO();
+		this.fileio = new DesktopFileIO();
 		loadConfiguration(configFilepath);
 	}
 
@@ -42,10 +30,10 @@ public class ConfigManager {
 			JsonObject configData = fileio.readJsonFileToJsonObject(configFilepath);
 
 			// load all configurable strategies
-			config = new ConscientiaConfig(this, configData);
-			renderer = new ConsoleRenderer();
-			inputHandler = new ConsoleInputHandler();
-			dialogueProcessor = new ConscientiaDialogueProcessor(this);
+			this.config = new ConscientiaConfig(this, configData);
+			this.dialogueProcessor = new ConscientiaDialogueProcessor(this);
+			this.inputHandler = new ConsoleInputHandler();
+			this.renderer = new ConsoleRenderer();
 		} catch (Exception e) {
 			System.err.println("ConfigManager:loadConfiguration: Could not load config file " + e.getMessage());
 		}
@@ -61,6 +49,5 @@ public class ConfigManager {
 	public IRenderer getRenderer() { return renderer; }
 	public IInputHandler getInputHandler() { return inputHandler; }
 	public IDialogueProcessor getDialogueProcessor() { return dialogueProcessor; }
-	public String getConfigStrategy() { return configStrategy; }
 
 }

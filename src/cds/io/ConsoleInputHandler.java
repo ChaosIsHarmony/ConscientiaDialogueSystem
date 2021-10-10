@@ -24,7 +24,7 @@ public class ConsoleInputHandler implements IInputHandler {
 			filenames[1] = "npcsSave"+fileNum+".json";
 		}
 
-		scanner.nextLine(); // to move it to the next line, or else will skip next input
+		scanner.nextLine(); // to move scanner to the next line, or else will skip next input
 		return filenames;
 	}
 

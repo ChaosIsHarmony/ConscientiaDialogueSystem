@@ -29,14 +29,16 @@ public class ConscientiaConfig implements IConfig {
 		loadData(configData);
 	}
 
-	public void loadData(JsonObject configData) {
+	private void loadData(JsonObject configData) {
 		parseSaveFiles(configData);
-		parseDialogueFiles(configData);
-		parseNonDialogueTextFiles(configData);
-		parseStructuralFiles(configData);
-		parseTemplateFiles(configData);
 		parseStartingAddresses(configData);
 		parsePersonalities(configData);
+
+		JsonObject textFilesData = (JsonObject) configData.get(Constants.TEXT_FILES);
+		parseDialogueFiles(textFilesData);
+		parseNonDialogueTextFiles(textFilesData);
+		parseStructuralFiles(textFilesData);
+		parseTemplateFiles(textFilesData);
 	}
 
 	private void parseSaveFiles(JsonObject configData) {
@@ -44,19 +46,24 @@ public class ConscientiaConfig implements IConfig {
 
 		// parse universal save filepath
 		String dirPath = saveFilesJson.get(Constants.BASE_DIR).getAsString();
-		uniSaveFilepath = buildFilePath(dirPath, saveFilesJson.get(Constants.UNI_SAVE_FILE).getAsString());
+		this.uniSaveFilepath =
+			buildFilePath(dirPath, saveFilesJson.get(Constants.UNI_SAVE_FILE).getAsString(), ".json");
 
-		// save for when saving game states
-		baseSaveFilepath = "resources" + "\\" + dirPath;
+		// base save filepath for when saving game states
+		this.baseSaveFilepath = buildFilePath(dirPath, "", "");
 	}
 
-	private void parseDialogueFiles(JsonObject configData) {
-		JsonObject textJson = (JsonObject) configData.get(Constants.TEXT_FILES);
-		JsonObject dialogueFilesJson = (JsonObject) textJson.get(Constants.DIALOGUE_FILES);
+	private void parseDialogueFiles(JsonObject textFilesData) {
+		JsonObject dialogueFilesJson = (JsonObject) textFilesData.get(Constants.DIALOGUE_FILES);
 		JsonArray bookFilesJson = (JsonArray) dialogueFilesJson.get(Constants.BOOK_FILES);
 
 		// first parse by book, then by area
-		String dirPath = textJson.get(Constants.BASE_DIR).getAsString() + "\\" + dialogueFilesJson.get(Constants.BASE_DIR).getAsString() + "\\";
+		String dirPath =
+			textFilesData.get(Constants.BASE_DIR).getAsString()
+			+ "\\"
+			+ dialogueFilesJson.get(Constants.BASE_DIR).getAsString()
+			+ "\\";
+
 		for (JsonElement bookJson : bookFilesJson) {
 			String book = ((JsonObject) bookJson).get(Constants.BASE_DIR).getAsString();
 			String bookDirPath = dirPath + book;
@@ -64,37 +71,43 @@ public class ConscientiaConfig implements IConfig {
 			ArrayList<String> filenames = new ArrayList<>();
 			for (JsonElement filenameJson : areaFilesJson) {
 				String filename = filenameJson.getAsString();
-				String path = buildFilePath(bookDirPath, filename);
+				String path = buildFilePath(bookDirPath, filename, ".json");
 				filenames.add(path);
 			}
-			dialogueFiles.put(book, filenames);
+			this.dialogueFiles.put(book, filenames);
 		}
 	}
 
 	private void parseNonDialogueTextFiles(JsonObject configData) {}
 
-	private void parseStructuralFiles(JsonObject configData) {
-		JsonObject textJson = (JsonObject) configData.get(Constants.TEXT_FILES);
-		JsonObject structuralJson = (JsonObject) textJson.get(Constants.STRUCTURAL_FILES);
+	private void parseStructuralFiles(JsonObject textFilesData) {
+		JsonObject structuralJson = (JsonObject) textFilesData.get(Constants.STRUCTURAL_FILES);
 		JsonArray filesJson = (JsonArray) structuralJson.get(Constants.FILE_LIST);
 
-		String dirPath = textJson.get(Constants.BASE_DIR).getAsString() + "\\" + structuralJson.get(Constants.BASE_DIR).getAsString();
+		String dirPath =
+			textFilesData.get(Constants.BASE_DIR).getAsString()
+			+ "\\"
+			+ structuralJson.get(Constants.BASE_DIR).getAsString();
+
 		for (JsonElement filenameJson : filesJson) {
 			String filename = filenameJson.getAsString();
-			String filepath = buildFilePath(dirPath, filename);
-			structuralFiles.put(filename, filepath);
+			String filepath = buildFilePath(dirPath, filename, ".json");
+			this.structuralFiles.put(filename, filepath);
 		}
 	}
 
-	private void parseTemplateFiles(JsonObject configData) {
-		JsonObject textJson = (JsonObject) configData.get(Constants.TEXT_FILES);
-		JsonObject templateFilesJson = (JsonObject) textJson.get(Constants.TEMPLATE_FILES);
+	private void parseTemplateFiles(JsonObject textFilesData) {
+		JsonObject templateFilesJson = (JsonObject) textFilesData.get(Constants.TEMPLATE_FILES);
 
-		String dirPath = textJson.get(Constants.BASE_DIR).getAsString() + "\\" + templateFilesJson.get(Constants.BASE_DIR).getAsString();
+		String dirPath =
+			textFilesData.get(Constants.BASE_DIR).getAsString()
+			+ "\\"
+			+ templateFilesJson.get(Constants.BASE_DIR).getAsString();
+
 		for (JsonElement filenameJson : templateFilesJson.get(Constants.FILE_LIST).getAsJsonArray()) {
 			String filename = filenameJson.getAsString();
-			String filepath = buildFilePath(dirPath, filename);
-			templateFiles.put(filename, filepath);
+			String filepath = buildFilePath(dirPath, filename, ".json");
+			this.templateFiles.put(filename, filepath);
 		}
 	}
 
@@ -105,7 +118,7 @@ public class ConscientiaConfig implements IConfig {
 
 		for (String book : startingAddressesJson.keySet()) {
 			String startingAddress = startingAddressesJson.get(book).getAsString();
-			startingAddresses.put(book, startingAddress);
+			this.startingAddresses.put(book, startingAddress);
 		}
 	}
 
@@ -114,7 +127,7 @@ public class ConscientiaConfig implements IConfig {
 		JsonObject personalitiesJson = (JsonObject) configData.get(Constants.PERSONALITIES_LIST);
 
 		for (String key : personalitiesJson.keySet())
-			personalities.put(key, new Personality(key, personalitiesJson.get(key).getAsString(), 0));
+			this.personalities.put(key, new Personality(key, personalitiesJson.get(key).getAsString(), 0));
 	}
 
 
@@ -151,24 +164,27 @@ public class ConscientiaConfig implements IConfig {
 	}
 
 	public String getMulticheckerFilepath() {
-		return structuralFiles.get(Constants.MULTICHECKERS_FILE);
+		return structuralFiles.get(Constants.MULTICHECKER_FILE);
 	}
 
 	public String getTemplateFilepath(String filename) { return templateFiles.get(filename); }
 
 	public String getUniSaveFilepath() { return uniSaveFilepath; }
+
 	public String getBaseSaveFilepath() { return baseSaveFilepath; }
 
-	public String getStartingAddress(String startingBook) { return startingAddresses.get(startingBook); }
+	public String getStartingAddress(String startingBook) {
+		return startingAddresses.get(startingBook);
+	}
 
 	/*
 	 * --------------
 	 * HELPER METHODS
 	 * --------------
 	 */
-	private String buildFilePath(String dir, String filename) {
+	private String buildFilePath(String dir, String filename, String extension) {
 		String basePath = "resources\\" + dir + "\\";
-		String filepath = basePath + filename + ".json";
+		String filepath = basePath + filename + extension;
 		return filepath;
 	}
 

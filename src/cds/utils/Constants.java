@@ -13,7 +13,7 @@ public class Constants {
 	public static final String PERSONALITIES_LIST = "personalities";
 	public static final String FILE_LIST = "files";
 	public static final String UNI_SAVE_FILE = "uni_save";
-	public static final String MULTICHECKERS_FILE = "Multicheckers";
+	public static final String MULTICHECKER_FILE = "Multichecker";
 	public static final String PLAYER_SAVE_TEMPLATE = "PlayerSaveTemplate";
 	public static final String NPC_SAVE_TEMPLATE = "NpcsSaveTemplate";
 
@@ -100,4 +100,6 @@ public class Constants {
 	public static final String PERSONALITY_LABEL_TYR = "Tyrant";
 	public static final String PERSONALITY_LABEL_LOO = "Loon";
 
+	// DISPLAY
+	public static final int MAX_VISIBLE_RESPONSES = 3;
 }

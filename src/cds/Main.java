@@ -13,9 +13,11 @@ public class Main {
 		// select save file or start new file
 		String[] savedGameFilepaths = configManager.getInputHandler().selectSaveFiles();
 		String startingBook = null;
-		if (savedGameFilepaths == null) startingBook = configManager.getInputHandler().selectStartingBook();
+		if (savedGameFilepaths == null)
+			startingBook = configManager.getInputHandler().selectStartingBook();
 		// load data for game
-		GameDataManager gameDataManager = new GameDataManager(configManager, startingBook, savedGameFilepaths);
+		GameDataManager gameDataManager =
+			new GameDataManager(configManager, startingBook, savedGameFilepaths);
 		configManager.getDialogueProcessor().setupProcessor(gameDataManager);
 
 		// Start game
