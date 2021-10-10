@@ -13,4 +13,5 @@ public interface IFileIO {
 	void writeStringToFile(String data, String filepath);
 
 	void writeObjectToFile(Object obj, String filepath);
+
 }

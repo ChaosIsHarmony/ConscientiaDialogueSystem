@@ -25,7 +25,7 @@ public class Action {
 		// address forcer
 	  else {
 			type = Constants.ACTION_TYPE_DIALOGUE_ADDRESS_FORCER;
-			actionAddress = actionBlock.get(Constants.ACTION_TARGET_ADDRESS).getAsString();
+			actionAddress = actionBlock.get(Constants.ACTION_DESTINATION_ADDRESS).getAsString();
 		}
 	}
 

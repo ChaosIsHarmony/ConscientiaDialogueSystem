@@ -20,8 +20,8 @@ import com.google.gson.JsonPrimitive;
 
 public class ConscientiaGameData implements IGameData {
 
-	IConfig config;
-	IFileIO fileio;
+	private IConfig config;
+	private IFileIO fileio;
 
 	private String[] saveFilepaths;
 	// Uni Save
@@ -46,13 +46,9 @@ public class ConscientiaGameData implements IGameData {
 		JsonObject[] saveData = null;
 
 		// new game
-		if (saveFilepathsToLoad == null) {
-			saveData = createNewSaveFiles(startingBook);
-		}
+		if (saveFilepathsToLoad == null)	saveData = createNewSaveFiles(startingBook);
 		// saved game
-		else {
-			saveData = loadOldSaveFiles(saveFilepathsToLoad);
-		}
+		else															saveData = loadOldSaveFiles(saveFilepathsToLoad);
 
 		// parse save files
 		if (saveData != null)	{
@@ -60,8 +56,11 @@ public class ConscientiaGameData implements IGameData {
 			parsePlayerSaveData(saveData[Constants.PLAYER_SAVE]);
 			parseNpcSaveData(saveData[Constants.NPC_SAVE]);
 			parseMultichecker();
-		} else System.err.println("ConscientiaGameData:<Constructor>: Could not load game data from save file: " + saveData);
-
+		} else {
+			System.err.println(
+					"ConscientiaGameData:<Constructor>: Could not load game data from save file: "
+					+ saveData);
+		}
 	}
 
 	private JsonObject[] createNewSaveFiles(String startingBook) {
@@ -79,7 +78,7 @@ public class ConscientiaGameData implements IGameData {
 		buildNewSaveFilepaths(baseSaveFilepath, this.saveFilepaths, nSaveFiles);
 		setAndSaveNumberOfSaveFiles(uniSaveFilepath, uniSaveDataJson, nSaveFiles+1);
 
-		// copy default string to new save file
+		// copy default save files to new save files
 		createNewFiles(startingBook, this.saveFilepaths);
 
 		// load saved data
@@ -91,11 +90,11 @@ public class ConscientiaGameData implements IGameData {
 		this.saveFilepaths = new String[Constants.N_ACTIVE_SAVE_FILE_TYPES];
 
 		// create the new player and npc save file's filepath
-		String uniSaveFilepath = this.config.getUniSaveFilepath();
-		String baseSaveFilepath = this.config.getBaseSaveFilepath();
-		this.saveFilepaths[Constants.UNI_SAVE] = uniSaveFilepath;
-		this.saveFilepaths[Constants.PLAYER_SAVE] = baseSaveFilepath + playerNpcSaveFilepaths[0];
-		this.saveFilepaths[Constants.NPC_SAVE] = baseSaveFilepath + playerNpcSaveFilepaths[1];
+		this.saveFilepaths[Constants.UNI_SAVE] = this.config.getUniSaveFilepath();
+		this.saveFilepaths[Constants.PLAYER_SAVE] =
+			this.config.getBaseSaveFilepath() + playerNpcSaveFilepaths[0];
+		this.saveFilepaths[Constants.NPC_SAVE] =
+			this.config.getBaseSaveFilepath() + playerNpcSaveFilepaths[1];
 
 		// load saved data
 		return loadSavedData();
@@ -113,7 +112,9 @@ public class ConscientiaGameData implements IGameData {
 			saveData[Constants.NPC_SAVE] =
 				this.fileio.readJsonFileToJsonObject(this.saveFilepaths[Constants.NPC_SAVE]);
 		} catch (FileNotFoundException e) {
-			System.err.println("ConscientiaGameData:loadSavedData: Could not load save files: " + e.getMessage());
+			System.err.println(
+					"ConscientiaGameData:loadSavedData: Could not load save files: "
+					+ e.getMessage());
 			e.printStackTrace();
 			saveData = null;
 		}
@@ -125,6 +126,7 @@ public class ConscientiaGameData implements IGameData {
 		this.uniSaveData = new	HashMap<>();
 
 		Integer nSaveFiles = saveData.get(Constants.UNI_N_SAVE_FILES).getAsInt();
+
 		HashSet<Integer> persistentAcquirables = new HashSet<>();
 		for (JsonElement acq : saveData.get(Constants.UNI_PERSISTENT_ACQ).getAsJsonArray())
 			persistentAcquirables.add(acq.getAsInt());
@@ -148,7 +150,7 @@ public class ConscientiaGameData implements IGameData {
 
 		// parse all non-triggered event variables
 		// must determine type: String, Integer, or Integer[]
-		for (String savedVar : saveData.keySet()){
+		for (String savedVar : saveData.keySet()) {
 			if (!savedVar.equals(Constants.PLAYER_TRIGGERED_EVENTS)) {
 				JsonElement jsonValue = saveData.get(savedVar).getAsJsonObject().get(Constants.TAG_VALUE);
 
@@ -173,17 +175,19 @@ public class ConscientiaGameData implements IGameData {
 	}
 
 	private void loadTriggeredEvents(JsonObject saveData) {
-		triggeredEvents = new HashMap<>();
+		this.triggeredEvents = new HashMap<>();
 
 		for (JsonElement event : (JsonArray) saveData.get(Constants.PLAYER_TRIGGERED_EVENTS)) {
 			JsonObject eventsJson = event.getAsJsonObject();
+
 			String[] keys = new String[eventsJson.keySet().size()];
 			eventsJson.keySet().toArray(keys);
+
 			for (String event_num : keys) {
 				JsonObject eventContentJson = (JsonObject) eventsJson.get(event_num);
 				Boolean event_val = eventContentJson.get(Constants.TAG_VALUE).getAsBoolean();
 
-				triggeredEvents.put(event_num, new TriggeredEvent(event_val));
+				this.triggeredEvents.put(event_num, new TriggeredEvent(event_val));
 			}
 		}
 	}
@@ -196,21 +200,23 @@ public class ConscientiaGameData implements IGameData {
 	}
 
 	private void parseMultichecker() {
-		multichecker = new HashMap<>();
+		this.multichecker = new HashMap<>();
 		String filepath = this.config.getMulticheckerFilepath();
 
 		JsonObject multicheckerJson = null;
 		try {
 			multicheckerJson = this.fileio.readJsonFileToJsonObject(filepath);
 		} catch (FileNotFoundException e) {
-			System.err.println("ConscientiaGameData:parseMultichecker: Could not load multichecker file: " + e.getMessage());
+			System.err.println(
+					"ConscientiaGameData:parseMultichecker: Could not load multichecker file: "
+					+ e.getMessage());
 			e.printStackTrace();
 		}
 
 		for (String address : multicheckerJson.keySet()) {
 			MulticheckerBlock mb =
 				new MulticheckerBlock(address, multicheckerJson.get(address).getAsJsonObject());
-			multichecker.put(address, mb);
+			this.multichecker.put(address, mb);
 		}
 	}
 
@@ -227,7 +233,7 @@ public class ConscientiaGameData implements IGameData {
 			playerData.put(key, playerSaveVariables.get(key));
 
 		Object[] trigArr = new Object[1];
-		trigArr[0] = triggeredEvents;
+		trigArr[0] = this.triggeredEvents;
 		playerData.put(Constants.PLAYER_TRIGGERED_EVENTS, trigArr);
 
 		this.fileio.writeObjectToFile(playerData, this.saveFilepaths[Constants.PLAYER_SAVE]);
@@ -244,25 +250,15 @@ public class ConscientiaGameData implements IGameData {
 	public Personality[] getTopAffinities(int range) {
 		Personality[] topAffinities = new Personality[range];
 		Personality[] affinities = new Personality[Constants.N_PERSONALITIES];
-		affinities[0] =	new Personality(
-				Constants.PERSONALITY_SYMBOL_DIP, Constants.PERSONALITY_LABEL_DIP,
-				(Integer) playerSaveVariables.get(Constants.PERSONALITY_SYMBOL_DIP).getValue());
-		affinities[1] =	new Personality(
-				Constants.PERSONALITY_SYMBOL_TRU, Constants.PERSONALITY_LABEL_TRU,
-				(Integer) playerSaveVariables.get(Constants.PERSONALITY_SYMBOL_TRU).getValue());
-		affinities[2] =	new Personality(
-				Constants.PERSONALITY_SYMBOL_EQU, Constants.PERSONALITY_LABEL_EQU,
-				(Integer) playerSaveVariables.get(Constants.PERSONALITY_SYMBOL_EQU).getValue());
-		affinities[3] =	new Personality(
-				Constants.PERSONALITY_SYMBOL_SCH, Constants.PERSONALITY_LABEL_SCH,
-				(Integer) playerSaveVariables.get(Constants.PERSONALITY_SYMBOL_SCH).getValue());
-		affinities[4] = new Personality(
-				Constants.PERSONALITY_SYMBOL_TYR, Constants.PERSONALITY_LABEL_TYR,
-				(Integer) playerSaveVariables.get(Constants.PERSONALITY_SYMBOL_TYR).getValue());
-		affinities[5] = new Personality(
-				Constants.PERSONALITY_SYMBOL_LOO, Constants.PERSONALITY_LABEL_LOO,
-				(Integer) playerSaveVariables.get(Constants.PERSONALITY_SYMBOL_LOO).getValue());
-		// sort
+
+		// populate list of personalities
+		for (int i = 0; i < affinities.length; i++)
+			affinities[i] =	new Personality(
+					Constants.PERSONALITY_SYMBOLS[i],
+					Constants.PERSONALITY_LABELS[i],
+					(Integer) playerSaveVariables.get(Constants.PERSONALITY_SYMBOLS[i]).getValue());
+
+		// sort by affinity (hi->lo)
 		sort(affinities);
 
 		// Determine which affinities are the strongest
@@ -296,7 +292,8 @@ public class ConscientiaGameData implements IGameData {
 	public ConscientiaNpc getNpcById(int varId) {
 		for (String npcName : this.npcsData.keySet())
 			if (this.npcsData.get(npcName).getId() == varId)	return this.npcsData.get(npcName);
-		System.out.println("ConscientiaGameData:getNpcById: Unimplemented Section - Handle NPC not found error.");
+		System.out.println(
+				"ConscientiaGameData:getNpcById: Unimplemented Section - Handle NPC not found error.");
 		return null;
 	}
 
@@ -325,7 +322,9 @@ public class ConscientiaGameData implements IGameData {
 		try {
 			return this.fileio.readJsonFileToJsonObject(uniSaveFilepath);
 		} catch (Exception e) {
-			System.err.println("ConscientiaGameData:getUniSaveJsonObject: failed to load unisave file: " + e.getMessage());
+			System.err.println(
+					"ConscientiaGameData:getUniSaveJsonObject: failed to load unisave file: "
+					+ e.getMessage());
 		}
 
 		return null;
@@ -361,8 +360,9 @@ public class ConscientiaGameData implements IGameData {
 			JsonObject defaultNpcsSaveContents =
 				this.fileio.readJsonFileToJsonObject(npcSaveTemplateFilepath);
 
-			// set the starting address to the one corresponding to the starting book
+			// get the starting address for the startingBook
 			String startingAddress = this.config.getStartingAddress(startingBook);
+			// set the starting address to the one corresponding to the starting book
 			((JsonObject) defaultPlayerSaveContents.get(Constants.PLAYER_CURRENT_LOCATION))
 				.addProperty(Constants.TAG_VALUE, startingAddress);
 
@@ -374,7 +374,9 @@ public class ConscientiaGameData implements IGameData {
 					defaultNpcsSaveContents,
 					newSaveFilepaths[Constants.NPC_SAVE]);
 		} catch (Exception e) {
-			System.err.println("ConscientiaGameData:createNewFiles: failed to load default save files: " + e.getMessage());
+			System.err.println(
+					"ConscientiaGameData:createNewFiles: failed to load default save files: "
+					+ e.getMessage());
 		}
 	}
 }

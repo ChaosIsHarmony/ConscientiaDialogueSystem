@@ -2,7 +2,7 @@ package cds.utils;
 
 public class JsonValue<E> {
 
-	E value;
+	private E value;
 
 	public JsonValue(E value) {
 		this.value = value;

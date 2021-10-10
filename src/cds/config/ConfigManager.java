@@ -13,11 +13,11 @@ import com.google.gson.JsonObject;
 
 public class ConfigManager {
 
-	IConfig config;
-	IDialogueProcessor dialogueProcessor;
-	IFileIO fileio;
-	IInputHandler inputHandler;
-	IRenderer renderer;
+	private IConfig config;
+	private IDialogueProcessor dialogueProcessor;
+	private IFileIO fileio;
+	private IInputHandler inputHandler;
+	private IRenderer renderer;
 
 	public ConfigManager(String configFilepath) {
 		this.fileio = new DesktopFileIO();
@@ -35,7 +35,9 @@ public class ConfigManager {
 			this.inputHandler = new ConsoleInputHandler();
 			this.renderer = new ConsoleRenderer();
 		} catch (Exception e) {
-			System.err.println("ConfigManager:loadConfiguration: Could not load config file " + e.getMessage());
+			System.err.println(
+					"ConfigManager:loadConfiguration: Could not load config file "
+					+ e.getMessage());
 		}
 	}
 

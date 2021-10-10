@@ -11,10 +11,10 @@ import com.google.gson.JsonObject;
 public class MulticheckerBlock {
 
 	private class MulticheckerCase {
-		final static String AND = "and", OR = "or", SIMPLE = "simple";
-		String type;
-		ArrayList<String> events;
-		String destinationAddress;
+		private final static String AND = "and", OR = "or", SIMPLE = "simple";
+		private String type;
+		private ArrayList<String> events;
+		private String destinationAddress;
 
 		public MulticheckerCase(JsonObject multicheckerCase) {
 			if (multicheckerCase.keySet().contains("and"))					type = AND;
@@ -39,7 +39,9 @@ public class MulticheckerBlock {
 					return getVeritySimple(gameDataManager);
 				default:
 					// Error
-					System.err.println("MulticheckerCase:getVerity: Unexpected type (not AND, OR, or SIMPLE): " + type);
+					System.err.println(
+							"MulticheckerCase:getVerity: Unexpected type (not AND, OR, or SIMPLE): "
+							+ type);
 					return false;
 			}
 		}
@@ -141,7 +143,9 @@ public class MulticheckerBlock {
 				return multicheckerCase.getDestinationAddress();
 
 		// Failed
-		System.err.println("MulticheckerBlock:getDestinationAddress: Triggered event cases are not exhaustive for " + address);
+		System.err.println(
+				"MulticheckerBlock:getDestinationAddress: Triggered event cases are not exhaustive for "
+				+ address);
 
 		return "";
 	}

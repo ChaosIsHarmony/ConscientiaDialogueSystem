@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ConsoleInputHandler implements IInputHandler {
 
-	Scanner scanner;
+	private Scanner scanner;
 
 	public ConsoleInputHandler() {
 		scanner = new Scanner(System.in);

@@ -12,17 +12,17 @@ import java.util.*;
 
 public class ConscientiaConfig implements IConfig {
 
-	ConfigManager configManager;
+	private ConfigManager configManager;
 
-	String baseSaveFilepath;
-	String uniSaveFilepath;
+	private String baseSaveFilepath;
+	private String uniSaveFilepath;
 
-	Map<String, ArrayList<String>> dialogueFiles = new HashMap<>();
-	Map<String, String> nonDialogueTextFiles = new HashMap<>();
-	Map<String, String> structuralFiles = new HashMap<>();
-	Map<String, String> templateFiles = new HashMap<>();
-	Map<String, String> startingAddresses = new HashMap<>();
-	Map<String, Personality> personalities = new HashMap<>();
+	private Map<String, ArrayList<String>> dialogueFiles = new HashMap<>();
+	private Map<String, String> nonDialogueTextFiles = new HashMap<>();
+	private Map<String, String> structuralFiles = new HashMap<>();
+	private Map<String, String> templateFiles = new HashMap<>();
+	private Map<String, String> startingAddresses = new HashMap<>();
+	private Map<String, Personality> personalities = new HashMap<>();
 
 	public ConscientiaConfig(ConfigManager configManager, JsonObject configData) {
 		this.configManager = configManager;
@@ -159,7 +159,9 @@ public class ConscientiaConfig implements IConfig {
 				return filepath;
 
 		// found no matches
-		System.err.println("ConscientiaConfig:getDialogueFileFilepath: Could not find filepath for specified location - " + location);
+		System.err.println(
+				"ConscientiaConfig:getDialogueFileFilepath: Could not find filepath for given location - "
+				+ location);
 		return null;
 	}
 

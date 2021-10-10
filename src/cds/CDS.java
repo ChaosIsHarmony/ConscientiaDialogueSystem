@@ -10,11 +10,11 @@ import cds.utils.JsonValue;
 
 public class CDS {
 
-	ConfigManager configManager;
-	GameDataManager gameDataManager;
-	boolean gameLoopActive;
-	Dialogue currentDialogue;
-	String nextAddress;
+	private ConfigManager configManager;
+	private GameDataManager gameDataManager;
+	private boolean gameLoopActive;
+	private Dialogue currentDialogue;
+	private String nextAddress;
 
 	// states for fsm
 	private final int LOADING_DIALOGUE = 0;
@@ -31,15 +31,15 @@ public class CDS {
 		ConscientiaNpc initialNpc = gameDataManager.getNpcByName(currentNpcName);
 		String currentLocation =
 			(String) gameDataManager.getPlayerValue(Constants.PLAYER_CURRENT_LOCATION).getValue();
-		nextAddress = initialNpc.getAddress(currentLocation);
+		this.nextAddress = initialNpc.getAddress(currentLocation);
 
 		// start game loop
-		gameLoopActive = true;
-		while (gameLoopActive) update();
+		this.gameLoopActive = true;
+		while (this.gameLoopActive) update();
 	}
 
 	public void update() {
-		switch (gameState) {
+		switch (this.gameState) {
 			case LOADING_DIALOGUE:
 				// handle events before getting dialogue
 				String address = configManager.getDialogueProcessor().preprocessNewAddress(nextAddress);
@@ -47,7 +47,7 @@ public class CDS {
 				// load relevant dialogue and choices
 				currentDialogue = configManager.getDialogueProcessor().getDialogue(address);
 
-				// display dialogue and choices
+				// display dialogue and choices (up to max allowable choices, ordered by affinity)
 				configManager.getRenderer().show(currentDialogue.getNpcText());
 				int ind = 0;
 				for (Response response : currentDialogue.getResponses())

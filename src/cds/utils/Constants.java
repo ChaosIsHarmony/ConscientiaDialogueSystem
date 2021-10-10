@@ -45,7 +45,6 @@ public class Constants {
 	public static final String ACTION_TYPE = "type";
 	public static final String ACTION_EVENT = "event_num";
 	public static final String ACTION_DESTINATION_ADDRESS = "dest_add";
-	public static final String ACTION_TARGET_ADDRESS = "target_add";
 	public static final int ACTION_TYPE_EVENT_CHECKER = 0;
 	public static final String ACTION_TYPE_EVENT_CHECKER_SYMBOL = "^";
 	public static final int ACTION_TYPE_DIALOGUE_ADDRESS_FORCER = 1;
@@ -87,18 +86,18 @@ public class Constants {
 
 	// PERSONALITIES
 	public static final int N_PERSONALITIES = 6;
-	public static final String PERSONALITY_SYMBOL_DIP = "A";
-	public static final String PERSONALITY_SYMBOL_TRU = "B";
-	public static final String PERSONALITY_SYMBOL_EQU = "C";
-	public static final String PERSONALITY_SYMBOL_SCH = "D";
-	public static final String PERSONALITY_SYMBOL_TYR = "E";
-	public static final String PERSONALITY_SYMBOL_LOO = "F";
-	public static final String PERSONALITY_LABEL_DIP = "Diplomat";
-	public static final String PERSONALITY_LABEL_TRU = "Truthseeker";
-	public static final String PERSONALITY_LABEL_EQU = "Equivocator";
-	public static final String PERSONALITY_LABEL_SCH = "Schemer";
-	public static final String PERSONALITY_LABEL_TYR = "Tyrant";
-	public static final String PERSONALITY_LABEL_LOO = "Loon";
+	public static final String[] PERSONALITY_SYMBOLS =	{ "A",
+																												"B",
+																												"C",
+																												"D",
+																												"E",
+																												"F" };
+	public static final String[] PERSONALITY_LABELS =	{ "Diplomat",
+																											"Truthseeker",
+																											"Equivocator",
+																											"Schemer",
+																											"Tyrant",
+																											"Loon" };
 
 	// DISPLAY
 	public static final int MAX_VISIBLE_RESPONSES = 3;
