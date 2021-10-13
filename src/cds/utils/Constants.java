@@ -80,9 +80,10 @@ public class Constants {
 
 	// NPC JSON TAGS
 	public static final String NPC_ID = "id";
-	public static final String NPC_IMG = "imgFilepath";
+	public static final String NPC_IMG = "img_filepath";
 	public static final String NPC_WEAKNESSES = "weaknesses";
-	public static final String NPC_ADDRESSES = "addresses";
+	public static final String NPC_DIALOGUE_ADDRESSES = "dialogue_addresses";
+	public static final String NPC_POST_COMBAT_ADDRESSES = "post_combat_addresses";
 
 	// PERSONALITIES
 	public static final int N_PERSONALITIES = 6;

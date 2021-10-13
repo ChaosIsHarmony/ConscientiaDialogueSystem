@@ -19,6 +19,7 @@ public class CDS {
 	// states for fsm
 	private final int LOADING_DIALOGUE = 0;
 	private final int WAITING_FOR_INPUT = 1;
+	private final int IN_COMBAT = 2;
 	private int gameState = LOADING_DIALOGUE;
 
 	public CDS(ConfigManager configManager, GameDataManager gameDataManager) {
@@ -31,7 +32,7 @@ public class CDS {
 		ConscientiaNpc initialNpc = gameDataManager.getNpcByName(currentNpcName);
 		String currentLocation =
 			(String) gameDataManager.getPlayerValue(Constants.PLAYER_CURRENT_LOCATION).getValue();
-		this.nextAddress = initialNpc.getAddress(currentLocation);
+		this.nextAddress = initialNpc.getDialogueAddress(currentLocation);
 
 		// start game loop
 		this.gameLoopActive = true;
@@ -43,6 +44,12 @@ public class CDS {
 			case LOADING_DIALOGUE:
 				// handle events before getting dialogue
 				String address = configManager.getDialogueProcessor().preprocessNewAddress(nextAddress);
+
+				// check for mode switch
+				if (address.equals("COMBAT")) {
+					gameState = IN_COMBAT;
+					break;
+				}
 
 				// load relevant dialogue and choices
 				currentDialogue = configManager.getDialogueProcessor().getDialogue(address);
@@ -81,6 +88,9 @@ public class CDS {
 				} else {
 					configManager.getRenderer().show("Invalid Selection.");
 				}
+				break;
+			case IN_COMBAT:
+				System.out.println("CDS:update: Switched to COMBAT mode.");
 				break;
 			default:
 				gameLoopActive = false;

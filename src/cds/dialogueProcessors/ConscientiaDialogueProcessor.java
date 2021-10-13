@@ -76,7 +76,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		// change npc's last address for the given location if necessary
 		if (updateNpcAddress) {
 			System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: Changed last NPC address.");
-			this.currentNpc.setAddress(currentLocation, newAddress);
+			this.currentNpc.setDialogueAddress(currentLocation, newAddress);
 		}
 
 		return newAddress;
@@ -95,10 +95,15 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 			System.out.println("ConscientiaDialogueProcessor:handleTriggers: Fighting.");
 			System.out.println("ConscientiaDialogueProcessor:handleTriggers: Unimplemented Section - FIGHTING WORDS.");
 			// handle @-forcer
-			// shift to combat mode (change state in CDS?)
-			// load combat description
+			JsonObject fightBlockJson = (JsonObject) fightingWordsJson.get(newAddress);
+			JsonObject actionJson = (JsonObject) fightBlockJson.get(Constants.DIALOGUE_ACTION);
+			String actionSymbol = actionJson.get(Constants.ACTION_TYPE).getAsString();
+			System.out.println("ConscientiaDialogueProcessor:handleTriggers: @-Forcer.");
+			String targetAddress = actionJson.get(Constants.ACTION_DESTINATION_ADDRESS).getAsString();
+			this.currentNpc.setDialogueAddress(newLocation, targetAddress);
 			gameDataManager.saveCurrentState();
-			return newAddress;
+			// return triggered to switch to combat mode
+			return "COMBAT";
 		}
 		// switch npcs
 		else if (npcSwitchersJson.keySet().contains(newAddress)) {
@@ -131,7 +136,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		if (actionSymbol.equals(Constants.ACTION_TYPE_DIALOGUE_ADDRESS_FORCER_SYMBOL)) {
 			System.out.println("ConscientiaDialogueProcessor:handleAction: @-Forcer.");
 			String targetAddress = actionJson.get(Constants.ACTION_DESTINATION_ADDRESS).getAsString();
-			this.currentNpc.setAddress(newLocation, targetAddress);
+			this.currentNpc.setDialogueAddress(newLocation, targetAddress);
 			return newAddress;
 		}
 		// event checker
@@ -251,7 +256,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 				new JsonValue<>(this.currentNpc.getName()));
 
 		// find relevant dialogue address for new npc
-		return this.currentNpc.getAddress(newLocation);
+		return this.currentNpc.getDialogueAddress(newLocation);
 	}
 
 	private ConscientiaNpc parseNewNpc(String newAddress) {

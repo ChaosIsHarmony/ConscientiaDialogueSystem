@@ -14,16 +14,20 @@ public class ConscientiaNpc {
 	private int id;
 	private String imgFilepath;
 	private HashSet<Integer> weaknesses;
-	private HashMap<String, String> addresses;
+	private HashMap<String, String> dialogueAddresses;
+	private HashMap<String, String> postCombatAddresses;
 
 	public ConscientiaNpc() { this.id = -1; }
 
 	public ConscientiaNpc(String name, JsonObject npcData) {
+		System.out.println(name);
 		this.name = name;
 		this.id = npcData.get(Constants.NPC_ID).getAsInt();
 		this.imgFilepath = npcData.get(Constants.NPC_IMG).getAsString();
 		parseWeakenesses((JsonArray) npcData.get(Constants.NPC_WEAKNESSES));
-		parseAddresses((JsonObject) npcData.get(Constants.NPC_ADDRESSES));
+		parseDialogueAddresses((JsonObject) npcData.get(Constants.NPC_DIALOGUE_ADDRESSES));
+		if (npcData.keySet().contains(Constants.NPC_POST_COMBAT_ADDRESSES))
+			parsePostCombatAddresses((JsonObject) npcData.get(Constants.NPC_POST_COMBAT_ADDRESSES));
 	}
 
 	private void parseWeakenesses(JsonArray weaknessesJson) {
@@ -33,22 +37,29 @@ public class ConscientiaNpc {
 			weaknesses.add(weakness.getAsInt());
 	}
 
-	private void parseAddresses(JsonObject addressesJson) {
-		addresses = new HashMap<>();
+	private void parseDialogueAddresses(JsonObject addressesJson) {
+		dialogueAddresses = new HashMap<>();
 
 		for (String location : addressesJson.keySet())
-			addresses.put(location, addressesJson.get(location).getAsString());
+			dialogueAddresses.put(location, addressesJson.get(location).getAsString());
 	}
 
+	private void parsePostCombatAddresses(JsonObject addressesJson) {
+		postCombatAddresses = new HashMap<>();
+
+		for (String location : addressesJson.keySet())
+			postCombatAddresses.put(location, addressesJson.get(location).getAsString());
+	}
 
 	public String getName() { return name; }
 	public int getId() { return id; }
 	public String getImgFilepath() { return imgFilepath; }
 	public boolean isWeakTo(int attackType) { return weaknesses.contains(attackType); }
-	public String getAddress(String location) { return addresses.get(location); }
-	public String setAddress(String location, String address) {
-		return addresses.put(location, address);
+	public String getDialogueAddress(String location) { return dialogueAddresses.get(location); }
+	public String setDialogueAddress(String location, String address) {
+		return dialogueAddresses.put(location, address);
 	}
+	public String getPostCombatAddress(String location) { return postCombatAddresses.get(location); }
 
 	@Override
 	public String toString() {
@@ -72,7 +83,7 @@ public class ConscientiaNpc {
 			(prime * result)
 				+ ((name == null) ? 0 : name.hashCode())
 				+ ((imgFilepath == null) ? 0 : imgFilepath.hashCode())
-				+ ((addresses == null) ? 0 : addresses.hashCode());
+				+ ((dialogueAddresses == null) ? 0 : dialogueAddresses.hashCode());
 		return result;
 	}
 }
