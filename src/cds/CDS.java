@@ -1,6 +1,7 @@
 package cds;
 
 import cds.config.ConfigManager;
+import cds.entities.CombatBlock;
 import cds.entities.ConscientiaNpc;
 import cds.entities.Dialogue;
 import cds.entities.Response;
@@ -17,10 +18,7 @@ public class CDS {
 	private String nextAddress;
 
 	// states for fsm
-	private final int LOADING_DIALOGUE = 0;
-	private final int WAITING_FOR_INPUT = 1;
-	private final int IN_COMBAT = 2;
-	private int gameState = LOADING_DIALOGUE;
+	private int gameState = Constants.LOADING_DIALOGUE;
 
 	public CDS(ConfigManager configManager, GameDataManager gameDataManager) {
 		this.configManager = configManager;
@@ -41,13 +39,14 @@ public class CDS {
 
 	public void update() {
 		switch (this.gameState) {
-			case LOADING_DIALOGUE:
+			case Constants.LOADING_DIALOGUE:
 				// handle events before getting dialogue
 				String address = configManager.getDialogueProcessor().preprocessNewAddress(nextAddress);
 
 				// check for mode switch
-				if (address.equals("COMBAT")) {
-					gameState = IN_COMBAT;
+				if (address.contains("COMBAT")) {
+					gameState = Constants.IN_COMBAT;
+					this.nextAddress = address;
 					break;
 				}
 
@@ -64,9 +63,9 @@ public class CDS {
 						break;
 
 				// switch to waiting for player input
-				gameState = WAITING_FOR_INPUT;
+				gameState = Constants.WAITING_FOR_INPUT;
 				break;
-			case WAITING_FOR_INPUT:
+			case Constants.WAITING_FOR_INPUT:
 				int responseInd = configManager.getInputHandler().selectResponse();
 
 				// ensure valid input
@@ -84,13 +83,14 @@ public class CDS {
 
 					// Move to next address
 					nextAddress = currentDialogue.getResponses().get(responseInd).getDestinationAddress();
-					gameState = LOADING_DIALOGUE;
+					gameState = Constants.LOADING_DIALOGUE;
 				} else {
 					configManager.getRenderer().show("Invalid Selection.");
 				}
 				break;
-			case IN_COMBAT:
+			case Constants.IN_COMBAT:
 				System.out.println("CDS:update: Switched to COMBAT mode.");
+				CombatBlock cb = configManager.getDialogueProcessor().getCombatDescription(this.nextAddress);
 				break;
 			default:
 				gameLoopActive = false;

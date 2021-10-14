@@ -7,6 +7,7 @@ public class Constants {
 	public static final String TEXT_FILES = "text_files";
 	public static final String DIALOGUE_FILES = "dialogue_files";
 	public static final String BOOK_FILES = "book_files";
+	public static final String NON_DIALOGUE_TEXT_FILES = "non_dialogue_text_files";
 	public static final String STRUCTURAL_FILES = "structural_files";
 	public static final String TEMPLATE_FILES = "template_files";
 	public static final String START_ADDRESSES = "start_addresses";
@@ -16,6 +17,7 @@ public class Constants {
 	public static final String MULTICHECKER_FILE = "Multichecker";
 	public static final String PLAYER_SAVE_TEMPLATE = "PlayerSaveTemplate";
 	public static final String NPC_SAVE_TEMPLATE = "NpcsSaveTemplate";
+	public static final String COMBAT_DESCRIPTIONS = "CombatDescriptions";
 
 	// AREAS
 	public static final String AREA_ENCLAVE = "ENCLAVE";
@@ -100,6 +102,13 @@ public class Constants {
 																											"Tyrant",
 																											"Loon" };
 
+	// FSM STATES
+	public static final int LOADING_DIALOGUE = 0;
+	public static final int WAITING_FOR_INPUT = 1;
+	public static final int IN_COMBAT = 2;
+
 	// DISPLAY
 	public static final int MAX_VISIBLE_RESPONSES = 3;
+
+
 }

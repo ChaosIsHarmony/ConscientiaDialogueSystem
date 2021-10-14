@@ -16,4 +16,6 @@ public interface IConfig {
 
 	String getStartingAddress(String startingBook);
 
+	String getCombatDescriptionsFilepath();
+
 }

@@ -78,7 +78,22 @@ public class ConscientiaConfig implements IConfig {
 		}
 	}
 
-	private void parseNonDialogueTextFiles(JsonObject configData) {}
+	private void parseNonDialogueTextFiles(JsonObject textFilesData) {
+		JsonObject nonDialogueTextFilesJson =
+			(JsonObject) textFilesData.get(Constants.NON_DIALOGUE_TEXT_FILES);
+		JsonArray filesJson = (JsonArray) nonDialogueTextFilesJson.get(Constants.FILE_LIST);
+
+		String dirPath =
+			textFilesData.get(Constants.BASE_DIR).getAsString()
+			+ "\\"
+			+ nonDialogueTextFilesJson.get(Constants.BASE_DIR).getAsString();
+
+		for (JsonElement filenameJson : filesJson) {
+			String filename = filenameJson.getAsString();
+			String filepath = buildFilePath(dirPath, filename, ".json");
+			this.nonDialogueTextFiles.put(filename, filepath);
+		}
+	}
 
 	private void parseStructuralFiles(JsonObject textFilesData) {
 		JsonObject structuralJson = (JsonObject) textFilesData.get(Constants.STRUCTURAL_FILES);
@@ -178,6 +193,11 @@ public class ConscientiaConfig implements IConfig {
 	public String getStartingAddress(String startingBook) {
 		return startingAddresses.get(startingBook);
 	}
+
+	public String getCombatDescriptionsFilepath() {
+		System.out.println(nonDialogueTextFiles.get(Constants.COMBAT_DESCRIPTIONS));
+
+		return nonDialogueTextFiles.get(Constants.COMBAT_DESCRIPTIONS); }
 
 	/*
 	 * --------------

@@ -1,6 +1,7 @@
 package cds.dialogueProcessors;
 
 import cds.config.ConfigManager;
+import cds.entities.CombatBlock;
 import cds.entities.ConscientiaNpc;
 import cds.entities.Dialogue;
 import cds.entities.MulticheckerBlock;
@@ -22,6 +23,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 	private JsonObject eventsJson;
 	private JsonObject npcSwitchersJson;
 	private JsonObject fightingWordsJson;
+	private JsonObject combatDescriptionsJson;
 	private String currentLocation;
 	private ConscientiaNpc currentNpc;
 
@@ -35,6 +37,15 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 			(String) gameDataManager.getPlayerValue(Constants.PLAYER_CURRENT_LOCATION).getValue();
 		switchLocations(this.currentLocation); 	// loads dialogue for current location
 		this.currentNpc = new ConscientiaNpc();	// loads empty npc for NPC change comparison
+		try {
+			this.combatDescriptionsJson =
+				configManager
+				.getFileIO()
+				.readJsonFileToJsonObject(configManager.getConfig().getCombatDescriptionsFilepath());
+		} catch (IOException e) {
+			System.err.println("ConscientiaDialogueProcessor:setupProcessor: Failed to load combat descriptions - " + e.getMessage());
+			e.printStackTrace();
+		}
 	}
 
 	public String preprocessNewAddress(String newAddress) {
@@ -103,7 +114,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 			this.currentNpc.setDialogueAddress(newLocation, targetAddress);
 			gameDataManager.saveCurrentState();
 			// return triggered to switch to combat mode
-			return "COMBAT";
+			return "COMBAT:" + this.currentNpc.getId();
 		}
 		// switch npcs
 		else if (npcSwitchersJson.keySet().contains(newAddress)) {
@@ -179,6 +190,15 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		}
 
 		return newDialogue;
+	}
+
+	public CombatBlock getCombatDescription(String combatStr) {
+		// parse npc id
+		String npcId = combatStr.substring(combatStr.indexOf(":")+1);
+		System.out.println(combatDescriptionsJson.get(npcId));
+
+		CombatBlock cb = new CombatBlock();
+		return cb;
 	}
 
 	/*
