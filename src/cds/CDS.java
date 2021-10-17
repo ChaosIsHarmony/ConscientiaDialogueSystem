@@ -46,7 +46,6 @@ public class CDS {
 				// check for mode switch
 				if (address.contains("COMBAT")) {
 					gameState = Constants.IN_COMBAT;
-					this.nextAddress = address;
 					break;
 				}
 
@@ -89,8 +88,12 @@ public class CDS {
 				}
 				break;
 			case Constants.IN_COMBAT:
-				System.out.println("CDS:update: Switched to COMBAT mode.");
-				CombatBlock cb = configManager.getDialogueProcessor().getCombatDescription(this.nextAddress);
+				CombatBlock cb = configManager.getDialogueProcessor().handleCombat();
+				configManager.getRenderer().show(cb.getText());
+				gameState = Constants.WAITING_FOR_INPUT_COMBAT;
+				break;
+			case Constants.WAITING_FOR_INPUT_COMBAT:
+				// change to relevant combat address
 				break;
 			default:
 				gameLoopActive = false;

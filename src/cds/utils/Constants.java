@@ -67,14 +67,16 @@ public class Constants {
 
 	public static final String PLAYER_CURRENT_LOCATION = "current_location";
 	public static final String PLAYER_CURRENT_NPC = "current_npc";
+	public static final String PLAYER_VOLATILE_ACQ = "volatile_acquirables";
 	public static final String PLAYER_TRIGGERED_EVENTS = "triggered_events";
 
 	public static final String RESPONSE_TEXT = "response_text";
 	public static final String RESPONSE_POINTS = "points";
 	public static final String RESPONSE_DESTINATION_ADDRESS = "dest_add";
 
-	public static final String TAG_VALUE = "value";
+	public static final String TAG_DEFAULT = "default";
 	public static final String TAG_DESCRIPTION = "description";
+	public static final String TAG_VALUE = "value";
 
 	public static final String UNI_N_SAVE_FILES = "n_save_files";
 	public static final String UNI_PERSISTENT_ACQ = "persistent_acquirables";
@@ -86,6 +88,10 @@ public class Constants {
 	public static final String NPC_WEAKNESSES = "weaknesses";
 	public static final String NPC_DIALOGUE_ADDRESSES = "dialogue_addresses";
 	public static final String NPC_POST_COMBAT_ADDRESSES = "post_combat_addresses";
+
+	// COMBAT JOSN TAGS
+	public static final String COMBAT_PLAYER_VICTORIOUS = "player_victorious";
+	public static final String COMBAT_PLAYER_DEFEATED = "player_defeated";
 
 	// PERSONALITIES
 	public static final int N_PERSONALITIES = 6;
@@ -106,6 +112,7 @@ public class Constants {
 	public static final int LOADING_DIALOGUE = 0;
 	public static final int WAITING_FOR_INPUT = 1;
 	public static final int IN_COMBAT = 2;
+	public static final int WAITING_FOR_INPUT_COMBAT = 3;
 
 	// DISPLAY
 	public static final int MAX_VISIBLE_RESPONSES = 3;

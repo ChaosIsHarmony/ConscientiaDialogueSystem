@@ -7,6 +7,7 @@ import cds.entities.MulticheckerBlock;
 import cds.entities.Personality;
 import cds.io.IFileIO;
 import cds.utils.Constants;
+import cds.utils.Functions;
 import cds.utils.JsonValue;
 
 import java.io.FileNotFoundException;
@@ -155,7 +156,8 @@ public class ConscientiaGameData implements IGameData {
 				JsonElement jsonValue = saveData.get(savedVar).getAsJsonObject().get(Constants.TAG_VALUE);
 
 				if (jsonValue.isJsonArray())
-					playerSaveVariables.put(savedVar, new JsonValue<>(copyArray(jsonValue.getAsJsonArray())));
+					playerSaveVariables.put(
+							savedVar, new JsonValue<>(Functions.jsonArrayToSet(jsonValue.getAsJsonArray())));
 				else {
 					JsonPrimitive jsonPrimitive = jsonValue.getAsJsonPrimitive();
 					if (jsonPrimitive.isString())
@@ -165,13 +167,6 @@ public class ConscientiaGameData implements IGameData {
 				}
 			}
 		}
-	}
-
-	private Integer[] copyArray(JsonArray array) {
-		Integer[] array_cpy = new Integer[array.size()];
-		for (int i = 0; i < array.size(); i++)
-			array_cpy[i] = array.get(i).getAsInt();
-		return array_cpy;
 	}
 
 	private void loadTriggeredEvents(JsonObject saveData) {
@@ -281,6 +276,11 @@ public class ConscientiaGameData implements IGameData {
 			affinities[highest] = tmp;
 		}
 	}
+
+	public void setUniValue(String varName, Object varValue) {
+		uniSaveData.put(varName, varValue);
+	}
+	public Object getUniValue(String varName) { return uniSaveData.get(varName); }
 
 	public void setPlayerValue(String varName, JsonValue<?> varValue) {
 		playerSaveVariables.put(varName, varValue);

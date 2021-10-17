@@ -34,6 +34,11 @@ public class GameDataManager {
 
 	public Personality[] getTopAffinities(int range) { return gameData.getTopAffinities(range); }
 
+	public void setUniValue(String varName, Object varValue) {
+		gameData.setUniValue(varName, varValue);
+	}
+	public Object getUniValue(String varName) { return gameData.getUniValue(varName); }
+
 	public void setPlayerValue(String varName, JsonValue<?> varValue) {
 		gameData.setPlayerValue(varName, varValue);
 	}

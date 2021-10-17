@@ -16,6 +16,9 @@ public interface IGameData {
 
 	Personality[] getTopAffinities(int range);
 
+	void setUniValue(String varName, Object varValue);
+	Object getUniValue(String varName);
+
 	void setPlayerValue(String varName, JsonValue<?> varValue);
 	JsonValue<?> getPlayerValue(String varName);
 

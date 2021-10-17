@@ -12,6 +12,6 @@ public interface IDialogueProcessor {
 
 	Dialogue getDialogue(String address);
 
-	CombatBlock getCombatDescription(String combatStr);
+	CombatBlock handleCombat();
 
 }

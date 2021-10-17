@@ -1,3 +1,6 @@
+/*
+ * variable names are in snake_case to match json files when serializing
+ */
 package cds.entities;
 
 import cds.utils.Constants;
@@ -12,18 +15,17 @@ public class ConscientiaNpc {
 
 	private String name;
 	private int id;
-	private String imgFilepath;
+	private String img_filepath;
 	private HashSet<Integer> weaknesses;
-	private HashMap<String, String> dialogueAddresses;
-	private HashMap<String, String> postCombatAddresses;
+	private HashMap<String, String> dialogue_addresses;
+	private HashMap<String, String> post_combat_addresses;
 
 	public ConscientiaNpc() { this.id = -1; }
 
 	public ConscientiaNpc(String name, JsonObject npcData) {
-		System.out.println(name);
 		this.name = name;
 		this.id = npcData.get(Constants.NPC_ID).getAsInt();
-		this.imgFilepath = npcData.get(Constants.NPC_IMG).getAsString();
+		this.img_filepath = npcData.get(Constants.NPC_IMG).getAsString();
 		parseWeakenesses((JsonArray) npcData.get(Constants.NPC_WEAKNESSES));
 		parseDialogueAddresses((JsonObject) npcData.get(Constants.NPC_DIALOGUE_ADDRESSES));
 		if (npcData.keySet().contains(Constants.NPC_POST_COMBAT_ADDRESSES))
@@ -38,28 +40,28 @@ public class ConscientiaNpc {
 	}
 
 	private void parseDialogueAddresses(JsonObject addressesJson) {
-		dialogueAddresses = new HashMap<>();
+		dialogue_addresses = new HashMap<>();
 
 		for (String location : addressesJson.keySet())
-			dialogueAddresses.put(location, addressesJson.get(location).getAsString());
+			dialogue_addresses.put(location, addressesJson.get(location).getAsString());
 	}
 
 	private void parsePostCombatAddresses(JsonObject addressesJson) {
-		postCombatAddresses = new HashMap<>();
+		post_combat_addresses = new HashMap<>();
 
 		for (String location : addressesJson.keySet())
-			postCombatAddresses.put(location, addressesJson.get(location).getAsString());
+			post_combat_addresses.put(location, addressesJson.get(location).getAsString());
 	}
 
 	public String getName() { return name; }
 	public int getId() { return id; }
-	public String getImgFilepath() { return imgFilepath; }
+	public String getImgFilepath() { return img_filepath; }
 	public boolean isWeakTo(int attackType) { return weaknesses.contains(attackType); }
-	public String getDialogueAddress(String location) { return dialogueAddresses.get(location); }
+	public String getDialogueAddress(String location) { return dialogue_addresses.get(location); }
 	public String setDialogueAddress(String location, String address) {
-		return dialogueAddresses.put(location, address);
+		return dialogue_addresses.put(location, address);
 	}
-	public String getPostCombatAddress(String location) { return postCombatAddresses.get(location); }
+	public String getPostCombatAddress(String location) { return post_combat_addresses.get(location); }
 
 	@Override
 	public String toString() {
@@ -82,8 +84,8 @@ public class ConscientiaNpc {
 		result =
 			(prime * result)
 				+ ((name == null) ? 0 : name.hashCode())
-				+ ((imgFilepath == null) ? 0 : imgFilepath.hashCode())
-				+ ((dialogueAddresses == null) ? 0 : dialogueAddresses.hashCode());
+				+ ((img_filepath == null) ? 0 : img_filepath.hashCode())
+				+ ((dialogue_addresses == null) ? 0 : dialogue_addresses.hashCode());
 		return result;
 	}
 }

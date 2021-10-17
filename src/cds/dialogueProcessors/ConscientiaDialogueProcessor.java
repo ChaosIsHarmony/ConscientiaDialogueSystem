@@ -8,9 +8,11 @@ import cds.entities.MulticheckerBlock;
 import cds.entities.Personality;
 import cds.gameData.GameDataManager;
 import cds.utils.Constants;
+import cds.utils.Functions;
 import cds.utils.JsonValue;
 
 import java.io.IOException;
+import java.util.*;
 
 import com.google.gson.JsonObject;
 import com.google.gson.JsonPrimitive;
@@ -113,8 +115,10 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 			String targetAddress = actionJson.get(Constants.ACTION_DESTINATION_ADDRESS).getAsString();
 			this.currentNpc.setDialogueAddress(newLocation, targetAddress);
 			gameDataManager.saveCurrentState();
+			// TODO: Make sure current NPC = combat NPC
+
 			// return triggered to switch to combat mode
-			return "COMBAT:" + this.currentNpc.getId();
+			return "COMBAT";
 		}
 		// switch npcs
 		else if (npcSwitchersJson.keySet().contains(newAddress)) {
@@ -192,12 +196,49 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		return newDialogue;
 	}
 
-	public CombatBlock getCombatDescription(String combatStr) {
-		// parse npc id
-		String npcId = combatStr.substring(combatStr.indexOf(":")+1);
-		System.out.println(combatDescriptionsJson.get(npcId));
+	public CombatBlock handleCombat() {
+		CombatBlock cb = new CombatBlock(currentNpc.getId());
 
-		CombatBlock cb = new CombatBlock();
+		// get combat descriptions for current npc
+		JsonObject descriptionsJson = (JsonObject) combatDescriptionsJson.get(""+currentNpc.getId());
+
+		// get all acquirables player has collected
+		HashSet<Integer> volatileAcqs =
+			(HashSet<Integer>) gameDataManager.getPlayerValue(Constants.PLAYER_VOLATILE_ACQ).getValue();
+		HashSet<Integer> persistentAcqs =
+			(HashSet<Integer>) gameDataManager.getUniValue(Constants.UNI_PERSISTENT_ACQ);
+		HashSet<Integer> acqs = new HashSet<>();
+		acqs.addAll(volatileAcqs);
+		acqs.addAll(persistentAcqs);
+
+		// check if player can kill current npc
+		for (Integer i : acqs)
+			if (descriptionsJson.keySet().contains(i.toString())) {
+				cb.setText(descriptionsJson.get(i.toString()).getAsString());
+				cb.setIsVictorious(true);
+				break;
+			} else {
+				cb.setText(descriptionsJson.get(Constants.TAG_DEFAULT).getAsString());
+				cb.setIsVictorious(false);
+			}
+
+		// trigger events
+		HashSet<Integer> eventsToTrigger = new HashSet<>();
+		if (cb.isVictorious())
+			eventsToTrigger.addAll(
+					Functions.jsonArrayToSet(
+						descriptionsJson.get(Constants.COMBAT_PLAYER_VICTORIOUS).getAsJsonArray()));
+		else
+			eventsToTrigger.addAll(
+					Functions.jsonArrayToSet(
+						descriptionsJson.get(Constants.COMBAT_PLAYER_DEFEATED).getAsJsonArray()));
+
+		for (Integer event : eventsToTrigger)
+				gameDataManager.setTriggeredEvent(event, true);
+
+		// parse proper follow-up address
+
+
 		return cb;
 	}
 
