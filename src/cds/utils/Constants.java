@@ -87,7 +87,7 @@ public class Constants {
 	public static final String NPC_IMG = "img_filepath";
 	public static final String NPC_WEAKNESSES = "weaknesses";
 	public static final String NPC_DIALOGUE_ADDRESSES = "dialogue_addresses";
-	public static final String NPC_POST_COMBAT_ADDRESSES = "post_combat_addresses";
+	public static final String NPC_DEATH_ADDRESSES = "npc_death_addresses";
 
 	// COMBAT JOSN TAGS
 	public static final String COMBAT_PLAYER_VICTORIOUS = "player_victorious";
@@ -111,7 +111,7 @@ public class Constants {
 	// FSM STATES
 	public static final int LOADING_DIALOGUE = 0;
 	public static final int WAITING_FOR_INPUT = 1;
-	public static final int IN_COMBAT = 2;
+	public static final int LOADING_COMBAT = 2;
 	public static final int WAITING_FOR_INPUT_COMBAT = 3;
 
 	// DISPLAY

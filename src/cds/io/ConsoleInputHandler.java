@@ -11,7 +11,24 @@ public class ConsoleInputHandler implements IInputHandler {
 	}
 
 	public int selectResponse() {
-		return scanner.nextInt();
+		if (scanner.hasNextInt())	{
+			int response = scanner.nextInt();
+			scanner.nextLine(); // to move scanner to the next line, or else will skip next input
+			return response;
+		} else {
+			scanner.nextLine();
+			return -1;
+		}
+	}
+
+	public boolean finishCombat() {
+		System.out.println("Enter 'OK' to continue...");
+		if (scanner.hasNext()) {
+			scanner.nextLine();
+			return true;
+		}
+
+		return false;
 	}
 
 	public String[] selectSaveFiles() {

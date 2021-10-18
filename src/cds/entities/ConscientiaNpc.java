@@ -18,7 +18,7 @@ public class ConscientiaNpc {
 	private String img_filepath;
 	private HashSet<Integer> weaknesses;
 	private HashMap<String, String> dialogue_addresses;
-	private HashMap<String, String> post_combat_addresses;
+	private HashMap<String, String> npc_death_addresses;
 
 	public ConscientiaNpc() { this.id = -1; }
 
@@ -28,8 +28,8 @@ public class ConscientiaNpc {
 		this.img_filepath = npcData.get(Constants.NPC_IMG).getAsString();
 		parseWeakenesses((JsonArray) npcData.get(Constants.NPC_WEAKNESSES));
 		parseDialogueAddresses((JsonObject) npcData.get(Constants.NPC_DIALOGUE_ADDRESSES));
-		if (npcData.keySet().contains(Constants.NPC_POST_COMBAT_ADDRESSES))
-			parsePostCombatAddresses((JsonObject) npcData.get(Constants.NPC_POST_COMBAT_ADDRESSES));
+		if (npcData.keySet().contains(Constants.NPC_DEATH_ADDRESSES))
+			parseNpcDeathAddresses((JsonObject) npcData.get(Constants.NPC_DEATH_ADDRESSES));
 	}
 
 	private void parseWeakenesses(JsonArray weaknessesJson) {
@@ -46,11 +46,11 @@ public class ConscientiaNpc {
 			dialogue_addresses.put(location, addressesJson.get(location).getAsString());
 	}
 
-	private void parsePostCombatAddresses(JsonObject addressesJson) {
-		post_combat_addresses = new HashMap<>();
+	private void parseNpcDeathAddresses(JsonObject addressesJson) {
+		npc_death_addresses = new HashMap<>();
 
 		for (String location : addressesJson.keySet())
-			post_combat_addresses.put(location, addressesJson.get(location).getAsString());
+			npc_death_addresses.put(location, addressesJson.get(location).getAsString());
 	}
 
 	public String getName() { return name; }
@@ -61,7 +61,7 @@ public class ConscientiaNpc {
 	public String setDialogueAddress(String location, String address) {
 		return dialogue_addresses.put(location, address);
 	}
-	public String getPostCombatAddress(String location) { return post_combat_addresses.get(location); }
+	public String getNpcDeathAddress(String location) { return npc_death_addresses.get(location); }
 
 	@Override
 	public String toString() {
@@ -84,8 +84,7 @@ public class ConscientiaNpc {
 		result =
 			(prime * result)
 				+ ((name == null) ? 0 : name.hashCode())
-				+ ((img_filepath == null) ? 0 : img_filepath.hashCode())
-				+ ((dialogue_addresses == null) ? 0 : dialogue_addresses.hashCode());
+				+ ((img_filepath == null) ? 0 : img_filepath.hashCode());
 		return result;
 	}
 }

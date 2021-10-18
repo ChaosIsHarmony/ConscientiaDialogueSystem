@@ -183,6 +183,28 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		return newAddress;
 	}
 
+	public CombatBlock handleCombat() {
+		CombatBlock cb = new CombatBlock(this.currentNpc.getId());
+
+		// get combat descriptions for current npc
+		JsonObject descriptionsJson =
+			(JsonObject) combatDescriptionsJson.get("" + this.currentNpc.getId());
+
+		// check if player can kill current npc
+		handlePlayerVictory(descriptionsJson, cb);
+
+		// trigger events
+		triggerCombatEvents(descriptionsJson, cb);
+
+		// parse proper follow-up address
+		handlePostCombatAddress(cb);
+
+		// save game
+		gameDataManager.saveCurrentState();
+
+		return cb;
+	}
+
 	public Dialogue getDialogue(String address) {
 		Dialogue newDialogue = null;
 
@@ -196,52 +218,6 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		return newDialogue;
 	}
 
-	public CombatBlock handleCombat() {
-		CombatBlock cb = new CombatBlock(currentNpc.getId());
-
-		// get combat descriptions for current npc
-		JsonObject descriptionsJson = (JsonObject) combatDescriptionsJson.get(""+currentNpc.getId());
-
-		// get all acquirables player has collected
-		HashSet<Integer> volatileAcqs =
-			(HashSet<Integer>) gameDataManager.getPlayerValue(Constants.PLAYER_VOLATILE_ACQ).getValue();
-		HashSet<Integer> persistentAcqs =
-			(HashSet<Integer>) gameDataManager.getUniValue(Constants.UNI_PERSISTENT_ACQ);
-		HashSet<Integer> acqs = new HashSet<>();
-		acqs.addAll(volatileAcqs);
-		acqs.addAll(persistentAcqs);
-
-		// check if player can kill current npc
-		for (Integer i : acqs)
-			if (descriptionsJson.keySet().contains(i.toString())) {
-				cb.setText(descriptionsJson.get(i.toString()).getAsString());
-				cb.setIsVictorious(true);
-				break;
-			} else {
-				cb.setText(descriptionsJson.get(Constants.TAG_DEFAULT).getAsString());
-				cb.setIsVictorious(false);
-			}
-
-		// trigger events
-		HashSet<Integer> eventsToTrigger = new HashSet<>();
-		if (cb.isVictorious())
-			eventsToTrigger.addAll(
-					Functions.jsonArrayToSet(
-						descriptionsJson.get(Constants.COMBAT_PLAYER_VICTORIOUS).getAsJsonArray()));
-		else
-			eventsToTrigger.addAll(
-					Functions.jsonArrayToSet(
-						descriptionsJson.get(Constants.COMBAT_PLAYER_DEFEATED).getAsJsonArray()));
-
-		for (Integer event : eventsToTrigger)
-				gameDataManager.setTriggeredEvent(event, true);
-
-		// parse proper follow-up address
-
-
-		return cb;
-	}
-
 	/*
 	 * --------------
 	 * HELPER METHODS
@@ -249,9 +225,9 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 	 */
 	private boolean changedLocations(String newLocation) {
 		// find index of 2nd ! and compare the values
-		int endCurrent = getExclamationIndex(currentLocation, 2);
+		int endCurrent = getExclamationIndex(this.currentLocation, 2);
 		int endNew = getExclamationIndex(newLocation, 2);
-		String currLoc = currentLocation.substring(0,endCurrent);
+		String currLoc = this.currentLocation.substring(0,endCurrent);
 		String newLoc = newLocation.substring(0,endNew);
 
 		return !newLoc.equals(currLoc);
@@ -259,9 +235,9 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 
 	private boolean changedRooms(String newLocation) {
 		// find index of 3rd ! and compare the values
-		int endCurrent = getExclamationIndex(currentLocation, 3);
+		int endCurrent = getExclamationIndex(this.currentLocation, 3);
 		int endNew = getExclamationIndex(newLocation, 3);
-		String currLoc = currentLocation.substring(0,endCurrent);
+		String currLoc = this.currentLocation.substring(0,endCurrent);
 		String newLoc = newLocation.substring(0,endNew);
 
 		return !newLoc.equals(currLoc);
@@ -341,5 +317,60 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		int startInd = getExclamationIndex(newAddress, 3);
 		int endInd = getExclamationIndex(newAddress, 4)-1;
 		return newAddress.substring(startInd, endInd);
+	}
+
+	private void handlePlayerVictory(JsonObject descriptionsJson, CombatBlock cb) {
+		// get all acquirables player has collected
+		HashSet<Integer> volatileAcqs =
+			(HashSet<Integer>) gameDataManager.getPlayerValue(Constants.PLAYER_VOLATILE_ACQ).getValue();
+		HashSet<Integer> persistentAcqs =
+			(HashSet<Integer>) gameDataManager.getUniValue(Constants.UNI_PERSISTENT_ACQ);
+		HashSet<Integer> acqs = new HashSet<>();
+		acqs.addAll(volatileAcqs);
+		acqs.addAll(persistentAcqs);
+
+		// check for victory
+		for (Integer i : acqs)
+			if (descriptionsJson.keySet().contains(i.toString())) {
+				cb.setText(descriptionsJson.get(i.toString()).getAsString());
+				cb.setIsPlayerVictorious(true);
+				break;
+			} else {
+				cb.setText(descriptionsJson.get(Constants.TAG_DEFAULT).getAsString());
+				cb.setIsPlayerVictorious(false);
+			}
+	}
+
+	private void triggerCombatEvents(JsonObject descriptionsJson, CombatBlock cb) {
+		// populate set of all events to trigger
+		HashSet<Integer> eventsToTrigger = new HashSet<>();
+		if (cb.isPlayerVictorious())
+			eventsToTrigger.addAll(
+					Functions.jsonArrayToSet(
+						descriptionsJson.get(Constants.COMBAT_PLAYER_VICTORIOUS).getAsJsonArray()));
+		else
+			eventsToTrigger.addAll(
+					Functions.jsonArrayToSet(
+						descriptionsJson.get(Constants.COMBAT_PLAYER_DEFEATED).getAsJsonArray()));
+
+		// trigger them
+		for (Integer event : eventsToTrigger)
+				gameDataManager.setTriggeredEvent(event, true);
+	}
+
+	private void handlePostCombatAddress(CombatBlock cb) {
+		// if player isPlayerVictorious, choose from npc death addresses
+		if (cb.isPlayerVictorious()) {
+		String nextAddress = this.currentNpc.getNpcDeathAddress(this.currentLocation);
+		if (nextAddress == null)
+			nextAddress = this.currentNpc.getNpcDeathAddress(Constants.TAG_DEFAULT);
+		cb.setNextAddress(nextAddress);
+		}
+		// otherwise, process book specific addresses
+		else {
+			// TODO: process book-specific code
+			cb.setNextAddress("KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!");
+		}
+
 	}
 }

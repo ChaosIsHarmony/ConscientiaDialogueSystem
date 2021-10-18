@@ -45,7 +45,7 @@ public class CDS {
 
 				// check for mode switch
 				if (address.contains("COMBAT")) {
-					gameState = Constants.IN_COMBAT;
+					gameState = Constants.LOADING_COMBAT;
 					break;
 				}
 
@@ -68,7 +68,7 @@ public class CDS {
 				int responseInd = configManager.getInputHandler().selectResponse();
 
 				// ensure valid input
-				if (responseInd < currentDialogue.getResponses().size()) {
+				if (responseInd >= 0 && responseInd < currentDialogue.getResponses().size()) {
 					configManager
 						.getRenderer()
 						.show("CHOSEN RESPONSE: " + currentDialogue.getResponses().get(responseInd).getText());
@@ -82,20 +82,23 @@ public class CDS {
 
 					// Move to next address
 					nextAddress = currentDialogue.getResponses().get(responseInd).getDestinationAddress();
-					gameState = Constants.LOADING_DIALOGUE;
+					this.gameState = Constants.LOADING_DIALOGUE;
 				} else {
 					configManager.getRenderer().show("Invalid Selection.");
 				}
 				break;
-			case Constants.IN_COMBAT:
+			case Constants.LOADING_COMBAT:
 				CombatBlock cb = configManager.getDialogueProcessor().handleCombat();
+				nextAddress = cb.getNextAddress();
 				configManager.getRenderer().show(cb.getText());
 				gameState = Constants.WAITING_FOR_INPUT_COMBAT;
 				break;
 			case Constants.WAITING_FOR_INPUT_COMBAT:
-				// change to relevant combat address
+				boolean changeState = configManager.getInputHandler().finishCombat();
+				if (changeState) gameState = Constants.LOADING_DIALOGUE;
 				break;
 			default:
+				// TODO: end game clean up
 				gameLoopActive = false;
 				break;
 			}
