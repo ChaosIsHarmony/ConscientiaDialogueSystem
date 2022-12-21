@@ -36,7 +36,7 @@ public class ConfigManager {
 			this.renderer = new ConsoleRenderer();
 		} catch (Exception e) {
 			System.err.println(
-					"ConfigManager:loadConfiguration: Could not load config file "
+					"ConfigManager:loadConfiguration: Could not load config file: "
 					+ e.getMessage());
 		}
 	}

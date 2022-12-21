@@ -2,6 +2,7 @@ package cds.config;
 
 import cds.entities.Personality;
 import cds.utils.Constants;
+import cds.utils.Functions;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
@@ -58,8 +59,8 @@ public class ConscientiaConfig implements IConfig {
 		JsonArray bookFilesJson = (JsonArray) dialogueFilesJson.get(Constants.BOOK_FILES);
 
 		// first parse by book, then by area
-		String dirPath =
-			textFilesData.get(Constants.BASE_DIR).getAsString()
+		String dirPath = 
+      textFilesData.get(Constants.BASE_DIR).getAsString()
 			+ "\\"
 			+ dialogueFilesJson.get(Constants.BASE_DIR).getAsString()
 			+ "\\";
@@ -207,7 +208,7 @@ public class ConscientiaConfig implements IConfig {
 	private String buildFilePath(String dir, String filename, String extension) {
 		String basePath = "resources\\" + dir + "\\";
 		String filepath = basePath + filename + extension;
-		return filepath;
+		return Functions.getProperFilepath(filepath);
 	}
 
 	private String getBook(String area) {
