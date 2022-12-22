@@ -1,0 +1,267 @@
+{
+  "dialogue": {
+    "JER!THE HOUSE IN THE MIST!THE HUNTING PATH!330.X000!DESCRIPTION!": {
+      "dialogue_text": "No one must see me, so I took the hunting path. Now, I had cause indeed to wander into the Greenwood. By this way, I would be able to approach the mansion unseen.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!GREENWOOD!330.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!GREENWOOD!330.X000!DESCRIPTION!": {
+      "dialogue_text": "I wandered until I found Silverhome. I scaled the walls and gained entery.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X000!DESCRIPTION!": {
+      "dialogue_text": "I was in the house. I did not know where to go.",
+      "responses": {
+        "A": {
+          "response_text": "Go to the east wing.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X100!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Go to the west wing.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X200!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "Go to the basement.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X300!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X100!DESCRIPTION!": {
+      "dialogue_text": "I saw the shape!",
+      "responses": {
+        "A": {
+          "response_text": "Fight.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X110!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Talk.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X120!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "Run.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X110!DESCRIPTION!": {
+      "dialogue_text": "I killed the shape. Then I looked down and saw it was the servant.",
+      "responses": {
+        "A": {
+          "response_text": "Leave the manor.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X391!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Call for help.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!331.X900!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "Keep exploring.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!333.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X120!DESCRIPTION!": {
+      "dialogue_text": "The shape revealed strange things to me. I could do nothing but cower. I lost consciousness.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!DRAGONFLY!HOSPITAL!3330.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!333.X000!DESCRIPTION!": {
+      "dialogue_text": "I was in the house. I did not know where to go.",
+      "responses": {
+        "B": {
+          "response_text": "Go to the west wing.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!333.X200!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "Go to the basement.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X300!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X200!DESCRIPTION!": {
+      "dialogue_text": "I found stuff. No paintings though.",
+      "responses": {
+        "B": {
+          "response_text": "Read.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X220!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "Drink.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X230!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X220!DESCRIPTION!": {
+      "dialogue_text": "I found books. They made me crazier.",
+      "responses": {
+        "A": {
+          "response_text": "Search elsewhere.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X300!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X230!DESCRIPTION!": {
+      "dialogue_text": "I drank wine. It made me crazier.",
+      "responses": {
+        "A": {
+          "response_text": "Search elsewhere.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X300!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X300!DESCRIPTION!": {
+      "dialogue_text": "I saw the shape!",
+      "responses": {
+        "A": {
+          "response_text": "Fight.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X311!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Talk.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X321!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "Run.",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X331!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X311!DESCRIPTION!": {
+      "dialogue_text": "I was through running.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X002!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X321!DESCRIPTION!": {
+      "dialogue_text": "I spoke to the shape. I could do nothing but cower.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!DRAGONFLY!HOSPITAL!3330.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X331!DESCRIPTION!": {
+      "dialogue_text": "It was no use! I was in a fight for my life!",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X002!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X002!DESCRIPTION!": {
+      "action": {
+        "type": "^",
+        "event_num": 12301,
+        "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X039!DESCRIPTION!"
+      },
+      "dialogue_text": "I felt hands around my throat... I lost consiousness.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!DRAGONFLY!HOSPITAL!3330.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X039!DESCRIPTION!": {
+      "dialogue_text": "The shape was gone. Lying upon the floor was a bloody body in rich clothes. Could this be Jorge? Where had the shape gone? I had no time to wonder, as I saw my quarry: my family's painting. I cared nothing for the fallen lord now.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!SILVERHOME!9990.XEVENT1!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!330.X391!DESCRIPTION!": {
+      "dialogue_text": "I had nothing to do now but leave this horrid place.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!GREENWOOD!330.X391!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!GREENWOOD!330.X391!DESCRIPTION!": {
+      "dialogue_text": "I wandered through the greenwood. It was getting dark. Then I saw something strange. Someone was wandering the forest.",
+      "responses": {
+        "A": {
+          "response_text": "Approach the wanderer",
+          "points": 0,
+          "dest_add": "JER!THE LOST CHILD!GREENWOOD!440.X000!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "Keep going home",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!THE HUNTING PATH!330.X391!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!THE HUNTING PATH!330.X391!DESCRIPTION!": {
+      "dialogue_text": "I escaped the wanderer and made it back to my home.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THE SHAPE!THE STUDY!530.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE IN THE MIST!SILVERHOME!331.X900!DESCRIPTION!": {
+      "dialogue_text": "I called for help. Some people came. They subdued me and knocked me out.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!DRAGONFLY!HOSPITAL!3330.X000!DESCRIPTION!"
+        }
+      }
+    }
+  },
+  "events": {},
+  "npc_switchers": {},
+  "fighting_words": {}
+}

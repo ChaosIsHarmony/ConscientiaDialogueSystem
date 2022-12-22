@@ -1,0 +1,656 @@
+{
+  "dialogue": {
+    "JER!A RUDE AWAKENING!THE MASTER'S CHAMBERS!221.X000!DESCRIPTION!": {
+      "dialogue_text": "I awoke to see the sun streaming into my room. It was morning. I could hear knocking at the front door. Getting up, I walked down the stairs to the foyer.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!221.X001!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE STUDY!222.X000!DESCRIPTION!": {
+      "dialogue_text": "I awoke to see bands of sunlight shinging through the boards in the study window. It was morning. I could hear knocking at the front door. Getting up, I walked down the stairs to the foyer.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!220.X001!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!223.X000!DESCRIPTION!": {
+      "dialogue_text": "I awoke to see the sun streaming in. It was morning. Before I could do anything, there was a knock upon the front door. ",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X2101!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!220.X001!DESCRIPTION!": {
+      "dialogue_text": "MULTICHECKER",
+      "responses": {
+        "A": {
+          "response_text": "CHECKER",
+          "points": 0,
+          "dest_add": "NO ADDRESS"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!221.X100!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!A RUDE AWAKENING!THE FOYER!221.X002!DESCRIPTION!"
+      },
+      "dialogue_text": "As I walked down the stairs, I saw that Flora had already resumed her duties. She was receiving my visitor, whose garb was unmistable: the Bishop. I dismissed Flora and adressed my guest.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X2101!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!222.X0010!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!A RUDE AWAKENING!THE FOYER!222.X002!DESCRIPTION!"
+      },
+      "dialogue_text": "I alighted from the stairs and approached the front door. Looking through the spyglass, I saw a visitor whose garb was unmistable: the Bishop. I unbarred the door and opened it.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X2102!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!222.X500!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!A RUDE AWAKENING!THE FOYER!222.X002!DESCRIPTION!"
+      },
+      "dialogue_text": "I alighted from the stairs and approached the front door. Looking through the spyglass, I saw that it was a woman. I remembered her from my youth but I could not recall her name. I unbarred the door and opened it.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X2102!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!220.X000!BISHOP!": {
+      "dialogue_text": "\"Welcome home Thetian! Valonheim needs you and your family's proud blood once again. Will you come to the Basillica with me?",
+      "responses": {
+        "A": {
+          "response_text": "\"Yes, I will go.\"",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9990.X1110!BISHOP!"
+        },
+        "B": {
+          "response_text": "\"No, I won't go.\"",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9990.X1111!BISHOP!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!220.X1110!BISHOP!": {
+      "dialogue_text": "\"Excellent! Let us go!",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X9999!BISHOP!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!220.X1111!BISHOP!": {
+      "dialogue_text": "\"Bah! A pox on you!",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X9999!BISHOP!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!221.X000!ALANNA!": {
+      "dialogue_text": "\"Welcome home Thetian! Valonheim needs you and your family's proud blood once again. Will you come to the meeting with me?",
+      "responses": {
+        "A": {
+          "response_text": "\"Yes, I will go.\"",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9990.X1112!ALANNA!"
+        },
+        "B": {
+          "response_text": "\"No, I won't go.\"",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9990.X1113!ALANNA!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!221.X1110!ALANNA!": {
+      "dialogue_text": "\"Excellent! Let us go!",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X9999!ALANNA!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!221.X1111!ALANNA!": {
+      "dialogue_text": "\"Bah! A pox on you!",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X9999!ALANNA!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!221.X002!DESCRIPTION!": {
+      "dialogue_text": "MULTICHECKER",
+      "responses": {
+        "A": {
+          "response_text": "CHECKER",
+          "points": 0,
+          "dest_add": "NO ADDRESS"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!221.X033!DESCRIPTION!": {
+      "dialogue_text": "My visitor walked away. I was alone again",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE FOYER!230.X0010!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!221.002!DESCRIPTION!": {
+      "dialogue_text": "I followed the Bishop from the manor.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!VALONHEIM TOWN SQUARE!221.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!VALONHEIM TOWN SQUARE!221.X000!DESCRIPTION!": {
+      "dialogue_text": "I followed the Bishop through the town.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!NAVE!221.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!NAVE!221.X000!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!A RUDE AWAKENING!NAVE!221.X001!DESCRIPTION!"
+      },
+      "dialogue_text": "I stood in the nave with the Bishop.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!NAVE!9999.X2101!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!NAVE!221.X000!BISHOP!": {
+      "dialogue_text": "\"Look at this wonderful church. But it hides secrets. Your family has a great past and your people are in need of you. Come into the crypt and I will tell you about it.\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!NAVE!9999.X9999!BISHOP!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!NAVE!221.X001!DESCRIPTION!": {
+      "dialogue_text": "He took me down to the crypt.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X002!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X002!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X003!DESCRIPTION!"
+      },
+      "dialogue_text": "There were graves everywhere.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X2101!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X000!BISHOP!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!BISHOP!"
+      },
+      "dialogue_text": "\"The mystics are going to destroy us and Rodrick is shirking his responcibiliy, thinking they pose no threat because of his modern ideas. Will you help restore tradition? Think about it for a while. I'll be back.\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X003!DESCRIPTION!": {
+      "dialogue_text": "I had a chance to investigate the graves now that he was gone.",
+      "responses": {
+        "A": {
+          "response_text": "Do nothing.",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X014!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Snoop around.",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1118!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X014!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!DESCRIPTION!"
+      },
+      "dialogue_text": "Then the Bishop came back.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X2101!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X024!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!DESCRIPTION!"
+      },
+      "dialogue_text": "I found a headless corpse. Then the Bishop came back.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X2101!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!BISHOP!": {
+      "dialogue_text": "MULTICHECKER",
+      "responses": {
+        "A": {
+          "response_text": "CHECKER",
+          "points": 0,
+          "dest_add": "NO ADDRESS"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X310!BISHOP!": {
+      "dialogue_text": "\"So what do you think?\"",
+      "responses": {
+        "A": {
+          "response_text": "Yes.",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1119!BISHOP!"
+        },
+        "B": {
+          "response_text": "No.",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!BISHOP!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X320!BISHOP!": {
+      "dialogue_text": "\"...You were snooping around. Get out!\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!BISHOP!": {
+      "dialogue_text": "\"You make me sad.\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X019!BISHOP!": {
+      "dialogue_text": "\"Good. There are two threats: Rodrick and the Mystics. Perhaps you can convince him to take measures against them.\"",
+      "responses": {
+        "A": {
+          "response_text": "I will pay Rodrick a visit.",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!0.X1119!BISHOP!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X200!BISHOP!": {
+      "dialogue_text": "\"Good. Go see Rodrick then.\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!DESCRIPTION!": {
+      "dialogue_text": "MULTICHECKER",
+      "responses": {
+        "A": {
+          "response_text": "CHECKER",
+          "points": 0,
+          "dest_add": "NO ADDRESS"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!DESCRIPTION!": {
+      "dialogue_text": "I left for Rodrick's Mansion.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THROUGH THE SILVER GATES!VALONHEIM TOWN SQUARE!310.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X039!DESCRIPTION!": {
+      "dialogue_text": "The Bishop kicked me out.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!LOOSE ENDS!VALONHEIM TOWN SQUARE!200.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!222.002!DESCRIPTION!": {
+      "dialogue_text": "I followed Alanna.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!VALONHEIM TOWN SQUARE!222.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!VALONHEIM TOWN SQUARE!222.X000!DESCRIPTION!": {
+      "dialogue_text": "I followed Alanna through the town.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!MEETING HALL!222.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!MEETING HALL!222.X000!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!A RUDE AWAKENING!MEETING HALL!222.X001!DESCRIPTION!"
+      },
+      "dialogue_text": "I stood in the meeting hall with Alanna.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!MEETING HALL!9999.X2102!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!MEETING HALL!222.X000!ALANNA!": {
+      "dialogue_text": "\"Look at this township. It is decaying all around us. But in you runs the blood of the true Jerans. Come into the inner and I will tell you about it.\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!MEETING HALL!9999.X9999!ALANNA!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!MEETING HALL!222.X001!DESCRIPTION!": {
+      "dialogue_text": "She took me down to a secret room.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X002!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!222.X002!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X003!DESCRIPTION!"
+      },
+      "dialogue_text": "There was a man in robes there.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X2001!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!222.X000!VITRIOX!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X005!VITRIOX!"
+      },
+      "dialogue_text": "\"The mystics are going to destroy us and Rodrick is shirking his responcibiliy, thinking they pose no threat because of his modern ideas. The church is also not to be trusted. I propose a kind of ethnic essentialism. We are Jeran. That is the code we should follow. Not the foriegn religion of Biracul but the religion of our forefathers. Will you help restore REAL tradition? Think about it for a while. I'll be back.\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!222.X003!DESCRIPTION!": {
+      "dialogue_text": "I had a chance to investigate the room now that he was gone.",
+      "responses": {
+        "A": {
+          "response_text": "Do nothing.",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X014!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Snoop around.",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9990.X1118!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!222.X014!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X005!DESCRIPTION!"
+      },
+      "dialogue_text": "Then VITRIOX came back.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X2101!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!222.X024!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X005!DESCRIPTION!"
+      },
+      "dialogue_text": "I found a headless corpse. Then VITRIOX came back.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X2101!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!222.X005!VITRIOX!": {
+      "dialogue_text": "MULTICHECKER",
+      "responses": {
+        "A": {
+          "response_text": "CHECKER",
+          "points": 0,
+          "dest_add": "NO ADDRESS"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!222.X310!VITRIOX!": {
+      "dialogue_text": "\"So what do you think?\"",
+      "responses": {
+        "A": {
+          "response_text": "Yes.",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9990.X1120!VITRIOX!"
+        },
+        "B": {
+          "response_text": "No.",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X029!VITRIOX!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!222.X320!VITRIOX!": {
+      "dialogue_text": "\"...You were snooping around. Get out!\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!222.X029!VITRIOX!": {
+      "dialogue_text": "\"You make me sad.\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!222.X019!VITRIOX!": {
+      "dialogue_text": "\"Good. There are two threats: Rodrick and the Mystics. Perhaps you can convince him to take measures against them.\"",
+      "responses": {
+        "A": {
+          "response_text": "I will pay Rodrick a visit.",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9990.X1120!VITRIOX!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!222.X200!VITRIOX!": {
+      "dialogue_text": "\"Good. Go see Rodrick then.\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!222.X005!DESCRIPTION!": {
+      "dialogue_text": "MULTICHECKER",
+      "responses": {
+        "A": {
+          "response_text": "CHECKER",
+          "points": 0,
+          "dest_add": "NO ADDRESS"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!222.X029!DESCRIPTION!": {
+      "dialogue_text": "I left for Rodrick's Mansion.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THROUGH THE SILVER GATES!VALONHEIM TOWN SQUARE!310.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!222.X039!DESCRIPTION!": {
+      "dialogue_text": "VITRIOX kicked me out.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!LOOSE ENDS!VALONHEIM TOWN SQUARE!200.X000!DESCRIPTION!"
+        }
+      }
+    }
+  },
+  "events": {
+    "JER!A RUDE AWAKENING!THE FOYER!9990.X1110!BISHOP!": {
+      "event_num": 1110,
+      "dest_add": "JER!A RUDE AWAKENING!THE FOYER!220.X1110!BISHOP!"
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!9990.X1111!BISHOP!": {
+      "event_num": 1111,
+      "dest_add": "JER!A RUDE AWAKENING!THE FOYER!220.X1111!BISHOP!"
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!9990.X1112!ALANNA!": {
+      "event_num": 1112,
+      "dest_add": "JER!A RUDE AWAKENING!THE FOYER!120.X1112!ALANNA!"
+    },
+    "JER!A RUDE AWAKENING!THE FOYER!9990.X1113!ALANNA!": {
+      "event_num": 1113,
+      "dest_add": "JER!A RUDE AWAKENING!THE FOYER!120.X1113!ALANNA!"
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1114!DESCRIPTION!": {
+      "event_num": 1114,
+      "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X019!BISHOP!"
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1115!DESCRIPTION!": {
+      "event_num": 1115,
+      "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!BISHOP!"
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1118!DESCRIPTION!": {
+      "event_num": 1118,
+      "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X024!DESCRIPTION!"
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1119!BISHOP!": {
+      "event_num": 1119,
+      "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X200!BISHOP!"
+    },
+    "JER!A RUDE AWAKENING!THE CIRCLE!9990.X1120!VITRIOX!": {
+      "event_num": 1120,
+      "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X200!VITRIOX!"
+    }
+  },
+  "npc_switchers": {},
+  "fighting_words": {}
+}

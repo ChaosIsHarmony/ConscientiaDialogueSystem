@@ -1,120 +1,143 @@
 {
-    "save_files": {
-        "base": "SaveFiles",
-		    "uni_save": "uniSave"
-    },
-    "text_files": {
-        "base": "TextFiles",
-        "dialogue_files": {
-            "base": "Dialogue",
-            "book_files": [
-                {
-                    "base": "BookOfBiracul",
-                    "files": [
-                        "THE_EMPYREAN"
-                    ]
-                },
-                {
-                    "base": "BookOfEidos",
-                    "files": [
-                        "CANYON",
-                        "DAWN_FORTRESS",
-                        "DAZIR",
-                        "SANCTUARY",
-                        "TAMBUL",
-                        "URRUK",
-                        "WASTELAND",
-                        "WELLSPRING",
-                        "WILDERNESS"
-                    ]
-                },
-                {
-                    "base": "BookOfRikharr",
-                    "files": [
-                        "CISTERN",
-                        "DAZIL",
-                        "JENOWIN_PLAIN",
-                        "TACRIVA",
-                        "TAMBUL",
-                        "WASTELAND"
-                    ]
-                },
-                {
-                    "base": "BookOfThetian",
-                    "files": [
-                        "VALONHEIM"
-                    ]
-                },
-                {
-                    "base": "BookOfTorma",
-                    "files": [
-                       "ARCHIVES",
-                       "HALLS_OF_THE_ADEPTI",
-                       "THE_NAVE",
-                       "THE_PATH_OF_DISCIPLINE",
-                       "THE_THRESHOLD",
-                       "THE_VAULT",
-                       "THE_UNDERHALLS"
-                    ]
-                },
-                {
-                    "base": "BookOfWulfias",
-                    "files": [
-                       "SLUMS"
-                    ]
-                },
-                {
-                    "base": "Mindscape",
-                    "files": [
-                       "INTERSTICE",
-                       "MINDSCAPE",
-                       "NETHER_EDGE",
-                       "PALACE_OF_MEMORY",
-                       "THE_BOOKS"
-                    ]
-                }
-            ]
+  "save_files": {
+    "base": "SaveFiles",
+    "uni_save": "uniSave"
+  },
+  "text_files": {
+    "base": "TextFiles",
+    "dialogue_files": {
+      "base": "Dialogue",
+      "book_files": [
+        {
+          "base": "BookOfBiracul",
+          "files": [
+            "THE_EMPYREAN"
+          ]
         },
-        "non_dialogue_text_files": {
-            "base": "NonDialogueText",
-            "files": [
-                "AcquirableDescriptions",
-                "BookOfBiracul",
-                "CombatDescriptions",
-                "Credits"
-            ]
+        {
+          "base": "BookOfEidos",
+          "files": [
+            "CANYON",
+            "DAWN_FORTRESS",
+            "DAZIR",
+            "SANCTUARY",
+            "TAMBUL",
+            "URRUK",
+            "WASTELAND",
+            "WELLSPRING",
+            "WILDERNESS"
+          ]
         },
-        "structural_files": {
-            "base": "Structural",
-            "files": [
-                "Cues",
-                "Maps",
-                "Multichecker",
-                "NpcListByLocation"
-            ]
+        {
+          "base": "BookOfRikharr",
+          "files": [
+            "CISTERN",
+            "DAZIL",
+            "JENOWIN_PLAIN",
+            "TACRIVA",
+            "TAMBUL",
+            "WASTELAND"
+          ]
         },
-        "template_files": {
-            "base": "Templates",
-            "files": [
-                "NpcsSaveTemplate",
-                "PlayerSaveTemplate"
-            ]
+        {
+          "base": "BookOfThetian",
+          "files": [
+            "A CITY UNDER THE STAIRS",
+            "A FAMILY SECRET",
+			"A_JOURNEY_ACROSS_THE_SEA",
+			"A_RUDE_AWAKENING",
+			"A_TIDE_OF_BLOOD",
+			"AMONG_FRIENDS",
+			"AN_EVENING_IN_THE_LIBRARY",
+			"DRAGONFLY",
+			"EMBRACE_OF_THE_WYRM",
+			"FIRE_OF_THE_MIND",
+			"HOMECOMING",
+			"LOOSE_ENDS",
+			"PROLOGUE",
+			"THE_FIRST_NIGHT",
+			"THE_HART_AND_THE_HAWTHORN",
+			"THE_HOUSE_IN_THE_MIST",
+			"THE_HOUSE_OF_BRYNMOR",
+			"THE_INVITATION",
+			"THE_LOST_CHILD",
+			"THE_SHAPE",
+			"THE_SILVER_CHAIR",
+			"THE_TRUE_MASTER",
+			"THROUGH_THE_SILVER_GATES",
+            "VALONHEIM"
+          ]
+        },
+        {
+          "base": "BookOfTorma",
+          "files": [
+            "ARCHIVES",
+            "HALLS_OF_THE_ADEPTI",
+            "THE_NAVE",
+            "THE_PATH_OF_DISCIPLINE",
+            "THE_THRESHOLD",
+            "THE_VAULT",
+            "THE_UNDERHALLS"
+          ]
+        },
+        {
+          "base": "BookOfWulfias",
+          "files": [
+            "SLUMS"
+          ]
+        },
+        {
+          "base": "Mindscape",
+          "files": [
+            "INTERSTICE",
+            "MINDSCAPE",
+            "NETHER_EDGE",
+            "PALACE_OF_MEMORY",
+            "THE_BOOKS"
+          ]
         }
+      ]
     },
-    "start_addresses": {
-        "biracul": "MIND!THE BOOK OF BIRACUL!THE BEGINNING!",
-        "eidos": "MIND!THE BOOK OF EIDOS!THE BEGINNING!",
-        "rikharr": "MIND!THE BOOK OF RIKHARR!THE BEGINNING!",
-        "thetian": "MIND!THE BOOK OF THETIAN!THE BEGINNING!",
-        "torma": "MIND!THE BOOK OF TORMA!THE BEGINNING!",
-        "wulfias": "MIND!THE BOOK OF WULFIAS!THE BEGINNING!"
+    "non_dialogue_text_files": {
+      "base": "NonDialogueText",
+      "files": [
+        "AcquirableDescriptions",
+        "BookOfBiracul",
+        "CombatDescriptions",
+        "Credits"
+      ]
     },
-    "personalities": {
-        "A": "DIPLOMAT",
-        "B": "TRUTHSEEKER",
-        "C": "EQUIVOCATOR",
-        "D": "OPPORTUNIST",
-        "E": "TYRANT",
-        "F": "LOON"
+    "structural_files": {
+      "base": "Structural",
+      "files": [
+        "Cues",
+        "Maps",
+        "Multichecker",
+        "NpcListByLocation"
+      ]
+    },
+    "template_files": {
+      "base": "Templates",
+      "files": [
+        "NpcsSaveTemplate",
+        "PlayerSaveTemplate"
+      ]
     }
+  },
+  "start_addresses": {
+    "biracul": "MIND!THE BOOK OF BIRACUL!THE BEGINNING!",
+    "eidos": "MIND!THE BOOK OF EIDOS!THE BEGINNING!",
+    "rikharr": "MIND!THE BOOK OF RIKHARR!THE BEGINNING!",
+    "thetian": "MIND!THE BOOK OF THETIAN!THE BEGINNING!",
+    "torma": "MIND!THE BOOK OF TORMA!THE BEGINNING!",
+    "wulfias": "MIND!THE BOOK OF WULFIAS!THE BEGINNING!"
+  },
+  "personalities": {
+    "A": "DIPLOMAT",
+    "B": "TRUTHSEEKER",
+    "C": "EQUIVOCATOR",
+    "D": "OPPORTUNIST",
+    "E": "TYRANT",
+    "F": "LOON"
+  }
 }

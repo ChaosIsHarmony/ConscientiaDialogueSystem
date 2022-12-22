@@ -285,9 +285,10 @@ def convert_file(filepath: str) -> None:
     fileJson = "{ \"dialogue\": " + dialogueJson + ", \"events\": " + eventsJson + ", \"npc_switchers\": " + npcSwitchersJson + ", \"fighting_words\": " + fightingWordsJson  + "}"
 
     # check for accuracy
-    #check_for_accuracy(fileJson)
+    check_for_accuracy(fileJson)
+    print(filepath)
 
-    json_filepath = filepath[:filepath.index("/Original")] + "/JSON/" + filepath[filepath.index("/Dialogue"):filepath.index(".")] + ".json"
+    json_filepath = filepath[:filepath.index("/THETIAN")] + "/JSON" + filepath[filepath.index("/THETIAN"):filepath.index(".")] + ".json"
     print(json_filepath)
     with open(json_filepath, 'w') as f:
       f.write(fileJson)
@@ -297,7 +298,8 @@ def convert_file(filepath: str) -> None:
 
 
 if __name__ == "__main__":
-    filepaths = glob.glob(os.getcwd() + "/../resources/TextFiles/Original/Dialogue/*.mao")
+    # filepaths = glob.glob(os.getcwd() + "/../resources/TextFiles/Original/Dialogue/*.mao")
+    filepaths = glob.glob(os.getcwd() + "/MISC/Thetian/*.mao")
     
     for filepath in filepaths:
         print(filepath)

@@ -57,7 +57,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 
 		// check if location has changed
 		if (changedLocations(newLocation))	{
-			System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: Changed location.");
+			System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: Changed location: " + newLocation);
 			switchLocations(newLocation);
 			gameDataManager.saveCurrentState();
 			updateNpcAddress = false;
@@ -66,7 +66,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 
 		// changed rooms
 		if (changedRooms(newLocation)) {
-			System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: Changed Room.");
+			System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: Changed Room: " + newLocation);
 			// update currentLocation
 			currentLocation = newLocation;
 			gameDataManager.setPlayerValue(
@@ -88,7 +88,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 
 		// change npc's last address for the given location if necessary
 		if (updateNpcAddress) {
-			System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: Changed last NPC address.");
+			System.out.println("ConscientiaDialogueProcessor:preprocessNewAddress: Changed last NPC address: " + newAddress);
 			this.currentNpc.setDialogueAddress(currentLocation, newAddress);
 		}
 
@@ -104,7 +104,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 			return preprocessNewAddress(destinationAddress);
 		}
 		// fight
-		else if (fightingWordsJson.keySet().contains(newAddress)) {
+		if (fightingWordsJson.keySet().contains(newAddress)) {
 			System.out.println("ConscientiaDialogueProcessor:handleTriggers: Fighting.");
 			System.out.println("ConscientiaDialogueProcessor:handleTriggers: Unimplemented Section - FIGHTING WORDS.");
 			// handle @-forcer
@@ -121,25 +121,23 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 			return "COMBAT";
 		}
 		// switch npcs
-		else if (npcSwitchersJson.keySet().contains(newAddress)) {
-			System.out.println("ConscientiaDialogueProcessor:handleTriggers: Switch NPC.");
+		if (npcSwitchersJson.keySet().contains(newAddress)) {
+			System.out.println("ConscientiaDialogueProcessor:handleTriggers: Switch NPC: " + newAddress);
 			String destinationAddress =
 				switchNpcs(npcSwitchersJson.get(newAddress).getAsInt(), newLocation);
 			gameDataManager.saveCurrentState();
 			return preprocessNewAddress(destinationAddress);
 		}
 		// multichecker
-		else if (gameDataManager.getMultichecker().keySet().contains(newAddress)) {
-			System.out.println("ConscientiaDialogueProcessor:handleTriggers: Multichecker.");
+		if (gameDataManager.getMultichecker().keySet().contains(newAddress)) {
+			System.out.println("ConscientiaDialogueProcessor:handleTriggers: Multichecker: " + newAddress);
 			MulticheckerBlock mb = gameDataManager.getMultichecker().get(newAddress);
 			return preprocessNewAddress(mb.getDestinationAddress(gameDataManager));
 		}
 		// cues
-		else {
-			System.out.println("ConscientiaDialogueProcessor:handleTriggers: ????.");
-			System.out.println("ConscientiaDialogueProcessor:handleTriggers: Unimplemented Section - checking for X-addresses [cues, others(?)].");
-			return newAddress;
-		}
+    System.out.println("ConscientiaDialogueProcessor:handleTriggers: ????.");
+    System.out.println("ConscientiaDialogueProcessor:handleTriggers: Unimplemented Section - checking for X-addresses [cues, others(?)].");
+    return newAddress;
 	}
 
 	private String handleAction(String newAddress, String newLocation) {

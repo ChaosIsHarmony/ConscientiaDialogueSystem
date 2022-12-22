@@ -1,0 +1,342 @@
+/mnt/c/Users/caoni/Desktop/REPOS/ConscientiaDialogueSystem/MISC/Thetian/THETIAN_AMONG_FRIENDS.mao
+{ "dialogue": {"JER!AMONG FRIENDS!VALONHEIM TOWN SQUARE!510.X000!DESCRIPTION!": {"dialogue_text": "In this quest, Thetian is on the path to completing the cult or church paths. He has now got a following behind him. The folk of the town like or fear him and they are ready to follow his lead. At this point, he can direct them to go against the mystics at the docks or he can directl them to join the cult.", "responses": {"A": {"response_text": "Get them to attack the mystics.", "points": 0, "dest_add": "JER!A TIDE OF BLOOD!VALONHEIM TOWN SQUARE!610.X000!DESCRIPTION!"}, "B": {"response_text": "Get them to follow the cult.", "points": 0, "dest_add": "JER!THE TRUE MASTER!MEETING HALL!640.X000!DESCRIPTION!"}}}}, "events": {}, "npc_switchers": {}, "fighting_words": {}}
+{
+  "dialogue": {
+    "JER!AMONG FRIENDS!VALONHEIM TOWN SQUARE!510.X000!DESCRIPTION!": {
+      "dialogue_text": "In this quest, Thetian is on the path to completing the cult or church paths. He has now got a following behind him. The folk of the town like or fear him and they are ready to follow his lead. At this point, he can direct them to go against the mystics at the docks or he can directl them to join the cult.",
+      "responses": {
+        "A": {
+          "response_text": "Get them to attack the mystics.",
+          "points": 0,
+          "dest_add": "JER!A TIDE OF BLOOD!VALONHEIM TOWN SQUARE!610.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Get them to follow the cult.",
+          "points": 0,
+          "dest_add": "JER!THE TRUE MASTER!MEETING HALL!640.X000!DESCRIPTION!"
+        }
+      }
+    }
+  },
+  "events": {},
+  "npc_switchers": {},
+  "fighting_words": {}
+}
+/mnt/c/Users/caoni/Desktop/REPOS/ConscientiaDialogueSystem/MISC/Thetian/THETIAN_AN_EVENING_IN_THE_LIBRARY.mao
+{ "dialogue": {"JER!AN EVENING IN THE LIBRARY!SILVERHOME LIBRARY!450.X000!DESCRIPTION!": {"dialogue_text": "Here Thetian studies in Roderick's library. However, he can also take this time to snoop around and learn more about his family. There is a painting here that belongs to his family. There are also a number of records about the goings on in the town. What happens totally depends on what Thetian chooses to study. There are three possible outcomes.", "responses": {"A": {"response_text": "Learn about your family.", "points": 0, "dest_add": "JER!THE SHAPE!FOYER!530.X000!DESCRIPTION!"}, "B": {"response_text": "Learn about a history of cult-like activity.", "points": 0, "dest_add": "JER!THE INVITATION!VALONHEIM TOWN SQUARE!540.X000!DESCRIPTION!"}, "C": {"response_text": "Learn about the mystics.", "points": 0, "dest_add": "JER!A JOURNEY ACROSS THE SEA!THE DOCKS!550.X000!DESCRIPTION!"}}}}, "events": {}, "npc_switchers": {}, "fighting_words": {}}
+{
+  "dialogue": {
+    "JER!AN EVENING IN THE LIBRARY!SILVERHOME LIBRARY!450.X000!DESCRIPTION!": {
+      "dialogue_text": "Here Thetian studies in Roderick's library. However, he can also take this time to snoop around and learn more about his family. There is a painting here that belongs to his family. There are also a number of records about the goings on in the town. What happens totally depends on what Thetian chooses to study. There are three possible outcomes.",
+      "responses": {
+        "A": {
+          "response_text": "Learn about your family.",
+          "points": 0,
+          "dest_add": "JER!THE SHAPE!FOYER!530.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Learn about a history of cult-like activity.",
+          "points": 0,
+          "dest_add": "JER!THE INVITATION!VALONHEIM TOWN SQUARE!540.X000!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "Learn about the mystics.",
+          "points": 0,
+          "dest_add": "JER!A JOURNEY ACROSS THE SEA!THE DOCKS!550.X000!DESCRIPTION!"
+        }
+      }
+    }
+  },
+  "events": {},
+  "npc_switchers": {},
+  "fighting_words": {}
+}
+/mnt/c/Users/caoni/Desktop/REPOS/ConscientiaDialogueSystem/MISC/Thetian/THETIAN_A_CITY_UNDER_THE_STAIRS.mao
+{ "dialogue": {"JER!A CITY UNDER THE STAIRS!UR'DU!630.X000!DESCRIPTION!": {"dialogue_text": "This is the insanity ending. Here, the player discovers many of the events of Thetian's past, however, they are twisted and distored. THey combine with his experiences and the nightmares induced by the book. Here, Thtian becomes consumed by Mortis. He stays in the Wine Cellar, wandering until he starves to death.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "END GAME!END GAME!END GAME!"}}}}, "events": {}, "npc_switchers": {}, "fighting_words": {}}
+{
+  "dialogue": {
+    "JER!A CITY UNDER THE STAIRS!UR'DU!630.X000!DESCRIPTION!": {
+      "dialogue_text": "This is the insanity ending. Here, the player discovers many of the events of Thetian's past, however, they are twisted and distored. THey combine with his experiences and the nightmares induced by the book. Here, Thtian becomes consumed by Mortis. He stays in the Wine Cellar, wandering until he starves to death.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "END GAME!END GAME!END GAME!"
+        }
+      }
+    }
+  },
+  "events": {},
+  "npc_switchers": {},
+  "fighting_words": {}
+}
+/mnt/c/Users/caoni/Desktop/REPOS/ConscientiaDialogueSystem/MISC/Thetian/THETIAN_A_FAMILY_SECRET.mao
+{ "dialogue": {"JER!A FAMILY SECRET!THE STUDY!230.X000!DESCRIPTION!": {"dialogue_text": "I awoke to see bands of sunlight shinging through the boards in the study window. It was morning. I could hear knocking at the front door. Getting up, I walked down the stairs to the foyer.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE FOYER!230.X001!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE FOYER!230.X000!DESCRIPTION!": {"dialogue_text": "I awoke to see the sun streaming in. It was morning. Before I could do anything, there was a knock upon the front door. ", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE FOYER!230.X001!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE FOYER!230.X001!DESCRIPTION!": {"dialogue_text": "I sensed it was something that meant me harm. I could feel its presence. Knowing, without knowing how, I saw that the shape looming outside would consume me. Were the folk of Valonheim aware of it? Or were their minds in its grasp? As the knocking grew in intensity, I began to recall something from the tome...", "responses": {"C": {"response_text": "Continue reading the tome", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE FOYER!230.X032!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE FOYER!230.X0010!DESCRIPTION!": {"dialogue_text": "No sooner than the door was shut, than I heard a sound. Someone was knocking at the door. Had my visitor returned? No. Somehow I knew it was something that meant me harm. I could feel its presence. Knowing, without knowing how, I saw that the shape looming outside would consume me. Were the folk of Valonheim aware of it? Or were their minds in its grasp? As the knocking grew in intensity, I began to recall something from the tome...", "responses": {"C": {"response_text": "Continue reading the tome", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE FOYER!230.X0320!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE FOYER!230.X032!DESCRIPTION!": {"dialogue_text": "Flipping through the pages, I was distraught to see that they had once again fallen into complete obscurity. Last night's awareness had passed... or was my mind being sapped of strength by the shape?\\n\\t\\t\\n\\t\\tAgain, the knocking grew louder. I could feel it resonate throughout the whole manor. I could feel its walls tremble. My ancestors had long ago strengthened the manor against it.\\n\\t\\t\\n\\t\\tSuddenly, I recalled a passage from the tome. It concerned some kind of protection that my uncle had concealed in the study.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE UPPER HALL!230.X033!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE FOYER!230.X0320!DESCRIPTION!": {"dialogue_text": "I reached for the tome... fortunate that it was close at hand. I must have brought it to the door with me.\\n\\t\\t\\n\\t\\tAgain, the knocking grew louder. I could feel it resonate throughout the whole manor. I could feel its walls tremble. My ancestors had long ago strengthened the manor against it.\\n\\t\\t\\n\\t\\tSuddenly, I found it: An image of the study upstairs. It revealed a secret compartment in my uncle's study.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE UPPER HALL!230.X033!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE UPPER HALL!230.X033!DESCRIPTION!": {"dialogue_text": "I raced upstairs and through the hallways. The echo of the knocking reverberating from all around me. Arriving at the study, I gripped the handle, flung open the door, cast myself inside and closed it behind me.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE STUDY!230.X034!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE STUDY!230.X034!DESCRIPTION!": {"dialogue_text": "The environs were lit all around by beams of light shining through the boarded up window. I sat down at the desk, immediately aware of the secret compartment that was hidden in the second drawer. Opening it, I found a vial of dark liquid. Removing the stopper, I smelled the liquid inside. It was alcohol, to be sure. Distilled to a powerful strength. But its purpose was not intoxication. It sought to preserve the herbal essence my uncle had cleverly extracted.", "responses": {"A": {"response_text": "Cast the medicine aside", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE STUDY!230.X025!DESCRIPTION!"}, "C": {"response_text": "Drink the elixr", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE STUDY!230.X035!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE STUDY!230.X025!DESCRIPTION!": {"dialogue_text": "In a fit of sudden rage, I threw the vial against the nearby portrait of my uncle. The reverberations had ceased. I was unsure of what had brought about these sensations or feelings. However, I immediately saw something intriguing. The solution was washing away the paint on the canvas, revealing an imression. There was something hidden beneath its surface.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE STUDY!230.X026!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE STUDY!230.X035!DESCRIPTION!": {"dialogue_text": "I drank the elixr down. Immediately the room came into focus. The reverberations had ceased. My awareness seemed more acute than ever. I looked around and saw the tome laying out before me. Opening its pages, I was pleased to see that my uncle's draught had brought about a permenant change in my awareness. It seemed I could now read his diary at will. One particular passage drew my attention.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE STUDY!230.X036!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE STUDY!230.X026!DESCRIPTION!": {"dialogue_text": "Ripping the canvas to shreds, I discovered it. A piece of the diary had been torn out. However, this one had been written quite legibly.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE UPPER HALL!230.X037!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE STUDY!230.X036!DESCRIPTION!": {"dialogue_text": "The knowledge burned within me. The cellar was dangerous, yes. But only for the uninitiated. Perhaps I now had the strength to enter it.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE UPPER HALL!230.X037!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE UPPER HALL!230.X037!DESCRIPTION!": {"dialogue_text": "I left the study and walked into the hall. Before me stood the shape, a shadow amoungst shadows. It had found a way in, and now it meant to get me.", "responses": {"A": {"response_text": "Fight", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE UPPER HALL!230.X018!DESCRIPTION!"}, "B": {"response_text": "Recall the past", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE UPPER HALL!230.X028!DESCRIPTION!"}, "C": {"response_text": "Retreat back to the study", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE STUDY!230.X038!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE UPPER HALL!230.X018!DESCRIPTION!": {"dialogue_text": "I tried to fight, but I passed out.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!DRAGONFLY!HOSPITAL!430.X000!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE UPPER HALL!230.X028!DESCRIPTION!": {"dialogue_text": "I remembered standing in this hallway as a boy. I remember this happening before. But it was my uncle.\\n\\t\\t\\n\\t\\tSuddenly, the shape disappeared. I was alone.\\n\\t\\t\\n\\t\\tI was safe, but how much longer before the shape returned? I decided to go back to the study.", "responses": {"A": {"response_text": "Go back to the study", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE STUDY!230.X029!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE STUDY!230.X029!DESCRIPTION!": {"dialogue_text": "I was safe in the study once more. I looked around at the protraits. I realised they had been painted by the same artist as the illustrations in the book. But some of them were missing? Where were they? But some of them were missing. Where were they? In desperation, I found a secret door.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A FAMILY SECRET!A HIDDEN PASSAGE!230.X000!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!THE STUDY!230.X038!DESCRIPTION!": {"dialogue_text": "I was safe in the study once more. I did not yet have the mental fortitude to fight the creature. But as I gained strength, so it increased in malevolance. I looked around at the protraits. I realised they had been painted by the same artist as the illustrations in the book. But some of them were missing? Where were they? But some of them were missing. Where were they? In desperation, I found a secret door.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A FAMILY SECRET!A HIDDEN PASSAGE!230.X000!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!A HIDDEN PASSAGE!230.X000!DESCRIPTION!": {"dialogue_text": "The hidden passage took me through the walls and down out the back entrance.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A FAMILY SECRET!BRYNMOR MANOR GROUNDS!230.X000!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!STUDY!40.X900!DESCRIPTION!": {"dialogue_text": "I was back in the study. That painting now joined the others. My collection was still imcomplete. I searched the drawers for more elixr but there was none.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A FAMILY SECRET!BRYNMOR MANOR GROUNDS!230.X000!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!BRYNMOR MANOR GROUNDS!230.X000!DESCRIPTION!": {"dialogue_text": "I had escaped the manor. It was now midday. Where had the time gone? A mist hung in the air. No one would see me. I knew not whether to persue the paintings, or to return to the town square for a drink and some refreshment.", "responses": {"A": {"response_text": "I went to the square", "points": 0, "dest_add": "JER!A FAMILY SECRET!BRYNMOR MANOR GROUNDS!230.X001!DESCRIPTION!"}, "C": {"response_text": "I traveled to Rodrick's mansion", "points": 0, "dest_add": "JER!A FAMILY SECRET!BRYNMOR MANOR GROUNDS!230.X003!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!BRYNMOR MANOR GROUNDS!230.X001!DESCRIPTION!": {"dialogue_text": "The whole experience had left me confused. I needed to talk to someone other than myself.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!LOOSE ENDS!VALONHEIM TOWN SQUARE!200.X000!DESCRIPTION!"}}}, "JER!A FAMILY SECRET!BRYNMOR MANOR GROUNDS!230.X003!DESCRIPTION!": {"dialogue_text": "I had to discover what became of my family's paintings. I set off for Rodrick's mansion.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!THE HOUSE IN THE MIST!HUNTING PATH!330.X000!DESCRIPTION!"}}}}, "events": {}, "npc_switchers": {}, "fighting_words": {}}
+{
+  "dialogue": {
+    "JER!A FAMILY SECRET!THE STUDY!230.X000!DESCRIPTION!": {
+      "dialogue_text": "I awoke to see bands of sunlight shinging through the boards in the study window. It was morning. I could hear knocking at the front door. Getting up, I walked down the stairs to the foyer.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE FOYER!230.X001!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE FOYER!230.X000!DESCRIPTION!": {
+      "dialogue_text": "I awoke to see the sun streaming in. It was morning. Before I could do anything, there was a knock upon the front door. ",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE FOYER!230.X001!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE FOYER!230.X001!DESCRIPTION!": {
+      "dialogue_text": "I sensed it was something that meant me harm. I could feel its presence. Knowing, without knowing how, I saw that the shape looming outside would consume me. Were the folk of Valonheim aware of it? Or were their minds in its grasp? As the knocking grew in intensity, I began to recall something from the tome...",
+      "responses": {
+        "C": {
+          "response_text": "Continue reading the tome",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE FOYER!230.X032!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE FOYER!230.X0010!DESCRIPTION!": {
+      "dialogue_text": "No sooner than the door was shut, than I heard a sound. Someone was knocking at the door. Had my visitor returned? No. Somehow I knew it was something that meant me harm. I could feel its presence. Knowing, without knowing how, I saw that the shape looming outside would consume me. Were the folk of Valonheim aware of it? Or were their minds in its grasp? As the knocking grew in intensity, I began to recall something from the tome...",
+      "responses": {
+        "C": {
+          "response_text": "Continue reading the tome",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE FOYER!230.X0320!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE FOYER!230.X032!DESCRIPTION!": {
+      "dialogue_text": "Flipping through the pages, I was distraught to see that they had once again fallen into complete obscurity. Last night's awareness had passed... or was my mind being sapped of strength by the shape?\\n\\t\\t\\n\\t\\tAgain, the knocking grew louder. I could feel it resonate throughout the whole manor. I could feel its walls tremble. My ancestors had long ago strengthened the manor against it.\\n\\t\\t\\n\\t\\tSuddenly, I recalled a passage from the tome. It concerned some kind of protection that my uncle had concealed in the study.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE UPPER HALL!230.X033!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE FOYER!230.X0320!DESCRIPTION!": {
+      "dialogue_text": "I reached for the tome... fortunate that it was close at hand. I must have brought it to the door with me.\\n\\t\\t\\n\\t\\tAgain, the knocking grew louder. I could feel it resonate throughout the whole manor. I could feel its walls tremble. My ancestors had long ago strengthened the manor against it.\\n\\t\\t\\n\\t\\tSuddenly, I found it: An image of the study upstairs. It revealed a secret compartment in my uncle's study.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE UPPER HALL!230.X033!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE UPPER HALL!230.X033!DESCRIPTION!": {
+      "dialogue_text": "I raced upstairs and through the hallways. The echo of the knocking reverberating from all around me. Arriving at the study, I gripped the handle, flung open the door, cast myself inside and closed it behind me.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE STUDY!230.X034!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE STUDY!230.X034!DESCRIPTION!": {
+      "dialogue_text": "The environs were lit all around by beams of light shining through the boarded up window. I sat down at the desk, immediately aware of the secret compartment that was hidden in the second drawer. Opening it, I found a vial of dark liquid. Removing the stopper, I smelled the liquid inside. It was alcohol, to be sure. Distilled to a powerful strength. But its purpose was not intoxication. It sought to preserve the herbal essence my uncle had cleverly extracted.",
+      "responses": {
+        "A": {
+          "response_text": "Cast the medicine aside",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE STUDY!230.X025!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "Drink the elixr",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE STUDY!230.X035!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE STUDY!230.X025!DESCRIPTION!": {
+      "dialogue_text": "In a fit of sudden rage, I threw the vial against the nearby portrait of my uncle. The reverberations had ceased. I was unsure of what had brought about these sensations or feelings. However, I immediately saw something intriguing. The solution was washing away the paint on the canvas, revealing an imression. There was something hidden beneath its surface.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE STUDY!230.X026!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE STUDY!230.X035!DESCRIPTION!": {
+      "dialogue_text": "I drank the elixr down. Immediately the room came into focus. The reverberations had ceased. My awareness seemed more acute than ever. I looked around and saw the tome laying out before me. Opening its pages, I was pleased to see that my uncle's draught had brought about a permenant change in my awareness. It seemed I could now read his diary at will. One particular passage drew my attention.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE STUDY!230.X036!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE STUDY!230.X026!DESCRIPTION!": {
+      "dialogue_text": "Ripping the canvas to shreds, I discovered it. A piece of the diary had been torn out. However, this one had been written quite legibly.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE UPPER HALL!230.X037!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE STUDY!230.X036!DESCRIPTION!": {
+      "dialogue_text": "The knowledge burned within me. The cellar was dangerous, yes. But only for the uninitiated. Perhaps I now had the strength to enter it.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE UPPER HALL!230.X037!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE UPPER HALL!230.X037!DESCRIPTION!": {
+      "dialogue_text": "I left the study and walked into the hall. Before me stood the shape, a shadow amoungst shadows. It had found a way in, and now it meant to get me.",
+      "responses": {
+        "A": {
+          "response_text": "Fight",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE UPPER HALL!230.X018!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Recall the past",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE UPPER HALL!230.X028!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "Retreat back to the study",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE STUDY!230.X038!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE UPPER HALL!230.X018!DESCRIPTION!": {
+      "dialogue_text": "I tried to fight, but I passed out.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!DRAGONFLY!HOSPITAL!430.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE UPPER HALL!230.X028!DESCRIPTION!": {
+      "dialogue_text": "I remembered standing in this hallway as a boy. I remember this happening before. But it was my uncle.\\n\\t\\t\\n\\t\\tSuddenly, the shape disappeared. I was alone.\\n\\t\\t\\n\\t\\tI was safe, but how much longer before the shape returned? I decided to go back to the study.",
+      "responses": {
+        "A": {
+          "response_text": "Go back to the study",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!THE STUDY!230.X029!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE STUDY!230.X029!DESCRIPTION!": {
+      "dialogue_text": "I was safe in the study once more. I looked around at the protraits. I realised they had been painted by the same artist as the illustrations in the book. But some of them were missing? Where were they? But some of them were missing. Where were they? In desperation, I found a secret door.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!A HIDDEN PASSAGE!230.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!THE STUDY!230.X038!DESCRIPTION!": {
+      "dialogue_text": "I was safe in the study once more. I did not yet have the mental fortitude to fight the creature. But as I gained strength, so it increased in malevolance. I looked around at the protraits. I realised they had been painted by the same artist as the illustrations in the book. But some of them were missing? Where were they? But some of them were missing. Where were they? In desperation, I found a secret door.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!A HIDDEN PASSAGE!230.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!A HIDDEN PASSAGE!230.X000!DESCRIPTION!": {
+      "dialogue_text": "The hidden passage took me through the walls and down out the back entrance.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!BRYNMOR MANOR GROUNDS!230.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!STUDY!40.X900!DESCRIPTION!": {
+      "dialogue_text": "I was back in the study. That painting now joined the others. My collection was still imcomplete. I searched the drawers for more elixr but there was none.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!BRYNMOR MANOR GROUNDS!230.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!BRYNMOR MANOR GROUNDS!230.X000!DESCRIPTION!": {
+      "dialogue_text": "I had escaped the manor. It was now midday. Where had the time gone? A mist hung in the air. No one would see me. I knew not whether to persue the paintings, or to return to the town square for a drink and some refreshment.",
+      "responses": {
+        "A": {
+          "response_text": "I went to the square",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!BRYNMOR MANOR GROUNDS!230.X001!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "I traveled to Rodrick's mansion",
+          "points": 0,
+          "dest_add": "JER!A FAMILY SECRET!BRYNMOR MANOR GROUNDS!230.X003!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!BRYNMOR MANOR GROUNDS!230.X001!DESCRIPTION!": {
+      "dialogue_text": "The whole experience had left me confused. I needed to talk to someone other than myself.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!LOOSE ENDS!VALONHEIM TOWN SQUARE!200.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!A FAMILY SECRET!BRYNMOR MANOR GROUNDS!230.X003!DESCRIPTION!": {
+      "dialogue_text": "I had to discover what became of my family's paintings. I set off for Rodrick's mansion.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE IN THE MIST!HUNTING PATH!330.X000!DESCRIPTION!"
+        }
+      }
+    }
+  },
+  "events": {},
+  "npc_switchers": {},
+  "fighting_words": {}
+}
+/mnt/c/Users/caoni/Desktop/REPOS/ConscientiaDialogueSystem/MISC/Thetian/THETIAN_A_JOURNEY_ACROSS_THE_SEA.mao
+{ "dialogue": {"JER!A JOURNEY ACROSS THE SEA!THE DOCKS!550.X000!DESCRIPTION!": {"dialogue_text": "Here, Thetian embarks on a boat trip with Gurny the ferryman over the sea to Serpent Isle. To go, Thetian will need to know the location of the island. Gurny will attempt to kill Thetian no matter what.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!EMBRACE OF THE WYRM!SERPENT ISLE!650.X000!DESCRIPTION!"}}}}, "events": {}, "npc_switchers": {}, "fighting_words": {}}
+{
+  "dialogue": {
+    "JER!A JOURNEY ACROSS THE SEA!THE DOCKS!550.X000!DESCRIPTION!": {
+      "dialogue_text": "Here, Thetian embarks on a boat trip with Gurny the ferryman over the sea to Serpent Isle. To go, Thetian will need to know the location of the island. Gurny will attempt to kill Thetian no matter what.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!EMBRACE OF THE WYRM!SERPENT ISLE!650.X000!DESCRIPTION!"
+        }
+      }
+    }
+  },
+  "events": {},
+  "npc_switchers": {},
+  "fighting_words": {}
+}
+/mnt/c/Users/caoni/Desktop/REPOS/ConscientiaDialogueSystem/MISC/Thetian/THETIAN_A_RUDE_AWAKENING.mao
+{ "dialogue": {"JER!A RUDE AWAKENING!THE MASTER'S CHAMBERS!221.X000!DESCRIPTION!": {"dialogue_text": "I awoke to see the sun streaming into my room. It was morning. I could hear knocking at the front door. Getting up, I walked down the stairs to the foyer.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!221.X001!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!THE STUDY!222.X000!DESCRIPTION!": {"dialogue_text": "I awoke to see bands of sunlight shinging through the boards in the study window. It was morning. I could hear knocking at the front door. Getting up, I walked down the stairs to the foyer.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!220.X001!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!THE FOYER!223.X000!DESCRIPTION!": {"dialogue_text": "I awoke to see the sun streaming in. It was morning. Before I could do anything, there was a knock upon the front door. ", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X2101!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!THE FOYER!220.X001!DESCRIPTION!": {"dialogue_text": "MULTICHECKER", "responses": {"A": {"response_text": "CHECKER", "points": 0, "dest_add": "NO ADDRESS"}}}, "JER!A RUDE AWAKENING!THE FOYER!221.X100!DESCRIPTION!": {"action": ["@", "JER!A RUDE AWAKENING!THE FOYER!221.X002!DESCRIPTION!"], "dialogue_text": "As I walked down the stairs, I saw that Flora had already resumed her duties. She was receiving my visitor, whose garb was unmistable: the Bishop. I dismissed Flora and adressed my guest.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X2101!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!THE FOYER!222.X0010!DESCRIPTION!": {"action": ["@", "JER!A RUDE AWAKENING!THE FOYER!222.X002!DESCRIPTION!"], "dialogue_text": "I alighted from the stairs and approached the front door. Looking through the spyglass, I saw a visitor whose garb was unmistable: the Bishop. I unbarred the door and opened it.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X2102!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!THE FOYER!222.X500!DESCRIPTION!": {"action": ["@", "JER!A RUDE AWAKENING!THE FOYER!222.X002!DESCRIPTION!"], "dialogue_text": "I alighted from the stairs and approached the front door. Looking through the spyglass, I saw that it was a woman. I remembered her from my youth but I could not recall her name. I unbarred the door and opened it.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X2102!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!THE FOYER!220.X000!BISHOP!": {"dialogue_text": "\"Welcome home Thetian! Valonheim needs you and your family's proud blood once again. Will you come to the Basillica with me?", "responses": {"A": {"response_text": "\"Yes, I will go.\"", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9990.X1110!BISHOP!"}, "B": {"response_text": "\"No, I won't go.\"", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9990.X1111!BISHOP!"}}}, "JER!A RUDE AWAKENING!THE FOYER!220.X1110!BISHOP!": {"dialogue_text": "\"Excellent! Let us go!", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X9999!BISHOP!"}}}, "JER!A RUDE AWAKENING!THE FOYER!220.X1111!BISHOP!": {"dialogue_text": "\"Bah! A pox on you!", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X9999!BISHOP!"}}}, "JER!A RUDE AWAKENING!THE FOYER!221.X000!ALANNA!": {"dialogue_text": "\"Welcome home Thetian! Valonheim needs you and your family's proud blood once again. Will you come to the meeting with me?", "responses": {"A": {"response_text": "\"Yes, I will go.\"", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9990.X1112!ALANNA!"}, "B": {"response_text": "\"No, I won't go.\"", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9990.X1113!ALANNA!"}}}, "JER!A RUDE AWAKENING!THE FOYER!221.X1110!ALANNA!": {"dialogue_text": "\"Excellent! Let us go!", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X9999!ALANNA!"}}}, "JER!A RUDE AWAKENING!THE FOYER!221.X1111!ALANNA!": {"dialogue_text": "\"Bah! A pox on you!", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!9999.X9999!ALANNA!"}}}, "JER!A RUDE AWAKENING!THE FOYER!221.X002!DESCRIPTION!": {"dialogue_text": "MULTICHECKER", "responses": {"A": {"response_text": "CHECKER", "points": 0, "dest_add": "NO ADDRESS"}}}, "JER!A RUDE AWAKENING!THE FOYER!221.X033!DESCRIPTION!": {"dialogue_text": "My visitor walked away. I was alone again", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A FAMILY SECRET!THE FOYER!230.X0010!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!THE FOYER!221.002!DESCRIPTION!": {"dialogue_text": "I followed the Bishop from the manor.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!VALONHEIM TOWN SQUARE!221.X000!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!VALONHEIM TOWN SQUARE!221.X000!DESCRIPTION!": {"dialogue_text": "I followed the Bishop through the town.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!NAVE!221.X000!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!NAVE!221.X000!DESCRIPTION!": {"action": ["@", "JER!A RUDE AWAKENING!NAVE!221.X001!DESCRIPTION!"], "dialogue_text": "I stood in the nave with the Bishop.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!NAVE!9999.X2101!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!NAVE!221.X000!BISHOP!": {"dialogue_text": "\"Look at this wonderful church. But it hides secrets. Your family has a great past and your people are in need of you. Come into the crypt and I will tell you about it.\"", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!NAVE!9999.X9999!BISHOP!"}}}, "JER!A RUDE AWAKENING!NAVE!221.X001!DESCRIPTION!": {"dialogue_text": "He took me down to the crypt.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X002!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X002!DESCRIPTION!": {"action": ["@", "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X003!DESCRIPTION!"], "dialogue_text": "There were graves everywhere.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X2101!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X000!BISHOP!": {"action": ["@", "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!BISHOP!"], "dialogue_text": "\"The mystics are going to destroy us and Rodrick is shirking his responcibiliy, thinking they pose no threat because of his modern ideas. Will you help restore tradition? Think about it for a while. I'll be back.\"", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!"}}}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X003!DESCRIPTION!": {"dialogue_text": "I had a chance to investigate the graves now that he was gone.", "responses": {"A": {"response_text": "Do nothing.", "points": 0, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X014!DESCRIPTION!"}, "B": {"response_text": "Snoop around.", "points": 0, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1118!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X014!DESCRIPTION!": {"action": ["@", "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!DESCRIPTION!"], "dialogue_text": "Then the Bishop came back.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X2101!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X024!DESCRIPTION!": {"action": ["@", "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!DESCRIPTION!"], "dialogue_text": "I found a headless corpse. Then the Bishop came back.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X2101!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!BISHOP!": {"dialogue_text": "MULTICHECKER", "responses": {"A": {"response_text": "CHECKER", "points": 0, "dest_add": "NO ADDRESS"}}}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X310!BISHOP!": {"dialogue_text": "\"So what do you think?\"", "responses": {"A": {"response_text": "Yes.", "points": 0, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1119!BISHOP!"}, "B": {"response_text": "No.", "points": 0, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!BISHOP!"}}}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X320!BISHOP!": {"dialogue_text": "\"...You were snooping around. Get out!\"", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!"}}}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!BISHOP!": {"dialogue_text": "\"You make me sad.\"", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!"}}}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X019!BISHOP!": {"dialogue_text": "\"Good. There are two threats: Rodrick and the Mystics. Perhaps you can convince him to take measures against them.\"", "responses": {"A": {"response_text": "I will pay Rodrick a visit.", "points": 0, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!0.X1119!BISHOP!"}}}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X200!BISHOP!": {"dialogue_text": "\"Good. Go see Rodrick then.\"", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!"}}}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X005!DESCRIPTION!": {"dialogue_text": "MULTICHECKER", "responses": {"A": {"response_text": "CHECKER", "points": 0, "dest_add": "NO ADDRESS"}}}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!DESCRIPTION!": {"dialogue_text": "I left for Rodrick's Mansion.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!THROUGH THE SILVER GATES!VALONHEIM TOWN SQUARE!310.X000!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X039!DESCRIPTION!": {"dialogue_text": "The Bishop kicked me out.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!LOOSE ENDS!VALONHEIM TOWN SQUARE!200.X000!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!THE FOYER!222.002!DESCRIPTION!": {"dialogue_text": "I followed Alanna.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!VALONHEIM TOWN SQUARE!222.X000!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!VALONHEIM TOWN SQUARE!222.X000!DESCRIPTION!": {"dialogue_text": "I followed Alanna through the town.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!MEETING HALL!222.X000!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!MEETING HALL!222.X000!DESCRIPTION!": {"action": ["@", "JER!A RUDE AWAKENING!MEETING HALL!222.X001!DESCRIPTION!"], "dialogue_text": "I stood in the meeting hall with Alanna.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!MEETING HALL!9999.X2102!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!MEETING HALL!222.X000!ALANNA!": {"dialogue_text": "\"Look at this township. It is decaying all around us. But in you runs the blood of the true Jerans. Come into the inner and I will tell you about it.\"", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!MEETING HALL!9999.X9999!ALANNA!"}}}, "JER!A RUDE AWAKENING!MEETING HALL!222.X001!DESCRIPTION!": {"dialogue_text": "She took me down to a secret room.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X002!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!THE CIRCLE!222.X002!DESCRIPTION!": {"action": ["@", "JER!A RUDE AWAKENING!THE CIRCLE!222.X003!DESCRIPTION!"], "dialogue_text": "There was a man in robes there.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X2001!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!THE CIRCLE!222.X000!VITRIOX!": {"action": ["@", "JER!A RUDE AWAKENING!THE CIRCLE!222.X005!VITRIOX!"], "dialogue_text": "\"The mystics are going to destroy us and Rodrick is shirking his responcibiliy, thinking they pose no threat because of his modern ideas. The church is also not to be trusted. I propose a kind of ethnic essentialism. We are Jeran. That is the code we should follow. Not the foriegn religion of Biracul but the religion of our forefathers. Will you help restore REAL tradition? Think about it for a while. I'll be back.\"", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!"}}}, "JER!A RUDE AWAKENING!THE CIRCLE!222.X003!DESCRIPTION!": {"dialogue_text": "I had a chance to investigate the room now that he was gone.", "responses": {"A": {"response_text": "Do nothing.", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X014!DESCRIPTION!"}, "B": {"response_text": "Snoop around.", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9990.X1118!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!THE CIRCLE!222.X014!DESCRIPTION!": {"action": ["@", "JER!A RUDE AWAKENING!THE CIRCLE!222.X005!DESCRIPTION!"], "dialogue_text": "Then VITRIOX came back.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X2101!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!THE CIRCLE!222.X024!DESCRIPTION!": {"action": ["@", "JER!A RUDE AWAKENING!THE CIRCLE!222.X005!DESCRIPTION!"], "dialogue_text": "I found a headless corpse. Then VITRIOX came back.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X2101!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!THE CIRCLE!222.X005!VITRIOX!": {"dialogue_text": "MULTICHECKER", "responses": {"A": {"response_text": "CHECKER", "points": 0, "dest_add": "NO ADDRESS"}}}, "JER!A RUDE AWAKENING!THE CIRCLE!222.X310!VITRIOX!": {"dialogue_text": "\"So what do you think?\"", "responses": {"A": {"response_text": "Yes.", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9990.X1120!VITRIOX!"}, "B": {"response_text": "No.", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X029!VITRIOX!"}}}, "JER!A RUDE AWAKENING!THE CIRCLE!222.X320!VITRIOX!": {"dialogue_text": "\"...You were snooping around. Get out!\"", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!"}}}, "JER!A RUDE AWAKENING!THE CIRCLE!222.X029!VITRIOX!": {"dialogue_text": "\"You make me sad.\"", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!"}}}, "JER!A RUDE AWAKENING!THE CIRCLE!222.X019!VITRIOX!": {"dialogue_text": "\"Good. There are two threats: Rodrick and the Mystics. Perhaps you can convince him to take measures against them.\"", "responses": {"A": {"response_text": "I will pay Rodrick a visit.", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9990.X1120!VITRIOX!"}}}, "JER!A RUDE AWAKENING!THE CIRCLE!222.X200!VITRIOX!": {"dialogue_text": "\"Good. Go see Rodrick then.\"", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!"}}}, "JER!A RUDE AWAKENING!THE CIRCLE!222.X005!DESCRIPTION!": {"dialogue_text": "MULTICHECKER", "responses": {"A": {"response_text": "CHECKER", "points": 0, "dest_add": "NO ADDRESS"}}}, "JER!A RUDE AWAKENING!THE CIRCLE!222.X029!DESCRIPTION!": {"dialogue_text": "I left for Rodrick's Mansion.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!THROUGH THE SILVER GATES!VALONHEIM TOWN SQUARE!310.X000!DESCRIPTION!"}}}, "JER!A RUDE AWAKENING!THE CIRCLE!222.X039!DESCRIPTION!": {"dialogue_text": "VITRIOX kicked me out.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!LOOSE ENDS!VALONHEIM TOWN SQUARE!200.X000!DESCRIPTION!"}}}}, "events": {"JER!A RUDE AWAKENING!THE FOYER!9990.X1110!BISHOP!": {"event_num": 1110, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!220.X1110!BISHOP!"}, "JER!A RUDE AWAKENING!THE FOYER!9990.X1111!BISHOP!": {"event_num": 1111, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!220.X1111!BISHOP!"}, "JER!A RUDE AWAKENING!THE FOYER!9990.X1112!ALANNA!": {"event_num": 1112, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!120.X1112!ALANNA!"}, "JER!A RUDE AWAKENING!THE FOYER!9990.X1113!ALANNA!": {"event_num": 1113, "dest_add": "JER!A RUDE AWAKENING!THE FOYER!120.X1113!ALANNA!"}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.XEVENT1!DESCRIPTION!": {"event_num": EVENT1, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X019!BISHOP!"}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.XEVENT2!DESCRIPTION!": {"event_num": EVENT2, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!BISHOP!"}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1118!DESCRIPTION!": {"event_num": 1118, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X024!DESCRIPTION!"}, "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1119!BISHOP!": {"event_num": 1119, "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X200!BISHOP!"}, "JER!A RUDE AWAKENING!THE CIRCLE!9990.X1120!VITRIOX!": {"event_num": 1120, "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X200!VITRIOX!"}}, "npc_switchers": {}, "fighting_words": {}}

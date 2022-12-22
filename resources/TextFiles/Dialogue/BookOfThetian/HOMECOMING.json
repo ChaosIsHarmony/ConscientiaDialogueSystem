@@ -1,0 +1,782 @@
+{
+  "dialogue": {
+    "JER!HOMECOMING!THE FOYER!120.000!DESCRIPTION!": {
+      "dialogue_text": "I entered my family home and stood in the foyer. My lantern illuminated a huge mess everywhere. I surveyed the immediate vacinity. Here could be found the passages to the library, the dining hall, kitchen and wine cellar. It seemed as though all the doors on this floor were secured after my uncle's departure. The stairway that dominated the foyer wound up to the second floor, though the state of those rooms could not be seen from here.",
+      "responses": {
+        "A": {
+          "response_text": "I started cleaning.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1100!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "I searched for a distraction from this task.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1101!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "I looked for some wine.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1102!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.010!DESCRIPTION!": {
+      "dialogue_text": "I started cleaning. Suddenly, I heard a knock at the door. Evidently, my arrival had not gone unnoticed.",
+      "responses": {
+        "A": {
+          "response_text": "I answered the door.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.X011!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "I called out asking who was there.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.X021!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "I waited to see what would happen.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1106!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.020!DESCRIPTION!": {
+      "dialogue_text": "I was too weary to begin the task of tidying up this place which had once been my home. I soon found a book. Suddenly, I heard a knock at the door. This was no coincidence. Someone must have spied my entry into the house and followed me to the door.",
+      "responses": {
+        "A": {
+          "response_text": "I answered the door.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.X011!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "I called out asking who was there.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.X021!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "I waited to see what would happen.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1106!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.030!DESCRIPTION!": {
+      "dialogue_text": "The mess looked insurmountable. I looked about for a bottle of wine. Fortunately, I did not have to go down to the cellar for refreshment as there was a bottle nearby. I picked it up broke the end against the hearth. Before I could take a sip, I heard a knock at the door. This was no coincidence. Someone must have spied my entry into the house and followed me to the door.",
+      "responses": {
+        "A": {
+          "response_text": "I answered the door.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.X011!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "I called out asking who was there.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.X021!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "I pretended I wasn't home.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1106!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.X011!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!HOMECOMING!THE FOYER!121.X000!DESCRIPTION!"
+      },
+      "dialogue_text": "Standing there was Flora, my family's old servant.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!9999.X2100!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.X021!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!HOMECOMING!THE FOYER!121.X000!DESCRIPTION!"
+      },
+      "dialogue_text": "I called out and heard a rasping voice respond. With immediate recognition, I moved to open the door. Standing there was Flora, my family's old servant.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!9999.X2100!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.031!DESCRIPTION!": {
+      "dialogue_text": "The knocking become more intense. Whoever it was must know that I was ignoring them. The question was, to what lengths would they attempt to gain entry? I had doubts about the ability of the front door to withstand much force. I began to look around for something to fight off the intruder. However, further knocks did not come. I heard footsteps walking from the front step. I was alone once more.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.X032!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.X032!DESCRIPTION!": {
+      "dialogue_text": "MULTICHECKER",
+      "responses": {
+        "A": {
+          "response_text": "CHECKER",
+          "points": 0,
+          "dest_add": "NO ADDRESS"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.012!DESCRIPTION!": {
+      "dialogue_text": "I resumed my quest to bring my home into order. I spied a dusty tome upon the floor. It did not belong here. I opened the book and was met with a vision of madness. No words were written there, but rather, a spidery scrawl of smudged ink. Yet, there were also illustrations of a sort.",
+      "responses": {
+        "A": {
+          "response_text": "I attempted to read the book.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1107-1!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "I walked to the library to replace it.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1108-1!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "I sat down in a nearby chair and gazed at the art.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1109-1!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.022!DESCRIPTION!": {
+      "dialogue_text": "My attention returned to the tome. It did not belong here. I opened the book and was met with a vision of madness. No words were written there, but rather, a spidery scrawl of smudged ink. Yet, there were also illustrations of a sort.",
+      "responses": {
+        "A": {
+          "response_text": "I attempted to read the book.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1107-1!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "I walked to the library to replace it.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1108-1!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "I sat down in a nearby chair and gazed at the art.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1109-1!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.032!DESCRIPTION!": {
+      "dialogue_text": "I put the bottle to my mouth. My father's vintage medoc had always had a warming effect on me, and I was happy to see that this memory was still true. Looking around, I began to see with a keener eye than I had previously. I spied a dusty tome upon the floor. It did not belong here. I opened the book and was met with a vision of madness. No words were written there, but rather, a spidery scrawl of smudged ink. Yet, there were also illustrations of a sort.",
+      "responses": {
+        "A": {
+          "response_text": "I attempted to read the book.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1107-1!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "I walked to the library to replace it.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1108-1!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "I sat down in a nearby chair and gazed at the art.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1109-1!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.013!DESCRIPTION!": {
+      "dialogue_text": "Perhaps there was a message hidden within this tome, but I had not the capcity to unravel it in the foyer. I decided to place the book in my uncle's study for further analysis. Taking up my lantern, I headed for the stairs.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE UPPER HALL!120.014!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.023!DESCRIPTION!": {
+      "dialogue_text": "I turned and walked into the library.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!BRYNMOR LIBRARY!120.024!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.033!DESCRIPTION!": {
+      "dialogue_text": "Gazing upon the art, I saw that it was both beautiful and unnerving. So rich were they with detail at it would take more than a cursory glance to absorb them. Walking to the hearth, I hastily lit a fire and fed it with some legs of broken funiture. Dragging a musty chair to the fireside, I sat down and began to consume the art. My eyes began to droop, and I fell asleep.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THE FIRST NIGHT!THE FOYER!123.000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE UPPER HALL!120.014!DESCRIPTION!": {
+      "dialogue_text": "As I reached the top of the stairs, I stood in the upper hall that connected to my uncle's study and the living quarters. Turning down the right passage, I opened the narrow door.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE STUDY!120.015!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!BRYNMOR LIBRARY!120.024!DESCRIPTION!": {
+      "dialogue_text": "My lantern illuminated mostes of dust in the space before me. After lighting some candles, I saw that the library was a state of complete order. None of the tomes looked out of place. Further, it looked as though the tome I now held in my hands bore no resemblence to any of the collected volumes in our possession. I opened the text but looked upon nothing but gibberish. This text did not belong here, nor did I remember it from my childhood. I placed the tome upon a vacant shelf, and headed up to my chambers for sleep.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE UPPER HALL!120.025!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE STUDY!120.015!DESCRIPTION!": {
+      "dialogue_text": "I walked into the study to see that it was gripped by a fiercer species of chaos than even the foyer. Clearly, my uncle had been consumed in some work. Sitting down, I attempted to reconcile the disarray before me. On a scrap piece of parchment, I saw the same indecipherable scrawl as I did in the tome. Nearby, was an inkwell with matching ink. The tome had been written here. I attempted to discern if there was some cipher upon the desk, but my efforts were in vain. Gradually, I felt my weariness get the best of me, and fell into a deep sleep.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THE FIRST NIGHT!THE STUDY!122.000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE UPPER HALL!120.025!DESCRIPTION!": {
+      "dialogue_text": "As I reached the top of the stairs, I stood in the upper hall that connected to my uncle's study and the living quarters. Turning down the left passage, I opened the door to my old room.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE MASTER'S CHAMBERS!120.026!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE MASTER'S CHAMBERS!120.026!DESCRIPTION!": {
+      "dialogue_text": "Everything in my room was as I had left it. I fell into a deep slumber.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THE FIRST NIGHT!THE MASTER'S CHAMBERS!121.000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.000!FLORA!": {
+      "dialogue_text": "\"Master, I see you have returned.\"",
+      "responses": {
+        "A": {
+          "response_text": "\"It seems I am not alone.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.011!FLORA!"
+        },
+        "B": {
+          "response_text": "\"What has become of my house?\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.021!FLORA!"
+        },
+        "C": {
+          "response_text": "\"Why are you following me?\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.031!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.011!FLORA!": {
+      "dialogue_text": "\"I would not dare presume so master. No doubt, you have little use for me such as I am. But I wished to pay my respects to the last remaining Brynmor.\"",
+      "responses": {
+        "A": {
+          "response_text": "\"The state of the house requires your aid.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1103!FLORA!"
+        },
+        "B": {
+          "response_text": "\"I have no need of servants. You may stay if that is your wish.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1104!FLORA!"
+        },
+        "C": {
+          "response_text": "\"Perhaps it is best that you leave.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1105!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.021!FLORA!": {
+      "dialogue_text": "\"Your uncle left because he went crazy. I'm here to pay my respects to your family.\"",
+      "responses": {
+        "A": {
+          "response_text": "\"The state of the house requires your aid.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1103!FLORA!"
+        },
+        "B": {
+          "response_text": "\"I have no need of servants. You may stay if that is your wish.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1104!FLORA!"
+        },
+        "C": {
+          "response_text": "\"Perhaps it is best that you leave.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1105!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.031!FLORA!": {
+      "dialogue_text": "\"I'm not following you! I'm here to pay my respects to your family.\"",
+      "responses": {
+        "A": {
+          "response_text": "\"The state of the house requires your aid.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1103!FLORA!"
+        },
+        "B": {
+          "response_text": "\"I have no need of servants. You may stay if that is your wish.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1104!FLORA!"
+        },
+        "C": {
+          "response_text": "\"Perhaps it is best that you leave.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1105!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.X1103!FLORA!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!HOMECOMING!THE FOYER!121.000!FLORA!"
+      },
+      "dialogue_text": "\"I am not the woman you once knew. Time and listlessness has withered me. I am not long for this world. But if I can be of some use to you, I will.\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!9999.X9999!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.X1104!FLORA!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!HOMECOMING!THE FOYER!121.000!FLORA!"
+      },
+      "dialogue_text": "\"I thank you master. I promise I will do what I can, and not become a burden.\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!9999.X9999!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!120.X1105!FLORA!": {
+      "dialogue_text": "\"I see. Farewell young master.\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!9999.X9999!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.X000!DESCRIPTION!": {
+      "dialogue_text": "MULTICHECKER",
+      "responses": {
+        "A": {
+          "response_text": "CHECKER",
+          "points": 0,
+          "dest_add": "NO ADDRESS"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.010!DESCRIPTION!": {
+      "dialogue_text": "Flora stepped across the threshold and into the manor. She was a servant of the manor once more. At her behest, we began to set the foyer into order. It was then that I discovered something. A book. Strange that it should be here and not in the library. I opened the book and was met with a vision of madness. No words were written there, but rather, a spidery scrawl of smudged ink. Yet, there were also illustrations of a sort.",
+      "responses": {
+        "A": {
+          "response_text": "I walked to the library to replace it.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1107-2!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "I attempted to read the book.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1108-2!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "I sat down in a nearby chair and gazed at the art.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1109-2!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.020!DESCRIPTION!": {
+      "dialogue_text": "Flora stepped into the home and disappeared into the servant's quarters. I was alone once more.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.X032!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.030!DESCRIPTION!": {
+      "dialogue_text": "Flora turned and walked away from the house. I was alone once more.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.X032!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.011!DESCRIPTION!": {
+      "dialogue_text": "Before I could act, Flora's head snapped sharply towards me. As though a pane of smoked glass had been removed from her vision, she regarded me as if for the first time. A look of unmistakable apprehension on her face. She lurched toward me, but her newfound keenness of mind did not translate to her body, and her frail form immediately tripped and tumbled to the floor.",
+      "responses": {
+        "A": {
+          "response_text": "I moved to help her.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.X012!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "I spoke to her.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.X022!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "I regarded her cooly.",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.X032!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.X012!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!HOMECOMING!THE FOYER!121.X004!DESCRIPTION!"
+      },
+      "dialogue_text": "As I moved to her side, I could see tears flowing down the wrinkles in her cheeks. Her countenance was a mixture of frustration and anguish, though it was now clear that an unmistakble terror was responcible for her acuteness. She looked back and forth between me and the book before speaking.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!9999.X2100!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.X022!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!HOMECOMING!THE FOYER!121.X004!DESCRIPTION!"
+      },
+      "dialogue_text": "As I opened my mouth, I stopped. I could see tears flowing down the wrinkles in her cheeks. Her countenance was a mixture of frustration and anguish, though it was now clear that an unmistakble terror was responcible for her acuteness. She looked back and forth between me and the book before speaking.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!9999.X2100!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.X032!DESCRIPTION!": {
+      "action": {
+        "type": "@",
+        "dest_add": "JER!HOMECOMING!THE FOYER!121.X004!DESCRIPTION!"
+      },
+      "dialogue_text": "As I looked upon her, I could see tears flowing down the wrinkles in her cheeks. Her countenance was a mixture of frustration and anguish, though it was now clear that an unmistakble terror was responcible for her acuteness. She looked back and forth between me and the book before speaking.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!9999.X2100!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.000!FLORA!": {
+      "dialogue_text": "\"I'm sorry master Thetian. I am so weak. So useless!\"",
+      "responses": {
+        "A": {
+          "response_text": "\"You are not useless. You are just upset.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.011!FLORA!"
+        },
+        "B": {
+          "response_text": "\"What's wrong?\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.021!FLORA!"
+        },
+        "C": {
+          "response_text": "\"If your body has not made you useless, your thoughts surely have.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.031!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.011!FLORA!": {
+      "dialogue_text": "\"It is not I, it is... that book. I beg you master, allow me to remove it from this house.\"",
+      "responses": {
+        "A": {
+          "response_text": "\"If that is your wish.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.012!FLORA!"
+        },
+        "B": {
+          "response_text": "\"Why?\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.022!FLORA!"
+        },
+        "C": {
+          "response_text": "\"Surely not, now that I know it is signifigant.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.032!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.021!FLORA!": {
+      "dialogue_text": "\"It is... that book. I beg you master, allow me to remove it from this house.\"",
+      "responses": {
+        "A": {
+          "response_text": "\"If that is your wish.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.012!FLORA!"
+        },
+        "B": {
+          "response_text": "\"Why?\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.022!FLORA!"
+        },
+        "C": {
+          "response_text": "\"Surely not, now that I know it is signifigant.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.032!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.031!FLORA!": {
+      "dialogue_text": "\"Perhaps you are right master Thetian. But at least allow me to remove that book from this house.\"",
+      "responses": {
+        "A": {
+          "response_text": "\"If that is your wish.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1117!FLORA!"
+        },
+        "B": {
+          "response_text": "\"Why?\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.022!FLORA!"
+        },
+        "C": {
+          "response_text": "\"Surely not, now that I know it is signifigant.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.032!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.100!FLORA!": {
+      "dialogue_text": "\"Thank you master Thetian. No good would come of it, I assure you. I will dispose of it immediately.\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!9999.X9999!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.022!FLORA!": {
+      "dialogue_text": "\"Forgive me, but does not Biracul say that books can be windows into chaos? That to open the wrong book can unleash serpents into the world? Your uncle. He took to reading it when his... troubles began. It is not safe.\"",
+      "responses": {
+        "A": {
+          "response_text": "\"You know best, of course.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1117!FLORA!"
+        },
+        "B": {
+          "response_text": "\"And you think the book is to blame.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.023!FLORA!"
+        },
+        "C": {
+          "response_text": "\"My uncle was what he was. A mad man. Just as this is no more than leather, wood and velum.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.033!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.032!FLORA!": {
+      "dialogue_text": "\"Perhaps you are right. You are a learned man. But does not Biracul say that books can be windows into chaos? That to open the wrong book can unleash serpents into the world? I beg you, let us be rid of it.\"",
+      "responses": {
+        "A": {
+          "response_text": "\"The past will hold no sway over us. Do as you will my friend.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1117!FLORA!"
+        },
+        "B": {
+          "response_text": "\"It seems the book already has a power over you.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.024!FLORA!"
+        },
+        "C": {
+          "response_text": "\"I am the master of this home. And I will fear nothing within it.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.034!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.023!FLORA!": {
+      "dialogue_text": "\"I... well... When he would take to his study... There were many books. But, this one would never be far from him. He even strapped it to his belt so that he would never be parted from it. I beg you, let us be rid of it.\"",
+      "responses": {
+        "A": {
+          "response_text": "\"The past will hold no sway over us. Do as you will my friend.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1117!FLORA!"
+        },
+        "B": {
+          "response_text": "\"It seems the book already has a power over you.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.024!FLORA!"
+        },
+        "C": {
+          "response_text": "\"I am the master of this home. And I will fear nothing within it.\"",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!121.034!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.024!FLORA!": {
+      "dialogue_text": "\"I... Yes... Maybe I need, some rest.\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!9999.X9999!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.034!FLORA!": {
+      "dialogue_text": "\"I... Yes... You are the master of the house now.\"",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!9999.X9999!FLORA!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.X004!DESCRIPTION!": {
+      "dialogue_text": "MULTICHECKER",
+      "responses": {
+        "A": {
+          "response_text": "CHECKER",
+          "points": 0,
+          "dest_add": "NO ADDRESS"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.004!DESCRIPTION!": {
+      "dialogue_text": "Flora took the book from my hands and with wobbly legs towards the kitchen. The night's work at an end, it seemed the only reasonable thing to do would be to go to sleep.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THE FIRST NIGHT!THE MASTER'S CHAMBERS!121.000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.X014!DESCRIPTION!": {
+      "dialogue_text": "Now silent, Flora struggled towards the kitchen to sleep in her quarters. I took up a lantern, turned and walked into the library.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!BRYNMOR LIBRARY!120.024!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.X024!DESCRIPTION!": {
+      "dialogue_text": "Now silent, Flora struggled towards the kitchen to sleep in her quarters. I examined the tome and narrowed my eyes. This did not come from my family's collection at all. Not that I recalled. Was it a new acquisition?",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.013!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!HOMECOMING!THE FOYER!121.X034!DESCRIPTION!": {
+      "dialogue_text": "Now silent, Flora struggled towards the kitchen to sleep in her quarters. I examined the tome with trembling hands. This book was worn, yes, but it was from frequent use.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.033!DESCRIPTION!"
+        }
+      }
+    }
+  },
+  "events": {
+    "JER!HOMECOMING!THE FOYER!99910.X1100!DESCRIPTION!": {
+      "event_num": 1100,
+      "dest_add": "JER!HOMECOMING!THE FOYER!120.010!DESCRIPTION!"
+    },
+    "JER!HOMECOMING!THE FOYER!99910.X1101!DESCRIPTION!": {
+      "event_num": 1101,
+      "dest_add": "JER!HOMECOMING!THE FOYER!120.020!DESCRIPTION!"
+    },
+    "JER!HOMECOMING!THE FOYER!99910.X1102!DESCRIPTION!": {
+      "event_num": 1102,
+      "dest_add": "JER!HOMECOMING!THE FOYER!120.030!DESCRIPTION!"
+    },
+    "JER!HOMECOMING!THE FOYER!99910.X1103!FLORA!": {
+      "event_num": 1103,
+      "dest_add": "JER!HOMECOMING!THE FOYER!120.X1103!FLORA!"
+    },
+    "JER!HOMECOMING!THE FOYER!99910.X1104!FLORA!": {
+      "event_num": 1104,
+      "dest_add": "JER!HOMECOMING!THE FOYER!120.X1104!FLORA!"
+    },
+    "JER!HOMECOMING!THE FOYER!99910.X1105!FLORA!": {
+      "event_num": 1105,
+      "dest_add": "JER!HOMECOMING!THE FOYER!120.X1105!FLORA!"
+    },
+    "JER!HOMECOMING!THE FOYER!99910.X1106!DESCRIPTION!": {
+      "event_num": 1106,
+      "dest_add": "JER!HOMECOMING!THE FOYER!120.031!DESCRIPTION!"
+    },
+    "JER!HOMECOMING!THE FOYER!99910.X1107-1!DESCRIPTION!": {
+      "event_num": 1107,
+      "dest_add": "JER!HOMECOMING!THE FOYER!120.013!DESCRIPTION!"
+    },
+    "JER!HOMECOMING!THE FOYER!99910.X1108-1!DESCRIPTION!": {
+      "event_num": 1108,
+      "dest_add": "JER!HOMECOMING!THE FOYER!120.023!DESCRIPTION!"
+    },
+    "JER!HOMECOMING!THE FOYER!99910.X1109-1!DESCRIPTION!": {
+      "event_num": 1109,
+      "dest_add": "JER!HOMECOMING!THE FOYER!120.033!DESCRIPTION!"
+    },
+    "JER!HOMECOMING!THE FOYER!99910.X1107-2!DESCRIPTION!": {
+      "event_num": 1107,
+      "dest_add": "JER!HOMECOMING!THE FOYER!121.011!DESCRIPTION!"
+    },
+    "JER!HOMECOMING!THE FOYER!99910.X1108-2!DESCRIPTION!": {
+      "event_num": 1108,
+      "dest_add": "JER!HOMECOMING!THE FOYER!121.011!DESCRIPTION!"
+    },
+    "JER!HOMECOMING!THE FOYER!99910.X1109-2!DESCRIPTION!": {
+      "event_num": 1109,
+      "dest_add": "JER!HOMECOMING!THE FOYER!121.011!DESCRIPTION!"
+    },
+    "JER!HOMECOMING!THE FOYER!99910.X1117!FLORA!": {
+      "event_num": 1117,
+      "dest_add": "JER!HOMECOMING!THE FOYER!121.100!FLORA!"
+    }
+  },
+  "npc_switchers": {},
+  "fighting_words": {}
+}

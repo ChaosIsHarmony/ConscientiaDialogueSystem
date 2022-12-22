@@ -16,7 +16,7 @@ public class Functions {
 		return set;
 	}
 
-  public static String getProperFilepath(String filepath) {
+  public static String getOSSpecificFilepath(String filepath) {
     if (System.getProperty("os.name").toLowerCase().contains("linux"))
       return "../" + filepath.replace("\\", "/");
     else

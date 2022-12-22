@@ -208,7 +208,7 @@ public class ConscientiaConfig implements IConfig {
 	private String buildFilePath(String dir, String filename, String extension) {
 		String basePath = "resources\\" + dir + "\\";
 		String filepath = basePath + filename + extension;
-		return Functions.getProperFilepath(filepath);
+		return Functions.getOSSpecificFilepath(filepath);
 	}
 
 	private String getBook(String area) {
