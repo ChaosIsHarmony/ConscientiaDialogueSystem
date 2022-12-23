@@ -141,7 +141,15 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 	}
 
 	private String handleAction(String newAddress, String newLocation) {
-		JsonObject dialogueBlockJson = (JsonObject) dialogueJson.get(newAddress);
+    System.out.println("ConscientiaDialogueProcessor:handleAction: " + newAddress);
+    // isolate action-related object
+    JsonObject dialogueBlockJson = (JsonObject) dialogueJson.get(newAddress);
+    
+    // if it's an accidental .X address (i.e., no action), then return newAddress
+    if ((JsonObject) dialogueBlockJson.get(Constants.DIALOGUE_ACTION) == null)
+      return newAddress;
+
+		// parse out action symbol and addresses
 		JsonObject actionJson = (JsonObject) dialogueBlockJson.get(Constants.DIALOGUE_ACTION);
 		String actionSymbol = actionJson.get(Constants.ACTION_TYPE).getAsString();
 

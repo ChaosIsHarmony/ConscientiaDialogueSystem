@@ -777,6 +777,9 @@
       "dest_add": "JER!HOMECOMING!THE FOYER!121.100!FLORA!"
     }
   },
-  "npc_switchers": {},
+  "npc_switchers": {
+    "JER!HOMECOMING!THE FOYER!9999.X2100!DESCRIPTION!": 2100,
+    "JER!HOMECOMING!THE FOYER!9999.X9999!FLORA!": 9999
+  },
   "fighting_words": {}
 }

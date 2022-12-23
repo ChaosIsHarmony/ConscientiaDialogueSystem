@@ -6,7 +6,7 @@
         "A": {
           "response_text": "...",
           "points": 0,
-          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!221.X001!DESCRIPTION!"
+          "dest_add": "JER!A RUDE AWAKENING!THE FOYER!220.X001!DESCRIPTION!"
         }
       }
     },
@@ -21,7 +21,11 @@
       }
     },
     "JER!A RUDE AWAKENING!THE FOYER!223.X000!DESCRIPTION!": {
-      "dialogue_text": "I awoke to see the sun streaming in. It was morning. Before I could do anything, there was a knock upon the front door. ",
+      "action": {
+        "type": "@",
+        "dest_add": "JER!A RUDE AWAKENING!THE FOYER!221.X002!DESCRIPTION!"
+      },
+      "dialogue_text": "Before I could do anything, there was a knock upon the front door. ",
       "responses": {
         "A": {
           "response_text": "...",
@@ -57,7 +61,7 @@
     "JER!A RUDE AWAKENING!THE FOYER!222.X0010!DESCRIPTION!": {
       "action": {
         "type": "@",
-        "dest_add": "JER!A RUDE AWAKENING!THE FOYER!222.X002!DESCRIPTION!"
+        "dest_add": "JER!A RUDE AWAKENING!THE FOYER!221.X002!DESCRIPTION!"
       },
       "dialogue_text": "I alighted from the stairs and approached the front door. Looking through the spyglass, I saw a visitor whose garb was unmistable: the Bishop. I unbarred the door and opened it.",
       "responses": {
@@ -71,7 +75,7 @@
     "JER!A RUDE AWAKENING!THE FOYER!222.X500!DESCRIPTION!": {
       "action": {
         "type": "@",
-        "dest_add": "JER!A RUDE AWAKENING!THE FOYER!222.X002!DESCRIPTION!"
+        "dest_add": "JER!A RUDE AWAKENING!THE FOYER!221.X002!DESCRIPTION!"
       },
       "dialogue_text": "I alighted from the stairs and approached the front door. Looking through the spyglass, I saw that it was a woman. I remembered her from my youth but I could not recall her name. I unbarred the door and opened it.",
       "responses": {
@@ -651,6 +655,19 @@
       "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X200!VITRIOX!"
     }
   },
-  "npc_switchers": {},
+  "npc_switchers": {
+    "JER!A RUDE AWAKENING!THE CIRCLE!9999.X2001!DESCRIPTION!": 2001,
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X2101!DESCRIPTION!": 2101,
+    "JER!A RUDE AWAKENING!THE FOYER!9999.X2101!DESCRIPTION!": 2101,
+    "JER!A RUDE AWAKENING!NAVE!9999.X2101!DESCRIPTION!": 2101,
+    "JER!A RUDE AWAKENING!THE FOYER!9999.X2102!DESCRIPTION!": 2102,
+    "JER!A RUDE AWAKENING!MEETING HALL!9999.X2102!DESCRIPTION!": 2102,
+    "JER!A RUDE AWAKENING!THE FOYER!9999.X9999!ALANNA!": 9999,
+    "JER!A RUDE AWAKENING!MEETING HALL!9999.X9999!ALANNA!": 9999,
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!9999.X9999!BISHOP!": 9999,
+    "JER!A RUDE AWAKENING!THE FOYER!9999.X9999!BISHOP!": 9999,
+    "JER!A RUDE AWAKENING!NAVE!9999.X9999!BISHOP!": 9999,
+    "JER!A RUDE AWAKENING!THE CIRCLE!9999.X9999!VITRIOX!": 9999
+  },
   "fighting_words": {}
 }

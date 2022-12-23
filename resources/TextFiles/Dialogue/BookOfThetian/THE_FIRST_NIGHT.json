@@ -673,6 +673,9 @@
       "dest_add": "JER!THE FIRST NIGHT!THE STUDY!122.X032!DESCRIPTION!"
     }
   },
-  "npc_switchers": {},
+  "npc_switchers": {
+    "JER!THE FIRST NIGHT!ALTAR OF THE TRUE GOD!9999.X2002!DESCRIPTION!": 2002,
+    "JER!THE FIRST NIGHT!ALTAR OF THE TRUE GOD!1999.X9999!MASK!": 9999
+  },
   "fighting_words": {}
 }
