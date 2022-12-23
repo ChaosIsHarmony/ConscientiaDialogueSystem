@@ -5526,6 +5526,22 @@
       "description": "default"
     }
   },
+  "KAVU!DAZIL!KHARR MANOR!10.X000!DESCRIPTION!": {
+    "0": {
+      "simple": [
+        ""
+      ],
+      "dest_add": "KAVU!DAZIL!KHARR MANOR!10.100!DESCRIPTION!",
+      "description": "Has glyph of Awareness"
+    },
+    "3": {
+      "simple": [
+        "-1"
+      ],
+      "dest_add": "KABU!CANYON!SUNLESS GROTTO!0.000!DESCRIPTION!",
+      "description": "Default"
+    }
+  },
   "MIND!THE BOOK OF BIRACUL!THE BEGINNING!0.X000!DESCRIPTION!": {
     "0": {
       "simple": [
