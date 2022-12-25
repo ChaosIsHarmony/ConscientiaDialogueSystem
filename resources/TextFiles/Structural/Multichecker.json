@@ -5529,16 +5529,44 @@
   "KAVU!DAZIL!KHARR MANOR!10.X000!DESCRIPTION!": {
     "0": {
       "simple": [
-        ""
+        "3008"
       ],
       "dest_add": "KAVU!DAZIL!KHARR MANOR!10.100!DESCRIPTION!",
-      "description": "Has glyph of Awareness"
+      "description": "Listened to the Builders' complaints"
+    },
+    "1": {
+      "simple": [
+        "3009"
+      ],
+      "dest_add": "KAVU!DAZIL!KHARR MANOR!10.200!DESCRIPTION!",
+      "description": "Listened to Lazham"
+    },
+    "2": {
+      "simple": [
+        "3010"
+      ],
+      "dest_add": "KAVU!DAZIL!KHARR MANOR!10.400!DESCRIPTION!",
+      "description": "Listened to Radysar"
+    },
+    "3": {
+      "simple": [
+        "3011"
+      ],
+      "dest_add": "KAVU!DAZIL!KHARR MANOR!10.500!DESCRIPTION!",
+      "description": "Listened to the Draug army news"
+    },
+    "4": {
+      "simple": [
+        "3012"
+      ],
+      "dest_add": "KAVU!DAZIL!KHARR MANOR!10.600!DESCRIPTION!",
+      "description": "Began romancing Ark"
     },
     "3": {
       "simple": [
         "-1"
       ],
-      "dest_add": "KABU!CANYON!SUNLESS GROTTO!0.000!DESCRIPTION!",
+      "dest_add": "KAVU!DAZIL!KHARR MANOR!10.300!DESCRIPTION!",
       "description": "Default"
     }
   },

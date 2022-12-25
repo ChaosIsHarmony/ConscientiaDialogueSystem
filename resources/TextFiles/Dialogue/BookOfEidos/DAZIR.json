@@ -55,7 +55,7 @@
         "type": "@",
         "dest_add": "KABU!DAZIR!ARBORETUM!0.903!DESCRIPTION!"
       },
-      "dialogue_text": "And finally Eidos sees that she is not alone. Staring wide-eyed at her is a leathery crone, still as a statue. The old woman leans upon a wooden cane, its gnarls and knots mirroring her age-worn frame.\\n\\n\\t\\tWith a start, she shakes clear her self-imposed petrification, and with a surprising quickness in her step, scuttles briskly forward.",
+      "dialogue_text": "And finally Eidos sees that she is not alone. Staring wide-eyed at her is a leathery crone, still as a statue. The old woman leans upon a wooden cane, its gnarls and knots mirroring her age-worn frame.\n\n\t\tWith a start, she shakes clear her self-imposed petrification, and with a surprising quickness in her step, scuttles briskly forward.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -124,7 +124,7 @@
         "event_num": 10102,
         "dest_add": "KABU!DAZIR!ARBORETUM!10.X000!DESCRIPTION!"
       },
-      "dialogue_text": "Khaa puts two fingers to his temple, causing an unraveling sense of awareness to well up within Eidos. She senses a Glyph being called to mind, but the moment lasts a mere fraction of a heartbeat.\\n\\n\\t\\tSuddenly, two individuals emerge from the trees, bearing spears and carrying faces devoid of emotion or expression. They move towards Eidos with a smooth and steady gait, their purpose clear. One among them makes a slow yet confident movement to grip Eidos' arm...",
+      "dialogue_text": "Khaa puts two fingers to his temple, causing an unraveling sense of awareness to well up within Eidos. She senses a Glyph being called to mind, but the moment lasts a mere fraction of a heartbeat.\n\n\t\tSuddenly, two individuals emerge from the trees, bearing spears and carrying faces devoid of emotion or expression. They move towards Eidos with a smooth and steady gait, their purpose clear. One among them makes a slow yet confident movement to grip Eidos' arm...",
       "responses": {
         "A": {
           "response_text": "Comply",
@@ -236,7 +236,7 @@
       }
     },
     "KABU!DAZIR!ARBORETUM!11.002!DESCRIPTION!": {
-      "dialogue_text": "Eidos walks towards the low building. Upon closer scrutiny, it is wholly unlike the rest of the surroundings. The gargantuan bricks that of which it is built are a dark sandstone, clearly quarried from a different region than the marble decorating the Arboretum. These bricks have also been cut in a much more rudimentary and less fanciful design. However, their apparent simplicity is contrasted by their fine work as they were clearly shaped with cunning exactitude and assembled with impeccable precision.\\n\\n\\t\\tNear the gate stands a guard, boasting an expression of an all-consuming boredom etched upon his face, which he barely raises at her approach.",
+      "dialogue_text": "Eidos walks towards the low building. Upon closer scrutiny, it is wholly unlike the rest of the surroundings. The gargantuan bricks that of which it is built are a dark sandstone, clearly quarried from a different region than the marble decorating the Arboretum. These bricks have also been cut in a much more rudimentary and less fanciful design. However, their apparent simplicity is contrasted by their fine work as they were clearly shaped with cunning exactitude and assembled with impeccable precision.\n\n\t\tNear the gate stands a guard, boasting an expression of an all-consuming boredom etched upon his face, which he barely raises at her approach.",
       "responses": {
         "A": {
           "response_text": "Approach the guard",
@@ -338,7 +338,7 @@
         "type": "@",
         "dest_add": "KABU!DAZIR!ARBORETUM!990.00!DESCRIPTION!"
       },
-      "dialogue_text": "Eidos feels the chill waters of the fountain as she stands upon the Daziran Farcaster. Water yet dripping from her foot bindings, she casts her gaze about the Arboretum. As if transfixed, her eyes fall upon the decadent home of the mage-leader Khaa with its surreal backdrop of steep mountain crags meeting the empty desert flats.\\n\\n\\t\\tAn inescapable magnetism draws Eidos towards the mage's abode, the suspicions of who might have instigated the Wellspring fiasco acting as the north pole and her curiosity as the south. And so towards that opulent, shimmering building she ventures, in search of answers.",
+      "dialogue_text": "Eidos feels the chill waters of the fountain as she stands upon the Daziran Farcaster. Water yet dripping from her foot bindings, she casts her gaze about the Arboretum. As if transfixed, her eyes fall upon the decadent home of the mage-leader Khaa with its surreal backdrop of steep mountain crags meeting the empty desert flats.\n\n\t\tAn inescapable magnetism draws Eidos towards the mage's abode, the suspicions of who might have instigated the Wellspring fiasco acting as the north pole and her curiosity as the south. And so towards that opulent, shimmering building she ventures, in search of answers.",
       "responses": {
         "A": {
           "response_text": "Enter Khaa's Abode",
@@ -348,7 +348,7 @@
       }
     },
     "KABU!DAZIR!ARBORETUM!0099.000!DESCRIPTION!": {
-      "dialogue_text": "As her victim falls into the flowering shrubs of the Arboretum, Eidos now notices the mage of Dazir arriving on the scene. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\\n\\n\\t\\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
+      "dialogue_text": "As her victim falls into the flowering shrubs of the Arboretum, Eidos now notices the mage of Dazir arriving on the scene. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\n\n\t\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
       "responses": {
         "A": {
           "response_text": "...",
@@ -574,7 +574,7 @@
       }
     },
     "KABU!DAZIR!ARBORETUM!990.00!DESCRIPTION!": {
-      "dialogue_text": "As Eidos reforms atop the Farcaster, a desolate silence uncharacteristic of this mountain township greets her. The stars stare down upon her, yet no lights from below illuminate the lower tiers. No signs of human habitation remain. No scents from cooking pots on the fire, no laughs from carefree children at play, not even the gentle croaking and chirping of night creatures can be heard in this utterly abandoned site.\\n\\n\\t\\tLooking about, Eidos notes that the Archives guard has abandoned his post and the old man by the lift has departed. The floating cloudstone itself lies irreparably fragmented into a thousand pieces at the bottom of the shaft, hundreds of spans below this garden tier.",
+      "dialogue_text": "As Eidos reforms atop the Farcaster, a desolate silence uncharacteristic of this mountain township greets her. The stars stare down upon her, yet no lights from below illuminate the lower tiers. No signs of human habitation remain. No scents from cooking pots on the fire, no laughs from carefree children at play, not even the gentle croaking and chirping of night creatures can be heard in this utterly abandoned site.\n\n\t\tLooking about, Eidos notes that the Archives guard has abandoned his post and the old man by the lift has departed. The floating cloudstone itself lies irreparably fragmented into a thousand pieces at the bottom of the shaft, hundreds of spans below this garden tier.",
       "responses": {
         "A": {
           "response_text": "_Use the Sigil of Farcasting_",
@@ -4214,7 +4214,7 @@
         "event_num": 10110,
         "dest_add": "KABU!DAZIR!ARCHIVES!0.X900!DESCRIPTION!"
       },
-      "dialogue_text": "Eidos enters a space of a decisively religious quality. Though this place is clearly no temple, it has a preternatural and deific atmosphere. Perhaps it is the crystals casting a warm, filtered light, selectively illuminating unused desks and tomes; or perhaps it is the absence of humanity and the solitude of silence. Maybe it is the curious juxtaposition of overflowing knowledge with a dearth of learners.\\tWhatever the case may be, this is a sanctum from the outside world. It is the outside world. A microcosm of the universe across time, compressed into single space. Simply here, frozen still, as it continually flows. Created just for her singular contemplation.",
+      "dialogue_text": "Eidos enters a space of a decisively religious quality. Though this place is clearly no temple, it has a preternatural and deific atmosphere. Perhaps it is the crystals casting a warm, filtered light, selectively illuminating unused desks and tomes; or perhaps it is the absence of humanity and the solitude of silence. Maybe it is the curious juxtaposition of overflowing knowledge with a dearth of learners.\tWhatever the case may be, this is a sanctum from the outside world. It is the outside world. A microcosm of the universe across time, compressed into single space. Simply here, frozen still, as it continually flows. Created just for her singular contemplation.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -4224,7 +4224,7 @@
       }
     },
     "KABU!DAZIR!ARCHIVES!0.0000!DESCRIPTION!": {
-      "dialogue_text": "Continuing her advance into the sanctum, Eidos observes the surroundings. The most stunning feature of this space is also the most dominant: a gargantuan tree, of ivory white, with an infinity of branches reaching high into the air and sprouting countless shining silvered leaves. Its roots are perfectly concealed beneath the tiled floors, with mere hints of them penetrating at regular intervals.\\n\\n\\t\\tCrystalline protrusions peek through cracks in the pale bark, bizarre emanations of energistic waves pouring forth from them. At first these peculiar growths look to be splitting the wood with their angular mineral geometry. However, upon further scrutiny Eidos notes that a sparkling sap surrounds these protrusions, giving the impression that the crystals are in fact the congealed lifeblood of the plant's structure.",
+      "dialogue_text": "Continuing her advance into the sanctum, Eidos observes the surroundings. The most stunning feature of this space is also the most dominant: a gargantuan tree, of ivory white, with an infinity of branches reaching high into the air and sprouting countless shining silvered leaves. Its roots are perfectly concealed beneath the tiled floors, with mere hints of them penetrating at regular intervals.\n\n\t\tCrystalline protrusions peek through cracks in the pale bark, bizarre emanations of energistic waves pouring forth from them. At first these peculiar growths look to be splitting the wood with their angular mineral geometry. However, upon further scrutiny Eidos notes that a sparkling sap surrounds these protrusions, giving the impression that the crystals are in fact the congealed lifeblood of the plant's structure.",
       "responses": {
         "A": {
           "response_text": "Exit the Archives",
@@ -4269,7 +4269,7 @@
         "event_num": 13124,
         "dest_add": "KABU!DAZIR!ARCHIVES!0.200!DESCRIPTION!"
       },
-      "dialogue_text": "The entire archive seems carefully constructed to contain the tree's massive shape. The dimensions seem insufficient to allow further growth and most of the illumination seems to emanate from the subtly swaying leaves, blown by a wind only they sense.\\n\\n\\t\\tWalking around the perimeter reveals the austere, dark stone to be mostly unadorned but for a fresco at the side opposite the entrance. The painting looks to be a representation of the tree itself, though there are a number of notable discrepancies. While the leaves that hang from the branches above her are a pale silver, this tress seems to be in a full, green, springtime bloom. A yellow sun shines down from on high and a black bird is nestled among the boughs.\\n\\n\\t\\tDrawn over the tree are a series of circles in which many and varied shapes abide. They appear to have the look of Glyphs, though their function in this work is merely aesthetic, apparently conveying neither meaning nor power.",
+      "dialogue_text": "The entire archive seems carefully constructed to contain the tree's massive shape. The dimensions seem insufficient to allow further growth and most of the illumination seems to emanate from the subtly swaying leaves, blown by a wind only they sense.\n\n\t\tWalking around the perimeter reveals the austere, dark stone to be mostly unadorned but for a fresco at the side opposite the entrance. The painting looks to be a representation of the tree itself, though there are a number of notable discrepancies. While the leaves that hang from the branches above her are a pale silver, this tress seems to be in a full, green, springtime bloom. A yellow sun shines down from on high and a black bird is nestled among the boughs.\n\n\t\tDrawn over the tree are a series of circles in which many and varied shapes abide. They appear to have the look of Glyphs, though their function in this work is merely aesthetic, apparently conveying neither meaning nor power.",
       "responses": {
         "A": {
           "response_text": "Exit the Archives",
@@ -4284,7 +4284,7 @@
       }
     },
     "KABU!DAZIR!ARCHIVES!0.200!DESCRIPTION!": {
-      "dialogue_text": "The entire archive seems carefully constructed to contain the tree's massive shape. The dimensions seem insufficient to allow further growth and most of the illumination seems to emanate from the subtly swaying leaves, blown by a wind only they sense.\\n\\n\\t\\tWalking around the perimeter reveals the austere, dark stone to be mostly unadorned but for a fresco at the side opposite the entrance. The painting looks much the same as the one she viewed in the Tambulan Archive, what feels like lifetimes ago. However, there are a number of notable discrepancies. While the leaves that hung from the branches in the Tambulan image were crimson, these are a full, green, springtime bloom. A white halo as a brilliant yellow sun, shines down from on high. The two crows from the other township are absent, replaced by but a single black bird, nestled among the boughs.\\n\\n\\t\\tDrawn over the tree are a series of circles in which many and varied shapes abide. They appear to have the look of Glyphs, though their function in this work is merely aesthetic, apparently conveying neither meaning nor power.",
+      "dialogue_text": "The entire archive seems carefully constructed to contain the tree's massive shape. The dimensions seem insufficient to allow further growth and most of the illumination seems to emanate from the subtly swaying leaves, blown by a wind only they sense.\n\n\t\tWalking around the perimeter reveals the austere, dark stone to be mostly unadorned but for a fresco at the side opposite the entrance. The painting looks much the same as the one she viewed in the Tambulan Archive, what feels like lifetimes ago. However, there are a number of notable discrepancies. While the leaves that hung from the branches in the Tambulan image were crimson, these are a full, green, springtime bloom. A white halo as a brilliant yellow sun, shines down from on high. The two crows from the other township are absent, replaced by but a single black bird, nestled among the boughs.\n\n\t\tDrawn over the tree are a series of circles in which many and varied shapes abide. They appear to have the look of Glyphs, though their function in this work is merely aesthetic, apparently conveying neither meaning nor power.",
       "responses": {
         "A": {
           "response_text": "Exit the Archives",
@@ -4304,7 +4304,7 @@
         "event_num": 10111,
         "dest_add": "KABU!DAZIR!ARCHIVES!0.901!DESCRIPTION!"
       },
-      "dialogue_text": "The door creaks as it opens, leading in to the crystal-lit Archives. An impossible feeling of familiarity. An ineffable connection to this scene. Though she has never been here before, Eidos remembers it. Perhaps the world may not remember, yet the knowledge of the Muninn Tree has not forgotten. The Interstice records all possible paths taken, giving each weight and significance. The knowledge now within her, assimilated to the will of one, now remembers its origins. It traces its leaves back to its branches, its trunk to its roots, its roots to its seed. And in so doing, it transcends.\\n\\n\\t\\tKnowledge is not powerful because of its origins, but rather because of its intrinsic truth. Though the fool may stumble upon the same truths as the wiseman, they would be no less authentic in essence.",
+      "dialogue_text": "The door creaks as it opens, leading in to the crystal-lit Archives. An impossible feeling of familiarity. An ineffable connection to this scene. Though she has never been here before, Eidos remembers it. Perhaps the world may not remember, yet the knowledge of the Muninn Tree has not forgotten. The Interstice records all possible paths taken, giving each weight and significance. The knowledge now within her, assimilated to the will of one, now remembers its origins. It traces its leaves back to its branches, its trunk to its roots, its roots to its seed. And in so doing, it transcends.\n\n\t\tKnowledge is not powerful because of its origins, but rather because of its intrinsic truth. Though the fool may stumble upon the same truths as the wiseman, they would be no less authentic in essence.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -4314,7 +4314,7 @@
       }
     },
     "KABU!DAZIR!ARCHIVES!0.900!DESCRIPTION!": {
-      "dialogue_text": "And as so often happens when remembering, new connections are made and new puzzles solved. The result for Eidos is the recollection of a tome contained deep within the Interstice, pulled from it at the Muninn's behest. It speaks of a Wayfarer's adventures.\\n\\n\\t\\tAnd with that...",
+      "dialogue_text": "And as so often happens when remembering, new connections are made and new puzzles solved. The result for Eidos is the recollection of a tome contained deep within the Interstice, pulled from it at the Muninn's behest. It speaks of a Wayfarer's adventures.\n\n\t\tAnd with that...",
       "responses": {
         "A": {
           "response_text": "...",
@@ -4432,7 +4432,7 @@
         "event_num": 10113,
         "dest_add": "KABU!DAZIR!ARTISANS' MANSION!0.X003!DESCRIPTION!"
       },
-      "dialogue_text": "Gazing upon the decorative greenery, Eidos smells air perfumed by the scent of a hundred finely cultivated flowers. The desert heat seems held at bay by a fine mist, subtly pouring from pipes cleverly concealed within the fine stonework.\\n\\n\\t\\tWhile there are several folk who seem approachable, there is little else to do in this area of residence.",
+      "dialogue_text": "Gazing upon the decorative greenery, Eidos smells air perfumed by the scent of a hundred finely cultivated flowers. The desert heat seems held at bay by a fine mist, subtly pouring from pipes cleverly concealed within the fine stonework.\n\n\t\tWhile there are several folk who seem approachable, there is little else to do in this area of residence.",
       "responses": {
         "A": {
           "response_text": "Exit to the Artisans' Plaza",
@@ -4462,7 +4462,7 @@
       }
     },
     "KABU!DAZIR!ARTISANS' MANSION!0.004!DESCRIPTION!": {
-      "dialogue_text": "Gazing upon the decorative greenery, Eidos smells air perfumed by the scent of a hundred finely cultivated flowers. The desert heat seems held at bay by a fine mist, subtly pouring from pipes cleverly concealed within the fine stonework.\\n\\n\\t\\tWhile there are several folk who seem approachable, there is little else to do in this area of residence.",
+      "dialogue_text": "Gazing upon the decorative greenery, Eidos smells air perfumed by the scent of a hundred finely cultivated flowers. The desert heat seems held at bay by a fine mist, subtly pouring from pipes cleverly concealed within the fine stonework.\n\n\t\tWhile there are several folk who seem approachable, there is little else to do in this area of residence.",
       "responses": {
         "A": {
           "response_text": "Exit to the Artisans' Plaza",
@@ -4477,7 +4477,7 @@
       }
     },
     "KABU!DAZIR!ARTISANS' MANSION!0099.000!DESCRIPTION!": {
-      "dialogue_text": "As Eidos' victim falls to the fine tiles of the Mansion floor, shouts from the Plaza outside herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\\n\\n\\t\\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
+      "dialogue_text": "As Eidos' victim falls to the fine tiles of the Mansion floor, shouts from the Plaza outside herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\n\n\t\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
       "responses": {
         "A": {
           "response_text": "...",
@@ -6892,7 +6892,7 @@
       }
     },
     "KABU!DAZIR!ARTISANS' PLAZA!1.001!DESCRIPTION!": {
-      "dialogue_text": "Gazing out from the guard rail, Eidos sees across the desert plain as far as the barrier of dusty cyclones permit. While comfortable within the finely tiled and pillar-shaded plaza, the oppressive and deadly heat of the arid landscape seems picturesque.\\n\\n\\t\\tFrom here, Eidos can approach a luxurious residential area, or else return to the Workshop and the cloudstone lift.",
+      "dialogue_text": "Gazing out from the guard rail, Eidos sees across the desert plain as far as the barrier of dusty cyclones permit. While comfortable within the finely tiled and pillar-shaded plaza, the oppressive and deadly heat of the arid landscape seems picturesque.\n\n\t\tFrom here, Eidos can approach a luxurious residential area, or else return to the Workshop and the cloudstone lift.",
       "responses": {
         "A": {
           "response_text": "Walk towards the Workshop",
@@ -6912,7 +6912,7 @@
       }
     },
     "KABU!DAZIR!ARTISANS' PLAZA!0099.000!DESCRIPTION!": {
-      "dialogue_text": "As Eidos' victim falls to the tiles of the plaza floor, shouts from the Workshop herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\\n\\n\\t\\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
+      "dialogue_text": "As Eidos' victim falls to the tiles of the plaza floor, shouts from the Workshop herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\n\n\t\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
       "responses": {
         "A": {
           "response_text": "...",
@@ -8778,7 +8778,7 @@
         "type": "@",
         "dest_add": "KABU!DAZIR!ATRIUM!0.010!DESCRIPTION!"
       },
-      "dialogue_text": "Looking about the Atrium, Eidos surveys the folk. Most all of them seem beleaguered by menial tasks such as transporting goods, materials and water or sorting and preparing foodstuffs.\\n\\n\\t\\tThose in idleness seem to have their eyes cast upward, looking upon the narrow band of sky visible between the wall and the support structure of the upper level. Only a few seem open to her approach.",
+      "dialogue_text": "Looking about the Atrium, Eidos surveys the folk. Most all of them seem beleaguered by menial tasks such as transporting goods, materials and water or sorting and preparing foodstuffs.\n\n\t\tThose in idleness seem to have their eyes cast upward, looking upon the narrow band of sky visible between the wall and the support structure of the upper level. Only a few seem open to her approach.",
       "responses": {
         "A": {
           "response_text": "The woman in the magenta scarf",
@@ -8798,7 +8798,7 @@
       }
     },
     "KABU!DAZIR!ATRIUM!0.010!DESCRIPTION!": {
-      "dialogue_text": "The Atrium is hot and muggy through the mixing of the desert heat emanating from the walls and the sweat of the Daziran laborers. Though its perpetual shade under the awning of the upper tiers offers a silver lining.\\n\\n\\t\\tFrom here she can walk further into the lower living area towards the sandstone building where people are burning incense. Else, she can walk back to the Gates and the cloudstone Lift nearby.",
+      "dialogue_text": "The Atrium is hot and muggy through the mixing of the desert heat emanating from the walls and the sweat of the Daziran laborers. Though its perpetual shade under the awning of the upper tiers offers a silver lining.\n\n\t\tFrom here she can walk further into the lower living area towards the sandstone building where people are burning incense. Else, she can walk back to the Gates and the cloudstone Lift nearby.",
       "responses": {
         "A": {
           "response_text": "Approach the Temple of Biracul",
@@ -8818,7 +8818,7 @@
       }
     },
     "KABU!DAZIR!ATRIUM!0.100!DESCRIPTION!": {
-      "dialogue_text": "Approaching the Daziran temple, Eidos notes that its construction is strikingly similar to the domed structure in Khaa's Arboretum. Both are composed of simple but finely carved sandstone blocks, placed so precisely that even the finest blade would find no space to fit. Sturdy. Solid. But then again, so are most buildings in Dazir, even here on the lowest level.\\n\\n\\t\\tThere are a number of golden-robed folk burning incense and chanting incantations at the door. Still others enter the structure with empty urns, passing those on their way out who carry overflowing jars, water splashing to the ground from their frivolous maneuvering.\\n\\n\\t\\tBeyond the temple itself seems to be a somewhat more dilapidated area of town, with people of equal caliber loitering around the area.",
+      "dialogue_text": "Approaching the Daziran temple, Eidos notes that its construction is strikingly similar to the domed structure in Khaa's Arboretum. Both are composed of simple but finely carved sandstone blocks, placed so precisely that even the finest blade would find no space to fit. Sturdy. Solid. But then again, so are most buildings in Dazir, even here on the lowest level.\n\n\t\tThere are a number of golden-robed folk burning incense and chanting incantations at the door. Still others enter the structure with empty urns, passing those on their way out who carry overflowing jars, water splashing to the ground from their frivolous maneuvering.\n\n\t\tBeyond the temple itself seems to be a somewhat more dilapidated area of town, with people of equal caliber loitering around the area.",
       "responses": {
         "A": {
           "response_text": "Enter the Temple of Biracul",
@@ -8838,7 +8838,7 @@
       }
     },
     "KABU!DAZIR!ATRIUM!0099.000!DESCRIPTION!": {
-      "dialogue_text": "As Eidos' victim falls to the packed dirt of the Atrium grounds, shouts from the cloudstone Lift herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\\n\\n\\t\\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
+      "dialogue_text": "As Eidos' victim falls to the packed dirt of the Atrium grounds, shouts from the cloudstone Lift herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\n\n\t\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
       "responses": {
         "A": {
           "response_text": "...",
@@ -10638,7 +10638,7 @@
       }
     },
     "KABU!DAZIR!CLOUDSTONE!0.001!DESCRIPTION!": {
-      "dialogue_text": "The massive disk silently propels Eidos skyward, giving her time to regard the people of Dazir. The comparative crudeness of their vestments and the relative indelicate surrounding architecture stand in stark contrast to the singular marvel she now rides. Its operation, though seemingly understood by the Dazirans, is clearly not replicable by them or their ilk. The artifact is as alien to them as immortality, or perhaps as strange as omniscience.\\n\\n\\t\\tAnd thus, the mysterious mechanism of unknown origin graciously transports Eidos to her destination.",
+      "dialogue_text": "The massive disk silently propels Eidos skyward, giving her time to regard the people of Dazir. The comparative crudeness of their vestments and the relative indelicate surrounding architecture stand in stark contrast to the singular marvel she now rides. Its operation, though seemingly understood by the Dazirans, is clearly not replicable by them or their ilk. The artifact is as alien to them as immortality, or perhaps as strange as omniscience.\n\n\t\tAnd thus, the mysterious mechanism of unknown origin graciously transports Eidos to her destination.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -10648,7 +10648,7 @@
       }
     },
     "KABU!DAZIR!CLOUDSTONE!0.002!DESCRIPTION!": {
-      "dialogue_text": "The massive disk silently transports Eidos to the second tier of Dazir. The soft buzzing of passing air is gradually replaced by clattering tools and collaborative calls from scores of people.\\n\\n\\t\\tA spacious workshop then comes into view, filled with workbenches and tools ranging from crudely fashioned metallic implements to genuinely magical artifacts. The voices heard previously belong to workers and artisans, calling to each other as they coordinate their efforts to birth creations both bizarre and mundane.\\n\\n\\t\\tStopping at ground level, Eidos steps forth from the platform.",
+      "dialogue_text": "The massive disk silently transports Eidos to the second tier of Dazir. The soft buzzing of passing air is gradually replaced by clattering tools and collaborative calls from scores of people.\n\n\t\tA spacious workshop then comes into view, filled with workbenches and tools ranging from crudely fashioned metallic implements to genuinely magical artifacts. The voices heard previously belong to workers and artisans, calling to each other as they coordinate their efforts to birth creations both bizarre and mundane.\n\n\t\tStopping at ground level, Eidos steps forth from the platform.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -10688,7 +10688,7 @@
       }
     },
     "KABU!DAZIR!GATES OF DAZIR!0.001!DESCRIPTION!": {
-      "dialogue_text": "Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach - though she can faintly hear the sound of human voices distantly echoing from the stone slopes encompassing the township.\\n\\n\\t\\tLooking beyond the gate, Eidos sees that vertically stacked tiers recess into the mountain the higher they go. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.\\n\\n\\t\\tStretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards the settlement with the silver tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.",
+      "dialogue_text": "Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach - though she can faintly hear the sound of human voices distantly echoing from the stone slopes encompassing the township.\n\n\t\tLooking beyond the gate, Eidos sees that vertically stacked tiers recess into the mountain the higher they go. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.\n\n\t\tStretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards the settlement with the silver tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.",
       "responses": {
         "A": {
           "response_text": "Go east toward the other settlement",
@@ -10707,7 +10707,7 @@
         "type": "@",
         "dest_add": "KABU!DAZIR!GATES OF DAZIR!1.X000!DESCRIPTION!"
       },
-      "dialogue_text": "Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach - though she can faintly hear the sound of human voices distantly echoing from the stone slopes encompassing the township.\\n\\n\\t\\tLooking beyond the gate, Eidos sees that vertically stacked tiers recess into the mountain the higher they go. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.\\n\\n\\t\\tStretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards the settlement with the silver tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.\\n\\n\\t\\tWhat next catches her attention is a man arranging his travel pack, apparently about to set off on the journey to his next destination.",
+      "dialogue_text": "Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach - though she can faintly hear the sound of human voices distantly echoing from the stone slopes encompassing the township.\n\n\t\tLooking beyond the gate, Eidos sees that vertically stacked tiers recess into the mountain the higher they go. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.\n\n\t\tStretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards the settlement with the silver tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.\n\n\t\tWhat next catches her attention is a man arranging his travel pack, apparently about to set off on the journey to his next destination.",
       "responses": {
         "A": {
           "response_text": "Go east toward the other settlement",
@@ -10727,7 +10727,7 @@
       }
     },
     "KABU!DAZIR!GATES OF DAZIR!0.002!DESCRIPTION!": {
-      "dialogue_text": "Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. As she draws nearer, the barricade begins to rise. While there is a loud grating of stone on stone, there is no sound of machinery. As the gate is opened Eidos sees a few scantly armed guards within, gripping their wooden cudgels warily, their eyes looking past Eidos and out onto the Jenowin Plain, as though trying to will the fuming mirages into distinguishable shapes. They are truly on edge.\\n\\n\\t\\tAs soon as she crosses the threshold, the block slowly returns to its resting place, looking for all the world as if it is being gently set down by the hand of some invisible giant.",
+      "dialogue_text": "Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. As she draws nearer, the barricade begins to rise. While there is a loud grating of stone on stone, there is no sound of machinery. As the gate is opened Eidos sees a few scantly armed guards within, gripping their wooden cudgels warily, their eyes looking past Eidos and out onto the Jenowin Plain, as though trying to will the fuming mirages into distinguishable shapes. They are truly on edge.\n\n\t\tAs soon as she crosses the threshold, the block slowly returns to its resting place, looking for all the world as if it is being gently set down by the hand of some invisible giant.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -10741,7 +10741,7 @@
         "type": "@",
         "dest_add": "KABU!DAZIR!GATES OF DAZIR!1.X500!DESCRIPTION!"
       },
-      "dialogue_text": "Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. As she draws nearer, the barricade begins to rise. While there is a loud grating of stone on stone, there is no sound of machinery. As the gate is opened Eidos sees a few scantly armed guards within, gripping their wooden cudgels warily, their eyes looking past Eidos and out onto the Jenowin Plain, as though trying to will the fuming mirages into distinguishable shapes. They are truly on edge.\\n\\n\\t\\tAs Eidos is entering, she notices a man is exiting.",
+      "dialogue_text": "Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. As she draws nearer, the barricade begins to rise. While there is a loud grating of stone on stone, there is no sound of machinery. As the gate is opened Eidos sees a few scantly armed guards within, gripping their wooden cudgels warily, their eyes looking past Eidos and out onto the Jenowin Plain, as though trying to will the fuming mirages into distinguishable shapes. They are truly on edge.\n\n\t\tAs Eidos is entering, she notices a man is exiting.",
       "responses": {
         "A": {
           "response_text": "Enter Dazir",
@@ -10761,7 +10761,7 @@
         "event_num": 10100,
         "dest_add": "KABU!DAZIR!GATES OF DAZIR!0.0030!DESCRIPTION!"
       },
-      "dialogue_text": "Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach. In fact, a maddening absence of any sound whatsoever suggests the place has been abandoned.\\n\\n\\t\\tThen the gates yawn with a terrible grating of stone on stone as they open up revealing an armed contingent of guards and a rather extravagantly garbed fellow, walking with the gait of a man trying to hide his painful awareness of his inadequacies.\\n\\n\\t\\tHe approaches Eidos, possibly to discuss her recent, violent actions at the Dawn Fortress...",
+      "dialogue_text": "Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach. In fact, a maddening absence of any sound whatsoever suggests the place has been abandoned.\n\n\t\tThen the gates yawn with a terrible grating of stone on stone as they open up revealing an armed contingent of guards and a rather extravagantly garbed fellow, walking with the gait of a man trying to hide his painful awareness of his inadequacies.\n\n\t\tHe approaches Eidos, possibly to discuss her recent, violent actions at the Dawn Fortress...",
       "responses": {
         "A": {
           "response_text": "...",
@@ -10771,7 +10771,7 @@
       }
     },
     "KABU!DAZIR!GATES OF DAZIR!0.0030!DESCRIPTION!": {
-      "dialogue_text": "Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach. In fact, a maddening absence of any sound whatsoever suggests the place has been abandoned.\\n\\n\\t\\tThen the gates yawn with a terrible grating of stone on stone as they open up revealing an armed contingent of guards and the rather extravagantly garbed Khaa, mage of Dazir, walking with the gait of a man trying to hide his painful awareness of his inadequacies.\\n\\n\\t\\tHe approaches Eidos, clearly aware of the end she has brought to his enemies in the Dawn Fortress.",
+      "dialogue_text": "Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach. In fact, a maddening absence of any sound whatsoever suggests the place has been abandoned.\n\n\t\tThen the gates yawn with a terrible grating of stone on stone as they open up revealing an armed contingent of guards and the rather extravagantly garbed Khaa, mage of Dazir, walking with the gait of a man trying to hide his painful awareness of his inadequacies.\n\n\t\tHe approaches Eidos, clearly aware of the end she has brought to his enemies in the Dawn Fortress.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -10781,7 +10781,7 @@
       }
     },
     "KABU!DAZIR!GATES OF DAZIR!0.004!DESCRIPTION!": {
-      "dialogue_text": "Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach. In fact, a maddening absence of any sound whatsoever suggests the place has been abandoned. Though who would want to engage a mage-killer such as Eidos after all?\\n\\n\\t\\tLooking beyond the gate, Eidos sees that vertically stacked tiers recess into the mountain the higher they go. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.\\n\\n\\t\\tStretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards the settlement with the silver tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.",
+      "dialogue_text": "Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach. In fact, a maddening absence of any sound whatsoever suggests the place has been abandoned. Though who would want to engage a mage-killer such as Eidos after all?\n\n\t\tLooking beyond the gate, Eidos sees that vertically stacked tiers recess into the mountain the higher they go. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.\n\n\t\tStretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards the settlement with the silver tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.",
       "responses": {
         "A": {
           "response_text": "Go east toward the other settlement",
@@ -10859,7 +10859,7 @@
         "event_num": 13002,
         "dest_add": "KABU!DAZIR!GATES OF DAZIR!9.000!DESCRIPTION!"
       },
-      "dialogue_text": "Eidos is led to the high archway that serves as the sole exit to the outside world. As the guards escort her closer, the massive, circular stone slab that blocks the gate begins to steadily levitate, looking for all spectators as if it is being gently lifted by the hand of some invisible giant.\\n\\n\\t\\tThe block is set down once more after she has crossed the threshold. Now on the outside, Eidos looks beyond the gate at the vertically stacked tiers of Dazir. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.\\n\\n\\t\\tStretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards the settlement with the silver tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.",
+      "dialogue_text": "Eidos is led to the high archway that serves as the sole exit to the outside world. As the guards escort her closer, the massive, circular stone slab that blocks the gate begins to steadily levitate, looking for all spectators as if it is being gently lifted by the hand of some invisible giant.\n\n\t\tThe block is set down once more after she has crossed the threshold. Now on the outside, Eidos looks beyond the gate at the vertically stacked tiers of Dazir. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.\n\n\t\tStretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards the settlement with the silver tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.",
       "responses": {
         "A": {
           "response_text": "Go east toward the other settlement",
@@ -10874,7 +10874,7 @@
       }
     },
     "KABU!DAZIR!GATES OF DAZIR!9.000!DESCRIPTION!": {
-      "dialogue_text": "Eidos is led to the high archway that serves as the only exit to the outside world. As the guards escort her closer, the massive stone slab that blocks the gate begins to rise without the aid of human or mechanism, looking for all spectators as if it is being gently lifted by the hand of some invisible giant.\\n\\n\\t\\tThe block is set down once more after she has crossed the threshold. Now on the outside, Eidos looks beyond the gate at the vertically stacked tiers of Dazir. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.\\n\\n\\t\\tStretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards Tambul with its silvery Moon Tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.",
+      "dialogue_text": "Eidos is led to the high archway that serves as the only exit to the outside world. As the guards escort her closer, the massive stone slab that blocks the gate begins to rise without the aid of human or mechanism, looking for all spectators as if it is being gently lifted by the hand of some invisible giant.\n\n\t\tThe block is set down once more after she has crossed the threshold. Now on the outside, Eidos looks beyond the gate at the vertically stacked tiers of Dazir. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.\n\n\t\tStretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards Tambul with its silvery Moon Tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.",
       "responses": {
         "A": {
           "response_text": "Go east toward Tambul",
@@ -10939,7 +10939,7 @@
       }
     },
     "KABU!DAZIR!GATES OF DAZIR!0099.000!DESCRIPTION!": {
-      "dialogue_text": "As Eidos' victim falls against the unyielding stone of the Daziran gate, shouts from the Atrium herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\\n\\n\\t\\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
+      "dialogue_text": "As Eidos' victim falls against the unyielding stone of the Daziran gate, shouts from the Atrium herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\n\n\t\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
       "responses": {
         "A": {
           "response_text": "...",
@@ -12188,7 +12188,7 @@
         "type": "@",
         "dest_add": "KABU!DAZIR!MAGE'S ABODE!0.004!DESCRIPTION!"
       },
-      "dialogue_text": "Beginning to sit up, Eidos struggles to upright herself, the elderly woman simply raising a skeptical eyebrow. Rada begins to move toward a clay carafe before being brushed aside by an impatient Eidos. Darting towards the container as though in a race, she arrives and throws her hands in the air celebrating her victory. In a fit of ecstasy, as if having achieved her lifelong dream, Eidos lifts the vessel and pours it all over her head, a steady deluge of fresh water dousing her entire person. After shaking herself dry like some farmyard beast, she punctuates the performance with a resounding caw.\\n\\n\\t\\tStands dumbfounded only able to stare for a few moments. As Eidos begins to stare back, entering into another competition of her imagination with the elderly woman, Rada comes to and begins weaving the thread of conversation anew.",
+      "dialogue_text": "Beginning to sit up, Eidos struggles to upright herself, the elderly woman simply raising a skeptical eyebrow. Rada begins to move toward a clay carafe before being brushed aside by an impatient Eidos. Darting towards the container as though in a race, she arrives and throws her hands in the air celebrating her victory. In a fit of ecstasy, as if having achieved her lifelong dream, Eidos lifts the vessel and pours it all over her head, a steady deluge of fresh water dousing her entire person. After shaking herself dry like some farmyard beast, she punctuates the performance with a resounding caw.\n\n\t\tStands dumbfounded only able to stare for a few moments. As Eidos begins to stare back, entering into another competition of her imagination with the elderly woman, Rada comes to and begins weaving the thread of conversation anew.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -12336,7 +12336,7 @@
       }
     },
     "KABU!DAZIR!MAGE'S ABODE!0099.000!DESCRIPTION!": {
-      "dialogue_text": "As her elderly victim falls onto the tiled floor of the abode, Eidos sees that she has been joined by a severe looking man in rich robes and an ornate hat. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\\n\\n\\t\\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
+      "dialogue_text": "As her elderly victim falls onto the tiled floor of the abode, Eidos sees that she has been joined by a severe looking man in rich robes and an ornate hat. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\n\n\t\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
       "responses": {
         "A": {
           "response_text": "...",
@@ -12346,7 +12346,7 @@
       }
     },
     "KABU!DAZIR!MAGE'S ABODE!990.00!DESCRIPTION!": {
-      "dialogue_text": "As Eidos pushes the unhinged door open, it loses its final grip in the frame and collapses to the ground, kicking up the dust of debris. The fine and luxurious plasterwork, furniture and decorations that once served as testament to the power and affluence of Dazir is now but a memory. Desperate and greedy hands have lain ruin to every object of beauty that was not looted. Nothing remains unsullied or unbroken. Windows shattered. Paintings torn. Statues toppled and fragmented.\\n\\n\\t\\tAll that remains for Eidos is to return to the Arboretum.",
+      "dialogue_text": "As Eidos pushes the unhinged door open, it loses its final grip in the frame and collapses to the ground, kicking up the dust of debris. The fine and luxurious plasterwork, furniture and decorations that once served as testament to the power and affluence of Dazir is now but a memory. Desperate and greedy hands have lain ruin to every object of beauty that was not looted. Nothing remains unsullied or unbroken. Windows shattered. Paintings torn. Statues toppled and fragmented.\n\n\t\tAll that remains for Eidos is to return to the Arboretum.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -14988,7 +14988,7 @@
       }
     },
     "KABU!DAZIR!THE SHADES!0.000!DESCRIPTION!": {
-      "dialogue_text": "Walking past the temple, Eidos is greeted by stagnant air, rank with the perfume of sewage. This area is carved directly from the mountain itself, keeping it walled-in on all sides save for the one opening towards the temple and the atrium. Shadows are thicker than their counterparts here, as the second tier acts as an impenetrable roof, finishing of the containment for this forgotten and unwanted segment of Dazir. The architecture here likewise lacks the sophistication of the rest of the township, with the exception of several prodigious pillars used to support the unfathomable weight of the second tier. The most luxurious houses are half-collapsed edifices with tattered rags acting as curtains. All the doors have either rusted off their hinges or broken off until little in the way of wood is left.\\n\\n\\t\\tNot many people walk about in this place, most choosing to simply hug their shins while murmuring half-hearted lamentations. Those who have the energy to walk around seem to be at loose ends.",
+      "dialogue_text": "Walking past the temple, Eidos is greeted by stagnant air, rank with the perfume of sewage. This area is carved directly from the mountain itself, keeping it walled-in on all sides save for the one opening towards the temple and the atrium. Shadows are thicker than their counterparts here, as the second tier acts as an impenetrable roof, finishing of the containment for this forgotten and unwanted segment of Dazir. The architecture here likewise lacks the sophistication of the rest of the township, with the exception of several prodigious pillars used to support the unfathomable weight of the second tier. The most luxurious houses are half-collapsed edifices with tattered rags acting as curtains. All the doors have either rusted off their hinges or broken off until little in the way of wood is left.\n\n\t\tNot many people walk about in this place, most choosing to simply hug their shins while murmuring half-hearted lamentations. Those who have the energy to walk around seem to be at loose ends.",
       "responses": {
         "A": {
           "response_text": "Approach people to talk",
@@ -15066,7 +15066,7 @@
       }
     },
     "KABU!DAZIR!THE SHADES!0.0013!DESCRIPTION!": {
-      "dialogue_text": "As Akara's final echoing words vanish, so too does the crowd. All now slink back to their crumbling abodes to lethargically gather their work gear. Of course, this means that Eidos too must now come down from her perch and... with that thought, the brick beneath her feet finally gives way, sending her gracelessly diving into a stack of empty crates.\\n\\n\\t\\tPicking herself up, she dusts off the debris and stands in place awkwardly wondering if anyone witnessed her fall.",
+      "dialogue_text": "As Akara's final echoing words vanish, so too does the crowd. All now slink back to their crumbling abodes to lethargically gather their work gear. Of course, this means that Eidos too must now come down from her perch and... with that thought, the brick beneath her feet finally gives way, sending her gracelessly diving into a stack of empty crates.\n\n\t\tPicking herself up, she dusts off the debris and stands in place awkwardly wondering if anyone witnessed her fall.",
       "responses": {
         "A": {
           "response_text": "Return to the Atrium and the Temple",
@@ -15080,7 +15080,7 @@
         "type": "@",
         "dest_add": "KABU!DAZIR!THE SHADES!0.0020!DESCRIPTION!"
       },
-      "dialogue_text": "In the darkened, grimy streets it looks like many here keep to their own business - if pacing about aimlessly can be considered business. Some stumble about in an intoxicated state, while others stare at her with looks that are a noxious concoction of fear, lust and envy.\\n\\n\\t\\tHowever, after enough searching, Eidos finds that even here there are some who are willing to talk.",
+      "dialogue_text": "In the darkened, grimy streets it looks like many here keep to their own business - if pacing about aimlessly can be considered business. Some stumble about in an intoxicated state, while others stare at her with looks that are a noxious concoction of fear, lust and envy.\n\n\t\tHowever, after enough searching, Eidos finds that even here there are some who are willing to talk.",
       "responses": {
         "A": {
           "response_text": "A filthy street urchin",
@@ -15110,7 +15110,7 @@
       }
     },
     "KABU!DAZIR!THE SHADES!0099.000!DESCRIPTION!": {
-      "dialogue_text": "As Eidos' victim falls into grime that coats everything in this filthy place, shouts from the Atrium herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\\n\\n\\t\\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
+      "dialogue_text": "As Eidos' victim falls into grime that coats everything in this filthy place, shouts from the Atrium herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\n\n\t\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
       "responses": {
         "A": {
           "response_text": "...",
@@ -16121,7 +16121,7 @@
       }
     },
     "KABU!DAZIR!TEMPLE OF BIRACUL!0.000!DESCRIPTION!": {
-      "dialogue_text": "Walking through the haze of sacrificial smoke, Eidos enters the dim light of the Temple. While there are some narrow windows up high, the light without is too weak to illuminate the space within. Thus, hundreds of candles light numerous shrines in the wings of the complex, however, the central area is bathed in a cool blue light. At the center of this structure is a gushing fountain, with a thousand points of glittering light shining from the stone beneath the water.\\n\\n\\t\\tAll people in this site are silent as they approach the font. They prostrate themselves before it, mouth incantations and collect water in their vessels. Whatever is said in these whispering moments is drowned out by the sound of flowing water and remains unheard. The citizenry here seem utterly focused on their water-fetching efforts and one figure alone seems approachable: a man dressed in golden robes - clearly reciprocating a desire to speak, as he now stares intently at Eidos.",
+      "dialogue_text": "Walking through the haze of sacrificial smoke, Eidos enters the dim light of the Temple. While there are some narrow windows up high, the light without is too weak to illuminate the space within. Thus, hundreds of candles light numerous shrines in the wings of the complex, however, the central area is bathed in a cool blue light. At the center of this structure is a gushing fountain, with a thousand points of glittering light shining from the stone beneath the water.\n\n\t\tAll people in this site are silent as they approach the font. They prostrate themselves before it, mouth incantations and collect water in their vessels. Whatever is said in these whispering moments is drowned out by the sound of flowing water and remains unheard. The citizenry here seem utterly focused on their water-fetching efforts and one figure alone seems approachable: a man dressed in golden robes - clearly reciprocating a desire to speak, as he now stares intently at Eidos.",
       "responses": {
         "A": {
           "response_text": "Approach the golden-robed figure",
@@ -16165,7 +16165,7 @@
       }
     },
     "KABU!DAZIR!TEMPLE OF BIRACUL!0099.000!DESCRIPTION!": {
-      "dialogue_text": "As her victim's last breath floats up with the smoke of the burning incense, Eidos can hear shouts from the Slums outside. Soon the lithe figure of Khaa, the mage of Dazir, steps withing the darkened, smoky atmosphere of the Temple. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\\n\\n\\t\\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
+      "dialogue_text": "As her victim's last breath floats up with the smoke of the burning incense, Eidos can hear shouts from the Slums outside. Soon the lithe figure of Khaa, the mage of Dazir, steps withing the darkened, smoky atmosphere of the Temple. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\n\n\t\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
       "responses": {
         "A": {
           "response_text": "...",
@@ -16795,7 +16795,7 @@
         "type": "@",
         "dest_add": "KABU!DAZIR!TEMPLE OF BIRACUL!1.X001!AYDIN!"
       },
-      "dialogue_text": "\"Biracul, Biracul, keep me from the Jinns' influence.\\n\\t\\tBiracul, Biracul, lead me to the path of righteous.\\n\\t\\tBiracul, Biracul, may you illuminate our way, as you did with Ark against Rikharr.\"",
+      "dialogue_text": "\"Biracul, Biracul, keep me from the Jinns' influence.\n\t\tBiracul, Biracul, lead me to the path of righteous.\n\t\tBiracul, Biracul, may you illuminate our way, as you did with Ark against Rikharr.\"",
       "responses": {
         "A": {
           "response_text": "\"...\"",
@@ -16809,7 +16809,7 @@
         "type": "@",
         "dest_add": "KABU!DAZIR!TEMPLE OF BIRACUL!1.X000!AYDIN!"
       },
-      "dialogue_text": "\"Unity above all else unto the singularity,\\n\\t\\tthat we may see in others ourselves,\\n\\t\\tand reach ever closer to Conscientia!\"",
+      "dialogue_text": "\"Unity above all else unto the singularity,\n\t\tthat we may see in others ourselves,\n\t\tand reach ever closer to Conscientia!\"",
       "responses": {
         "A": {
           "response_text": "\"...\"",
@@ -16863,7 +16863,7 @@
         "type": "@",
         "dest_add": "KABU!DAZIR!WORKSHOP!0.001!DESCRIPTION!"
       },
-      "dialogue_text": "While most of the folk here are hard at work, closer inspection reveals that a distinction exists between those wearing turquoise merely as arm bands and those in similarly colored robes: the former perform the hard labor; whereas, the latter appear to have a more supervisory role.\\n\\n\\t\\tTwo among the crowd seem to be at loose ends, and as such, free to exchange words with Eidos.",
+      "dialogue_text": "While most of the folk here are hard at work, closer inspection reveals that a distinction exists between those wearing turquoise merely as arm bands and those in similarly colored robes: the former perform the hard labor; whereas, the latter appear to have a more supervisory role.\n\n\t\tTwo among the crowd seem to be at loose ends, and as such, free to exchange words with Eidos.",
       "responses": {
         "A": {
           "response_text": "Talk to the sharp-looking yet restless fellow",
@@ -16903,7 +16903,7 @@
       }
     },
     "KABU!DAZIR!WORKSHOP!0099.000!DESCRIPTION!": {
-      "dialogue_text": "As Eidos' victim falls to the dusty Workshop floor, the cloudstone Lift drops from the area above, heralding the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\\n\\n\\t\\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
+      "dialogue_text": "As Eidos' victim falls to the dusty Workshop floor, the cloudstone Lift drops from the area above, heralding the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\n\n\t\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
       "responses": {
         "A": {
           "response_text": "...",
@@ -18113,7 +18113,7 @@
       }
     },
     "KABU!DAZIR!WORKSHOP EXTERIOR!0.000!DESCRIPTION!": {
-      "dialogue_text": "The heat outside the workshop is unbearable. A completely shadowless junkyard, this area appears to serve as a repository for excess materials. Piles of stone and wood litter the cobblestone floor, while great stacks of spooled twine are nestled firmly up against the workshop's walls. Set apart from all miscellany, however, is a great lattice of crystals.\\n\\n\\t\\tWhat at first appears to be the blinding reflection from the sun's unforgiving rays instead reveals itself to be the radiant energy housed within the crystals themselves. So bright, so resplendent are they, that Eidos cannot help but avert her tear-filled eyes from them. This lattice appears to be of great importance as it is both isolated from all other areas and boasts a contingent of nearly thirty guards around the perimeter.",
+      "dialogue_text": "The heat outside the workshop is unbearable. A completely shadowless junkyard, this area appears to serve as a repository for excess materials. Piles of stone and wood litter the cobblestone floor, while great stacks of spooled twine are nestled firmly up against the workshop's walls. Set apart from all miscellany, however, is a great lattice of crystals.\n\n\t\tWhat at first appears to be the blinding reflection from the sun's unforgiving rays instead reveals itself to be the radiant energy housed within the crystals themselves. So bright, so resplendent are they, that Eidos cannot help but avert her tear-filled eyes from them. This lattice appears to be of great importance as it is both isolated from all other areas and boasts a contingent of nearly thirty guards around the perimeter.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -18133,7 +18133,7 @@
       }
     },
     "KABU!DAZIR!WORKSHOP EXTERIOR!0.002!DESCRIPTION!": {
-      "dialogue_text": "At the eastern edge of the junkyard, is a banister overlooking the Jenowin Plain. Several of the aproned workers appear to linger there, taking a rest from their back-breaking labor.\\n\\n\\t\\tFurther north into town is a large plaza, speckled with thick, stone columns jutting out from the floor like the quills of a giant, rocky porcupine. At the center of the plaza is a decadent fountain of massive proportions, towering over the tops of the columns, reaching nearly to the topmost tier of the township.",
+      "dialogue_text": "At the eastern edge of the junkyard, is a banister overlooking the Jenowin Plain. Several of the aproned workers appear to linger there, taking a rest from their back-breaking labor.\n\n\t\tFurther north into town is a large plaza, speckled with thick, stone columns jutting out from the floor like the quills of a giant, rocky porcupine. At the center of the plaza is a decadent fountain of massive proportions, towering over the tops of the columns, reaching nearly to the topmost tier of the township.",
       "responses": {
         "A": {
           "response_text": "Enter the Workshop",
@@ -18197,7 +18197,7 @@
       }
     },
     "KABU!DAZIR!WORKSHOP EXTERIOR!0099.000!DESCRIPTION!": {
-      "dialogue_text": "As Eidos' victim falls to the tiles of the plaza floor, shouts from the Workshop herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\\n\\n\\t\\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
+      "dialogue_text": "As Eidos' victim falls to the tiles of the plaza floor, shouts from the Workshop herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.\n\n\t\tConfidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...",
       "responses": {
         "A": {
           "response_text": "...",

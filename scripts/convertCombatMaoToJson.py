@@ -52,6 +52,7 @@ def parse_combat_descriptions(contents: List[str]) -> str:
     ind = 0
     while ind < len(contents):
         line = contents[ind]
+        print(line)
         if '*' in line:
             weaponId = line[line.find('*')+1 : line.find(':')]
             ind += 1
@@ -120,5 +121,5 @@ def convert_file(filepath: str) -> None:
 
 
 if __name__ == "__main__":
-    filepath = os.getcwd() + "/../resources/TextFiles/NonDialogueText/CombatDescriptions.mao"
+    filepath = "../resources/TextFiles/NonDialogueText/CombatDescription.mao"
     convert_file(filepath)

@@ -11,7 +11,7 @@
       }
     },
     "KABU!CANYON!SUNLESS GROTTO!0.000!DESCRIPTION!": {
-      "dialogue_text": "It is not long before Eidos is completely robbed of sight. The going through this way is treacherous; for with all rays of golden sun consumed by the shadows, there is no light to guide her way. Many times she stumbles and cuts herself on the jagged crust of the uncertain and winding tunnel.\\n\\n\\t\\tThe echoes of her steps expand and she halts abruptly. She can feel her vision slowly returning. As she tentatively renews her forward march, a cold, cerulean glow comes into view, brighter and more radiant than natural phosphorous could ever be. Soon, she finds the cryptic light's source: a shining, aquamarine glass lies on the cave floor, seemingly discarded.",
+      "dialogue_text": "It is not long before Eidos is completely robbed of sight. The going through this way is treacherous; for with all rays of golden sun consumed by the shadows, there is no light to guide her way. Many times she stumbles and cuts herself on the jagged crust of the uncertain and winding tunnel.\n\n\t\tThe echoes of her steps expand and she halts abruptly. She can feel her vision slowly returning. As she tentatively renews her forward march, a cold, cerulean glow comes into view, brighter and more radiant than natural phosphorous could ever be. Soon, she finds the cryptic light's source: a shining, aquamarine glass lies on the cave floor, seemingly discarded.",
       "responses": {
         "A": {
           "response_text": "Keep walking",
@@ -26,7 +26,7 @@
       }
     },
     "KABU!CANYON!SUNLESS GROTTO!0.001!DESCRIPTION!": {
-      "dialogue_text": "It is not long before Eidos is completely robbed of sight. The going through this way is treacherous; for with all rays of golden sun consumed by the shadows, there is no light to guide her way. Many times she stumbles and cuts herself on the jagged crust of the uncertain and winding tunnel.\\n\\n\\t\\tThe echoes of her steps expand and she halts abruptly. She can feel her vision slowly returning as her eyes cease resisting the darkness. The amorphous forms now take on the shape of rock, scarred by their vain battles against water and time.\\n\\n\\t\\tThen, a vision, a memory, the Mindscape. Though Eidos has not been here, she has before seen this place in her dreams. She knows that further ahead, the path widens into a more spacious chamber and that someone there abides.",
+      "dialogue_text": "It is not long before Eidos is completely robbed of sight. The going through this way is treacherous; for with all rays of golden sun consumed by the shadows, there is no light to guide her way. Many times she stumbles and cuts herself on the jagged crust of the uncertain and winding tunnel.\n\n\t\tThe echoes of her steps expand and she halts abruptly. She can feel her vision slowly returning as her eyes cease resisting the darkness. The amorphous forms now take on the shape of rock, scarred by their vain battles against water and time.\n\n\t\tThen, a vision, a memory, the Mindscape. Though Eidos has not been here, she has before seen this place in her dreams. She knows that further ahead, the path widens into a more spacious chamber and that someone there abides.",
       "responses": {
         "A": {
           "response_text": "Proceed",
@@ -36,7 +36,7 @@
       }
     },
     "KABU!CANYON!SUNLESS GROTTO!0.002!DESCRIPTION!": {
-      "dialogue_text": "The sun at her back, Eidos enters into the rocky mouth of the cave. Her eyes observantly attending to her new surroundings, she spies a short passage spread out before her, where light is at war with the shadows. The cave's stony fangs act as the shields for a clearly outmatched darkness.\\n\\n\\t\\tIn truth, the light only gained greater ground after Eidos had opened the portal leading from the canyon. Yet, this advance is swiftly stifled by the resealing of the entrance. As such, the shadows now seep back in, reconquering their lost ground.",
+      "dialogue_text": "The sun at her back, Eidos enters into the rocky mouth of the cave. Her eyes observantly attending to her new surroundings, she spies a short passage spread out before her, where light is at war with the shadows. The cave's stony fangs act as the shields for a clearly outmatched darkness.\n\n\t\tIn truth, the light only gained greater ground after Eidos had opened the portal leading from the canyon. Yet, this advance is swiftly stifled by the resealing of the entrance. As such, the shadows now seep back in, reconquering their lost ground.",
       "responses": {
         "A": {
           "response_text": "Proceed",
@@ -51,7 +51,7 @@
       }
     },
     "KABU!CANYON!SUNLESS GROTTO!0.0020!DESCRIPTION!": {
-      "dialogue_text": "But the passage ends almost as soon as it begins, terminating in a spherical chamber more radiant than the setting sun. A series of variegated crystals direct their focused beams into a single, suspended white sphere at the center of the room.\\n\\n\\t\\tBeneath the brilliant globe is a golden platform, much like the one in the Awakening Chamber, yet distinct in its markings. Its saccharine presence entices, like honey for the mind. Its metallic scent permeates the room, seeping into Eidos' pores, as if it seeking to join forms with her.",
+      "dialogue_text": "But the passage ends almost as soon as it begins, terminating in a spherical chamber more radiant than the setting sun. A series of variegated crystals direct their focused beams into a single, suspended white sphere at the center of the room.\n\n\t\tBeneath the brilliant globe is a golden platform, much like the one in the Awakening Chamber, yet distinct in its markings. Its saccharine presence entices, like honey for the mind. Its metallic scent permeates the room, seeping into Eidos' pores, as if it seeking to join forms with her.",
       "responses": {
         "A": {
           "response_text": "Stand upon the platform",
@@ -66,7 +66,7 @@
       }
     },
     "KABU!CANYON!SUNLESS GROTTO!0.00200!DESCRIPTION!": {
-      "dialogue_text": "Eidos ceremoniously proceeds toward the platform, expectations of their eventual union rising in her boiling blood. It appears just as though her ultimate destiny lay right before her very eyes.\\n\\n\\t\\tCould this be the answer she has been searching for? Or has she been remiss not to search? Will this lead her to the questions that will shape her truth?",
+      "dialogue_text": "Eidos ceremoniously proceeds toward the platform, expectations of their eventual union rising in her boiling blood. It appears just as though her ultimate destiny lay right before her very eyes.\n\n\t\tCould this be the answer she has been searching for? Or has she been remiss not to search? Will this lead her to the questions that will shape her truth?",
       "responses": {
         "A": {
           "response_text": "...",
@@ -96,7 +96,7 @@
       }
     },
     "KABU!CANYON!SUNLESS GROTTO!0.00210!DESCRIPTION!": {
-      "dialogue_text": "No, not even emptiness fills her now in this ineffable state of profuse confusion and awkward embarrassment. What was she in fact expecting? Why this elaborate setup for nothing?\\n\\n\\t\\tAnti-climactic, perhaps, but then again, expectation is the mother of disappointment.",
+      "dialogue_text": "No, not even emptiness fills her now in this ineffable state of profuse confusion and awkward embarrassment. What was she in fact expecting? Why this elaborate setup for nothing?\n\n\t\tAnti-climactic, perhaps, but then again, expectation is the mother of disappointment.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -175,7 +175,7 @@
       }
     },
     "KABU!CANYON!SUNLESS GROTTO!1.000!DESCRIPTION!": {
-      "dialogue_text": "A faint sound whispers into her ear, alerting her to the presence of trickling water ahead. Licking her chapped lips, Eidos does her best to ignore the insistent pangs of thirst, but still quickens her pace toward the enticing sound. A lightening of her surroundings gives birth to a dim vision of the jagged rocks that have torn her clothes and skin.\\n\\n\\t\\tAbruptly, the tunnel opens into a large cavern, made visible by sparse, delicate beams of sunlight cast through cracks in the ceiling. Another passage leads from this chamber beyond, but most importantly, a small trickle of water runs down a crack in one of the far walls.\\n\\n\\t\\tThe light unveils one more surprise, for a glimmer from the other side of the curtain of sun rays steals her attention: eyes, hawk-like, piercing through both darkness and light. Reclining against a stone across the chamber sits their owner in silent vigil, motionless, relentless.",
+      "dialogue_text": "A faint sound whispers into her ear, alerting her to the presence of trickling water ahead. Licking her chapped lips, Eidos does her best to ignore the insistent pangs of thirst, but still quickens her pace toward the enticing sound. A lightening of her surroundings gives birth to a dim vision of the jagged rocks that have torn her clothes and skin.\n\n\t\tAbruptly, the tunnel opens into a large cavern, made visible by sparse, delicate beams of sunlight cast through cracks in the ceiling. Another passage leads from this chamber beyond, but most importantly, a small trickle of water runs down a crack in one of the far walls.\n\n\t\tThe light unveils one more surprise, for a glimmer from the other side of the curtain of sun rays steals her attention: eyes, hawk-like, piercing through both darkness and light. Reclining against a stone across the chamber sits their owner in silent vigil, motionless, relentless.",
       "responses": {
         "A": {
           "response_text": "Leave the cavern",
@@ -250,7 +250,7 @@
       }
     },
     "KABU!CANYON!SUNLESS GROTTO!1.011!DESCRIPTION!": {
-      "dialogue_text": "Eidos steps into the scantly-illuminated cavern home of the defeated Adarin once more. The hermit's emptied Falseflesh litters the ground, decomposing itself and tirelessly struggling to reintegrate into the cracks in the stony floor, to return whence it came.\\n\\n\\t\\tIt seems that even in death Adarin cannot find a release from his struggle.",
+      "dialogue_text": "Eidos steps into the scantly-illuminated cavern home of the defeated Adarin once more. The hermit's emptied Falseflesh litters the ground, decomposing itself and tirelessly struggling to reintegrate into the cracks in the stony floor, to return whence it came.\n\n\t\tIt seems that even in death Adarin cannot find a release from his struggle.",
       "responses": {
         "A": {
           "response_text": "Leave the cavern",
@@ -294,7 +294,7 @@
         "event_num": 12000,
         "dest_add": "KABU!CANYON!SUNLESS GROTTO!1.001!DESCRIPTION!"
       },
-      "dialogue_text": "Eidos wanders about - up and down, left and right - in the darkness with all the characteristic shifts in confidence of gradual understanding that thinking something is easy does not make it so.\\n\\n\\t\\tHer failure, though, is soon forgotten when she inexplicably, yet unavoidably, arrives back at the crevice through which she entered. The weight of folly can now be cast aside and accountability for poor decisions completely forgotten as she enters the Wellspring anew.",
+      "dialogue_text": "Eidos wanders about - up and down, left and right - in the darkness with all the characteristic shifts in confidence of gradual understanding that thinking something is easy does not make it so.\n\n\t\tHer failure, though, is soon forgotten when she inexplicably, yet unavoidably, arrives back at the crevice through which she entered. The weight of folly can now be cast aside and accountability for poor decisions completely forgotten as she enters the Wellspring anew.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -354,7 +354,7 @@
       }
     },
     "KABU!CANYON!SUNLESS GROTTO!1.2000!DESCRIPTION!": {
-      "dialogue_text": "But then, despair is ousted as Eidos discovers a narrow hollow containing rivulets of water dripping from the ceiling. Yet Eidos, as of instinct, dares not draw too near; for she senses the familiar effects of Corruption having touched these glassy beads of poison. They are an illusion after all: the illusion of life obscuring the reality of death contained within.\\n\\n\\t\\tStraight ahead, is a crude set of stairs. They wind their way up a steep rock face, terminating at a crack in the rock. Beyond is a light distinct in nature from the sun.",
+      "dialogue_text": "But then, despair is ousted as Eidos discovers a narrow hollow containing rivulets of water dripping from the ceiling. Yet Eidos, as of instinct, dares not draw too near; for she senses the familiar effects of Corruption having touched these glassy beads of poison. They are an illusion after all: the illusion of life obscuring the reality of death contained within.\n\n\t\tStraight ahead, is a crude set of stairs. They wind their way up a steep rock face, terminating at a crack in the rock. Beyond is a light distinct in nature from the sun.",
       "responses": {
         "A": {
           "response_text": "Proceed through the crack",
@@ -369,7 +369,7 @@
       }
     },
     "KABU!CANYON!SUNLESS GROTTO!1.201!DESCRIPTION!": {
-      "dialogue_text": "As Eidos descends the stair, the composition and condition of the steps begin to change. What once was finely cut stone has given way to roughly assembled blocks, now in disarray, their surfaces uneven and made difficult to navigate by the water that can be heard trickling down them. She staggers as she blindly reaches the bottom.\\n\\n\\t\\tWith one hand clutching the side of the tunnel, Eidos now faces a natural cave system. This subterranean space is entirely lightless and can be known only by the feel of the timeworn stone and the sound of footfalls upon it.",
+      "dialogue_text": "As Eidos descends the stair, the composition and condition of the steps begin to change. What once was finely cut stone has given way to roughly assembled blocks, now in disarray, their surfaces uneven and made difficult to navigate by the water that can be heard trickling down them. She staggers as she blindly reaches the bottom.\n\n\t\tWith one hand clutching the side of the tunnel, Eidos now faces a natural cave system. This subterranean space is entirely lightless and can be known only by the feel of the timeworn stone and the sound of footfalls upon it.",
       "responses": {
         "A": {
           "response_text": "Re-enter the structure",
@@ -399,7 +399,7 @@
       }
     },
     "KABU!CANYON!SUNLESS GROTTO!9.2010!DESCRIPTION!": {
-      "dialogue_text": "When the tide of emptiness has passed, no trace of the crystal remains. Eidos stands in the dark once more, but is not the darkness of the cavern. No, this void is too thorough to be the caverns. She feels nothing yet senses everything.\\n\\n\\t\\tBut before she has a chance to clear her head, the blinding white light comes again...",
+      "dialogue_text": "When the tide of emptiness has passed, no trace of the crystal remains. Eidos stands in the dark once more, but is not the darkness of the cavern. No, this void is too thorough to be the caverns. She feels nothing yet senses everything.\n\n\t\tBut before she has a chance to clear her head, the blinding white light comes again...",
       "responses": {
         "A": {
           "response_text": "...",
@@ -1784,7 +1784,7 @@
       }
     },
     "KABU!CANYON!VALLEY OF BONES!00.000!DESCRIPTION!": {
-      "dialogue_text": "Eidos cautiously climbs down the ruined path until she has reached the belly of the canyon, its stomach strewn with the remains from millennia of feasting on hapless creatures, stones and rivers that had wandered this far.\\n\\n\\t\\tDespite the natural warnings, she slowly walks forward until the moment when she comes upon a bleak sight as she rounds a bend on the path...",
+      "dialogue_text": "Eidos cautiously climbs down the ruined path until she has reached the belly of the canyon, its stomach strewn with the remains from millennia of feasting on hapless creatures, stones and rivers that had wandered this far.\n\n\t\tDespite the natural warnings, she slowly walks forward until the moment when she comes upon a bleak sight as she rounds a bend on the path...",
       "responses": {
         "A": {
           "response_text": "Proceed",
@@ -1829,7 +1829,7 @@
       }
     },
     "KABU!CANYON!VALLEY OF BONES!0.000!DESCRIPTION!": {
-      "dialogue_text": "The canyon widens and it seems that a massive mound of bones has accumulated over countless generations. The shape and size of the thousands of skulls leaves no doubt that these are decayed and decaying humans. The mound is piled high at the west side of the canyon, but the bleached remains spill out to cover most of the clearing. Perhaps most seek not to venture beyond this point?\\n\\n\\t\\tLooking skyward, Eidos can see an the glimmering sparkle of the imposing silver spire towering high above. The shining steeple casts dancing reflections from the sun across the grisly hill of death. The canyon floor is near invisible from the bones that litter the ground, in a scattered tumult of memories and dreams now lost to time, but held on to by the living who come to honor them.\\n\\n\\t\\tHowever, this place is not devoid of life. Indeed, two armed guards stand before her, vigilantly monitoring her every move. Eidos can see another, unarmed individual further in, prostrating himself before a smaller, separate pile of bones.",
+      "dialogue_text": "The canyon widens and it seems that a massive mound of bones has accumulated over countless generations. The shape and size of the thousands of skulls leaves no doubt that these are decayed and decaying humans. The mound is piled high at the west side of the canyon, but the bleached remains spill out to cover most of the clearing. Perhaps most seek not to venture beyond this point?\n\n\t\tLooking skyward, Eidos can see an the glimmering sparkle of the imposing silver spire towering high above. The shining steeple casts dancing reflections from the sun across the grisly hill of death. The canyon floor is near invisible from the bones that litter the ground, in a scattered tumult of memories and dreams now lost to time, but held on to by the living who come to honor them.\n\n\t\tHowever, this place is not devoid of life. Indeed, two armed guards stand before her, vigilantly monitoring her every move. Eidos can see another, unarmed individual further in, prostrating himself before a smaller, separate pile of bones.",
       "responses": {
         "A": {
           "response_text": "Climb up the path",
@@ -1886,7 +1886,7 @@
         "type": "@",
         "dest_add": "KABU!CANYON!VALLEY OF BONES!10.X000!DESCRIPTION!"
       },
-      "dialogue_text": "The two guards walk back a few paces. While Hubbiyh seems to take a more relaxed stance, Assala eyes Eidos, her knuckles white as they grip her spear's shaft.\\n\\n\\t\\tThe way ahead clear, Eidos is free to go where she will.",
+      "dialogue_text": "The two guards walk back a few paces. While Hubbiyh seems to take a more relaxed stance, Assala eyes Eidos, her knuckles white as they grip her spear's shaft.\n\n\t\tThe way ahead clear, Eidos is free to go where she will.",
       "responses": {
         "A": {
           "response_text": "Talk to someone",
@@ -1930,7 +1930,7 @@
       }
     },
     "KABU!CANYON!VALLEY OF BONES!3.000!DESCRIPTION!": {
-      "dialogue_text": "Assala levels her spear at Eidos. In the space of a thought she is piercing through the air directly towards Eidos' face with the inhuman speed and fluidity of a seasoned veteran.\\n\\n\\t\\tInstinctively, Eidos stumbles backwards, raising her arms in defense. With a will not her own, she calls forth Luin and brings the ghelblade down upon the offending spearpoint, cleaving the steel in twain. Luin prepares to leap forth and dispatch their attacker, when Eidos observes that Assala's body has slackened, all trace of violent intent leaving her face, now replaced solely with incredulity and even adoration.\\n\\n\\t\\tEidos soon senses that the elder guard now resolutely moves in for a lethal attack...",
+      "dialogue_text": "Assala levels her spear at Eidos. In the space of a thought she is piercing through the air directly towards Eidos' face with the inhuman speed and fluidity of a seasoned veteran.\n\n\t\tInstinctively, Eidos stumbles backwards, raising her arms in defense. With a will not her own, she calls forth Luin and brings the ghelblade down upon the offending spearpoint, cleaving the steel in twain. Luin prepares to leap forth and dispatch their attacker, when Eidos observes that Assala's body has slackened, all trace of violent intent leaving her face, now replaced solely with incredulity and even adoration.\n\n\t\tEidos soon senses that the elder guard now resolutely moves in for a lethal attack...",
       "responses": {
         "A": {
           "response_text": "Speak to the attackers",
@@ -2037,7 +2037,7 @@
       }
     },
     "KABU!CANYON!VALLEY OF BONES!3.400!DESCRIPTION!": {
-      "dialogue_text": "Eidos ducks under the second strike while Luin swings upwards, cleaving cleanly through the warrior's leather armor and banishing the life from his Falseflesh.\\n\\n\\t\\tTurning about, Eidos looks upon the kneeling form of Assala. The death of her companion has changed her expression of adoration to one of resignation. Whatever feelings Eidos might have toward this pathetic creature are too weak to overcome the awakened thirst within her mind. The emerald-hued sword dances through the air and Luin frees the young warrior's head from her shoulders.",
+      "dialogue_text": "Eidos ducks under the second strike while Luin swings upwards, cleaving cleanly through the warrior's leather armor and banishing the life from his Falseflesh.\n\n\t\tTurning about, Eidos looks upon the kneeling form of Assala. The death of her companion has changed her expression of adoration to one of resignation. Whatever feelings Eidos might have toward this pathetic creature are too weak to overcome the awakened thirst within her mind. The emerald-hued sword dances through the air and Luin frees the young warrior's head from her shoulders.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -2051,7 +2051,7 @@
         "type": "@",
         "dest_add": "KABU!CANYON!VALLEY OF BONES!90.000!DESCRIPTION!"
       },
-      "dialogue_text": "Eidos ducks under the second strike while Luin swings upwards, cleaving cleanly through Assala's armor and banishing the life from her body.\\n\\n\\t\\tTurning about as the emerald-hued sword dances through the air, Luin frees the elder warrior's head from his shoulders. Though the warrior dies happily knowing that at precisely the same time his spear has penetrated deep into Eidos' chest cavity...",
+      "dialogue_text": "Eidos ducks under the second strike while Luin swings upwards, cleaving cleanly through Assala's armor and banishing the life from her body.\n\n\t\tTurning about as the emerald-hued sword dances through the air, Luin frees the elder warrior's head from his shoulders. Though the warrior dies happily knowing that at precisely the same time his spear has penetrated deep into Eidos' chest cavity...",
       "responses": {
         "A": {
           "response_text": "...",
@@ -2065,7 +2065,7 @@
         "type": "@",
         "dest_add": "KABU!CANYON!VALLEY OF BONES!90.000!DESCRIPTION!"
       },
-      "dialogue_text": "Eidos ducks under the second strike while Luin swings upwards, cleaving cleanly through the nefarious gremlin's armor and banishing the life from its body.\\n\\n\\t\\tTurning about as the emerald-hued sword whirls through the air, Luin frees the elder gremlin's head from its shoulders. Yet this evil creature dies not unavenged, as his spear appears to have also found its mark, penetrating deep into Eidos' chest cavity...",
+      "dialogue_text": "Eidos ducks under the second strike while Luin swings upwards, cleaving cleanly through the nefarious gremlin's armor and banishing the life from its body.\n\n\t\tTurning about as the emerald-hued sword whirls through the air, Luin frees the elder gremlin's head from its shoulders. Yet this evil creature dies not unavenged, as his spear appears to have also found its mark, penetrating deep into Eidos' chest cavity...",
       "responses": {
         "A": {
           "response_text": "...",
@@ -2105,7 +2105,7 @@
       }
     },
     "KABU!CANYON!VALLEY OF BONES!7.003!DESCRIPTION!": {
-      "dialogue_text": "Ark.\\n\\n\\t\\tMouthing this single syllable, her form falls limp to the canyon floor. Assala is no more.",
+      "dialogue_text": "Ark.\n\n\t\tMouthing this single syllable, her form falls limp to the canyon floor. Assala is no more.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -2197,7 +2197,7 @@
       }
     },
     "KABU!CANYON!VALLEY OF BONES!90.000!DESCRIPTION!": {
-      "dialogue_text": "Eidos has returned to the Valley of Bones. The bodies of the slain guards lie here undisturbed, slowly assimilating to the group of bones they once protected.\\tNo sign remains of the individual who had been praying here when Eidos claimed their lives, however. His desire to join the ranks of the newly dead were perhaps exceeded by his fear of being unmourned and unremembered.",
+      "dialogue_text": "Eidos has returned to the Valley of Bones. The bodies of the slain guards lie here undisturbed, slowly assimilating to the group of bones they once protected.\tNo sign remains of the individual who had been praying here when Eidos claimed their lives, however. His desire to join the ranks of the newly dead were perhaps exceeded by his fear of being unmourned and unremembered.",
       "responses": {
         "A": {
           "response_text": "Examine the area",
@@ -2217,7 +2217,7 @@
       }
     },
     "KABU!CANYON!VALLEY OF BONES!90.001!DESCRIPTION!": {
-      "dialogue_text": "Eidos looks dispassionately upon the two corpses she has added to the floor of the Valley of Bones, the empty shells returning only a vacant stare.\\n\\n\\t\\tLooking up, she sees no sign of the individual who had been praying here before the slaughter began. His desire to join the ranks of the newly dead were perhaps exceeded by his fear of being unmourned and unremembered.",
+      "dialogue_text": "Eidos looks dispassionately upon the two corpses she has added to the floor of the Valley of Bones, the empty shells returning only a vacant stare.\n\n\t\tLooking up, she sees no sign of the individual who had been praying here before the slaughter began. His desire to join the ranks of the newly dead were perhaps exceeded by his fear of being unmourned and unremembered.",
       "responses": {
         "A": {
           "response_text": "Examine the area",
@@ -2237,7 +2237,7 @@
       }
     },
     "KABU!CANYON!VALLEY OF BONES!99.000!DESCRIPTION!": {
-      "dialogue_text": "The two guards who slaughtered Eidos previously do not like the surprise her return affords. Characteristic of veterans of their caliber, they move to intercept their undead enemy without hesitation. Assala nimbly scales the rock face, getting behind Eidos, while Hubbiyh takes advantage of the distraction to charge in for a frontal assault.\\n\\n\\t\\tIn the face of the bizarre resurrection, the Tacribians have no fear. Quite the contrary, they appear to be eerily accustomed to it. But in the span of a heartbeat, the warriors have entered their formation to engage the threat.",
+      "dialogue_text": "The two guards who slaughtered Eidos previously do not like the surprise her return affords. Characteristic of veterans of their caliber, they move to intercept their undead enemy without hesitation. Assala nimbly scales the rock face, getting behind Eidos, while Hubbiyh takes advantage of the distraction to charge in for a frontal assault.\n\n\t\tIn the face of the bizarre resurrection, the Tacribians have no fear. Quite the contrary, they appear to be eerily accustomed to it. But in the span of a heartbeat, the warriors have entered their formation to engage the threat.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -2426,7 +2426,7 @@
         "event_num": 14412,
         "dest_add": "KABU!CANYON!VALLEY OF BONES!0.003!DESCRIPTION!"
       },
-      "dialogue_text": "While the bones here are concentrated in a massive heap, bleached human remains litter the entire span of the clearing. Choosing her steps carefully, Eidos nows sees that there is more than a single mound. A much smaller pile, containing what's left of a mere handful of people, is located a bit further off, and the mourning individual seems to be supplicating himself before it.\\n\\n\\t\\tDeep ruts have been carved in the earth about this place, and it appears as though salt has been sprinkled into these furrows. Curiously, the bones here give forth the only obvious vegetation in the canyon. Stalks of what look to be rust-colored wheat grow from between ribs and out of eye sockets, like drops of blood upon white robes.",
+      "dialogue_text": "While the bones here are concentrated in a massive heap, bleached human remains litter the entire span of the clearing. Choosing her steps carefully, Eidos nows sees that there is more than a single mound. A much smaller pile, containing what's left of a mere handful of people, is located a bit further off, and the mourning individual seems to be supplicating himself before it.\n\n\t\tDeep ruts have been carved in the earth about this place, and it appears as though salt has been sprinkled into these furrows. Curiously, the bones here give forth the only obvious vegetation in the canyon. Stalks of what look to be rust-colored wheat grow from between ribs and out of eye sockets, like drops of blood upon white robes.",
       "responses": {
         "A": {
           "response_text": "Talk to someone",
@@ -2441,7 +2441,7 @@
       }
     },
     "KABU!CANYON!VALLEY OF BONES!0.003!DESCRIPTION!": {
-      "dialogue_text": "While the bones here are concentrated in a massive heap, bleached human remains litter the entire span of the clearing. Choosing her steps carefully, Eidos nows sees that there is more than a single mound. A much smaller pile, containing what's left of a mere handful of people, is located a bit further off.\\n\\n\\t\\tDeep ruts have been carved in the earth about this place, and it appears as though salt has been sprinkled into these furrows. Curiously, the bones here give forth the only obvious vegetation in the canyon. Stalks of what look to be rust-colored wheat grow from between ribs and out of eye sockets, like drops of blood upon white robes.",
+      "dialogue_text": "While the bones here are concentrated in a massive heap, bleached human remains litter the entire span of the clearing. Choosing her steps carefully, Eidos nows sees that there is more than a single mound. A much smaller pile, containing what's left of a mere handful of people, is located a bit further off.\n\n\t\tDeep ruts have been carved in the earth about this place, and it appears as though salt has been sprinkled into these furrows. Curiously, the bones here give forth the only obvious vegetation in the canyon. Stalks of what look to be rust-colored wheat grow from between ribs and out of eye sockets, like drops of blood upon white robes.",
       "responses": {
         "A": {
           "response_text": "Leave the Bone Pile",
@@ -3719,7 +3719,7 @@
         "type": "@",
         "dest_add": "KABU!CANYON!VALLEY OF BONES!0.X002!NADUB!"
       },
-      "dialogue_text": "\"Zebh, brother of Nadub, faithful son of Biracul!\\n\\t\\tBiracul guide you through the Graylands,\\n\\t\\tThat you may travel safely to the One's arms.\"",
+      "dialogue_text": "\"Zebh, brother of Nadub, faithful son of Biracul!\n\t\tBiracul guide you through the Graylands,\n\t\tThat you may travel safely to the One's arms.\"",
       "responses": {
         "A": {
           "response_text": "\"...\"",
@@ -3733,7 +3733,7 @@
         "type": "@",
         "dest_add": "KABU!CANYON!VALLEY OF BONES!0.X003!NADUB!"
       },
-      "dialogue_text": "\"May your departed family join you in the One's Trueflesh!\\n\\t\\tStay far from the jinncursed Void of Thiudan make!\"",
+      "dialogue_text": "\"May your departed family join you in the One's Trueflesh!\n\t\tStay far from the jinncursed Void of Thiudan make!\"",
       "responses": {
         "A": {
           "response_text": "\"...\"",
@@ -3747,7 +3747,7 @@
         "type": "@",
         "dest_add": "KABU!CANYON!VALLEY OF BONES!0.X004!NADUB!"
       },
-      "dialogue_text": "\"Husks ghostless, leaving the Falseflesh behind,\\n\\t\\tYou have arrived first at our mutual destination.\\n\\t\\tBut when fate comes for me, Brother,\\n\\t\\tMay I too be guided into the light...\"",
+      "dialogue_text": "\"Husks ghostless, leaving the Falseflesh behind,\n\t\tYou have arrived first at our mutual destination.\n\t\tBut when fate comes for me, Brother,\n\t\tMay I too be guided into the light...\"",
       "responses": {
         "A": {
           "response_text": "\"...\"",

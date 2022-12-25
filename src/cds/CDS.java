@@ -30,6 +30,8 @@ public class CDS {
 		ConscientiaNpc initialNpc = gameDataManager.getNpcByName(currentNpcName);
 		String currentLocation =
 			(String) gameDataManager.getPlayerValue(Constants.PLAYER_CURRENT_LOCATION).getValue();
+
+    System.out.println(currentLocation);
 		this.nextAddress = initialNpc.getDialogueAddress(currentLocation);
 
 		// start game loop

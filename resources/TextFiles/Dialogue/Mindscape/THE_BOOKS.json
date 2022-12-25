@@ -11,7 +11,7 @@
       }
     },
     "MIND!THE BOOK OF BIRACUL!THE BEGINNING!1.000!DESCRIPTION!": {
-      "dialogue_text": "\"Le Stuff\"\\n\\n\\t\\tMind of the Spiral, Vol. X",
+      "dialogue_text": "\"Le Stuff\"\n\n\t\tMind of the Spiral, Vol. X",
       "responses": {
         "A": {
           "response_text": "...",
@@ -21,7 +21,7 @@
       }
     },
     "MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!": {
-      "dialogue_text": "\"They claimed Time was but a loop, infinitely repeating, endlessly recording events destined and unchanged in perpetuity. But Time has never been just a closed circle. No, it has forever been a Spiral!\\n\\n\\t\\tThe illusion of cycles arises from but a lack of proper perspective! The Spiral from above seems a mere ring; yet from the side, it wraps itself around a void pillar. Be the Spiral deep enough, it metamorphoses into concentric circles, receding into an unreachable Singularity.\\n\\n\\t\\tThis truth was hidden in plain sight, in the dimension beyond the plane. What then do other dimensions obscure? What other angles would grant us a fuller view? We must no longer fall prey to false circles! No longer be fooled by the limitation of our vision! For what the eye cannot see, the light of intellect will illuminate!\\n\\n\\t\\tWe will extricate ourselves from the illusory loop and take our place among the Gods!\"\\n\\n\\t\\tMind of the Spiral, Vol. I",
+      "dialogue_text": "\"They claimed Time was but a loop, infinitely repeating, endlessly recording events destined and unchanged in perpetuity. But Time has never been just a closed circle. No, it has forever been a Spiral!\n\n\t\tThe illusion of cycles arises from but a lack of proper perspective! The Spiral from above seems a mere ring; yet from the side, it wraps itself around a void pillar. Be the Spiral deep enough, it metamorphoses into concentric circles, receding into an unreachable Singularity.\n\n\t\tThis truth was hidden in plain sight, in the dimension beyond the plane. What then do other dimensions obscure? What other angles would grant us a fuller view? We must no longer fall prey to false circles! No longer be fooled by the limitation of our vision! For what the eye cannot see, the light of intellect will illuminate!\n\n\t\tWe will extricate ourselves from the illusory loop and take our place among the Gods!\"\n\n\t\tMind of the Spiral, Vol. I",
       "responses": {
         "A": {
           "response_text": "...",
@@ -41,7 +41,7 @@
       }
     },
     "MIND!THE BOOK OF RIKHARR!THE BEGINNING!1.000!DESCRIPTION!": {
-      "dialogue_text": "\"The ancients believed all was preordained, that we were subject to the whims of savage gods. Their successors then believed the future was uncertain, inscrutable. Both were wrong, misguided.\\n\\n\\t\\tSoon the god we birth will not only see the future, but also alter it on our behalves.\"\\n\\n\\t\\tMind of the Spiral, Vol. VI",
+      "dialogue_text": "\"The ancients believed all was preordained, that we were subject to the whims of savage gods. Their successors then believed the future was uncertain, inscrutable. Both were wrong, misguided.\n\n\t\tSoon the god we birth will not only see the future, but also alter it on our behalves.\"\n\n\t\tMind of the Spiral, Vol. VI",
       "responses": {
         "A": {
           "response_text": "...",
@@ -51,7 +51,7 @@
       }
     },
     "MIND!THE BOOK OF TORMA!THE BEGINNING!0.000!DESCRIPTION!": {
-      "dialogue_text": "\"If Time is but another dimension to traverse, a simple stroll into the past or future becomes trivial.\\n\\n\\t\\tThus, in pursuit of our purpose, to the path of the Singularity our feet are directed. We go to a place where origin and terminus are one, a genuine closed loop encompassing totality within an immeasurable unit.\"\\n\\n\\t\\tMind of the Spiral, Vol. II",
+      "dialogue_text": "\"If Time is but another dimension to traverse, a simple stroll into the past or future becomes trivial.\n\n\t\tThus, in pursuit of our purpose, to the path of the Singularity our feet are directed. We go to a place where origin and terminus are one, a genuine closed loop encompassing totality within an immeasurable unit.\"\n\n\t\tMind of the Spiral, Vol. II",
       "responses": {
         "A": {
           "response_text": "...",
@@ -71,7 +71,7 @@
       }
     },
     "MIND!THE BOOK OF THETIAN!THE BEGINNING!1.000!DESCRIPTION!": {
-      "dialogue_text": "\"Le Stuff\"\\n\\n\\t\\tMind of the Spiral, Vol. V",
+      "dialogue_text": "\"Le Stuff\"\n\n\t\tMind of the Spiral, Vol. V",
       "responses": {
         "A": {
           "response_text": "...",
@@ -91,7 +91,7 @@
       }
     },
     "MIND!THE BOOK OF WULFIAS!THE BEGINNING!1.000!DESCRIPTION!": {
-      "dialogue_text": "\"Le Stuff\"\\n\\n\\t\\tMind of the Spiral, Vol. IX",
+      "dialogue_text": "\"Le Stuff\"\n\n\t\tMind of the Spiral, Vol. IX",
       "responses": {
         "A": {
           "response_text": "...",
@@ -140,7 +140,7 @@
       }
     },
     "MIND!UNFINISHED BUSINESS!NOT THE END!1.000!DESCRIPTION!": {
-      "dialogue_text": "Conversations... Connections... Conflicts... So much left undone. So many people left to unite. Differences become negligible under the light of true and meaningful communication. We may not always see eye to eye, yet in admitting so, we can finally march on toward a mutually beneficial compromise.\\n\\n\\t\\tThis cannot possibly be the end. We will not let it be!",
+      "dialogue_text": "Conversations... Connections... Conflicts... So much left undone. So many people left to unite. Differences become negligible under the light of true and meaningful communication. We may not always see eye to eye, yet in admitting so, we can finally march on toward a mutually beneficial compromise.\n\n\t\tThis cannot possibly be the end. We will not let it be!",
       "responses": {
         "A": {
           "response_text": "...",
@@ -160,7 +160,7 @@
       }
     },
     "MIND!UNFINISHED BUSINESS!NOT THE END!3.000!DESCRIPTION!": {
-      "dialogue_text": "Ambivalence... Complacence... Equivocation... For who cares what happens next? Detached observation is the only reasonable way to live in a universe both cold and dispassionate in equal measure. In truth, the only choice to make is whether we let its vicissitudes and whims control our tempers. Events cannot upset the Mind, only opinions of them can.\\n\\n\\t\\tThus, all there is to do is patiently wait for the next show to start and watch it as it slowly unfolds before the Falseflesh's eyes.",
+      "dialogue_text": "Ambivalence... Complacence... Equivocation... For who cares what happens next? Detached observation is the only reasonable way to live in a universe both cold and dispassionate in equal measure. In truth, the only choice to make is whether we let its vicissitudes and whims control our tempers. Events cannot upset the Mind, only opinions of them can.\n\n\t\tThus, all there is to do is patiently wait for the next show to start and watch it as it slowly unfolds before the Falseflesh's eyes.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -170,7 +170,7 @@
       }
     },
     "MIND!UNFINISHED BUSINESS!NOT THE END!4.000!DESCRIPTION!": {
-      "dialogue_text": "Schemes... Manipulation... Awareness... All tools required for survival. But the one who laughs last, laughs best... Indeed. Yet caution must be observed and celebration postponed until victory - absolute and undeniable - peeks its rosy visage above tomorrow's horizon.\\n\\n\\t\\tHowever, tomorrow delays its arrival, and at today's uncertain edge it is impossible to see anything but the shadows of ignorance. Silent, dreadful, oppressive, this abyssal chaos waxes as our sanity wanes and patiently waits for it to exhaust itself in the solitude of our thoughts. But darkness does not last forever... Does it?",
+      "dialogue_text": "Schemes... Manipulation... Awareness... All tools required for survival. But the one who laughs last, laughs best... Indeed. Yet caution must be observed and celebration postponed until victory - absolute and undeniable - peeks its rosy visage above tomorrow's horizon.\n\n\t\tHowever, tomorrow delays its arrival, and at today's uncertain edge it is impossible to see anything but the shadows of ignorance. Silent, dreadful, oppressive, this abyssal chaos waxes as our sanity wanes and patiently waits for it to exhaust itself in the solitude of our thoughts. But darkness does not last forever... Does it?",
       "responses": {
         "A": {
           "response_text": "...",
@@ -180,7 +180,7 @@
       }
     },
     "MIND!UNFINISHED BUSINESS!NOT THE END!5.000!DESCRIPTION!": {
-      "dialogue_text": "Power... Strength... Dominance... Ever-lusting for my rightful obeisance from the slobbering masses. The day will come when none - neither beast nor god - will stand in my way. For this is what I should desire, is it not? Is there any sweeter symphony that the lamentations of my enemies? Are there any scents more enticing than blood and fire? And what could surpass the destruction - past, present and future - wrought by these hands?\\n\\n\\t\\tIn time, the circle will be complete and this universe will bow to its new master... Right before I destroy it utterly.",
+      "dialogue_text": "Power... Strength... Dominance... Ever-lusting for my rightful obeisance from the slobbering masses. The day will come when none - neither beast nor god - will stand in my way. For this is what I should desire, is it not? Is there any sweeter symphony that the lamentations of my enemies? Are there any scents more enticing than blood and fire? And what could surpass the destruction - past, present and future - wrought by these hands?\n\n\t\tIn time, the circle will be complete and this universe will bow to its new master... Right before I destroy it utterly.",
       "responses": {
         "A": {
           "response_text": "...",
@@ -190,7 +190,7 @@
       }
     },
     "MIND!UNFINISHED BUSINESS!NOT THE END!6.000!DESCRIPTION!": {
-      "dialogue_text": "...Oh, hey, you found this... well, uh... I can guarantee you that I'm no gremlin wizard trying to mislead you... NO! I swear it! By Roostor's mighty comb, I swear it! So believe me when I say that the gremlins ate this book! Indeed, the author fought long and hard against the blasted vermin. But alas! Ultimately, the malodorous wretches birthed from a Jinn's colon outmaneuvered him through a clever ruse! They pointed over yonder, drawing the author's gaze thence, and next proceeded to pilfer the manuscript while he conscientiously sought what they had seen.\\n\\n\\t\\tUnfortunately, the true victims are the readers! For now they must wait another eternity - or two - for this to be re-written! But fortunately, you can kill gremlins ad nauseam in one of the other available titles until this one comes out!",
+      "dialogue_text": "...Oh, hey, you found this... well, uh... I can guarantee you that I'm no gremlin wizard trying to mislead you... NO! I swear it! By Roostor's mighty comb, I swear it! So believe me when I say that the gremlins ate this book! Indeed, the author fought long and hard against the blasted vermin. But alas! Ultimately, the malodorous wretches birthed from a Jinn's colon outmaneuvered him through a clever ruse! They pointed over yonder, drawing the author's gaze thence, and next proceeded to pilfer the manuscript while he conscientiously sought what they had seen.\n\n\t\tUnfortunately, the true victims are the readers! For now they must wait another eternity - or two - for this to be re-written! But fortunately, you can kill gremlins ad nauseam in one of the other available titles until this one comes out!",
       "responses": {
         "A": {
           "response_text": "TALLY HO",
