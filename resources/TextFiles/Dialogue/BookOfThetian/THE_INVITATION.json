@@ -1,1 +1,22 @@
-{ "dialogue": {"JER!THE INVITATION!MEETING HALL!540.X000!DESCRIPTION!": {"dialogue_text": "Here Thetian is invited further into the cult. If he accepts, this encourages more folk to join the cause. However, if you have enough dirt on them (from AN EVENING IN THE LIBRARY) and have also achieved friendship with the Inn patrons (from THE HART AND HAWTHORN) you can get them to fuck up the cult's shit. However, they run amok and go after the mystics next.", "responses": {"A": {"response_text": "Join the cult.", "points": 0, "dest_add": "JER!THE TRUE MASTER!MEETING HALL!640.X000!DESCRIPTION!"}, "B": {"response_text": "Let loose the dogs of war.", "points": 0, "dest_add": "JER!A TIDE OF BLOOD!VALONHEIM TOWN SQUARE!610.X000!DESCRIPTION!"}}}}, "events": {}, "npc_switchers": {}, "fighting_words": {}}
+{
+  "dialogue": {
+    "JER!THE INVITATION!MEETING HALL!540.X000!DESCRIPTION!": {
+      "dialogue_text": "Here Thetian is invited further into the cult. If he accepts, this encourages more folk to join the cause. However, if you have enough dirt on them (from AN EVENING IN THE LIBRARY) and have also achieved friendship with the Inn patrons (from THE HART AND HAWTHORN) you can get them to fuck up the cult's shit. However, they run amok and go after the mystics next.",
+      "responses": {
+        "A": {
+          "response_text": "Join the cult.",
+          "points": 0,
+          "dest_add": "JER!THE TRUE MASTER!MEETING HALL!640.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Let loose the dogs of war.",
+          "points": 0,
+          "dest_add": "JER!A TIDE OF BLOOD!VALONHEIM TOWN SQUARE!610.X000!DESCRIPTION!"
+        }
+      }
+    }
+  },
+  "events": {},
+  "npc_switchers": {},
+  "fighting_words": {}
+}

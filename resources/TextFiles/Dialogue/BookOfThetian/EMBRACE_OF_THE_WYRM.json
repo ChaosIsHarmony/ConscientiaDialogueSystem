@@ -1,1 +1,17 @@
-{ "dialogue": {"JER!EMBRACE OF THE WYRM!SERPENT ISLE!650.X000!DESCRIPTION!": {"dialogue_text": "This is the Jormangund ending. Here, the player discovers that the great sacrifice that was demanded by the old gods that gave birth to the serpent was incomplete. It demands one more life. Thetian absorbs Jormangund. However, he is stranded on the abandoned Serpent Isle forever.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "END GAME!END GAME!END GAME!"}}}}, "events": {}, "npc_switchers": {}, "fighting_words": {}}
+{
+  "dialogue": {
+    "JER!EMBRACE OF THE WYRM!SERPENT ISLE!650.X000!DESCRIPTION!": {
+      "dialogue_text": "This is the Jormangund ending. Here, the player discovers that the great sacrifice that was demanded by the old gods that gave birth to the serpent was incomplete. It demands one more life. Thetian absorbs Jormangund. However, he is stranded on the abandoned Serpent Isle forever.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "END GAME!END GAME!END GAME!"
+        }
+      }
+    }
+  },
+  "events": {},
+  "npc_switchers": {},
+  "fighting_words": {}
+}

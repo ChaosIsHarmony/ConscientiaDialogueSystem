@@ -51,9 +51,11 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 	}
 
 	public String preprocessNewAddress(String newAddress) {
+    System.out.println("ConscientiaDialogueProcessor: Address: " + newAddress);
 		boolean updateNpcAddress = true;
 		String newLocation = parseLocation(newAddress);
 		this.currentNpc = parseNewNpc(newAddress);
+    System.out.println("ConscientiaDialogueProcessor: NPC: " + this.currentNpc.getName() + " | " + this.currentNpc.getId());
 
 		// check if location has changed
 		if (changedLocations(newLocation))	{
@@ -135,7 +137,6 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 			return preprocessNewAddress(mb.getDestinationAddress(gameDataManager));
 		}
 		// cues
-    System.out.println("ConscientiaDialogueProcessor:handleTriggers: ????.");
     System.out.println("ConscientiaDialogueProcessor:handleTriggers: Unimplemented Section - checking for X-addresses [cues, others(?)].");
     return newAddress;
 	}
@@ -144,13 +145,11 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
     System.out.println("ConscientiaDialogueProcessor:handleAction: " + newAddress);
     // isolate action-related object
     JsonObject dialogueBlockJson = (JsonObject) dialogueJson.get(newAddress);
+    if (dialogueBlockJson == null)  return newAddress; // if not a dialogue block, then return newAddress
     
-    // if it's an accidental .X address (i.e., no action), then return newAddress
-    if ((JsonObject) dialogueBlockJson.get(Constants.DIALOGUE_ACTION) == null)
-      return newAddress;
-
 		// parse out action symbol and addresses
 		JsonObject actionJson = (JsonObject) dialogueBlockJson.get(Constants.DIALOGUE_ACTION);
+    if (actionJson == null)  return newAddress; // if not action, then return newAddress
 		String actionSymbol = actionJson.get(Constants.ACTION_TYPE).getAsString();
 
 		// @-forcer

@@ -1,1 +1,82 @@
-{ "dialogue": {"JER!PROLOGUE!THE WESTERN ROAD!0.000!DESCRIPTION!": {"dialogue_text": "The swirl of mist. The smell of salt. The sound of crows overhead and gulls in the distance. The damp cold that crept into my bones as my garments wicked the moisture from the air all around. These were the familiar heralds of my approach to Valonheim. Sensations I had not experienced since I departing all those years ago, save for in my dreams. Ever did the waves of the sea lap upon the shores of my memory in both sleep and waking.\n\t\t\n\t\tI came to a fork in the road. The path I now followed went straight into town. The other, was a rarely used bypass I had used in my youth. More of a game trail than a proper road.", "responses": {"A": {"response_text": "Keep to the main road.", "points": 0, "dest_add": "JER!PROLOGUE!VALONHEIM TOWN SQUARE!0.001!DESCRIPTION!"}, "B": {"response_text": "Take the game trail.", "points": 0, "dest_add": "JER!PROLOGUE!THE HUNTING PATH!0.001!DESCRIPTION!"}}}, "JER!PROLOGUE!VALONHEIM TOWN SQUARE!0.001!DESCRIPTION!": {"dialogue_text": "By and by, I came to it. The place of my birth: Valonheim. Never had my homeland looked more forboding than it did now. There was an inn with many voices of many folk. There was also my family home.", "responses": {"A": {"response_text": "I went to the inn.", "points": 0, "dest_add": "JER!PROLOGUE!VALONHEIM TOWN SQUARE!0.012!DESCRIPTION!"}, "B": {"response_text": "I went to my home.", "points": 0, "dest_add": "JER!PROLOGUE!BRYNMOR MANOR GROUNDS!0.022!DESCRIPTION!"}}}, "JER!PROLOGUE!THE HUNTING PATH!0.001!DESCRIPTION!": {"dialogue_text": "Never had my homeland looked more forboding than it did now. I saw my family home up ahead, sitting atop a seaside cliff. Before me also stretched the shoreline.", "responses": {"A": {"response_text": "I walked along the shore.", "points": 0, "dest_add": "JER!PROLOGUE!WHITESTONE COVE!0.032!DESCRIPTION!"}, "B": {"response_text": "I went to my home.", "points": 0, "dest_add": "JER!PROLOGUE!BRYNMOR MANOR GROUNDS!0.022!DESCRIPTION!"}}}, "JER!PROLOGUE!VALONHEIM TOWN SQUARE!0.012!DESCRIPTION!": {"dialogue_text": "The Hart and Hawthorn Inn stood before me. Music and laughter could be heard. I opened the door and walked inside.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!THE HART AND THE HAWTHORN!INN!110.000!DESCRIPTION!"}}}, "JER!PROLOGUE!BRYNMOR MANOR GROUNDS!0.022!DESCRIPTION!": {"dialogue_text": "The pink granite of the Manor stood before me. I walked up to the great oaken door, unlocked it, and went inside.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!HOMECOMING!THE FOYER!120.000!DESCRIPTION!"}}}, "JER!PROLOGUE!WHITESTONE COVE!0.032!DESCRIPTION!": {"dialogue_text": "I walked along the misty shore until I came to the small cove. Then, I saw something interesting:\n\t\t\n\t\t-Story concept: Thetian has some vision of an idealised female, out in the water. I was thinking he could have had a childhood friend who drowned and he still imagines she is alive subconsiously. His own personal Lady of the Lake. This can be used against him. Thetian needs to have some kind of baggage from his life here and not simply the messed up stuff that happened in the enclave. Obviously abuse is one thing but it might also be good if he has some girl issues that allow him to be hoodwinked my Mortis or Midnight or whatever.", "responses": {"B": {"response_text": "I went to my home.", "points": 0, "dest_add": "JER!PROLOGUE!BRYNMOR MANOR GROUNDS!0.022!DESCRIPTION!"}}}}, "events": {}, "npc_switchers": {}, "fighting_words": {}}
+{
+  "dialogue": {
+    "JER!PROLOGUE!THE WESTERN ROAD!0.000!DESCRIPTION!": {
+      "dialogue_text": "The swirl of mist. The smell of salt. The sound of crows overhead and gulls in the distance. The damp cold that crept into my bones as my garments wicked the moisture from the air all around. These were the familiar heralds of my approach to Valonheim. Sensations I had not experienced since I departing all those years ago, save for in my dreams. Ever did the waves of the sea lap upon the shores of my memory in both sleep and waking.\n\t\t\n\t\tI came to a fork in the road. The path I now followed went straight into town. The other, was a rarely used bypass I had used in my youth. More of a game trail than a proper road.",
+      "responses": {
+        "A": {
+          "response_text": "Keep to the main road.",
+          "points": 0,
+          "dest_add": "JER!PROLOGUE!VALONHEIM TOWN SQUARE!0.001!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Take the game trail.",
+          "points": 0,
+          "dest_add": "JER!PROLOGUE!THE HUNTING PATH!0.001!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!PROLOGUE!VALONHEIM TOWN SQUARE!0.001!DESCRIPTION!": {
+      "dialogue_text": "By and by, I came to it. The place of my birth: Valonheim. Never had my homeland looked more forboding than it did now. There was an inn with many voices of many folk. There was also my family home.",
+      "responses": {
+        "A": {
+          "response_text": "I went to the inn.",
+          "points": 0,
+          "dest_add": "JER!PROLOGUE!VALONHEIM TOWN SQUARE!0.012!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "I went to my home.",
+          "points": 0,
+          "dest_add": "JER!PROLOGUE!BRYNMOR MANOR GROUNDS!0.022!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!PROLOGUE!THE HUNTING PATH!0.001!DESCRIPTION!": {
+      "dialogue_text": "Never had my homeland looked more forboding than it did now. I saw my family home up ahead, sitting atop a seaside cliff. Before me also stretched the shoreline.",
+      "responses": {
+        "A": {
+          "response_text": "I walked along the shore.",
+          "points": 0,
+          "dest_add": "JER!PROLOGUE!WHITESTONE COVE!0.032!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "I went to my home.",
+          "points": 0,
+          "dest_add": "JER!PROLOGUE!BRYNMOR MANOR GROUNDS!0.022!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!PROLOGUE!VALONHEIM TOWN SQUARE!0.012!DESCRIPTION!": {
+      "dialogue_text": "The Hart and Hawthorn Inn stood before me. Music and laughter could be heard. I opened the door and walked inside.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!THE HART AND THE HAWTHORN!INN!110.000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!PROLOGUE!BRYNMOR MANOR GROUNDS!0.022!DESCRIPTION!": {
+      "dialogue_text": "The pink granite of the Manor stood before me. I walked up to the great oaken door, unlocked it, and went inside.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!HOMECOMING!THE FOYER!120.000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!PROLOGUE!WHITESTONE COVE!0.032!DESCRIPTION!": {
+      "dialogue_text": "I walked along the misty shore until I came to the small cove. Then, I saw something interesting:\n\t\t\n\t\t-Story concept: Thetian has some vision of an idealised female, out in the water. I was thinking he could have had a childhood friend who drowned and he still imagines she is alive subconsiously. His own personal Lady of the Lake. This can be used against him. Thetian needs to have some kind of baggage from his life here and not simply the messed up stuff that happened in the enclave. Obviously abuse is one thing but it might also be good if he has some girl issues that allow him to be hoodwinked my Mortis or Midnight or whatever.",
+      "responses": {
+        "B": {
+          "response_text": "I went to my home.",
+          "points": 0,
+          "dest_add": "JER!PROLOGUE!BRYNMOR MANOR GROUNDS!0.022!DESCRIPTION!"
+        }
+      }
+    }
+  },
+  "events": {},
+  "npc_switchers": {},
+  "fighting_words": {}
+}

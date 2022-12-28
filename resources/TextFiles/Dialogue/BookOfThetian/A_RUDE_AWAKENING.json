@@ -269,7 +269,7 @@
         "B": {
           "response_text": "Snoop around.",
           "points": 0,
-          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1118!DESCRIPTION!"
+          "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1121!DESCRIPTION!"
         }
       }
     },
@@ -503,7 +503,7 @@
         "A": {
           "response_text": "...",
           "points": 0,
-          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X2101!DESCRIPTION!"
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X2001!DESCRIPTION!"
         }
       }
     },
@@ -517,7 +517,7 @@
         "A": {
           "response_text": "...",
           "points": 0,
-          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X2101!DESCRIPTION!"
+          "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!9999.X2001!DESCRIPTION!"
         }
       }
     },
@@ -642,9 +642,9 @@
       "event_num": 1115,
       "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X029!BISHOP!"
     },
-    "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1118!DESCRIPTION!": {
+    "JER!A RUDE AWAKENING!THE CIRCLE!9990.X1118!DESCRIPTION!": {
       "event_num": 1118,
-      "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X024!DESCRIPTION!"
+      "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X024!DESCRIPTION!"
     },
     "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1119!BISHOP!": {
       "event_num": 1119,
@@ -653,6 +653,10 @@
     "JER!A RUDE AWAKENING!THE CIRCLE!9990.X1120!VITRIOX!": {
       "event_num": 1120,
       "dest_add": "JER!A RUDE AWAKENING!THE CIRCLE!222.X200!VITRIOX!"
+    },
+    "JER!A RUDE AWAKENING!BASILLICA CRYPT!9990.X1121!DESCRIPTION!": {
+      "event_num": 1121,
+      "dest_add": "JER!A RUDE AWAKENING!BASILLICA CRYPT!221.X024!DESCRIPTION!"
     }
   },
   "npc_switchers": {

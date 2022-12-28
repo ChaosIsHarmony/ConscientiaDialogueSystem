@@ -31,7 +31,8 @@ public class CDS {
 		String currentLocation =
 			(String) gameDataManager.getPlayerValue(Constants.PLAYER_CURRENT_LOCATION).getValue();
 
-    System.out.println(currentLocation);
+    System.out.println("CDS: Initial Location: " + currentLocation);
+    System.out.println("CDS: Initial NPC: " + initialNpc.getName() + " | " + initialNpc.getId());
 		this.nextAddress = initialNpc.getDialogueAddress(currentLocation);
 
 		// start game loop

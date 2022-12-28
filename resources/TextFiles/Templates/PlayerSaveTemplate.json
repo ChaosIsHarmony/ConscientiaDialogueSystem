@@ -489,7 +489,7 @@
     {
       "1118": {
         "value": false,
-        "description": "You snooped around"
+        "description": "You snooped around (Vitriox)"
       }
     },
     {
@@ -502,6 +502,12 @@
       "1120": {
         "value": false,
         "description": "You agreed to go to Roderick's mansion"
+      }
+    },
+    {
+      "1121": {
+        "value": false,
+        "description": "You snooped around (Bishop)"
       }
     },
     {

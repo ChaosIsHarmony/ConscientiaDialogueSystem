@@ -1,1 +1,22 @@
-{ "dialogue": {"JER!AMONG FRIENDS!VALONHEIM TOWN SQUARE!510.X000!DESCRIPTION!": {"dialogue_text": "In this quest, Thetian is on the path to completing the cult or church paths. He has now got a following behind him. The folk of the town like or fear him and they are ready to follow his lead. At this point, he can direct them to go against the mystics at the docks or he can directl them to join the cult.", "responses": {"A": {"response_text": "Get them to attack the mystics.", "points": 0, "dest_add": "JER!A TIDE OF BLOOD!VALONHEIM TOWN SQUARE!610.X000!DESCRIPTION!"}, "B": {"response_text": "Get them to follow the cult.", "points": 0, "dest_add": "JER!THE TRUE MASTER!MEETING HALL!640.X000!DESCRIPTION!"}}}}, "events": {}, "npc_switchers": {}, "fighting_words": {}}
+{
+  "dialogue": {
+    "JER!AMONG FRIENDS!VALONHEIM TOWN SQUARE!510.X000!DESCRIPTION!": {
+      "dialogue_text": "In this quest, Thetian is on the path to completing the cult or church paths. He has now got a following behind him. The folk of the town like or fear him and they are ready to follow his lead. At this point, he can direct them to go against the mystics at the docks or he can direct them to join the cult.",
+      "responses": {
+        "A": {
+          "response_text": "Get them to attack the mystics.",
+          "points": 0,
+          "dest_add": "JER!A TIDE OF BLOOD!VALONHEIM TOWN SQUARE!610.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Get them to follow the cult.",
+          "points": 0,
+          "dest_add": "JER!THE TRUE MASTER!MEETING HALL!640.X000!DESCRIPTION!"
+        }
+      }
+    }
+  },
+  "events": {},
+  "npc_switchers": {},
+  "fighting_words": {}
+}

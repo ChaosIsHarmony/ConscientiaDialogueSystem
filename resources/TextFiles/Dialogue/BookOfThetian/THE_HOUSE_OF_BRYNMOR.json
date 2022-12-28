@@ -1,1 +1,337 @@
-{ "dialogue": {"JER!THE HOUSE OF BRYNMOR!A HIDDEN PASSAGE!200.X000!DESCRIPTION!": {"dialogue_text": "Now I was free to go where I pleased.", "responses": {"A": {"response_text": "The study", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE STUDY!200.X000!DESCRIPTION!"}, "B": {"response_text": "The cliffside refuge", "points": 0, "dest_add": "JER!VALONHEIM!CLIFFSIDE REFUGE!200.X000!DESCRIPTION!"}, "C": {"response_text": "The manor grounds", "points": 0, "dest_add": "JER!VALONHEIM!THE HOUSE OF BRYNMOR GROUNDS!200.X000!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE ATTIC!200.X000!DESCRIPTION!": {"dialogue_text": "The door was locked.", "responses": {"A": {"response_text": "Explore the manor", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE ATTIC!2222.X9999!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE ATTIC!2222.X9999!DESCRIPTION!": {"dialogue_text": "From here I could go to the study, the upper hall or my chambers.", "responses": {"A": {"response_text": "The study", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE STUDY!200.X000!DESCRIPTION!"}, "B": {"response_text": "The upper hall", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE UPPER HALL!200.X000!DESCRIPTION!"}, "C": {"response_text": "The chambers", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE MASTER'S CHAMBERS!200.X000!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE DINING ROOM!200.X000!DESCRIPTION!": {"dialogue_text": "", "responses": {"A": {"response_text": "Explore the manor", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE DINING ROOM!2222.X9999!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE DINING ROOM!2222.X9999!DESCRIPTION!": {"dialogue_text": "From here I could go to the foyer, the kitchen or the servant's quarters.", "responses": {"A": {"response_text": "The foyer", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE FOYER!200.X000!DESCRIPTION!"}, "B": {"response_text": "The kitchen", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE KITCHEN!200.X000!DESCRIPTION!"}, "C": {"response_text": "The servant's quarters", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE SERVANT'S QUARTERS!200.X000!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!BRYNMOR LIBRARY!200.X000!DESCRIPTION!": {"dialogue_text": "There are books everywhere.", "responses": {"A": {"response_text": "Explore the manor", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!BRYNMOR LIBRARY!2222.X9999!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!BRYNMOR LIBRARY!2222.X9999!DESCRIPTION!": {"dialogue_text": "From here I could go to the foyer or the cellar.", "responses": {"A": {"response_text": "The foyer", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE FOYER!200.X000!DESCRIPTION!"}, "B": {"response_text": "The cellar", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE WINE CELLAR!200.X000!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE FOYER!200.X000!DESCRIPTION!": {"dialogue_text": "", "responses": {"A": {"response_text": "Explore the manor", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE FOYER!2222.X9999!DESCRIPTION!"}, "B": {"response_text": "Explore the upper floor", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE UPPER HALL!200.X000!DESCRIPTION!"}, "C": {"response_text": "Leave the manor", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE FOYER!7777.X9999!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE FOYER!2222.X9999!DESCRIPTION!": {"dialogue_text": "From here I could go to the library, the dining room or the cellar.", "responses": {"A": {"response_text": "The library", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!BRYNMOR LIBRARY!200.X000!DESCRIPTION!"}, "B": {"response_text": "The cellar", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE WINE CELLAR!200.X000!DESCRIPTION!"}, "C": {"response_text": "The dining room", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE DINING ROOM!200.X000!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE FOYER!7777.X9999!DESCRIPTION!": {"dialogue_text": "I left the manor.", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "JER!LOOSE ENDS!VALONHEIM TOWN SQUARE!200.X000!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE KITCHEN!200.X000!DESCRIPTION!": {"dialogue_text": "", "responses": {"A": {"response_text": "Explore the manor", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE KITCHEN!2222.X9999!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE KITCHEN!2222.X9999!DESCRIPTION!": {"dialogue_text": "From here I could go to the foyer, the dining room or the servant's quarters.", "responses": {"A": {"response_text": "The foyer", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE FOYER!200.X000!DESCRIPTION!"}, "B": {"response_text": "The dining room", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE DINING ROOM!200.X000!DESCRIPTION!"}, "C": {"response_text": "The servant's quarters", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE SERVANT'S QUARTERS!200.X000!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE MASTER'S CHAMBERS!200.X000!DESCRIPTION!": {"dialogue_text": "", "responses": {"A": {"response_text": "Explore the manor", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE MASTER'S CHAMBERS!2222.X9999!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE MASTER'S CHAMBERS!2222.X9999!DESCRIPTION!": {"dialogue_text": "From here I could go to the attic, the study or the upper hall.", "responses": {"A": {"response_text": "The attic", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE ATTIC!200.X000!DESCRIPTION!"}, "B": {"response_text": "The study", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE STUDY!200.X000!DESCRIPTION!"}, "C": {"response_text": "The upper hall", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE UPPER HALL!200.X000!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE SERVANT'S QUARTERS!200.X000!DESCRIPTION!": {"dialogue_text": "", "responses": {"A": {"response_text": "Explore the manor", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE SERVANT'S QUARTERS!2222.X9999!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE SERVANT'S QUARTERS!2222.X9999!DESCRIPTION!": {"dialogue_text": "From here I could go to the kitchen or the dining room.", "responses": {"A": {"response_text": "The kitchen", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE KITCHEN!200.X000!DESCRIPTION!"}, "B": {"response_text": "The dining room", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE DINING ROOM!200.X000!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE STUDY!200.X000!DESCRIPTION!": {"dialogue_text": "", "responses": {"A": {"response_text": "Explore the manor", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE STUDY!2222.X9999!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE STUDY!2222.X9999!DESCRIPTION!": {"dialogue_text": "From here I could go to the attic, the upper hall or my chambers.", "responses": {"A": {"response_text": "The attic", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE ATTIC!200.X000!DESCRIPTION!"}, "B": {"response_text": "The upper hall", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE UPPER HALL!200.X000!DESCRIPTION!"}, "C": {"response_text": "The chambers", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE MASTER'S CHAMBERS!200.X000!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE UPPER HALL!200.X000!DESCRIPTION!": {"dialogue_text": "", "responses": {"A": {"response_text": "Explore the manor", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE UPPER HALL!2222.X9999!DESCRIPTION!"}, "B": {"response_text": "Walk down to the foyer", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE FOYER!200.X000!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE UPPER HALL!2222.X9999!DESCRIPTION!": {"dialogue_text": "From here I could go to the living quarters, the study or the attic.", "responses": {"A": {"response_text": "The attic", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE ATTIC!200.X000!DESCRIPTION!"}, "B": {"response_text": "The study", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE STUDY!200.X000!DESCRIPTION!"}, "C": {"response_text": "The chambers", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE MASTER'S CHAMBERS!200.X000!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE WINE CELLAR!200.X000!DESCRIPTION!": {"dialogue_text": "", "responses": {"A": {"response_text": "Explore the manor", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE WINE CELLAR!2222.X9999!DESCRIPTION!"}}}, "JER!THE HOUSE OF BRYNMOR!THE WINE CELLAR!2222.X9999!DESCRIPTION!": {"dialogue_text": "From here I could go to the library or the foyer.", "responses": {"A": {"response_text": "The library", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!BRYNMOR LIBRARY!200.X000!DESCRIPTION!"}, "B": {"response_text": "The foyer", "points": 0, "dest_add": "JER!THE HOUSE OF BRYNMOR!THE FOYER!200.X000!DESCRIPTION!"}}}}, "events": {}, "npc_switchers": {}, "fighting_words": {}}
+{
+  "dialogue": {
+    "JER!THE HOUSE OF BRYNMOR!A HIDDEN PASSAGE!200.X000!DESCRIPTION!": {
+      "dialogue_text": "Now I was free to go where I pleased.",
+      "responses": {
+        "A": {
+          "response_text": "The study",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE STUDY!200.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "The cliffside refuge",
+          "points": 0,
+          "dest_add": "JER!VALONHEIM!CLIFFSIDE REFUGE!200.X000!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "The manor grounds",
+          "points": 0,
+          "dest_add": "JER!VALONHEIM!THE HOUSE OF BRYNMOR GROUNDS!200.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE ATTIC!200.X000!DESCRIPTION!": {
+      "dialogue_text": "The door was locked.",
+      "responses": {
+        "A": {
+          "response_text": "Explore the manor",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE ATTIC!2222.X9999!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE ATTIC!2222.X9999!DESCRIPTION!": {
+      "dialogue_text": "From here I could go to the study, the upper hall or my chambers.",
+      "responses": {
+        "A": {
+          "response_text": "The study",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE STUDY!200.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "The upper hall",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE UPPER HALL!200.X000!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "The chambers",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE MASTER'S CHAMBERS!200.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE DINING ROOM!200.X000!DESCRIPTION!": {
+      "dialogue_text": "",
+      "responses": {
+        "A": {
+          "response_text": "Explore the manor",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE DINING ROOM!2222.X9999!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE DINING ROOM!2222.X9999!DESCRIPTION!": {
+      "dialogue_text": "From here I could go to the foyer, the kitchen or the servant's quarters.",
+      "responses": {
+        "A": {
+          "response_text": "The foyer",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE FOYER!200.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "The kitchen",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE KITCHEN!200.X000!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "The servant's quarters",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE SERVANT'S QUARTERS!200.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!BRYNMOR LIBRARY!200.X000!DESCRIPTION!": {
+      "dialogue_text": "There are books everywhere.",
+      "responses": {
+        "A": {
+          "response_text": "Explore the manor",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!BRYNMOR LIBRARY!2222.X9999!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!BRYNMOR LIBRARY!2222.X9999!DESCRIPTION!": {
+      "dialogue_text": "From here I could go to the foyer or the cellar.",
+      "responses": {
+        "A": {
+          "response_text": "The foyer",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE FOYER!200.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "The cellar",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE WINE CELLAR!200.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE FOYER!200.X000!DESCRIPTION!": {
+      "dialogue_text": "",
+      "responses": {
+        "A": {
+          "response_text": "Explore the manor",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE FOYER!2222.X9999!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Explore the upper floor",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE UPPER HALL!200.X000!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "Leave the manor",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE FOYER!7777.X9999!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE FOYER!2222.X9999!DESCRIPTION!": {
+      "dialogue_text": "From here I could go to the library, the dining room or the cellar.",
+      "responses": {
+        "A": {
+          "response_text": "The library",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!BRYNMOR LIBRARY!200.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "The cellar",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE WINE CELLAR!200.X000!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "The dining room",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE DINING ROOM!200.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE FOYER!7777.X9999!DESCRIPTION!": {
+      "dialogue_text": "I left the manor.",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "JER!LOOSE ENDS!VALONHEIM TOWN SQUARE!200.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE KITCHEN!200.X000!DESCRIPTION!": {
+      "dialogue_text": "",
+      "responses": {
+        "A": {
+          "response_text": "Explore the manor",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE KITCHEN!2222.X9999!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE KITCHEN!2222.X9999!DESCRIPTION!": {
+      "dialogue_text": "From here I could go to the foyer, the dining room or the servant's quarters.",
+      "responses": {
+        "A": {
+          "response_text": "The foyer",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE FOYER!200.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "The dining room",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE DINING ROOM!200.X000!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "The servant's quarters",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE SERVANT'S QUARTERS!200.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE MASTER'S CHAMBERS!200.X000!DESCRIPTION!": {
+      "dialogue_text": "",
+      "responses": {
+        "A": {
+          "response_text": "Explore the manor",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE MASTER'S CHAMBERS!2222.X9999!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE MASTER'S CHAMBERS!2222.X9999!DESCRIPTION!": {
+      "dialogue_text": "From here I could go to the attic, the study or the upper hall.",
+      "responses": {
+        "A": {
+          "response_text": "The attic",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE ATTIC!200.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "The study",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE STUDY!200.X000!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "The upper hall",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE UPPER HALL!200.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE SERVANT'S QUARTERS!200.X000!DESCRIPTION!": {
+      "dialogue_text": "",
+      "responses": {
+        "A": {
+          "response_text": "Explore the manor",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE SERVANT'S QUARTERS!2222.X9999!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE SERVANT'S QUARTERS!2222.X9999!DESCRIPTION!": {
+      "dialogue_text": "From here I could go to the kitchen or the dining room.",
+      "responses": {
+        "A": {
+          "response_text": "The kitchen",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE KITCHEN!200.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "The dining room",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE DINING ROOM!200.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE STUDY!200.X000!DESCRIPTION!": {
+      "dialogue_text": "",
+      "responses": {
+        "A": {
+          "response_text": "Explore the manor",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE STUDY!2222.X9999!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE STUDY!2222.X9999!DESCRIPTION!": {
+      "dialogue_text": "From here I could go to the attic, the upper hall or my chambers.",
+      "responses": {
+        "A": {
+          "response_text": "The attic",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE ATTIC!200.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "The upper hall",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE UPPER HALL!200.X000!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "The chambers",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE MASTER'S CHAMBERS!200.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE UPPER HALL!200.X000!DESCRIPTION!": {
+      "dialogue_text": "",
+      "responses": {
+        "A": {
+          "response_text": "Explore the manor",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE UPPER HALL!2222.X9999!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Walk down to the foyer",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE FOYER!200.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE UPPER HALL!2222.X9999!DESCRIPTION!": {
+      "dialogue_text": "From here I could go to the living quarters, the study or the attic.",
+      "responses": {
+        "A": {
+          "response_text": "The attic",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE ATTIC!200.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "The study",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE STUDY!200.X000!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "The chambers",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE MASTER'S CHAMBERS!200.X000!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE WINE CELLAR!200.X000!DESCRIPTION!": {
+      "dialogue_text": "",
+      "responses": {
+        "A": {
+          "response_text": "Explore the manor",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE WINE CELLAR!2222.X9999!DESCRIPTION!"
+        }
+      }
+    },
+    "JER!THE HOUSE OF BRYNMOR!THE WINE CELLAR!2222.X9999!DESCRIPTION!": {
+      "dialogue_text": "From here I could go to the library or the foyer.",
+      "responses": {
+        "A": {
+          "response_text": "The library",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!BRYNMOR LIBRARY!200.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "The foyer",
+          "points": 0,
+          "dest_add": "JER!THE HOUSE OF BRYNMOR!THE FOYER!200.X000!DESCRIPTION!"
+        }
+      }
+    }
+  },
+  "events": {},
+  "npc_switchers": {},
+  "fighting_words": {}
+}

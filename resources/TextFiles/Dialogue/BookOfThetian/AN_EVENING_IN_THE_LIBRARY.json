@@ -1,1 +1,27 @@
-{ "dialogue": {"JER!AN EVENING IN THE LIBRARY!SILVERHOME LIBRARY!450.X000!DESCRIPTION!": {"dialogue_text": "Here Thetian studies in Roderick's library. However, he can also take this time to snoop around and learn more about his family. There is a painting here that belongs to his family. There are also a number of records about the goings on in the town. What happens totally depends on what Thetian chooses to study. There are three possible outcomes.", "responses": {"A": {"response_text": "Learn about your family.", "points": 0, "dest_add": "JER!THE SHAPE!FOYER!530.X000!DESCRIPTION!"}, "B": {"response_text": "Learn about a history of cult-like activity.", "points": 0, "dest_add": "JER!THE INVITATION!VALONHEIM TOWN SQUARE!540.X000!DESCRIPTION!"}, "C": {"response_text": "Learn about the mystics.", "points": 0, "dest_add": "JER!A JOURNEY ACROSS THE SEA!THE DOCKS!550.X000!DESCRIPTION!"}}}}, "events": {}, "npc_switchers": {}, "fighting_words": {}}
+{
+  "dialogue": {
+    "JER!AN EVENING IN THE LIBRARY!SILVERHOME LIBRARY!450.X000!DESCRIPTION!": {
+      "dialogue_text": "Here Thetian studies in Roderick's library. However, he can also take this time to snoop around and learn more about his family. There is a painting here that belongs to his family. There are also a number of records about the goings on in the town. What happens totally depends on what Thetian chooses to study. There are three possible outcomes.",
+      "responses": {
+        "A": {
+          "response_text": "Learn about your family.",
+          "points": 0,
+          "dest_add": "JER!THE SHAPE!FOYER!530.X000!DESCRIPTION!"
+        },
+        "B": {
+          "response_text": "Learn about a history of cult-like activity.",
+          "points": 0,
+          "dest_add": "JER!THE INVITATION!VALONHEIM TOWN SQUARE!540.X000!DESCRIPTION!"
+        },
+        "C": {
+          "response_text": "Learn about the mystics.",
+          "points": 0,
+          "dest_add": "JER!A JOURNEY ACROSS THE SEA!THE DOCKS!550.X000!DESCRIPTION!"
+        }
+      }
+    }
+  },
+  "events": {},
+  "npc_switchers": {},
+  "fighting_words": {}
+}

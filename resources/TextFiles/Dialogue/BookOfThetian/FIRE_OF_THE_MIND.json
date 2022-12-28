@@ -1,1 +1,17 @@
-{ "dialogue": {"JER!FIRE OF THE MIND!UR'DU!620.X000!DESCRIPTION!": {"dialogue_text": "This is an insanity ending. Here, the player discovers many of the events of Thetian's past, however, they are twisted and distored. They combine with his experiences and the nightmares induced by the book. Here, Thetian is able to destroy Mortis.\n\t\t\n\t\tBiracul should have a hand in dealing with Mortis.\n\n\t\tHe is found sometime later in the Wine Cellar by Flora. He lies dead with his uncle's burned tome beside him. What really became of Mortis?", "responses": {"A": {"response_text": "...", "points": 0, "dest_add": "END GAME!END GAME!END GAME!"}}}}, "events": {}, "npc_switchers": {}, "fighting_words": {}}
+{
+  "dialogue": {
+    "JER!FIRE OF THE MIND!UR'DU!620.X000!DESCRIPTION!": {
+      "dialogue_text": "This is an insanity ending. Here, the player discovers many of the events of Thetian's past, however, they are twisted and distorted. They combine with his experiences and the nightmares induced by the book. Here, Thetian is able to destroy Mortis.\n\t\t\n\t\tBiracul should have a hand in dealing with Mortis.\n\n\t\tHe is found sometime later in the Wine Cellar by Flora. He lies dead with his uncle's burned tome beside him. What really became of Mortis?",
+      "responses": {
+        "A": {
+          "response_text": "...",
+          "points": 0,
+          "dest_add": "END GAME!END GAME!END GAME!"
+        }
+      }
+    }
+  },
+  "events": {},
+  "npc_switchers": {},
+  "fighting_words": {}
+}
