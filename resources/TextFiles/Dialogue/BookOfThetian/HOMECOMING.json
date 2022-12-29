@@ -1,22 +1,22 @@
 {
   "dialogue": {
     "JER!HOMECOMING!THE FOYER!120.000!DESCRIPTION!": {
-      "dialogue_text": "I entered my family home and stood in the foyer. My lantern illuminated a huge mess everywhere. I surveyed the immediate vacinity. Here could be found the passages to the library, the dining hall, kitchen and wine cellar. It seemed as though all the doors on this floor were secured after my uncle's departure. The stairway that dominated the foyer wound up to the second floor, though the state of those rooms could not be seen from here.",
+      "dialogue_text": "I entered my family home and stood in the foyer. My lantern illuminated a huge mess everywhere. I surveyed the immediate vicinity. Here could be found the passages to the library, the dining hall, kitchen and wine cellar. It seemed as though all the doors on this floor were secured after my uncle's departure. The stairway that dominated the foyer wound up to the second floor, though the state of those rooms could not be seen from here.",
       "responses": {
         "A": {
           "response_text": "I started cleaning.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1100!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1100!DESCRIPTION!"
         },
         "B": {
           "response_text": "I searched for a distraction from this task.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1101!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1101!DESCRIPTION!"
         },
         "C": {
           "response_text": "I looked for some wine.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1102!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1102!DESCRIPTION!"
         }
       }
     },
@@ -36,7 +36,7 @@
         "C": {
           "response_text": "I waited to see what would happen.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1106!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1106!DESCRIPTION!"
         }
       }
     },
@@ -56,7 +56,7 @@
         "C": {
           "response_text": "I waited to see what would happen.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1106!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1106!DESCRIPTION!"
         }
       }
     },
@@ -76,7 +76,7 @@
         "C": {
           "response_text": "I pretended I wasn't home.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1106!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1106!DESCRIPTION!"
         }
       }
     },
@@ -134,17 +134,17 @@
         "A": {
           "response_text": "I attempted to read the book.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1107-1!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1107-1!DESCRIPTION!"
         },
         "B": {
           "response_text": "I walked to the library to replace it.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1108-1!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1108-1!DESCRIPTION!"
         },
         "C": {
           "response_text": "I sat down in a nearby chair and gazed at the art.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1109-1!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1109-1!DESCRIPTION!"
         }
       }
     },
@@ -154,17 +154,17 @@
         "A": {
           "response_text": "I attempted to read the book.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1107-1!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1107-1!DESCRIPTION!"
         },
         "B": {
           "response_text": "I walked to the library to replace it.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1108-1!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1108-1!DESCRIPTION!"
         },
         "C": {
           "response_text": "I sat down in a nearby chair and gazed at the art.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1109-1!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1109-1!DESCRIPTION!"
         }
       }
     },
@@ -174,17 +174,17 @@
         "A": {
           "response_text": "I attempted to read the book.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1107-1!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1107-1!DESCRIPTION!"
         },
         "B": {
           "response_text": "I walked to the library to replace it.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1108-1!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1108-1!DESCRIPTION!"
         },
         "C": {
           "response_text": "I sat down in a nearby chair and gazed at the art.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1109-1!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1109-1!DESCRIPTION!"
         }
       }
     },
@@ -294,17 +294,17 @@
         "A": {
           "response_text": "\"The state of the house requires your aid.\"",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1103!FLORA!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1103!FLORA!"
         },
         "B": {
           "response_text": "\"I have no need of servants. You may stay if that is your wish.\"",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1104!FLORA!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1104!FLORA!"
         },
         "C": {
           "response_text": "\"Perhaps it is best that you leave.\"",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1105!FLORA!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1105!FLORA!"
         }
       }
     },
@@ -314,17 +314,17 @@
         "A": {
           "response_text": "\"The state of the house requires your aid.\"",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1103!FLORA!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1103!FLORA!"
         },
         "B": {
           "response_text": "\"I have no need of servants. You may stay if that is your wish.\"",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1104!FLORA!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1104!FLORA!"
         },
         "C": {
           "response_text": "\"Perhaps it is best that you leave.\"",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1105!FLORA!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1105!FLORA!"
         }
       }
     },
@@ -334,17 +334,17 @@
         "A": {
           "response_text": "\"The state of the house requires your aid.\"",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1103!FLORA!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1103!FLORA!"
         },
         "B": {
           "response_text": "\"I have no need of servants. You may stay if that is your wish.\"",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1104!FLORA!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1104!FLORA!"
         },
         "C": {
           "response_text": "\"Perhaps it is best that you leave.\"",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1105!FLORA!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1105!FLORA!"
         }
       }
     },
@@ -402,17 +402,17 @@
         "A": {
           "response_text": "I walked to the library to replace it.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1107-2!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1107-2!DESCRIPTION!"
         },
         "B": {
           "response_text": "I attempted to read the book.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1108-2!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1108-2!DESCRIPTION!"
         },
         "C": {
           "response_text": "I sat down in a nearby chair and gazed at the art.",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1109-2!DESCRIPTION!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1109-2!DESCRIPTION!"
         }
       }
     },
@@ -564,7 +564,7 @@
         "A": {
           "response_text": "\"If that is your wish.\"",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1117!FLORA!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1117!FLORA!"
         },
         "B": {
           "response_text": "\"Why?\"",
@@ -594,7 +594,7 @@
         "A": {
           "response_text": "\"You know best, of course.\"",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1117!FLORA!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1117!FLORA!"
         },
         "B": {
           "response_text": "\"And you think the book is to blame.\"",
@@ -614,7 +614,7 @@
         "A": {
           "response_text": "\"The past will hold no sway over us. Do as you will my friend.\"",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1117!FLORA!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1117!FLORA!"
         },
         "B": {
           "response_text": "\"It seems the book already has a power over you.\"",
@@ -634,7 +634,7 @@
         "A": {
           "response_text": "\"The past will hold no sway over us. Do as you will my friend.\"",
           "points": 0,
-          "dest_add": "JER!HOMECOMING!THE FOYER!99910.X1117!FLORA!"
+          "dest_add": "JER!HOMECOMING!THE FOYER!9990.X1117!FLORA!"
         },
         "B": {
           "response_text": "\"It seems the book already has a power over you.\"",
@@ -720,59 +720,59 @@
     }
   },
   "events": {
-    "JER!HOMECOMING!THE FOYER!99910.X1100!DESCRIPTION!": {
+    "JER!HOMECOMING!THE FOYER!9990.X1100!DESCRIPTION!": {
       "event_num": 1100,
       "dest_add": "JER!HOMECOMING!THE FOYER!120.010!DESCRIPTION!"
     },
-    "JER!HOMECOMING!THE FOYER!99910.X1101!DESCRIPTION!": {
+    "JER!HOMECOMING!THE FOYER!9990.X1101!DESCRIPTION!": {
       "event_num": 1101,
       "dest_add": "JER!HOMECOMING!THE FOYER!120.020!DESCRIPTION!"
     },
-    "JER!HOMECOMING!THE FOYER!99910.X1102!DESCRIPTION!": {
+    "JER!HOMECOMING!THE FOYER!9990.X1102!DESCRIPTION!": {
       "event_num": 1102,
       "dest_add": "JER!HOMECOMING!THE FOYER!120.030!DESCRIPTION!"
     },
-    "JER!HOMECOMING!THE FOYER!99910.X1103!FLORA!": {
+    "JER!HOMECOMING!THE FOYER!9990.X1103!FLORA!": {
       "event_num": 1103,
       "dest_add": "JER!HOMECOMING!THE FOYER!120.X1103!FLORA!"
     },
-    "JER!HOMECOMING!THE FOYER!99910.X1104!FLORA!": {
+    "JER!HOMECOMING!THE FOYER!9990.X1104!FLORA!": {
       "event_num": 1104,
       "dest_add": "JER!HOMECOMING!THE FOYER!120.X1104!FLORA!"
     },
-    "JER!HOMECOMING!THE FOYER!99910.X1105!FLORA!": {
+    "JER!HOMECOMING!THE FOYER!9990.X1105!FLORA!": {
       "event_num": 1105,
       "dest_add": "JER!HOMECOMING!THE FOYER!120.X1105!FLORA!"
     },
-    "JER!HOMECOMING!THE FOYER!99910.X1106!DESCRIPTION!": {
+    "JER!HOMECOMING!THE FOYER!9990.X1106!DESCRIPTION!": {
       "event_num": 1106,
       "dest_add": "JER!HOMECOMING!THE FOYER!120.031!DESCRIPTION!"
     },
-    "JER!HOMECOMING!THE FOYER!99910.X1107-1!DESCRIPTION!": {
+    "JER!HOMECOMING!THE FOYER!9990.X1107-1!DESCRIPTION!": {
       "event_num": 1107,
       "dest_add": "JER!HOMECOMING!THE FOYER!120.013!DESCRIPTION!"
     },
-    "JER!HOMECOMING!THE FOYER!99910.X1108-1!DESCRIPTION!": {
+    "JER!HOMECOMING!THE FOYER!9990.X1108-1!DESCRIPTION!": {
       "event_num": 1108,
       "dest_add": "JER!HOMECOMING!THE FOYER!120.023!DESCRIPTION!"
     },
-    "JER!HOMECOMING!THE FOYER!99910.X1109-1!DESCRIPTION!": {
+    "JER!HOMECOMING!THE FOYER!9990.X1109-1!DESCRIPTION!": {
       "event_num": 1109,
       "dest_add": "JER!HOMECOMING!THE FOYER!120.033!DESCRIPTION!"
     },
-    "JER!HOMECOMING!THE FOYER!99910.X1107-2!DESCRIPTION!": {
+    "JER!HOMECOMING!THE FOYER!9990.X1107-2!DESCRIPTION!": {
       "event_num": 1107,
       "dest_add": "JER!HOMECOMING!THE FOYER!121.011!DESCRIPTION!"
     },
-    "JER!HOMECOMING!THE FOYER!99910.X1108-2!DESCRIPTION!": {
+    "JER!HOMECOMING!THE FOYER!9990.X1108-2!DESCRIPTION!": {
       "event_num": 1108,
       "dest_add": "JER!HOMECOMING!THE FOYER!121.011!DESCRIPTION!"
     },
-    "JER!HOMECOMING!THE FOYER!99910.X1109-2!DESCRIPTION!": {
+    "JER!HOMECOMING!THE FOYER!9990.X1109-2!DESCRIPTION!": {
       "event_num": 1109,
       "dest_add": "JER!HOMECOMING!THE FOYER!121.011!DESCRIPTION!"
     },
-    "JER!HOMECOMING!THE FOYER!99910.X1117!FLORA!": {
+    "JER!HOMECOMING!THE FOYER!9990.X1117!FLORA!": {
       "event_num": 1117,
       "dest_add": "JER!HOMECOMING!THE FOYER!121.100!FLORA!"
     }

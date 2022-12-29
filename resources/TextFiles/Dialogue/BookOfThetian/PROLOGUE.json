@@ -1,7 +1,7 @@
 {
   "dialogue": {
     "JER!PROLOGUE!THE WESTERN ROAD!0.000!DESCRIPTION!": {
-      "dialogue_text": "The swirl of mist. The smell of salt. The sound of crows overhead and gulls in the distance. The damp cold that crept into my bones as my garments wicked the moisture from the air all around. These were the familiar heralds of my approach to Valonheim. Sensations I had not experienced since I departing all those years ago, save for in my dreams. Ever did the waves of the sea lap upon the shores of my memory in both sleep and waking.\n\t\t\n\t\tI came to a fork in the road. The path I now followed went straight into town. The other, was a rarely used bypass I had used in my youth. More of a game trail than a proper road.",
+      "dialogue_text": "The swirl of mist. The smell of salt. The sound of crows overhead and gulls in the distance. The damp cold that crept into my bones as my garments wicked the moisture from the air all around. These were the familiar heralds of my approach to Valonheim. Sensations I had not experienced since departing all those years ago, save for in my dreams. Ever did the waves of the sea lap upon the shores of my memory in both sleep and waking.\n\t\t\n\t\tI came to a fork in the road. The path I now followed went straight into town. The other, was a rarely used bypass I had used in my youth. More of a game trail than a proper road.",
       "responses": {
         "A": {
           "response_text": "Keep to the main road.",

@@ -284,6 +284,10 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 	private String setTriggeredEvent(JsonObject eventBlock) {
 		int eventNum = eventBlock.get(Constants.EVENTS_EVENT_NUMBER).getAsInt();
 		gameDataManager.setTriggeredEvent(eventNum, true);
+		if (gameDataManager.isTriggeredEventPersistent(eventNum)) {
+
+    }
+
 		return eventBlock.get(Constants.EVENTS_DESTINATION_ADDRESS).getAsString();
 	}
 
@@ -328,8 +332,7 @@ public class ConscientiaDialogueProcessor implements IDialogueProcessor {
 		// get all acquirables player has collected
 		HashSet<Integer> volatileAcqs =
 			(HashSet<Integer>) gameDataManager.getPlayerValue(Constants.PLAYER_VOLATILE_ACQ).getValue();
-		HashSet<Integer> persistentAcqs =
-			(HashSet<Integer>) gameDataManager.getUniValue(Constants.UNI_PERSISTENT_ACQ);
+		HashSet<Integer> persistentAcqs =	(HashSet<Integer>) gameDataManager.getUniValue(Constants.UNI_PERSISTENT_ACQ);
 		HashSet<Integer> acqs = new HashSet<>();
 		acqs.addAll(volatileAcqs);
 		acqs.addAll(persistentAcqs);

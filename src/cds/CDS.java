@@ -43,6 +43,12 @@ public class CDS {
 	public void update() {
 		switch (this.gameState) {
 			case Constants.LOADING_DIALOGUE:
+        // handle game endings
+        if (nextAddress.contains("END GAME")) {
+          gameState = Constants.END_GAME;
+          break;
+        }
+
 				// handle events before getting dialogue
 				String address = configManager.getDialogueProcessor().preprocessNewAddress(nextAddress);
 
@@ -70,8 +76,11 @@ public class CDS {
 			case Constants.WAITING_FOR_INPUT:
 				int responseInd = configManager.getInputHandler().selectResponse();
 
+        // if not an int, then end the game
+        if (responseInd == -1) { gameState = Constants.END_GAME; break; }
+      
 				// ensure valid input
-				if (responseInd >= 0 && responseInd < currentDialogue.getResponses().size()) {
+				if (responseInd < currentDialogue.getResponses().size()) {
 					configManager
 						.getRenderer()
 						.show("CHOSEN RESPONSE: " + currentDialogue.getResponses().get(responseInd).getText());
@@ -100,8 +109,12 @@ public class CDS {
 				boolean changeState = configManager.getInputHandler().finishCombat();
 				if (changeState) gameState = Constants.LOADING_DIALOGUE;
 				break;
+      case Constants.END_GAME:
+        gameLoopActive = false;
+        gameDataManager.saveCurrentState();
+        break;
 			default:
-				// TODO: end game clean up
+        System.err.println("An Unexpected Error Has Occurred.");
 				gameLoopActive = false;
 				break;
 			}

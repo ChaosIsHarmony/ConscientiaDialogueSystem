@@ -28,5 +28,6 @@ public interface IGameData {
 
 	void setTriggeredEvent(int eventNum, boolean value);
 	Boolean getTriggeredEvent(int eventNum);
+	Boolean isTriggeredEventPersistent(int eventNum);
 
 }

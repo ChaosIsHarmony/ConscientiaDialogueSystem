@@ -128,13 +128,8 @@ public class ConscientiaGameData implements IGameData {
 
 		Integer nSaveFiles = saveData.get(Constants.UNI_N_SAVE_FILES).getAsInt();
 
-		HashSet<Integer> persistentAcquirables = new HashSet<>();
-		for (JsonElement acq : saveData.get(Constants.UNI_PERSISTENT_ACQ).getAsJsonArray())
-			persistentAcquirables.add(acq.getAsInt());
-
-		HashSet<Integer> persistentEvents = new HashSet<>();
-		for (JsonElement event : saveData.get(Constants.UNI_PERSISTENT_EVENTS).getAsJsonArray())
-			persistentEvents.add(event.getAsInt());
+    HashSet<Integer> persistentAcquirables = createHashSetFromJsonObject(saveData, Constants.UNI_PERSISTENT_ACQ);
+    HashSet<Integer> persistentEvents = createHashSetFromJsonObject(saveData, Constants.UNI_PERSISTENT_EVENTS);
 
 		this.uniSaveData.put(Constants.UNI_N_SAVE_FILES, nSaveFiles);
 		this.uniSaveData.put(Constants.UNI_PERSISTENT_ACQ, persistentAcquirables);
@@ -171,6 +166,7 @@ public class ConscientiaGameData implements IGameData {
 
 	private void loadTriggeredEvents(JsonObject saveData) {
 		this.triggeredEvents = new HashMap<>();
+    HashSet<Integer> persistentEvents = (HashSet<Integer>) this.uniSaveData.get(Constants.UNI_PERSISTENT_EVENTS);
 
 		for (JsonElement event : (JsonArray) saveData.get(Constants.PLAYER_TRIGGERED_EVENTS)) {
 			JsonObject eventsJson = event.getAsJsonObject();
@@ -178,11 +174,14 @@ public class ConscientiaGameData implements IGameData {
 			String[] keys = new String[eventsJson.keySet().size()];
 			eventsJson.keySet().toArray(keys);
 
-			for (String event_num : keys) {
-				JsonObject eventContentJson = (JsonObject) eventsJson.get(event_num);
-				Boolean event_val = eventContentJson.get(Constants.TAG_VALUE).getAsBoolean();
-
-				this.triggeredEvents.put(event_num, new TriggeredEvent(event_val));
+			for (String eventNum : keys) {
+				JsonObject eventContentJson = (JsonObject) eventsJson.get(eventNum);
+				Boolean eventIsPersistent = eventContentJson.get(Constants.TAG_IS_PERSISTENT).getAsBoolean();
+				Boolean eventVal = eventContentJson.get(Constants.TAG_VALUE).getAsBoolean();
+        if (persistentEvents.contains(Integer.parseInt(eventNum)))
+          eventVal = true;
+        
+				this.triggeredEvents.put(eventNum, new TriggeredEvent(eventVal, eventIsPersistent));
 			}
 		}
 	}
@@ -278,7 +277,19 @@ public class ConscientiaGameData implements IGameData {
 	}
 
 	public void setUniValue(String varName, Object varValue) {
-		uniSaveData.put(varName, varValue);
+    System.out.println(varName);
+    System.out.println(varValue);
+    switch (varName) {
+      case Constants.UNI_N_SAVE_FILES:
+        uniSaveData.put(varName, varValue);
+        return;
+      case Constants.UNI_PERSISTENT_EVENTS:
+        ((HashSet<Integer>) this.uniSaveData.get(Constants.UNI_PERSISTENT_EVENTS)).add((Integer) varValue);
+        return;
+      case Constants.UNI_PERSISTENT_ACQ:
+        ((HashSet<Integer>) this.uniSaveData.get(Constants.UNI_PERSISTENT_ACQ)).add((Integer) varValue);
+        return;
+    }
 	}
 	public Object getUniValue(String varName) { return uniSaveData.get(varName); }
 
@@ -300,10 +311,18 @@ public class ConscientiaGameData implements IGameData {
 	// event numbers are parsed as Strings because they are json keys,
 	// but when stored as part of dialogue actions, they are ints
 	public void setTriggeredEvent(int eventNum, boolean value) {
-		triggeredEvents.put(""+eventNum, new TriggeredEvent(value));
+    TriggeredEvent event = triggeredEvents.get(""+eventNum);
+    event.value = value;
+		triggeredEvents.put(""+eventNum, event);
+    // if it's persistent, then add it to list of persistent variables
+    if (event.isPersistent) setUniValue(Constants.UNI_PERSISTENT_EVENTS, eventNum); 
 	}
 	public Boolean getTriggeredEvent(int eventNum) {
-		return triggeredEvents.get(""+eventNum).value; }
+		return triggeredEvents.get(""+eventNum).value; 
+  }
+  public Boolean isTriggeredEventPersistent(int eventNum) {
+		return triggeredEvents.get(""+eventNum).isPersistent; 
+  }
 
 	/*
 	 * ----------------------
@@ -312,9 +331,11 @@ public class ConscientiaGameData implements IGameData {
 	 */
 	private class TriggeredEvent {
 		public Boolean value;
+    public Boolean isPersistent;
 
-		public TriggeredEvent(Boolean value) {
+		public TriggeredEvent(Boolean value, Boolean isPersistent) {
 			this.value = value;
+      this.isPersistent = isPersistent;
 		}
 	}
 
@@ -379,4 +400,14 @@ public class ConscientiaGameData implements IGameData {
 					+ e.getMessage());
 		}
 	}
+
+  private HashSet<Integer> createHashSetFromJsonObject(JsonObject data, String varName) {
+    HashSet<Integer> hashSet = new HashSet<>();
+		for (JsonElement elem : data.get(varName).getAsJsonArray())
+			hashSet.add(elem.getAsInt());
+
+    return hashSet;
+  }
+
+
 }

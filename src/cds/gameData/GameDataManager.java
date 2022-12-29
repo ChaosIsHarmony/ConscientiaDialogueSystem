@@ -52,5 +52,6 @@ public class GameDataManager {
 		gameData.setTriggeredEvent(eventNum, value);
 	}
 	public Boolean getTriggeredEvent(int eventNum) { return gameData.getTriggeredEvent(eventNum); }
+	public Boolean isTriggeredEventPersistent(int eventNum) { return gameData.isTriggeredEventPersistent(eventNum); }
 
 }

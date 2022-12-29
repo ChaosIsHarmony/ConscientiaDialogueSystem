@@ -44,7 +44,7 @@
       "dialogue_text": "NOTE: Check to see if they have seen this place in the Book of Eidos!!!\n\nTHIS is Rikos' first time in the Chamber. He finds a place to put his father and then sees a curious item, a Sigil. Wulfias' Sigil. It says below it that it the true sign of a Dazilan mage, with it, the Wellspring's secrets are his. He had heard of it before from his father, though he had also heard that no mage in history had ever figured out what it was for since there were no Silver Thrones to be found. The Sigil was found there and never removed from its place - yet for some reason Rikos moves it.\n\n        THERE is also a passageway he can walk through to the Chantry of the Martyr, Refectory of the Valvorthr, and Hall of Atonement (with different names, obviously). They contain forgotten tomes and maybe something else.\n\n\t\tCAN go check out the Cage now, or go down through the Chantry, Refectory, Hall path (TODO)",
       "responses": {
         "A": {
-          "response_text": "To the Chantry!",
+          "response_text": "To the Chantry! (Currently broken)",
           "points": 0,
           "dest_add": "KAVU!CISTERN!TEMPLE!10.000!DESCRIPTION!"
         }

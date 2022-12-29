@@ -77,6 +77,7 @@ public class Constants {
 	public static final String TAG_DEFAULT = "default";
 	public static final String TAG_DESCRIPTION = "description";
 	public static final String TAG_VALUE = "value";
+	public static final String TAG_IS_PERSISTENT = "is_persistent";
 
 	public static final String UNI_N_SAVE_FILES = "n_save_files";
 	public static final String UNI_PERSISTENT_ACQ = "persistent_acquirables";
@@ -113,6 +114,7 @@ public class Constants {
 	public static final int WAITING_FOR_INPUT = 1;
 	public static final int LOADING_COMBAT = 2;
 	public static final int WAITING_FOR_INPUT_COMBAT = 3;
+	public static final int END_GAME = 4;
 
 	// DISPLAY
 	public static final int MAX_VISIBLE_RESPONSES = 3;
